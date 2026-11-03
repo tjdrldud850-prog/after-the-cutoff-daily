@@ -1,0 +1,3591 @@
+{
+ "date": "2026-10-26",
+ "timezone": "Asia/Seoul",
+ "exported_at": "2026-11-03T23:50:31+00:00",
+ "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
+ "counts": {
+  "updates": 102,
+  "new_planets": 23,
+  "bulk_added": 0
+ },
+ "updates": [
+  {
+   "id": "e5e2d859-1523-400a-ae2f-9be6c187444b",
+   "title": "2026 서울문화원 엑스포",
+   "type": "행사",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시"
+    }
+   ],
+   "summary": "광화문광장, 25개 자치구 문화원의 국악 · 무용 · 풍물 공연과 전시 · 체험, 민속놀이마당. 무료",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "광화문광장",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261024024400004",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "58bee5b8-aaff-407e-a433-aa6b15dd44d5",
+   "title": "2026 오송화장품뷰티엑스포 폐막",
+   "type": "행사",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "09717372-08d9-4d15-bd31-70f274f85ce1",
+     "category": "장소",
+     "name": "청주시"
+    }
+   ],
+   "summary": "10-22~24 청주오스코(OSCO), 1만7천여 명 방문 · 수출계약 9,695만 달러 · 해외기업 4배",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "청주오스코",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261025029700064",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "87041a6c-b4d4-47c9-9c1e-cf75db747050",
+   "title": "KT 「2026 보야지 페스티벌」",
+   "type": "축제",
+   "date": "2026-10-25",
+   "parent": [
+    {
+     "id": "ff7b9a58-02b6-43db-99b4-2bfa999b1017",
+     "category": "장소",
+     "name": "성남시"
+    }
+   ],
+   "summary": "분당중앙공원, KT 고객 문화축제 10회째. god · 크러쉬 · 로이킴 · 헤이즈 · HYNN(박혜원) · 컨파인드화이트 · 앨리스신드롬 출연",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "분당중앙공원",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "케이티",
+     "id": "6a3284ef-4740-4d1c-b65f-8f27ffd59584"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261025019700017",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "c616b86e-71a9-4713-84a2-333b16a0c2f3",
+   "title": "「김창수 위스키 마리골드 52.2도」 268병 한정 출시",
+   "type": "뉴스",
+   "date": "2026-10-29",
+   "parent": [
+    {
+     "id": "bcb1c11e-9cfe-4d77-be12-34e14a015c4e",
+     "category": "단체",
+     "name": "김창수위스키"
+    }
+   ],
+   "summary": "롯데마트와 만든 「계절꽃 시리즈」 둘째 제품으로, 생강·바닐라 풍미의 위스키",
+   "why": null,
+   "how": "10-26 보틀벙커 VIP 18병 우선 예약, 10-29부터 보틀벙커 앱에서 판매. 7월 첫 제품 「연꽃 50도」 288병은 5분 만에 다 팔림",
+   "content": "롯데마트와 만든 「계절꽃 시리즈」 둘째 제품(생강 · 바닐라 풍미). 10-26 보틀벙커 VIP 18병 우선 예약, 10-29부터 보틀벙커 앱에서 판매. 7월 첫 제품 「연꽃 50도」 288병은 5분 만에 다 팔렸다",
+   "places": [],
+   "featuring": [
+    {
+     "name": "롯데그룹",
+     "id": "f8df21ea-fe67-4cbf-909e-a7e2996ec4a2"
+    },
+    {
+     "name": "롯데마트",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023148500030",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "c784be01-ba5c-4727-b808-806ad096df47",
+   "title": "감귤박물관 「2026 감귤따기체험」",
+   "type": "행사",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "1e048f0b-187e-4d9c-a5e8-3cf8ab483d15",
+     "category": "장소",
+     "name": "서귀포시"
+    }
+   ],
+   "summary": "10-27~12-23 감귤박물관 안 감귤 과원 2곳, 1인당 5천원. 직접 딴 감귤 약 1kg을 담아 간다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "서귀포시 감귤박물관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023113800056",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "68180196-bb17-40b7-b9fb-f6d6b40b35f6",
+   "title": "격렬비열도 특별 콘서트",
+   "type": "콘서트",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "3707f6cc-83b7-4e2c-8f55-2510a7c3717b",
+     "category": "인물",
+     "name": "김장훈"
+    }
+   ],
+   "summary": "10-26 정오 충남 태안 북격렬비도 등대 근처에서 밴드 「한국사람」과 관객 없이 공연, 김장훈 공식 유튜브 · 충남TV 생중계. 격렬비열도 첫 대중음악 공연",
+   "why": null,
+   "how": null,
+   "content": "독도의 날(10-25) 기념 · 「서해의 독도」 격렬비열도의 해양 영토 가치 알리기",
+   "places": [
+    {
+     "name": "북격렬비도",
+     "id": null
+    },
+    {
+     "name": "충청남도",
+     "id": "a39c4652-bafb-44b7-9e38-2c90b4ef88a7"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261025027800063",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "d95d7a2a-6c6c-4d06-b883-134b5672f0e7",
+   "title": "고물가 · 투자 부족 항의 시위 41만 명",
+   "type": "뉴스",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "8fd447de-086d-4ad9-b287-af85b002c7c9",
+     "category": "국가",
+     "name": "France"
+    }
+   ],
+   "summary": "시위 제한령에도 파리 11만 명 등 41만 명(내무부, 주최 측 80만), 경찰 7만 명 투입 · 1천 명 가까이 체포",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261024052552085",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "4e97eeb0-2911-4b57-a308-387c4f602a90",
+   "title": "고물가 항의 시위 확산 — 일부 콜로세움 진입",
+   "type": "뉴스",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "859580fa-b6a4-437a-8eb4-653b6d4ab66b",
+     "category": "국가",
+     "name": "Italy"
+    }
+   ],
+   "summary": "로마 시위대 일부가 콜로세움에 들어가고 경찰과 충돌(물대포 · 최루탄). 밀라노는 대학생 등 약 1만 명, 공수여단 등 군경 배치",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261025000251109",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "7d4df697-4ef3-4f65-84d2-788c48a47731",
+   "title": "국립남도국악원 「해설이 있는 풍류음악회」",
+   "type": "행사",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "5d44f141-5b22-43b3-8b28-78c26679b230",
+     "category": "장소",
+     "name": "진도군"
+    }
+   ],
+   "summary": "옥주골창작소, 민담 · 전설을 판소리로(해설 최원오 광주교대 교수, 「전설따라 삼천리」). 최용석 · 신정혜 명창 「범 내려온다」",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "옥주골창작소",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023126600054",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "e995140b-37f7-4528-a993-8290e60b6cb8",
+   "title": "국민연합 바르델라 대표 재선 · 르펜 대선 출마 선언",
+   "type": "뉴스",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "8fd447de-086d-4ad9-b287-af85b002c7c9",
+     "category": "국가",
+     "name": "France"
+    }
+   ],
+   "summary": "10-24 오를레앙 전당대회에서 조르당 바르델라가 단독 출마로 98.98% 재선. 10-25 마린 르펜이 2027 대선 출마를 선언",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261025001200085",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "51d703da-48b4-46fc-88f2-20a338322c7f",
+   "title": "남부시장 야외 방탈출 「누나를 찾아주세요」",
+   "type": "행사",
+   "date": "2026-11-13",
+   "parent": [
+    {
+     "id": "652f61b7-7013-436c-adda-7b76f78fab66",
+     "category": "장소",
+     "name": "전주시"
+    }
+   ],
+   "summary": "11-13 · 14 · 27 · 28 남부시장, 청년 브랜드 살랑(SALLANG)의 퀘스트북. 단서를 모아 1919 만세운동을 되짚는다. 완주 선착순 100명 먹거리 교환권",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "남부시장",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261025027400055",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "351f5e7c-bf23-4ef3-971b-a067719cdb8c",
+   "title": "대통령 결선투표 — 룰라 4선",
+   "type": "뉴스",
+   "date": "2026-10-25",
+   "parent": [
+    {
+     "id": "375d6f29-1bb3-44e6-ad7c-d17a731b60c2",
+     "category": "국가",
+     "name": "Brazil"
+    }
+   ],
+   "summary": "룰라 다시우바 대통령(81)이 플라비우 보우소나루를 51.77% 대 48.23%로 이겨 브라질 첫 4선을 이룸",
+   "why": null,
+   "how": "개표 99.93%, 약 440만 표 차. 1차 투표 2위가 결선에서 뒤집은 1989년 민주화 뒤 첫 사례. 악천후 등으로 투표 시간 2시간 연장, 보우소나루는 결과 불복",
+   "content": "룰라 다시우바 대통령(81)이 플라비우 보우소나루 상원의원을 51.77% 대 48.23%(개표 99.93%, 약 440만 표 차)로 이겨 브라질 첫 4선. 1차 투표 2위가 결선에서 뒤집은 1989년 민주화 뒤 첫 사례. 악천후 등으로 투표 시간 2시간 연장, 보우소나루는 결과 불복",
+   "places": [],
+   "featuring": [
+    {
+     "name": "룰라 다시우바",
+     "id": null
+    },
+    {
+     "name": "플라비우 보우소나루",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261026034051087",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "5c531f3f-98b5-40d4-8dc8-31ffb0abb64f",
+   "title": "롯데월드몰 「라이엇 게임즈 뮤직 앤 월즈 2026」 팝업",
+   "type": "행사",
+   "date": "2026-10-25",
+   "parent": [
+    {
+     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7",
+     "category": "장소",
+     "name": "송파구"
+    }
+   ],
+   "summary": "롯데월드몰 1층 아트리움에서 11-01까지 리그 오브 레전드 굿즈 170여 종을 파는 팝업을 엶",
+   "why": null,
+   "how": "선출시 굿즈 18종, 우정사업본부 「페이커」 이상혁 기념우표, 8m 트로피 포토존, LCK 4팀 응원 공간",
+   "content": "11-01까지 롯데월드몰 1층 아트리움, 리그 오브 레전드 굿즈 170여 종(선출시 18종) · 우정사업본부 「페이커」 이상혁 기념우표 · 8m 트로피 포토존 · LCK 4팀 응원 공간",
+   "places": [
+    {
+     "name": "롯데월드몰",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "롯데그룹",
+     "id": "f8df21ea-fe67-4cbf-909e-a7e2996ec4a2"
+    },
+    {
+     "name": "라이엇 게임즈",
+     "id": null
+    },
+    {
+     "name": "우정사업본부",
+     "id": null
+    },
+    {
+     "name": "이상혁",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023147400030",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "75b0e359-ecba-42d0-9153-6aef870f0b3c",
+   "title": "빈 필하모닉 협연 — 베토벤 피아노 협주곡 4번",
+   "type": "콘서트",
+   "date": "2026-10-25",
+   "parent": [
+    {
+     "id": "8e4c8754-29e1-4269-9875-db40854b974a",
+     "category": "인물",
+     "name": "조성진"
+    }
+   ],
+   "summary": "서울 예술의전당, 지휘 투간 소키예프. 2부는 브람스 교향곡 2번, 앙코르로 쇼팽 왈츠 2곡을 쳤다. 2024년 내한 때는 3번을 협연",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "예술의전당",
+     "id": null
+    },
+    {
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261025050300005",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "ccab5f7d-ba77-4ca0-b538-3dfa44b4f2e6",
+   "title": "상어 「부캉이」 카카오톡 이모티콘 무료 배포",
+   "type": "뉴스",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d",
+     "category": "장소",
+     "name": "부산광역시"
+    }
+   ],
+   "summary": "부산시 공식 카카오톡 채널을 새로 추가한 선착순 5만 명에게 부캉이 이모티콘 16종을 나눠 줌",
+   "why": null,
+   "how": "10-26 14시부터 「샤플루언서 부캉이 부산왔데이!」 배포. 시 공무원이 직접 만들었고, 부캉이는 북항을 벗어나 부산항 근처에서 관측됨",
+   "content": "10-26 14시부터 부산시 공식 카카오톡 채널을 새로 추가한 선착순 5만 명에게 「샤플루언서 부캉이 부산왔데이!」 16종. 시 공무원이 직접 만들었다. 부캉이는 북항을 벗어나 부산항 근처에서 관측",
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261025008700051",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "e45b538f-da44-4b94-b53f-9d90ee125912",
+   "title": "오가사와라 서쪽 해역 규모 7.0 지진",
+   "type": "뉴스",
+   "date": "2026-10-25",
+   "parent": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan"
+    }
+   ],
+   "summary": "진원 깊이 470km, 쓰나미 우려 없음(일본 기상청, EMSC 는 6.5). 지치시마 · 하하지마 진도 3, 도쿄 지요다구 진도 2",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261025022700073",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "b11bcdef-7a63-4352-929e-310cdba298dd",
+   "title": "워크아웃 졸업 · 대선조선에서 사명 변경",
+   "type": "뉴스",
+   "date": "2026-10-25",
+   "parent": [
+    {
+     "id": "95cde15f-9426-4322-803b-5de49d8bc39f",
+     "category": "단체",
+     "name": "SB대선"
+    }
+   ],
+   "summary": "2023-10 시작한 채권단 공동관리(워크아웃)를 3년 만에 끝내고 SB대선으로 새 출발함",
+   "why": "주채권은행 한국수출입은행이 워크아웃 종결 발표",
+   "how": "주채권은행 한국수출입은행이 종결 발표. 기간 중 수주 선박 18척을 모두 인도하고 영도조선소를 팔아 다대조선소로 합침. 10-21 SB선보가 최대주주가 됨",
+   "content": "2023-10 시작한 채권단 공동관리(워크아웃)를 3년 만에 끝냄. 기간 중 수주 선박 18척을 모두 인도하고 영도조선소를 팔아 다대조선소로 합쳤다. SB선보가 10-21 최대주주가 됨",
+   "places": [
+    {
+     "name": "영도조선소",
+     "id": null
+    },
+    {
+     "name": "다대조선소",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "한국수출입은행",
+     "id": null
+    },
+    {
+     "name": "SB선보",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261024043200002",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "a2be8746-fd1c-480d-aaf2-cbb8353adf77",
+   "title": "잠수교 차량 통행 전면 통제 — 보행전용교로",
+   "type": "뉴스",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시"
+    }
+   ],
+   "summary": "10-26부터 잠수교 차량을 막고 정비해 내년 하반기 서울 첫 한강 보행전용 문화공간으로 연다. 10-25 「차 없는 잠수교 뚜벅뚜벅 축제」 마지막 행사 「치킨데이」",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "잠수교",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261025040700004",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "a03ed518-b8ee-4a15-84e3-1d50b22f7c07",
+   "title": "제3회 전통혼례문화축제",
+   "type": "축제",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "44f806d3-5030-4881-844e-7bd1a07027dc",
+     "category": "장소",
+     "name": "홍천군"
+    }
+   ],
+   "summary": "화촌면 장평1리 청사초롱마을, 두 쌍이 오전 · 오후에 전통 혼례를 올리고 떡메치기 등 체험",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "청사초롱마을",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261025022600062",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "82af36bd-bfe5-4d64-87f2-13ccd7d4eaab",
+   "title": "태풍 「참피」 비바람 피해",
+   "type": "뉴스",
+   "date": "2026-10-25",
+   "parent": [
+    {
+     "id": "7250e6ab-33cc-4cbc-9dbe-7a3d960305d3",
+     "category": "장소",
+     "name": "제주특별자치도"
+    }
+   ],
+   "summary": "제30호 태풍 영향으로 한라산 295mm 폭우, 침수 · 도로 시설물 파손 등 소방 안전조치 8건. 항공 2편 결항 · 40편 지연",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261025005251056",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "32949a99-09bd-4527-a597-eeef01f62404",
+   "title": "한강 드론라이트쇼 「마블 스페셜」",
+   "type": "행사",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "b89a5507-c855-453b-880f-6673bafc6105",
+     "category": "장소",
+     "name": "뚝섬한강공원"
+    }
+   ],
+   "summary": "20:30 드론 2천 대로 아이언맨 등 마블 캐릭터와 명장면, 올해 마지막 한강불빛공연. 지하철 추가 운행 등 혼잡 대책",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261024023200004",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "f8aec77b-8396-44e2-b1e5-d04d88cfa797",
+   "title": "한국 개봉",
+   "type": "개봉·방영",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "a4bc171c-dbfa-42d2-b110-02b96acaac0a",
+     "category": "작품",
+     "name": "Sense and Sensibility (2026 film)"
+    }
+   ],
+   "summary": "제인 오스틴 1811년 소설 원작 시대극, 조지아 오클리 감독. 언니 엘리너(데이지 에드가 존스)와 동생 메리앤(에스메 크리드마일스) 두 자매의 사랑",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023169000005",
+   "source": "뉴스",
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "096451ba-30b6-4631-a8e7-92d3826269ce",
+   "title": "격렬비열도 공연 불발 — 11월 재도전",
+   "type": "뉴스",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "3707f6cc-83b7-4e2c-8f55-2510a7c3717b",
+     "category": "인물",
+     "name": "김장훈"
+    }
+   ],
+   "summary": "10-26 오전 태안 북격렬비도 등대 근처 공연이 높은 파도 등 기상 · 해상 여건으로 입도하지 못해 연기됐다(소속사 FX솔루션). 다음 달 다시 추진, 일정과 방식은 추후 공개",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "북격렬비도",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261026054951005",
+   "source": "뉴스",
+   "added_at": "2026-10-26T06:17:28.127295+00:00"
+  },
+  {
+   "id": "18a236c1-9a70-4790-be60-967839d9eda8",
+   "title": "풍자의 또간집 EP.1 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-04-22",
+   "parent": [
+    {
+     "id": "5392cf5e-1d50-4dd9-8432-3efc5f76a92f",
+     "category": "장소",
+     "name": "뉴오더클럽 NewOrderClub"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.1(2022-04-22) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "뉴오더클럽 NewOrderClub",
+     "id": "5392cf5e-1d50-4dd9-8432-3efc5f76a92f"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=13fi46HgCKw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "25072a53-ff1e-4b46-b83c-2d588b000a1c",
+   "title": "풍자의 또간집 EP.100 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-05-08",
+   "parent": [
+    {
+     "id": "1e6f198d-c0ce-425f-885a-9b194440a686",
+     "category": "장소",
+     "name": "천성삼거리장어구이"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.100(2026-05-08) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "천성삼거리장어구이",
+     "id": "1e6f198d-c0ce-425f-885a-9b194440a686"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=1HExH6cy5BQ",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "c0a0f277-b840-48b8-9d16-100d1a632d6d",
+   "title": "풍자의 또간집 EP.102 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-06-05",
+   "parent": [
+    {
+     "id": "7c762522-9b07-4ac4-a57f-3d128635c965",
+     "category": "장소",
+     "name": "북경탕수육"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.102(2026-06-05) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "북경탕수육",
+     "id": "7c762522-9b07-4ac4-a57f-3d128635c965"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=-vsNkVIRvt0",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "df857e65-563f-4ebf-ab61-e12cd79b3d10",
+   "title": "풍자의 또간집 EP.103 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-06-19",
+   "parent": [
+    {
+     "id": "bc3c6ed2-c2b4-44f0-8ac1-c069effaf894",
+     "category": "장소",
+     "name": "다락가든"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.103(2026-06-19) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "다락가든",
+     "id": "bc3c6ed2-c2b4-44f0-8ac1-c069effaf894"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=9LdSGv5wHec",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "a8c1739f-1a26-4889-978d-f6283455289f",
+   "title": "풍자의 또간집 EP.104 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-07-10",
+   "parent": [
+    {
+     "id": "0497ebd3-315d-4b62-81df-e2e72da41715",
+     "category": "장소",
+     "name": "경림 수산 조개구이"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.104(2026-07-10) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "경림 수산 조개구이",
+     "id": "0497ebd3-315d-4b62-81df-e2e72da41715"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=7vqYRXkPyTQ",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "dcfe4199-310b-481e-a1ea-4fe667af8c75",
+   "title": "풍자의 또간집 EP.105 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-07-24",
+   "parent": [
+    {
+     "id": "f828db3b-e916-4052-8013-f1141aff38c5",
+     "category": "장소",
+     "name": "영월맛집 박가네"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.105(2026-07-24) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "영월맛집 박가네",
+     "id": "f828db3b-e916-4052-8013-f1141aff38c5"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "f3da21ea-be71-4a6e-93a5-e5a80ab78942",
+   "title": "풍자의 또간집 EP.107 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-08-21",
+   "parent": [
+    {
+     "id": "ecf47f6b-7d1f-4587-97c7-20f8df0a92e8",
+     "category": "장소",
+     "name": "주문진 막국수"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.107(2026-08-21) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "주문진 막국수",
+     "id": "ecf47f6b-7d1f-4587-97c7-20f8df0a92e8"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=m9u4_9Uau8g",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "c9200025-15e9-4aa9-a5a9-323eb8cab428",
+   "title": "풍자의 또간집 EP.11 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-09-09",
+   "parent": [
+    {
+     "id": "a9023a6d-ddc8-44fd-872a-9cbda6eebd69",
+     "category": "장소",
+     "name": "토리카미"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.11(2022-09-09) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "토리카미",
+     "id": "a9023a6d-ddc8-44fd-872a-9cbda6eebd69"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=3flBnJ7gfGU",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "fc43f226-2738-4d49-be92-cb18dc8c409a",
+   "title": "풍자의 또간집 EP.111 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "d66c83b2-a287-4cbb-889f-14357e1857a9",
+     "category": "장소",
+     "name": "용수촌"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.111(2026-10-23) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "용수촌",
+     "id": "d66c83b2-a287-4cbb-889f-14357e1857a9"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=Z6cPZiosZEo",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "bb626bd0-d480-4930-ac5f-18756b063ec2",
+   "title": "풍자의 또간집 EP.13 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-10-07",
+   "parent": [
+    {
+     "id": "dd82a929-bef8-45d6-af1a-166e2f85576a",
+     "category": "장소",
+     "name": "카미야"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.13(2022-10-07) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "카미야",
+     "id": "dd82a929-bef8-45d6-af1a-166e2f85576a"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "42496eda-10d1-4e3d-8909-2a5fde62a4ae",
+   "title": "풍자의 또간집 EP.14 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-10-21",
+   "parent": [
+    {
+     "id": "d02d495b-e11f-4623-ac54-656058c83e15",
+     "category": "장소",
+     "name": "섬집"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.14(2022-10-21) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "섬집",
+     "id": "d02d495b-e11f-4623-ac54-656058c83e15"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=j4JL8Ru8ip4",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "c5461d28-8973-4282-b1cb-1d8a20cd9c1b",
+   "title": "풍자의 또간집 EP.15 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-11-11",
+   "parent": [
+    {
+     "id": "c3f69191-904a-4a63-86c9-9f7fc81c0766",
+     "category": "장소",
+     "name": "정철 황소곱창"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.15(2022-11-11) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "정철 황소곱창",
+     "id": "c3f69191-904a-4a63-86c9-9f7fc81c0766"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=kRcxpbN4hCg",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "610c336e-d5b1-410d-a1bc-5fa6b43c551e",
+   "title": "풍자의 또간집 EP.16 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-11-25",
+   "parent": [
+    {
+     "id": "ef100376-d359-4872-9f25-82b6680dbe63",
+     "category": "장소",
+     "name": "더 빛 남"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.16(2022-11-25) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "더 빛 남",
+     "id": "ef100376-d359-4872-9f25-82b6680dbe63"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "f08ef63a-5391-4baa-93e2-698dde077043",
+   "title": "풍자의 또간집 EP.19 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-01-06",
+   "parent": [
+    {
+     "id": "8520a0e8-ddd4-4476-95b4-6009a89508dd",
+     "category": "장소",
+     "name": "25시참숯구이"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.19(2023-01-06) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "25시참숯구이",
+     "id": "8520a0e8-ddd4-4476-95b4-6009a89508dd"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=zrLdC7aYy64",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "f547b1fc-2ef8-40fe-b1f0-96039dbb3a11",
+   "title": "풍자의 또간집 EP.2 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-05-06",
+   "parent": [
+    {
+     "id": "2a02594d-e91d-410d-8bf2-1dccd0ec436d",
+     "category": "장소",
+     "name": "라도집"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.2(2022-05-06) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "라도집",
+     "id": "2a02594d-e91d-410d-8bf2-1dccd0ec436d"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=2FOrZvdv-P8",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "7b8a6481-78b2-415a-b270-8c297578547b",
+   "title": "풍자의 또간집 EP.22 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-02-17",
+   "parent": [
+    {
+     "id": "4000035b-8311-4851-aadf-def4db2ae1d0",
+     "category": "장소",
+     "name": "남동어시장"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.22(2023-02-17) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "남동어시장",
+     "id": "4000035b-8311-4851-aadf-def4db2ae1d0"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=5ruq2d2RYew",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "694a3968-3a90-4e55-825b-703c349147b2",
+   "title": "풍자의 또간집 EP.23 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-03-03",
+   "parent": [
+    {
+     "id": "5438fab7-30bd-4e4e-b642-330c11085a73",
+     "category": "장소",
+     "name": "송정희어머니순두부"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.23(2023-03-03) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "송정희어머니순두부",
+     "id": "5438fab7-30bd-4e4e-b642-330c11085a73"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=RUlVG0A5nqY",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "6f098411-270e-43e3-bf6e-f47acbcdae5c",
+   "title": "풍자의 또간집 EP.30 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-06-09",
+   "parent": [
+    {
+     "id": "19e8538f-e21c-43d8-a3bf-9de4ca9e23d1",
+     "category": "장소",
+     "name": "가양칼국수버섯매운탕"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.30(2023-06-09) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "가양칼국수버섯매운탕",
+     "id": "19e8538f-e21c-43d8-a3bf-9de4ca9e23d1"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=rTtlAiAEPVI",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "3d8e5091-62da-44b7-af9a-46cefe60243c",
+   "title": "풍자의 또간집 EP.32 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-07-21",
+   "parent": [
+    {
+     "id": "4559c5ac-3f44-4ed1-9c26-5384385a4726",
+     "category": "장소",
+     "name": "길거리야"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.32(2023-07-21) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "길거리야",
+     "id": "4559c5ac-3f44-4ed1-9c26-5384385a4726"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=z8_61ZpSAzI",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "9277baad-69f2-407b-b782-a9a154b3367c",
+   "title": "풍자의 또간집 EP.33 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-08-04",
+   "parent": [
+    {
+     "id": "44f74cfd-aa3a-46d7-8e21-6c4acd86d444",
+     "category": "장소",
+     "name": "빼돌린 뒷고기"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.33(2023-08-04) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "빼돌린 뒷고기",
+     "id": "44f74cfd-aa3a-46d7-8e21-6c4acd86d444"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=LwaM731M_Yw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "0f723657-a430-47fc-aefe-6c6cc6a81409",
+   "title": "풍자의 또간집 EP.35 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-09-01",
+   "parent": [
+    {
+     "id": "d4948c2d-f8f4-4ef7-b2f8-33f5d98fea32",
+     "category": "장소",
+     "name": "대흥양꼬치"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.35(2023-09-01) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "대흥양꼬치",
+     "id": "d4948c2d-f8f4-4ef7-b2f8-33f5d98fea32"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=gTgxlFXmZMw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "e1c2253a-83a1-412f-aeee-c27f3192773c",
+   "title": "풍자의 또간집 EP.37 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-10-06",
+   "parent": [
+    {
+     "id": "9de496c6-c9ba-4fa2-9bc9-52336b003257",
+     "category": "장소",
+     "name": "담택"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.37(2023-10-06) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "담택",
+     "id": "9de496c6-c9ba-4fa2-9bc9-52336b003257"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=2b8JtDgSckQ",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "657e5d71-b8c3-49ed-bfce-897177f39649",
+   "title": "풍자의 또간집 EP.39 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-11-03",
+   "parent": [
+    {
+     "id": "6d7b1b5a-a2ea-4197-9215-47f75930af2f",
+     "category": "장소",
+     "name": "소라편의점식당"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.39(2023-11-03) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "소라편의점식당",
+     "id": "6d7b1b5a-a2ea-4197-9215-47f75930af2f"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "5af00dae-7a6f-4265-bacd-c60abdceeeb0",
+   "title": "풍자의 또간집 EP.43 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-12-29",
+   "parent": [
+    {
+     "id": "a7eb86a4-a06d-4d3b-9a33-06d9bafcf973",
+     "category": "장소",
+     "name": "대련집"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.43(2023-12-29) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "대련집",
+     "id": "a7eb86a4-a06d-4d3b-9a33-06d9bafcf973"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "b3de9b10-485e-47ef-a4a4-f4528d886ff0",
+   "title": "풍자의 또간집 EP.44 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-01-12",
+   "parent": [
+    {
+     "id": "eabb5111-08eb-42ad-b7fa-1846c398943f",
+     "category": "장소",
+     "name": "인천식당"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.44(2024-01-12) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "인천식당",
+     "id": "eabb5111-08eb-42ad-b7fa-1846c398943f"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "ce36895a-2c15-49bb-826e-a27ad9637c96",
+   "title": "풍자의 또간집 EP.45 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-01-26",
+   "parent": [
+    {
+     "id": "a586ca0f-13b3-4133-a736-dd44fe42fce9",
+     "category": "장소",
+     "name": "함경면옥"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.45(2024-01-26) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "함경면옥",
+     "id": "a586ca0f-13b3-4133-a736-dd44fe42fce9"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=hJ57nBDvQ4M",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "da06cb92-87e3-4ed9-aa5e-7362d99c7315",
+   "title": "풍자의 또간집 EP.47 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-03-01",
+   "parent": [
+    {
+     "id": "e4a18223-8d34-4681-a727-2e70c34e4bff",
+     "category": "장소",
+     "name": "이씨식당(EC SIC-DDANG)"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.47(2024-03-01) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "이씨식당(EC SIC-DDANG)",
+     "id": "e4a18223-8d34-4681-a727-2e70c34e4bff"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=nOImQVpgYl4",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "9ffd0292-3265-40f0-a411-7687d75a56e1",
+   "title": "풍자의 또간집 EP.48 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-03-15",
+   "parent": [
+    {
+     "id": "d9293677-099b-4a2d-a973-e20a5eea34d7",
+     "category": "장소",
+     "name": "돈까스갤러리"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.48(2024-03-15) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "돈까스갤러리",
+     "id": "d9293677-099b-4a2d-a973-e20a5eea34d7"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "1d2ff96e-8926-490d-b1a6-5eae8bb31925",
+   "title": "풍자의 또간집 EP.5 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-06-17",
+   "parent": [
+    {
+     "id": "4ec12720-0f94-4e03-b901-b9513fe76860",
+     "category": "장소",
+     "name": "유야케"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.5(2022-06-17) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "유야케",
+     "id": "4ec12720-0f94-4e03-b901-b9513fe76860"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=3rsfHNt1Mso",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "9a96d563-6940-4a6e-a196-4d293e37e0dc",
+   "title": "풍자의 또간집 EP.51 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-04-26",
+   "parent": [
+    {
+     "id": "653e482b-30f4-45c8-b537-02f9435b4c5d",
+     "category": "장소",
+     "name": "밀양집"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.51(2024-04-26) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "밀양집",
+     "id": "653e482b-30f4-45c8-b537-02f9435b4c5d"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=qITTdfvaXmY",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "6d7c577c-48bf-4bdf-a8bb-ec887a51ad7d",
+   "title": "풍자의 또간집 EP.54 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-06-07",
+   "parent": [
+    {
+     "id": "abce6adc-47e7-47b0-8334-da7d1c5c4ff5",
+     "category": "장소",
+     "name": "학곡리막국수닭갈비"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.54(2024-06-07) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "학곡리막국수닭갈비",
+     "id": "abce6adc-47e7-47b0-8334-da7d1c5c4ff5"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "d46c2347-ede9-4a5d-9a33-51cdbbd69b42",
+   "title": "풍자의 또간집 EP.56 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-07-05",
+   "parent": [
+    {
+     "id": "795d3b33-f610-4838-8f8a-e5a8cb39c7cb",
+     "category": "장소",
+     "name": "상운메밀촌"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.56(2024-07-05) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "상운메밀촌",
+     "id": "795d3b33-f610-4838-8f8a-e5a8cb39c7cb"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=GMc31xM7I9s",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "3368fe2f-111e-4bea-85c5-5d5ed0bbd474",
+   "title": "풍자의 또간집 EP.57 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-07-19",
+   "parent": [
+    {
+     "id": "9b259c25-3c99-4fd8-98bc-ecae1049e2b7",
+     "category": "장소",
+     "name": "장안횟집"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.57(2024-07-19) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "장안횟집",
+     "id": "9b259c25-3c99-4fd8-98bc-ecae1049e2b7"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=qtURRAFWNyM",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "37178941-b560-45b0-b193-fff39cb87560",
+   "title": "풍자의 또간집 EP.58 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-08-02",
+   "parent": [
+    {
+     "id": "b4aa1a2d-48dc-4f45-9adf-0b9f09bde910",
+     "category": "장소",
+     "name": "돌판하나"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.58(2024-08-02) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "돌판하나",
+     "id": "b4aa1a2d-48dc-4f45-9adf-0b9f09bde910"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "6dba31e4-f4f9-458a-a013-696a22dacadb",
+   "title": "풍자의 또간집 EP.59 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-08-16",
+   "parent": [
+    {
+     "id": "bc431a53-9b48-4db4-9924-6cabafd86272",
+     "category": "장소",
+     "name": "논고을"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.59(2024-08-16) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "논고을",
+     "id": "bc431a53-9b48-4db4-9924-6cabafd86272"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=vr3kD181iP4",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "8d2b3f44-dde7-4b6f-84a9-431e3d5a2a28",
+   "title": "풍자의 또간집 EP.6 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-07-01",
+   "parent": [
+    {
+     "id": "c4fde394-cbb7-4505-9b10-3da52c43cc15",
+     "category": "장소",
+     "name": "오복순대국"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.6(2022-07-01) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "오복순대국",
+     "id": "c4fde394-cbb7-4505-9b10-3da52c43cc15"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=PPpRJPTPAGM",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "745ff185-a10c-4a5e-b073-d361c2635841",
+   "title": "풍자의 또간집 EP.60 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-08-30",
+   "parent": [
+    {
+     "id": "ccee4074-982f-42fe-9997-cd6cad5b379f",
+     "category": "장소",
+     "name": "충남집순대"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.60(2024-08-30) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "충남집순대",
+     "id": "ccee4074-982f-42fe-9997-cd6cad5b379f"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=eAyrgE2KybY",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "e25e8327-a604-491d-90e4-0bfe81ba2d26",
+   "title": "풍자의 또간집 EP.65 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-11-15",
+   "parent": [
+    {
+     "id": "7ed3fad2-8e72-45cf-ac4d-1eab0314ecf3",
+     "category": "장소",
+     "name": "면마루"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.65(2024-11-15) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "면마루",
+     "id": "7ed3fad2-8e72-45cf-ac4d-1eab0314ecf3"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=8PVule0gEwU",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "95b14a0d-0f8b-44c4-b603-a149c1182e57",
+   "title": "풍자의 또간집 EP.67 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-12-13",
+   "parent": [
+    {
+     "id": "03d587e9-8e74-4590-9121-e2c6eda7e596",
+     "category": "장소",
+     "name": "대명관"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.67(2024-12-13) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "대명관",
+     "id": "03d587e9-8e74-4590-9121-e2c6eda7e596"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "42dca24c-a440-4f1d-b742-e06c9e55c74d",
+   "title": "풍자의 또간집 EP.68 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-01-10",
+   "parent": [
+    {
+     "id": "3aed3ac8-3ad9-48cc-9c4a-68109c13934c",
+     "category": "장소",
+     "name": "데메골"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.68(2025-01-10) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "데메골",
+     "id": "3aed3ac8-3ad9-48cc-9c4a-68109c13934c"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "6d09b664-91a9-44bf-bc52-629216a82085",
+   "title": "풍자의 또간집 EP.72 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-03-14",
+   "parent": [
+    {
+     "id": "a544337c-ff44-4349-8a4e-260960aabf7e",
+     "category": "장소",
+     "name": "부산이화양곱창"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.72(2025-03-14) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "부산이화양곱창",
+     "id": "a544337c-ff44-4349-8a4e-260960aabf7e"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "52dff6eb-97a3-4ffa-912c-62c791217081",
+   "title": "풍자의 또간집 EP.73 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-03-28",
+   "parent": [
+    {
+     "id": "a96c4cd9-a231-4d82-8d86-22e840af510d",
+     "category": "장소",
+     "name": "아구훈감"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.73(2025-03-28) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "아구훈감",
+     "id": "a96c4cd9-a231-4d82-8d86-22e840af510d"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=ht3IOMoeRTw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "f0d3c2d5-e37c-4736-ac54-800245e85e24",
+   "title": "풍자의 또간집 EP.76 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-05-09",
+   "parent": [
+    {
+     "id": "a613f8b4-6ba7-4d04-86df-97535bcce602",
+     "category": "장소",
+     "name": "성원농장"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.76(2025-05-09) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "성원농장",
+     "id": "a613f8b4-6ba7-4d04-86df-97535bcce602"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=ge_a5GJSya0",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "2d4c9523-ad21-4e09-9bd4-0a8da23d6819",
+   "title": "풍자의 또간집 EP.81 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-07-25",
+   "parent": [
+    {
+     "id": "3762c285-d43e-49d8-9b30-059b17044061",
+     "category": "장소",
+     "name": "푸차이로오"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.81(2025-07-25) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "푸차이로오",
+     "id": "3762c285-d43e-49d8-9b30-059b17044061"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=mtscrkJ6ptM",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "8ef33e60-b5b5-4664-83d9-15cf4e6bd203",
+   "title": "풍자의 또간집 EP.83 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-08-22",
+   "parent": [
+    {
+     "id": "b847cc98-a8bb-4777-b180-2d137453333c",
+     "category": "장소",
+     "name": "풀뿌리 흑두부"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.83(2025-08-22) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "풀뿌리 흑두부",
+     "id": "b847cc98-a8bb-4777-b180-2d137453333c"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=V-NzxlwdBPk",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "3eb86ea3-c912-4ee4-90e7-614e1ecdffa3",
+   "title": "풍자의 또간집 EP.84 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-09-05",
+   "parent": [
+    {
+     "id": "3781e860-32bb-4d1c-bd18-43453365dd88",
+     "category": "장소",
+     "name": "명문제과"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.84(2025-09-05) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "명문제과",
+     "id": "3781e860-32bb-4d1c-bd18-43453365dd88"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "f6dea7cb-8aab-4b28-9d04-21d5de4cf717",
+   "title": "풍자의 또간집 EP.86 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-10-10",
+   "parent": [
+    {
+     "id": "626c89b3-6205-44a0-9c4a-b953698d4867",
+     "category": "장소",
+     "name": "막내네회집"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.86(2025-10-10) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "막내네회집",
+     "id": "626c89b3-6205-44a0-9c4a-b953698d4867"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=xGzUPV1lqNw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "7ccfdd1e-36fe-4e6b-b724-7803024f2bc6",
+   "title": "풍자의 또간집 EP.88 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-11-07",
+   "parent": [
+    {
+     "id": "70fea2d9-fd02-4fde-9b61-2e0ea84bab05",
+     "category": "장소",
+     "name": "오리촌"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.88(2025-11-07) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "오리촌",
+     "id": "70fea2d9-fd02-4fde-9b61-2e0ea84bab05"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=qqNFLhkYh04",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "7a68a2a5-10e6-48d1-8ce0-aeda8fe6c79a",
+   "title": "풍자의 또간집 EP.89 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-11-21",
+   "parent": [
+    {
+     "id": "f348879a-9eb5-468c-b277-3ac8839b0fd0",
+     "category": "장소",
+     "name": "뚱이네식당(포차)"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.89(2025-11-21) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "뚱이네식당(포차)",
+     "id": "f348879a-9eb5-468c-b277-3ac8839b0fd0"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=rqmIz5TAhwY",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "2561aef4-ef99-480d-b12a-22e2bfc196ec",
+   "title": "풍자의 또간집 EP.91 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-12-19",
+   "parent": [
+    {
+     "id": "02295e93-e529-4bfc-a118-bc7af448e234",
+     "category": "장소",
+     "name": "정각"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.91(2025-12-19) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "정각",
+     "id": "02295e93-e529-4bfc-a118-bc7af448e234"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=fvD36nHVbhs",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "548379d3-1fc4-494f-84a7-c97995f8e233",
+   "title": "풍자의 또간집 EP.95 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-02-27",
+   "parent": [
+    {
+     "id": "8d9bb22c-6cd4-4739-ba1b-7418a397bde7",
+     "category": "장소",
+     "name": "동송칡냉면"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.95(2026-02-27) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "동송칡냉면",
+     "id": "8d9bb22c-6cd4-4739-ba1b-7418a397bde7"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=2WLWFZ81k6E",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "a6ed4c1b-f292-4d34-94f0-8191a449648c",
+   "title": "풍자의 또간집 EP.99 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-04-24",
+   "parent": [
+    {
+     "id": "b1b8328f-d169-4a09-b208-a5c3102dac99",
+     "category": "장소",
+     "name": "갓포이찌"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.99(2026-04-24) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "갓포이찌",
+     "id": "b1b8328f-d169-4a09-b208-a5c3102dac99"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=Ppt-Dr0QT_o",
+   "source": "방송",
+   "added_at": "2026-10-26T14:00:47.795906+00:00"
+  },
+  {
+   "id": "347f5c96-f3b6-4e73-b16d-5d262db841df",
+   "title": "풍자의 또간집 EP.109 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-09-18",
+   "parent": [
+    {
+     "id": "1a81403a-2da2-4726-bb67-67e4328a345f",
+     "category": "장소",
+     "name": "밀향기"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.109(2026-09-18) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "밀향기",
+     "id": "1a81403a-2da2-4726-bb67-67e4328a345f"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=mVOW2N97Usk",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "018f0208-06ae-408d-8268-1237d985a01f",
+   "title": "풍자의 또간집 EP.110 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-10-09",
+   "parent": [
+    {
+     "id": "07286470-e1e4-43c5-b2c7-e78e9ead9cb0",
+     "category": "장소",
+     "name": "아들딸사랑한다"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.110(2026-10-09) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "아들딸사랑한다",
+     "id": "07286470-e1e4-43c5-b2c7-e78e9ead9cb0"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=jSiLx_Ahh_s",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "7e88f747-6d38-413d-8e94-d7ac6606deec",
+   "title": "풍자의 또간집 EP.12 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-09-23",
+   "parent": [
+    {
+     "id": "60f405ba-e282-49a2-85ae-dea74cc70ead",
+     "category": "장소",
+     "name": "자코비버거"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.12(2022-09-23) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "자코비버거",
+     "id": "60f405ba-e282-49a2-85ae-dea74cc70ead"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=at9VhOO_YcM",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "99b059f2-a044-4877-bcd5-9cd4b4b54cf2",
+   "title": "풍자의 또간집 EP.18 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-12-23",
+   "parent": [
+    {
+     "id": "dacd7788-91eb-41e9-889f-cfb8177a3e40",
+     "category": "장소",
+     "name": "선경 준치횟집"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.18(2022-12-23) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "선경 준치횟집",
+     "id": "dacd7788-91eb-41e9-889f-cfb8177a3e40"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=HAMf-G6GXIQ",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "67e1f02b-16ae-48b3-99d6-d8ba15259264",
+   "title": "풍자의 또간집 EP.24 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-03-17",
+   "parent": [
+    {
+     "id": "f04b3554-b737-4d76-a978-4a7888c6af81",
+     "category": "장소",
+     "name": "광평 평양냉면"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.24(2023-03-17) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "광평 평양냉면",
+     "id": "f04b3554-b737-4d76-a978-4a7888c6af81"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=fIT9Cmwgsf4",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "e14c7f6a-e575-4ac6-9212-8476bf53d81f",
+   "title": "풍자의 또간집 EP.28 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-05-12",
+   "parent": [
+    {
+     "id": "83545cd9-4a0b-4f38-aea1-b2250aac3d7d",
+     "category": "장소",
+     "name": "희신이네"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.28(2023-05-12) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "희신이네",
+     "id": "83545cd9-4a0b-4f38-aea1-b2250aac3d7d"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "9eef0399-81b0-4048-8a06-81b12634aade",
+   "title": "풍자의 또간집 EP.34 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-08-18",
+   "parent": [
+    {
+     "id": "0d6d8441-3e0d-4184-9dc2-3335909c060a",
+     "category": "장소",
+     "name": "세정"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.34(2023-08-18) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "세정",
+     "id": "0d6d8441-3e0d-4184-9dc2-3335909c060a"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=27li701pBiI",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "cd6dccd5-5094-4a15-aea9-69fd189f765e",
+   "title": "풍자의 또간집 EP.38 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-10-20",
+   "parent": [
+    {
+     "id": "26fad471-34fd-4077-abf8-647156649db2",
+     "category": "장소",
+     "name": "백금식당"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.38(2023-10-20) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "백금식당",
+     "id": "26fad471-34fd-4077-abf8-647156649db2"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=fF3Gtly2jjA",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "a56cf453-d6e9-4fee-9216-d9b6d07d9b5f",
+   "title": "풍자의 또간집 EP.49 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-03-29",
+   "parent": [
+    {
+     "id": "82b7362a-33b8-4151-95a8-18435216289d",
+     "category": "장소",
+     "name": "란주칼면"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.49(2024-03-29) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "란주칼면",
+     "id": "82b7362a-33b8-4151-95a8-18435216289d"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=040J8uoIM8Y",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "7a07da85-4fd4-4a2c-bb6d-c4a82629b94f",
+   "title": "풍자의 또간집 EP.61 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-09-20",
+   "parent": [
+    {
+     "id": "da10eff0-cfd4-4e80-9dee-0d3dd4c87d6b",
+     "category": "장소",
+     "name": "하레하레"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.61(2024-09-20) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "하레하레",
+     "id": "da10eff0-cfd4-4e80-9dee-0d3dd4c87d6b"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=g5P0vpGSbng",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "2c032dec-13c0-4d40-8279-60b1b6947108",
+   "title": "풍자의 또간집 EP.71 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-02-28",
+   "parent": [
+    {
+     "id": "db6a2b6d-8027-40a5-9010-50f618e92f8d",
+     "category": "장소",
+     "name": "농가의하루"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.71(2025-02-28) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "농가의하루",
+     "id": "db6a2b6d-8027-40a5-9010-50f618e92f8d"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "0a84d177-26ca-432a-91d1-3b4ae3adef1e",
+   "title": "풍자의 또간집 EP.74 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-04-11",
+   "parent": [
+    {
+     "id": "ce75bf70-aae4-4026-ab6f-6ee088d64464",
+     "category": "장소",
+     "name": "목포수산"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.74(2025-04-11) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "목포수산",
+     "id": "ce75bf70-aae4-4026-ab6f-6ee088d64464"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=_6kjRl4X0p8",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "f9d5aea4-0ac1-4208-9ee6-7f8baf0de09c",
+   "title": "풍자의 또간집 EP.79 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-06-27",
+   "parent": [
+    {
+     "id": "0c2dba13-8cb6-4b65-b02b-b2647b675d64",
+     "category": "장소",
+     "name": "동해오징어보쌈"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.79(2025-06-27) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "동해오징어보쌈",
+     "id": "0c2dba13-8cb6-4b65-b02b-b2647b675d64"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=hbFzeLwe7yg",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "0c7f4274-9d38-4b02-8071-076c0c42b8b5",
+   "title": "풍자의 또간집 EP.8 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-07-29",
+   "parent": [
+    {
+     "id": "f5277fba-0f44-49c8-b6d2-63004292dafd",
+     "category": "장소",
+     "name": "왕거미식당"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.8(2022-07-29) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "왕거미식당",
+     "id": "f5277fba-0f44-49c8-b6d2-63004292dafd"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=imAj43bW5xk",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "73c903a5-c2d5-42c1-8cb6-16ba73e48d0c",
+   "title": "풍자의 또간집 EP.87 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-10-24",
+   "parent": [
+    {
+     "id": "56e447a0-9d1f-4316-b454-f58f8648486a",
+     "category": "장소",
+     "name": "사직로 서울"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.87(2025-10-24) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "사직로 서울",
+     "id": "56e447a0-9d1f-4316-b454-f58f8648486a"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "e2998991-cbb9-4377-82eb-2e33e3c136b0",
+   "title": "풍자의 또간집 EP.93 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-01-23",
+   "parent": [
+    {
+     "id": "30ac1f55-6592-4834-811c-71b33b4481e6",
+     "category": "장소",
+     "name": "진수식당"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.93(2026-01-23) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "진수식당",
+     "id": "30ac1f55-6592-4834-811c-71b33b4481e6"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=5tV8wKaUxSA",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "39cf6c7b-6cb8-493a-821c-aba48b4d4e50",
+   "title": "풍자의 또간집 EP.96 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-03-13",
+   "parent": [
+    {
+     "id": "a1f85a8f-30a3-4ad1-8d4d-0f9c064f83af",
+     "category": "장소",
+     "name": "원조이모네연탄불곱창"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.96(2026-03-13) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "원조이모네연탄불곱창",
+     "id": "a1f85a8f-30a3-4ad1-8d4d-0f9c064f83af"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=uXq3hmDhpps",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "7158077f-7252-4dc7-b2bb-8d6fa2efedcd",
+   "title": "풍자의 또간집 EP.10 또갈집 선정",
+   "type": "방송출연",
+   "date": "2022-08-26",
+   "parent": [
+    {
+     "id": "b5cb1819-0a30-4523-8c92-6a718d0b5ea5",
+     "category": "장소",
+     "name": "떡도리탕"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.10(2022-08-26) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "떡도리탕",
+     "id": "b5cb1819-0a30-4523-8c92-6a718d0b5ea5"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=he0KEFFhvvA",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.775025+00:00"
+  },
+  {
+   "id": "c68d5a62-1473-4b46-b795-c1b074747622",
+   "title": "풍자의 또간집 EP.21 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-02-03",
+   "parent": [
+    {
+     "id": "b71fdb7b-95ba-4ae4-a8e7-ee6a7904ab1e",
+     "category": "장소",
+     "name": "와타요업"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.21(2023-02-03) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "와타요업",
+     "id": "b71fdb7b-95ba-4ae4-a8e7-ee6a7904ab1e"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=9F9a_fFx45o",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.775025+00:00"
+  },
+  {
+   "id": "8540f4c1-a827-47de-af84-f445f536932d",
+   "title": "풍자의 또간집 EP.27 또갈집 선정",
+   "type": "방송출연",
+   "date": "2023-04-28",
+   "parent": [
+    {
+     "id": "9fc31234-af8e-45e4-8376-2e8b6fecad2c",
+     "category": "장소",
+     "name": "해바라기본점"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.27(2023-04-28) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "해바라기본점",
+     "id": "9fc31234-af8e-45e4-8376-2e8b6fecad2c"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=F7PN-1EmJbI",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.775025+00:00"
+  },
+  {
+   "id": "6e6d6e99-4226-44ae-b651-a4650aa3b707",
+   "title": "풍자의 또간집 EP.52 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-05-10",
+   "parent": [
+    {
+     "id": "d874eef1-5d8c-4b4a-a047-294e6edd9c64",
+     "category": "장소",
+     "name": "버섯집"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.52(2024-05-10) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "버섯집",
+     "id": "d874eef1-5d8c-4b4a-a047-294e6edd9c64"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=q9VXp_7Nd-s",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.775025+00:00"
+  },
+  {
+   "id": "8be86626-a9e1-44a2-8cd7-a2800df46ae7",
+   "title": "풍자의 또간집 EP.53 또갈집 선정",
+   "type": "방송출연",
+   "date": "2024-05-24",
+   "parent": [
+    {
+     "id": "3abbb27b-ab58-4f25-a29b-fc997c16d535",
+     "category": "장소",
+     "name": "봉용불고기"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.53(2024-05-24) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "봉용불고기",
+     "id": "3abbb27b-ab58-4f25-a29b-fc997c16d535"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=7d34J9knZ10",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.775025+00:00"
+  },
+  {
+   "id": "ed4be76e-b898-47cc-a9a5-63f54d53cc47",
+   "title": "풍자의 또간집 EP.82 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-08-08",
+   "parent": [
+    {
+     "id": "bf26a691-03e0-47ca-9b72-0bceab0e51ab",
+     "category": "장소",
+     "name": "신간짬뽕"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.82(2025-08-08) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "신간짬뽕",
+     "id": "bf26a691-03e0-47ca-9b72-0bceab0e51ab"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.775025+00:00"
+  },
+  {
+   "id": "8d72f1d5-7c56-45ba-bb74-cd9e7efa4bb8",
+   "title": "풍자의 또간집 EP.85 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-09-19",
+   "parent": [
+    {
+     "id": "1f6a56fa-f5a6-401f-86ec-a6faf32d5d37",
+     "category": "장소",
+     "name": "만호호성식당"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.85(2025-09-19) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "만호호성식당",
+     "id": "1f6a56fa-f5a6-401f-86ec-a6faf32d5d37"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.775025+00:00"
+  },
+  {
+   "id": "8eace024-3d73-47fd-8c87-ad2f962cc348",
+   "title": "풍자의 또간집 EP.90 또갈집 선정",
+   "type": "방송출연",
+   "date": "2025-12-05",
+   "parent": [
+    {
+     "id": "896188f6-72e2-4a2b-984a-be3cf8711702",
+     "category": "장소",
+     "name": "미락식당"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.90(2025-12-05) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "미락식당",
+     "id": "896188f6-72e2-4a2b-984a-be3cf8711702"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=4cCrjwgi54w",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.775025+00:00"
+  },
+  {
+   "id": "780ac865-a4c6-464e-b56a-a0d0e13d4576",
+   "title": "풍자의 또간집 EP.97 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-03-27",
+   "parent": [
+    {
+     "id": "c1cb93a7-6d65-4830-8b9a-23005d88b533",
+     "category": "장소",
+     "name": "예돈돈까스"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.97(2026-03-27) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "예돈돈까스",
+     "id": "c1cb93a7-6d65-4830-8b9a-23005d88b533"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=-rdQxOZgQCE",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.775025+00:00"
+  },
+  {
+   "id": "a8230364-bed0-44e8-92c8-9842f2089815",
+   "title": "풍자의 또간집 EP.98 또갈집 선정",
+   "type": "방송출연",
+   "date": "2026-04-10",
+   "parent": [
+    {
+     "id": "4ee562fd-222c-4e14-b75b-317cfbbc7aab",
+     "category": "장소",
+     "name": "부엌"
+    }
+   ],
+   "summary": "유튜브 「풍자의 또간집」 EP.98(2026-04-10) 회차 끝 발표에서 그 회차 「또갈집」(또 가고 싶은 집 1곳)으로 뽑혔다",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "부엌",
+     "id": "4ee562fd-222c-4e14-b75b-317cfbbc7aab"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.youtube.com/watch?v=mNjTXSfQXnE",
+   "source": "방송",
+   "added_at": "2026-10-26T14:19:01.775025+00:00"
+  }
+ ],
+ "new_planets": [
+  {
+   "id": "95cde15f-9426-4322-803b-5de49d8bc39f",
+   "name": "SB대선",
+   "category": "단체",
+   "alias": "대선조선, Daesun Shipbuilding",
+   "disambig": "부산의 조선사",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "조선",
+    "formation_date": "1945-12-25",
+    "hq": "부산광역시 사하구 감천항로 454 (다대동), 다대조선소",
+    "parent_company": "SB선보 (최대주주)",
+    "summary": "1945년 대선철공소로 시작해 연안여객선 · 컨테이너선 · 탱커 같은 중소형 선박을 지어 온 부산의 중견 조선사로, 옛 이름은 대선조선이다. 2023년 10월 워크아웃에 들어갔다가 2026년 1월 영도조선소를 팔아 다대조선소로 일원화했고, 10월 SB선보가 최대주주가 되며 워크아웃을 마치고 SB대선으로 이름을 바꿨다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q12591562",
+     "https://ko.wikipedia.org/wiki/대선조선",
+     "https://namu.wiki/w/대선조선",
+     "https://news.knn.co.kr/news/article/190801",
+     "https://www.yna.co.kr/view/AKR20261024043200002"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12591562",
+   "links": [
+    {
+     "id": "683f1802-2c0a-4032-a500-315f01ee02e9",
+     "category": "장소",
+     "name": "다대동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "a4bc171c-dbfa-42d2-b110-02b96acaac0a",
+   "name": "Sense and Sensibility (2026 film)",
+   "category": "작품",
+   "alias": "이성과 감성, 센스 앤 센서빌리티, Sense and Sensibility",
+   "disambig": "2026년 영국 영화, 조지아 오클리 감독",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "name_ko": "이성과 감성",
+    "name_en": "Sense and Sensibility",
+    "medium": "영화",
+    "genre": "시대극 로맨스 드라마",
+    "release_date": "2026-09-25",
+    "director": "조지아 오클리 (Georgia Oakley)",
+    "creator": "다이애나 리드 (Diana Reid, 각본)",
+    "cast": "데이지 에드가 존스 (엘리너 대시우드), 에스메 크리드마일스 (메리앤 대시우드), Caitríona Balfe (대시우드 부인), 프랭크 딜레인 (윌러비), 할버트 노르드룸 (브랜든 대령), 조지 맥케이 (에드워드 페라스), Fiona Shaw (제닝스 부인)",
+    "production": "Working Title Films, November Pictures, Kiddo Films",
+    "distributor": "Focus Features (미국), Universal Pictures (해외), 유니버설픽쳐스인터내셔널 코리아 (한국 수입 · 배급)",
+    "source_material": "제인 오스틴의 소설 『이성과 감성』 (1811)",
+    "rating": "12세이상관람가",
+    "length": "132분",
+    "synopsis": "아버지가 세상을 떠난 뒤 상속 제도 탓에 저택을 떠난 대시우드 가의 이성적인 언니 엘리너와 감정에 솔직한 동생 메리앤이 각자의 방식으로 사랑에 빠지고 상처받는 이야기다. 영국 · 미국 영화로 2026년 9월 25일 영국에서 개봉했고, 부산국제영화제 월드 시네마 부문 상영을 거쳐 한국에서는 10월 28일 개봉한다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q135436961",
+     "https://en.wikipedia.org/wiki/Sense_and_Sensibility_(2026_film)",
+     "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=이성과 감성",
+     "https://www.yna.co.kr/view/AKR20261023169000005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q135436961",
+   "links": [
+    {
+     "id": "368e38b2-2720-4890-a61b-b7d3789d74cc",
+     "category": "허브",
+     "name": "United Kingdom Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "3707f6cc-83b7-4e2c-8f55-2510a7c3717b",
+   "name": "김장훈",
+   "category": "인물",
+   "alias": "Kim Jang-hoon",
+   "disambig": "한국의 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "name_en": "Kim Jang-hoon",
+    "gender": "남성",
+    "activity": "솔로",
+    "nationality": "대한민국",
+    "birth_date": "1963-08-14",
+    "birthplace": "서울특별시",
+    "debut_date": "1991",
+    "debut_work": "늘 우리 사이엔",
+    "education": "경원대학교 영어영문학과 중퇴 (명예졸업)",
+    "notable_works": "나와 같다면, 세상이 그대를 속일지라도, 혼잣말, 고속도로 로망스, 소나기, 노래만 불렀지",
+    "awards": "제19회 아산상 사회봉사상 (2007), 제31회 세종문화상 국제협력봉사부문 (2012), 미국 대통령 자원봉사상 (2012), 국민훈장 동백장 (2013)",
+    "sns": "https://x.com/concertkim, https://instagram.com/concert_kim, https://www.facebook.com/concertkimpage",
+    "measurements": "187cm",
+    "weight": "83kg",
+    "blood_type": "O형",
+    "mbti": "INFP",
+    "religion": "개신교",
+    "military_service": "육군 상병 소집해제",
+    "summary": "1991년 1집 「늘 우리 사이엔」으로 데뷔해 「나와 같다면」 등 록 발라드와 화려한 무대 연출로 이름난 가수다. 큰 액수의 기부와 독도 · 동해 표기 홍보 활동으로 「기부천사」 「독도지킴이」라는 별명을 얻었다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q624159",
+     "https://ko.wikipedia.org/wiki/김장훈",
+     "https://en.wikipedia.org/wiki/Kim_Jang-hoon",
+     "https://namu.wiki/w/김장훈",
+     "https://www.yna.co.kr/view/AKR20261025027800063"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q624159",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "bcb1c11e-9cfe-4d77-be12-34e14a015c4e",
+   "name": "김창수위스키",
+   "category": "단체",
+   "alias": "김창수위스키증류소, 김창수 위스키, Kimchangsoo Whisky",
+   "disambig": "김포의 위스키 증류소",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "Kimchangsoo Whisky Distillery Co., Ltd.",
+    "real_name": "김창수위스키증류소 주식회사",
+    "industry": "위스키 제조 (증류주)",
+    "formation_date": "2020-06",
+    "hq": "경기도 김포시 통진읍 김포대로2435번길 105",
+    "founder": "김창수",
+    "ceo": "김창수",
+    "summary": "한국인 처음으로 싱글몰트 위스키를 직접 만들어 판 김창수 대표가 2020년 김포 통진읍에 세운 증류소로, 2022년 첫 제품을 내고 2024년 정규 제품 「김포」를 출시했다. 김창수 하이볼, 롯데마트와 함께 낸 계절꽃 시리즈(연꽃 · 마리골드) 같은 한정판도 내며, 2026년 7월 경북 안동에 제2증류소를 세웠다.",
+    "sources": [
+     "https://m.saramin.co.kr/job-search/company-info-view/csn/dlR5RmRiamRHYjJTMzI1Zm5hdFpxQT09/company_nm/김창수위스키증류소(주)",
+     "https://ktxmagazine.kr/김창수위스키-증류소의첫걸음-김포/",
+     "https://www.wipo.int/web/ip-advantage/w/stories/kimchangsoo-whisky-one-man-s-quest-to-produce-korean-whisky",
+     "https://www.heraldk.com/article/2026070704392433660",
+     "https://www.yna.co.kr/view/AKR20261023148500030"
+    ]
+   },
+   "source_url": "https://m.saramin.co.kr/job-search/company-info-view/csn/dlR5RmRiamRHYjJTMzI1Zm5hdFpxQT09/company_nm/김창수위스키증류소(주)",
+   "links": [
+    {
+     "id": "8da7524b-bc7d-4ab7-9214-600e53f619bd",
+     "category": "장소",
+     "name": "통진읍",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "f3e9c1da-811e-442a-b628-e732b3e4c970",
+   "name": "운명전쟁49",
+   "category": "작품",
+   "alias": "Battle of Fates, 운명전쟁 49",
+   "disambig": "2026년 디즈니+ 한국 예능",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Battle of Fates",
+    "medium": "예능",
+    "genre": "서바이벌 리얼리티",
+    "release_date": "2026-02-11",
+    "end_date": "2026-03-04",
+    "director": "황교진, 유수연",
+    "creator": "황교진 · 성치경 (기획), 모은설 (작가)",
+    "cast": "전현무, 박나래, 박하선, 신동, 강지영 (패널)",
+    "production": "JTBC, 스튜디오아예중앙",
+    "platform": "디즈니+",
+    "rating": "15세이상관람가",
+    "length": "10부작",
+    "synopsis": "신점 · 사주 · 타로 · 관상 등 운명술사 49명이 여러 미션으로 대결해 최후의 1인을 가리는 디즈니+ 오리지널 서바이벌 예능이다. 2회 「망자 사인 맞히기」 미션이 순직 소방관을 소재로 삼아 논란이 됐다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q138526805",
+     "https://ko.wikipedia.org/wiki/운명전쟁49",
+     "https://namu.wiki/w/운명전쟁49",
+     "https://www.fnnews.com/news/202602041036114838",
+     "https://nocutnews.co.kr/news/6471670",
+     "https://www.heraldk.com/article/2026020318142815448",
+     "https://www.heraldk.com/article/2026021503400021058"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q138526805",
+   "links": [
+    {
+     "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
+     "category": "허브",
+     "name": "한국 예능",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "8e4c8754-29e1-4269-9875-db40854b974a",
+   "name": "조성진",
+   "category": "인물",
+   "alias": "Seong-Jin Cho, Cho Seong-jin",
+   "disambig": "한국의 피아니스트",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "피아니스트",
+    "name_en": "Seong-Jin Cho",
+    "gender": "남성",
+    "activity": "솔로",
+    "nationality": "대한민국",
+    "birth_date": "1994-05-28",
+    "birthplace": "서울특별시",
+    "organization": "KD SCHMID",
+    "education": "예원학교, 서울예술고등학교 (중퇴), 파리국립고등음악원",
+    "military_service": "예술체육요원",
+    "notable_works": "Chopin: Piano Concerto No. 1 & Ballades (2016), Debussy (2017), The Wanderer (2020), The Handel Project (2023), Ravel: The Complete Solo Piano Works (2025), Ravel: The Piano Concertos (2025)",
+    "awards": "하마마쓰 국제 피아노 콩쿠르 1위 (2009), 차이콥스키 국제 콩쿠르 3위 (2011), 아르투르 루빈스타인 국제 피아노 콩쿠르 3위 (2014), 제17회 쇼팽 국제 피아노 콩쿠르 1위 · 폴로네이즈상 (2015), 삼성호암상 예술상 (2023), 오푸스 클라식 올해의 연주자상 (2025)",
+    "website": "https://seongjin-cho.com/",
+    "sns": "https://x.com/seongjincho",
+    "summary": "2015년 제17회 쇼팽 국제 피아노 콩쿠르에서 한국인 처음으로 우승한 피아니스트로, 2016년부터 도이치 그라모폰 전속으로 음반을 내고 있다. 베를린 필하모닉 · 빈 필하모닉 등과 협연하며 2024–25 시즌 베를린 필하모닉 상주 음악가를 지냈다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q4516986",
+     "https://ko.wikipedia.org/wiki/조성진_(피아니스트)",
+     "https://en.wikipedia.org/wiki/Seong-Jin_Cho",
+     "https://namu.wiki/w/조성진",
+     "https://www.kdschmid.de/en/news/detail/news/kd-schmid-erweitert-generalmanagement-fuer-seong-jin-cho-um-nord-und-suedamerika",
+     "https://www.yna.co.kr/view/AKR20261025050300005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q4516986",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-26T02:43:37.335634+00:00"
+  },
+  {
+   "id": "f04b3554-b737-4d76-a978-4a7888c6af81",
+   "name": "광평 평양냉면",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "서울특별시 강남구 삼성동 162-29",
+    "address": "서울특별시 강남구 삼성동 162-29",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=fIT9Cmwgsf4",
+   "links": [
+    {
+     "id": "7f7681c9-9ce5-462d-8534-c57c0eeba37c",
+     "category": "장소",
+     "name": "삼성동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "db6a2b6d-8027-40a5-9010-50f618e92f8d",
+   "name": "농가의하루",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "경기도 화성시 동탄구 목동 449-7",
+    "address": "경기도 화성시 동탄구 목동 449-7",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "links": [
+    {
+     "id": "b8760681-34c2-46f5-bff8-286b782917fc",
+     "category": "장소",
+     "name": "목동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "0c2dba13-8cb6-4b65-b02b-b2647b675d64",
+   "name": "동해오징어보쌈",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "경기도 안양시 만안구 안양동 674-171",
+    "address": "경기도 안양시 만안구 안양동 674-171",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=hbFzeLwe7yg",
+   "links": [
+    {
+     "id": "6e22d4e0-6182-40bc-8e2b-e51bb0b83ea1",
+     "category": "장소",
+     "name": "안양동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "82b7362a-33b8-4151-95a8-18435216289d",
+   "name": "란주칼면",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "서울특별시 중구 충무로1가 25-9",
+    "address": "서울특별시 중구 충무로1가 25-9",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=040J8uoIM8Y",
+   "links": [
+    {
+     "id": "894474da-733f-434a-a48a-4d8e798df09b",
+     "category": "장소",
+     "name": "충무로1가",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "ce75bf70-aae4-4026-ab6f-6ee088d64464",
+   "name": "목포수산",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "서울특별시 관악구 신림동 1587-14",
+    "address": "서울특별시 관악구 신림동 1587-14",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=_6kjRl4X0p8",
+   "links": [
+    {
+     "id": "df922c60-1ec5-4255-9ddd-e673c28d9d7d",
+     "category": "장소",
+     "name": "신림동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "1a81403a-2da2-4726-bb67-67e4328a345f",
+   "name": "밀향기",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "경기도 구리시 교문동 681-1",
+    "address": "경기도 구리시 교문동 681-1",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=mVOW2N97Usk",
+   "links": [
+    {
+     "id": "4c39ce5f-de85-4502-aa33-e634731a16a3",
+     "category": "장소",
+     "name": "교문동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "26fad471-34fd-4077-abf8-647156649db2",
+   "name": "백금식당",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "전남광주통합특별시 여수시 교동 442-2",
+    "address": "전남광주통합특별시 여수시 교동 442-2",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=fF3Gtly2jjA",
+   "links": [
+    {
+     "id": "7933fed9-78cd-4f07-9d5e-b9f80b85c82d",
+     "category": "장소",
+     "name": "교동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "56e447a0-9d1f-4316-b454-f58f8648486a",
+   "name": "사직로 서울",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "서울특별시 종로구 적선동 94 다자연빌딩 2층",
+    "address": "서울특별시 종로구 사직로 127-14, 다자연빌딩 2층 (적선동)",
+    "featured_in": "풍자의 또간집",
+    "phone": "02-733-4371"
+   },
+   "source_url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "links": [
+    {
+     "id": "c3ff7a31-3476-4ac4-b61c-1c668dde325b",
+     "category": "장소",
+     "name": "적선동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "dacd7788-91eb-41e9-889f-cfb8177a3e40",
+   "name": "선경 준치횟집",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "전남광주통합특별시 목포시 온금동 186",
+    "address": "전남광주통합특별시 목포시 온금동 186",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=HAMf-G6GXIQ",
+   "links": [
+    {
+     "id": "f72eac15-e821-415a-bee0-6ff7de86d163",
+     "category": "장소",
+     "name": "온금동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "0d6d8441-3e0d-4184-9dc2-3335909c060a",
+   "name": "세정",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "부산광역시 중구 부평동2가 66-19",
+    "address": "부산광역시 중구 중구로33번길 45, 1층 (부평동2가)",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=27li701pBiI",
+   "links": [
+    {
+     "id": "c811ff3e-6415-4cb2-aa10-73b268406e99",
+     "category": "장소",
+     "name": "부평동2가",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "07286470-e1e4-43c5-b2c7-e78e9ead9cb0",
+   "name": "아들딸사랑한다",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "전북특별자치도 정읍시 연지동 31-1",
+    "address": "전북특별자치도 정읍시 연지동 31-1",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=jSiLx_Ahh_s",
+   "links": [
+    {
+     "id": "1a150693-9a7b-4a3d-81aa-a0c1b193f9c4",
+     "category": "장소",
+     "name": "연지동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "f5277fba-0f44-49c8-b6d2-63004292dafd",
+   "name": "왕거미식당",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "대구광역시 중구 동인동4가 179",
+    "address": "대구광역시 중구 동인동4가 179",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=imAj43bW5xk",
+   "links": [
+    {
+     "id": "0a83f55e-d9ca-462a-b9c5-e1d41b379ce2",
+     "category": "장소",
+     "name": "동인동4가",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "a1f85a8f-30a3-4ad1-8d4d-0f9c064f83af",
+   "name": "원조이모네연탄불곱창",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "서울특별시 노원구 공릉동 392-2",
+    "address": "서울특별시 노원구 공릉동 392-2",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=uXq3hmDhpps",
+   "links": [
+    {
+     "id": "bebabc01-3baf-42a7-9266-e0b3a80b755c",
+     "category": "장소",
+     "name": "공릉동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "60f405ba-e282-49a2-85ae-dea74cc70ead",
+   "name": "자코비버거",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "서울특별시 용산구 용산동2가 45-6",
+    "address": "서울특별시 용산구 용산동2가 45-6",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=at9VhOO_YcM",
+   "links": [
+    {
+     "id": "4d9e6b24-1759-4fc0-a1c1-8ce79f587b0a",
+     "category": "장소",
+     "name": "용산동2가",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "30ac1f55-6592-4834-811c-71b33b4481e6",
+   "name": "진수식당",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "전남광주통합특별시 서구 양동 5-216",
+    "address": "전남광주통합특별시 서구 양동 5-216",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=5tV8wKaUxSA",
+   "links": [
+    {
+     "id": "344dff47-3a6d-4c90-ab69-232d8d178c4d",
+     "category": "장소",
+     "name": "양동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "da10eff0-cfd4-4e80-9dee-0d3dd4c87d6b",
+   "name": "하레하레",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "대전광역시 서구 둔산동 1509",
+    "address": "대전광역시 서구 둔산동 1509",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/watch?v=g5P0vpGSbng",
+   "links": [
+    {
+     "id": "babb559e-7813-4e5d-b223-a455c80dcf1a",
+     "category": "장소",
+     "name": "둔산동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  },
+  {
+   "id": "83545cd9-4a0b-4f38-aea1-b2250aac3d7d",
+   "name": "희신이네",
+   "category": "장소",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "jibun": "제주특별자치도 서귀포시 서호동 680-3",
+    "address": "제주특별자치도 서귀포시 서호동 680-3",
+    "featured_in": "풍자의 또간집"
+   },
+   "source_url": "https://www.youtube.com/channel/UC4ZA57iJrf73bJlApKFeLRw",
+   "links": [
+    {
+     "id": "309dc24f-18a3-4fbe-ada0-a77ae076686f",
+     "category": "장소",
+     "name": "서호동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T14:19:01.427180+00:00"
+  }
+ ],
+ "bulk_added": []
+}

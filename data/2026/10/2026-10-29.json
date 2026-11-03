@@ -1,0 +1,2216 @@
+{
+ "date": "2026-10-29",
+ "timezone": "Asia/Seoul",
+ "exported_at": "2026-11-03T23:50:34+00:00",
+ "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
+ "counts": {
+  "updates": 39,
+  "new_planets": 22,
+  "bulk_added": 0
+ },
+ "updates": [
+  {
+   "id": "e2263f6c-d76c-4947-b95c-854b58413455",
+   "title": "블랙핑크 로제, 스카치위스키 ‘조니워커’ 글로벌 브랜드 파트너 발탁",
+   "type": "뉴스",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "eff42da7-b854-44cc-8b13-1cdaaf14974d",
+     "category": "인물",
+     "name": "로제"
+    }
+   ],
+   "summary": "조니워커의 새 글로벌 브랜드 파트너가 되어 직접 개발에 참여한 하이볼을 처음 선보임",
+   "why": "조니워커의 핵심 슬로건인 '킵 워킹(Keep Walking)' 정신과 로제의 독창적인 음악적 여정 및 진취적인 태도를 결합하여 글로벌 대중에게 전달하기 위해",
+   "how": "한국, 영국, 인도네시아, 중국 등 전 세계 주요 시장에서 글로벌 캠페인을 동시 전개하며, 로제가 직접 개발에 참여한 시그니처 칵테일을 공개하는 방식으로 진행",
+   "content": "블랙핑크 로제가 조니워커의 새 글로벌 브랜드 파트너로 발탁되어, 시그니엘 서울에서 직접 개발에 참여한 블랙 라벨 기반 하이볼 'Twist of Something Highball'을 선보였습니다.\n\n스카치위스키 브랜드 조니워커가 블랙핑크 로제를 새로운 글로벌 브랜드 파트너로 발탁했습니다. 이를 기념해 2026년 10월 26일 시그니엘 서울 81층 바(BAR 81)에서 출시 행사가 열렸고, 로제가 직접 개발에 참여한 조니워커 블랙 라벨 기반의 시그니처 하이볼 '트위스트 오브 썸씽 하이볼(Twist of Something Highball)'이 처음 공개되었습니다. 이 칵테일은 앞으로 서울 주요 바와 '아시아 50 베스트 바' 선정 바 등에서 순차적으로 판매될 예정입니다.",
+   "places": [
+    {
+     "name": "시그니엘 서울",
+     "id": "510dcfb2-90f8-4758-9ccb-cc5aea861bca"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "조니워커",
+     "id": null
+    },
+    {
+     "name": "BLACKPINK",
+     "id": "f5938539-2d50-48ab-8f2f-f271372c67a8"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.johnniewalker.com/en/stories/rose-partnership, https://www.donga.com/news/Economy/article/all/20261026/134911947/1, https://www.hankyung.com/article/202610264591g, https://www.sportschosun.com/life/2026-10-26/202610260100164610010715",
+   "source": "비공식",
+   "added_at": "2026-10-28T15:06:10.755425+00:00"
+  },
+  {
+   "id": "e7435a82-a497-41e8-986d-c95caaeeb9eb",
+   "title": "100조 규모 주주환원 발표",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "f38bbe00-4de8-42dc-871e-da97250df3a4",
+     "category": "단체",
+     "name": "SK하이닉스"
+    }
+   ],
+   "summary": "3분기 실적과 함께 연내 60조 원 추가 주주환원을 밝혀 올해 환원 총액이 100조 원에 이를 전망",
+   "why": null,
+   "how": "3분기 매출 104조6155억 원·영업이익 83조3338억 원. 현금배당 30조 원 이상·자사주 취득·소각 60조 원 이상. 주당 배당 2만 원 중 1만 원은 키옥시아 투자 수익 반영 특별배당. 2029년까지 D램·HBM 물량 사실상 판매 완료",
+   "content": "3분기 실적(매출 104조6155억 원·영업이익 83조3338억 원) 발표와 함께 연내 60조 원 추가 주주환원을 밝혀 올해 주주환원 총액이 100조 원(현금배당 30조 원 이상·자사주 취득·소각 60조 원 이상)에 이를 전망. 3분기 주당 배당 2만 원 중 1만 원은 키옥시아 투자 수익을 반영한 특별배당이며, 2029년까지 D램·HBM 물량은 사실상 판매 완료됐다고 밝힘. 같은 날 블룸버그는 자회사 솔리다임이 미국 상무부와 450억 달러(약 60조 원) 규모 미국 낸드 공장 건설을 협의 중이라고 보도(솔리다임은 '결정된 바 없다').",
+   "places": [],
+   "featuring": [
+    {
+     "name": "키옥시아",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.news1.kr/industry/general-industry/6334725",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "9646d4d5-f586-4523-b228-7e124d4d6aa1",
+   "title": "23화에 엔도 겐이치 · 이우라 아라타 등장",
+   "type": "방송출연",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "5faea39b-0a39-4e05-86ac-868b40d1648d",
+     "category": "작품",
+     "name": "Blossom"
+    }
+   ],
+   "summary": "주인공 다마(이시바시 시즈카)가 양식당 「悠樂軒」의 웨이트리스로 일하기 시작함",
+   "why": null,
+   "how": "NHK 연속 TV 소설 「ブラッサム」 23화(5주차). 문예지 「首都公論」 편집장 구로사키 다이자부로(엔도 겐이치)·부편집장 야마나카 유조(이우라 아라타)가 처음 등장",
+   "content": "NHK 연속 TV 소설 「ブラッサム」 23화(5주차)에서 주인공 다마(이시바시 시즈카)가 양식당 「悠樂軒」의 웨이트리스로 일하기 시작했다. 문예지 「首都公論」의 편집장 구로사키 다이자부로(엔도 겐이치)와 부편집장 야마나카 유조(이우라 아라타)가 처음 나왔다.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "Kenichi Endo",
+     "id": null
+    },
+    {
+     "name": "Arata Iura",
+     "id": null
+    },
+    {
+     "name": "NHK",
+     "id": null
+    },
+    {
+     "name": "이시바시 시즈카",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/739bde398083c43eb5ff29f791091abb2c526c2d",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "2368cb5b-c5af-44d1-b34d-cfebe52e67ff",
+   "title": "8월 출생아 7년 만에 최대",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "8월 출생아가 2만3천703명으로 1년 전보다 13.0% 늘어 8월 기준 2019년 뒤 가장 많음",
+   "why": null,
+   "how": "국가데이터처 「2026년 8월 인구 동향」. 8월 합계출산율 0.87명(0.09명 증가), 1~8월 누적 출생아 19만3천783명(14.5% 증가). 8월 혼인은 1만9천218건으로 1.2% 감소",
+   "content": "국가데이터처 '2026년 8월 인구 동향'에서 8월 출생아는 2만3천703명으로 1년 전보다 13.0% 늘어 8월 기준 2019년 뒤 가장 많음. 8월 합계출산율은 0.87명(0.09명 증가), 1~8월 누적 출생아는 19만3천783명(14.5% 증가). 8월 혼인은 1만9천218건으로 1.2% 감소.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "국가데이터처",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261028085500002",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "397209be-4426-440f-82ef-d51143839635",
+   "title": "ACE 에디 어워즈 올해의 영화인상",
+   "type": "수상",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "b2482f7b-08d6-44f5-a760-e2c90578bfdc",
+     "category": "인물",
+     "name": "John Carpenter"
+    }
+   ],
+   "summary": "미국영화편집자협회(ACE)가 존 카펜터에게 제77회 ACE 에디 어워즈에서 골든 에디 올해의 영화인상을 준다고 발표했다. 시상식은 UCLA 로이스 홀에서 열린다.",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://variety.com/2026/awards/news/john-carpenter-ace-eddie-awards-filmmaker-of-the-year-1236932593/",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "352785cf-15b4-4929-8cfe-ed9c851326e2",
+   "title": "LA28 올림픽 개·폐회식·콘텐츠 총괄 맡아",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "65061b39-9651-47fd-87e6-c81c02e16657",
+     "category": "인물",
+     "name": "Kathleen Kennedy"
+    }
+   ],
+   "summary": "LA28 조직위원회가 캐슬린 케네디를 개·폐회식·콘텐츠 총괄로 선임함",
+   "why": null,
+   "how": "2026년 10월 28일 발표. 올림픽·패럴림픽 개·폐회식 네 번을 이끎. 전임 피터 라이스는 총괄 프로듀서로 남음",
+   "content": "LA28 조직위원회가 캐슬린 케네디를 개·폐회식·콘텐츠 총괄(Head of Ceremonies and Content)로 선임했다고 2026년 10월 28일 발표했다. 전임 피터 라이스는 총괄에서 물러나 총괄 프로듀서로 남는다. 케네디는 올림픽·패럴림픽 개·폐회식 네 번을 이끈다.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "LA28 조직위원회",
+     "id": null
+    },
+    {
+     "name": "피터 라이스",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.hollywoodreporter.com/news/general-news/la-28-opening-closing-ceremonies-kathleen-kennedy-peter-rice-1236741549/",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "b8cb87a9-8197-41c8-998c-bb71e241cd85",
+   "title": "「交信（P4C Version）」 디지털 발매",
+   "type": "싱글",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "a489f167-83be-4a43-a2af-c99efa2fd3ca",
+     "category": "단체",
+     "name": "P4C"
+    }
+   ],
+   "summary": "음악 유닛 P4C가 「交信（P4C Version）」을 10월 28일 디지털로 냈다. 니시나카지마 키나코의 곡 「交信」을 키라키라모모짱의 보컬로 바꿔 부른 곡이다.",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/6ec4b35dda2e4ac956bd189368e19568e431e936",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "d68116a4-75e5-4ba2-bfe2-a832e57ed36b",
+   "title": "강원 11월 추천 여행지 선정",
+   "type": "행사",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "deb82cec-7b02-4cc6-9df5-e00c467040b2",
+     "category": "장소",
+     "name": "평창군"
+    }
+   ],
+   "summary": "강원 11월 추천 여행지로 평창고랭지김장축제와 고성 송지호 바다하늘길이 뽑힘",
+   "why": null,
+   "how": "강원도·강원관광재단의 「2026 강원 방문의 해」 선정. 김장축제는 11-04~11-16 진부면 오대천 일원",
+   "content": "강원도와 강원관광재단이 '2026 강원 방문의 해' 11월 추천 여행지로 평창고랭지김장축제와 고성 송지호 바다하늘길을 선정. 평창고랭지김장축제는 11-04~11-16 진부면 오대천 일원에서 열림.",
+   "places": [
+    {
+     "name": "고성군",
+     "id": null
+    },
+    {
+     "name": "송지호 바다하늘길",
+     "id": null
+    },
+    {
+     "name": "진부면",
+     "id": "474b8266-b36e-4493-b929-bca07f407647"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "강원관광재단",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261028037900062",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "37f9b218-eede-4e97-a76c-f37427158098",
+   "title": "고담 어워즈 3개 부문 후보",
+   "type": "수상",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "f1fd1098-d8f8-419f-a716-48375e326fae",
+     "category": "작품",
+     "name": "가능한 사랑"
+    }
+   ],
+   "summary": "고담 어워즈에서 최우수 주연상(전도연)·국제영화상·각본상 3개 부문 후보에 오름",
+   "why": null,
+   "how": "미국 고담 필름 앤드 미디어 인스티튜트 10-27(현지) 발표. 시상식은 11-30 미국 뉴욕",
+   "content": "미국 고담 필름 앤드 미디어 인스티튜트가 10-27(현지) 발표한 고담 어워즈 후보에서 '가능한 사랑'(감독 이창동)이 최우수 주연상(전도연)·최우수 국제영화상·최우수 각본상 3개 부문 후보에 오름. 시상식은 11-30 미국 뉴욕에서 열림.",
+   "places": [
+    {
+     "name": "뉴욕",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "전도연",
+     "id": "e45c3a08-680b-4781-9e80-dc9518df9abb"
+    },
+    {
+     "name": "이창동",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/movie/2026/10/28/GA4DSNJWGYZDMMJQGQZDCNLBMY/",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "e15c647b-715d-49eb-b83c-b3a89d2dcb22",
+   "title": "고별 공연 NBC 12월 8일 방영",
+   "type": "방송출연",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "b1c2c23c-d85b-440f-83cd-0ee5bce07289",
+     "category": "인물",
+     "name": "Alan Jackson"
+    }
+   ],
+   "summary": "마지막 공연 특집 「Alan Jackson: The Last Show」가 NBC에서 2시간 방영되고 다음 날 피콕에 공개됨",
+   "why": null,
+   "how": "내슈빌 닛산 스타디움 공연 실황. 같은 공연 라이브 앨범은 12월 4일 발매",
+   "content": "앨런 잭슨의 마지막 공연을 담은 특집 「Alan Jackson: The Last Show」가 2026년 12월 8일 NBC에서 2시간 방영되고 다음 날 피콕에서 공개된다. 내슈빌 닛산 스타디움 공연 실황이며, 같은 공연 라이브 앨범은 12월 4일 나온다.",
+   "places": [
+    {
+     "name": "닛산 스타디움",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "NBC",
+     "id": null
+    },
+    {
+     "name": "피콕",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://variety.com/2026/music/news/alan-jacksons-farewell-concert-sets-release-1236932620/",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "5b3290b8-c66a-4d4a-acfa-2d6c8f2b0ee4",
+   "title": "국내 외국인 주민 266만 명 역대 최대",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "2025년 외국인 주민이 266만2천967명으로 4년 연속 늘어 총인구의 5.1%가 됨",
+   "why": null,
+   "how": "행정안전부 「2025 지방자치단체 외국인 주민 현황」. 전년보다 7만9천341명(3.1%) 증가, 유학생이 4만1천92명(17.6%)으로 가장 많이 늘었고 55.9%가 수도권 거주(안산·화성·시흥 순)",
+   "content": "행정안전부 '2025 지방자치단체 외국인 주민 현황'에서 2025년 외국인 주민은 266만2천967명으로 전년보다 7만9천341명(3.1%) 늘어 4년 연속 증가·역대 최대. 총인구의 5.1%이며 유학생이 4만1천92명(17.6%)으로 가장 많이 늘었고, 55.9%가 수도권에 거주(시군구별 안산·화성·시흥 순).",
+   "places": [],
+   "featuring": [
+    {
+     "name": "행정안전부",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261028085600530",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "c692de6d-9def-4cdf-ba17-4da41fc1013b",
+   "title": "내년 1월 결혼 발표",
+   "type": "결혼",
+   "date": "2026-09-07",
+   "parent": [
+    {
+     "id": "2a5a90b2-b1a2-42e5-8901-65b83dc83e18",
+     "category": "인물",
+     "name": "백진희"
+    }
+   ],
+   "summary": "소속사 매니지먼트에이엠나인이 백진희가 2027-01-23 비연예인과 결혼한다고 확인.",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.xportsnews.com/article/2192947",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "780e9d48-3cee-4c1f-9d6e-fab92d0959fa",
+   "title": "두산 3,992억 원 추가 투자 협약",
+   "type": "뉴스",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "fc139e4f-5157-4ced-a003-be4378d2ed53",
+     "category": "장소",
+     "name": "김제시"
+    }
+   ],
+   "summary": "두산이 2028년까지 3,992억 원을 들여 지평선산업단지에 동박적층판(CCL) 공장을 짓기로 협약함",
+   "why": null,
+   "how": "AI 데이터센터 초고속 통신용 CCL 생산, 완공 뒤 200여 명 신규 고용 전망. 2022년 693억 원을 포함해 두산의 김제 투자 협약 규모는 4,685억 원",
+   "content": "㈜두산이 전북도·김제시와 투자 협약을 맺고 2028년까지 3,992억 원을 들여 김제 지평선산업단지에 AI 데이터센터 초고속 통신용 동박적층판(CCL) 생산공장을 신축하기로 함. 완공 뒤 200여 명 신규 고용 전망이며, 2022년 693억 원을 포함한 두산의 김제 투자 협약 규모는 4,685억 원으로 늘어남.",
+   "places": [
+    {
+     "name": "지평선산업단지",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "두산",
+     "id": null
+    },
+    {
+     "name": "전북특별자치도",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697139",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "77439603-8df9-480c-9c37-a24d44e2042f",
+   "title": "디즈니 스토어 공개 35주년 컬렉션 발매",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "0d5b0119-1911-4a9c-992b-68cfb79f2555",
+     "category": "작품",
+     "name": "Beauty and the Beast"
+    }
+   ],
+   "summary": "디즈니 스토어(일본)가 공개 35주년 새 컬렉션을 10월 30일 전국에서 발매함",
+   "why": null,
+   "how": "일부 매장·공식 온라인 스토어는 10월 27일 먼저 판매. 봉제 키홀더·쿠션·퍼즐·콕스워스와 뤼미에르 피규어 등",
+   "content": "디즈니 스토어(일본)가 공개 35주년을 맞은 「Beauty and the Beast」 새 컬렉션을 10월 30일 전국에서 발매한다. 일부 매장과 공식 온라인 스토어에서는 10월 27일 먼저 팔기 시작했다. 봉제 키홀더·쿠션·퍼즐·콕스워스와 뤼미에르 피규어 등이 있다.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "디즈니 스토어",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/2b14c5fada28bf036d24efa3c2da9869c8dda22e",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "f2c11557-cb61-4c1c-ba42-4b6c5d9edbd4",
+   "title": "멜라니 린스키, 에린 패터슨 역 주연 확정",
+   "type": "뉴스",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "a674a742-bd6b-4420-812c-d401a226cb29",
+     "category": "작품",
+     "name": "Mushroom Murders"
+    }
+   ],
+   "summary": "파라마운트+가 호주 독버섯 살인 사건을 다룬 6부작 한정 시리즈 제작을 확정함",
+   "why": null,
+   "how": "멜라니 린스키가 에린 패터슨 역 주연 겸 총괄 프로듀서. 다이나 리드가 6회 전부 연출, 식사부터 체포까지 97일을 다룸. 공개일 미정",
+   "content": "파라마운트+가 호주 독버섯 살인 사건을 다룬 6부작 한정 시리즈 「Mushroom Murders」 제작을 확정했고, 멜라니 린스키가 에린 패터슨 역으로 주연하며 총괄 프로듀서도 맡는다. 다이나 리드가 6회 전부를 연출하고, 식사부터 체포까지 97일을 다룬다. 공개일은 정해지지 않았다.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "Melanie Lynskey",
+     "id": null
+    },
+    {
+     "name": "파라마운트+",
+     "id": null
+    },
+    {
+     "name": "다이나 리드",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://variety.com/2026/tv/news/melanie-lynskey-erin-patterson-mushroom-murders-series-1236932452/",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "e374f6dc-2bba-44bb-ab4a-65f458d8cb20",
+   "title": "보우소나루 의원, 여권 제출 명령 어기고 미국행",
+   "type": "뉴스",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "375d6f29-1bb3-44e6-ad7c-d17a731b60c2",
+     "category": "국가",
+     "name": "Brazil"
+    }
+   ],
+   "summary": "플라비우 보우소나루 상원의원이 대법원의 여권 제출 명령을 어기고 미국으로 향함",
+   "why": "자금세탁 의혹 수사와 관련해 대법원이 24시간 내 여권 제출을 명령",
+   "how": "로이터 10-27(현지) 보도. 여권은 무효화된 것으로 전해졌고, 연방경찰은 정규 출입국 심사 기록이 없다고 밝힘",
+   "content": "10-25 대선에서 룰라 대통령에게 진 플라비우 보우소나루 상원의원(자이르 보우소나루 전 대통령 장남)이 자금세탁 의혹 수사와 관련한 대법원의 24시간 내 여권 제출 명령을 이행하지 않고 미국으로 향했다고 로이터가 10-27(현지) 보도. 여권은 무효화된 것으로 전해졌고, 연방경찰은 정규 출입국 심사 기록이 없다고 밝힘.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "플라비우 보우소나루",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261028006300072",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "36b3204d-4d9a-4658-a29d-832e133bba22",
+   "title": "본 예고편 공개, 12월 3일 공개",
+   "type": "새 영상",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "8d74a06f-424c-45a0-be9d-eadb4a157aaf",
+     "category": "작품",
+     "name": "Pride and Prejudice"
+    }
+   ],
+   "summary": "넷플릭스가 6부작 시리즈의 본 예고편을 공개함",
+   "why": null,
+   "how": "에마 코린(엘리자베스 베넷)·잭 로든(다아시) 주연, 올리비아 콜먼·루퍼스 슈얼 출연. 2026년 12월 3일 넷플릭스 공개",
+   "content": "넷플릭스가 6부작 시리즈 「Pride and Prejudice」의 예고편을 공개했다. 에마 코린이 엘리자베스 베넷, 잭 로든이 다아시를 맡고 올리비아 콜먼·루퍼스 슈얼이 출연한다. 2026년 12월 3일 넷플릭스에서 공개한다.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "Emma Corrin",
+     "id": null
+    },
+    {
+     "name": "Jack Lowden",
+     "id": null
+    },
+    {
+     "name": "Netflix",
+     "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
+    },
+    {
+     "name": "올리비아 콜먼",
+     "id": null
+    },
+    {
+     "name": "루퍼스 슈얼",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.hollywoodreporter.com/tv/tv-news/netlix-pride-and-prejudice-trailer-emma-corrin-jack-lowden-1236741806/",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "c4f37fb0-0f8a-45ca-9b79-ffd4fd7d773b",
+   "title": "북항 돔 아레나 유치 의향서 제출",
+   "type": "뉴스",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d",
+     "category": "장소",
+     "name": "부산광역시"
+    }
+   ],
+   "summary": "문체부 돔구장 후보지 공모에 북항 랜드마크 부지 5만 석 이상 돔 아레나 유치 의향서를 냄",
+   "why": null,
+   "how": "연면적 최소 13만㎡. 참여 지자체는 12-08까지 사업 제안서 제출, 정부는 연내 최종 후보지 발표 예정",
+   "content": "부산시가 문화체육관광부의 스포츠·공연 복합형 돔구장 건립사업 후보지 공모에 북항 랜드마크 부지 5만 석 이상(연면적 최소 13만㎡) 돔 아레나 유치 의향서를 제출. 공모 참여 지자체는 12-08까지 사업 제안서를 내야 하며 정부는 연내 최종 후보지를 발표할 예정.",
+   "places": [
+    {
+     "name": "북항",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "문화체육관광부",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697149",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "5f229058-75a4-408c-be8d-9966b3e0f841",
+   "title": "사내 모바일 시스템 해킹으로 개인정보 유출",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "d8074be7-855c-4525-859f-432e584abaa8",
+     "category": "단체",
+     "name": "빗썸"
+    }
+   ],
+   "summary": "외주로 운영하는 사내 모바일 그룹웨어에 외부 비인가자가 접근해 개인정보가 유출됨",
+   "why": null,
+   "how": "10-27 인지해 한국인터넷진흥원(KISA)·개인정보보호위원회에 신고. 회원 정보 포함 가능성을 열어 두고 유출 범위·항목 분석 중",
+   "content": "빗썸이 10-27 외주로 운영하는 사내 모바일 그룹웨어 시스템에서 외부 비인가자의 비정상 접근으로 개인정보가 유출된 사실을 인지하고 한국인터넷진흥원(KISA)·개인정보보호위원회에 신고. 회원 정보 포함 가능성을 열어 두고 정확한 유출 범위와 항목을 분석 중.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "한국인터넷진흥원",
+     "id": null
+    },
+    {
+     "name": "개인정보보호위원회",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.fnnews.com/news/202610280934420293",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "bbf4f559-993e-4a81-87b3-39f0836d831d",
+   "title": "새 시즌 '대탈출: 도시괴담' 첫 공개",
+   "type": "시즌 공개",
+   "date": "2026-12-02",
+   "parent": [
+    {
+     "id": "72d2b79c-0a75-430e-81fe-32be57aa98ae",
+     "category": "작품",
+     "name": "대탈출"
+    }
+   ],
+   "summary": "원년 멤버 김종민·신동이 돌아오고 세븐틴 승관이 새로 합류하며 강호동은 불참함",
+   "why": null,
+   "how": "티빙 오리지널, 12-02 오후 6시 첫 공개. 김동현·유병재·고경표도 출연",
+   "content": "티빙 오리지널 '대탈출: 도시괴담'이 12-02 오후 6시 첫 공개. 원년 멤버 김종민·신동이 돌아오고 세븐틴 승관이 새로 합류해 김동현·유병재·고경표와 출연하며, 강호동은 이번 시즌에 불참.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "티빙",
+     "id": "a052d21c-bdec-42bb-8c9b-388a1f29e4cb"
+    },
+    {
+     "name": "승관",
+     "id": "d433e15c-a1fb-4153-a955-a359a95532c4"
+    },
+    {
+     "name": "신동",
+     "id": "3eaf2372-f69b-4a0f-83b0-723d4d168932"
+    },
+    {
+     "name": "김종민",
+     "id": null
+    },
+    {
+     "name": "세븐틴",
+     "id": "4aeba55e-5792-4ce9-b50a-ef2ff3d98e72"
+    },
+    {
+     "name": "김동현",
+     "id": null
+    },
+    {
+     "name": "유병재",
+     "id": null
+    },
+    {
+     "name": "고경표",
+     "id": null
+    },
+    {
+     "name": "강호동",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261028042100005",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "9313dbdb-6a1f-4366-a25c-1e041450b562",
+   "title": "소아응급 전문의 7명 사직 의사",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "ae6cea80-d9ca-429a-873d-0fd2c95956a4",
+     "category": "장소",
+     "name": "아주대학교병원"
+    }
+   ],
+   "summary": "소아응급의학과 전문의 9명 가운데 7명이 병원에 사직 의사를 전함",
+   "why": "경기남부경찰청이 7월 환아 사망 사건과 관련해 9-30 소아전문응급의료센터 등을 압수수색",
+   "how": "병원은 실제 사직서 제출·수리나 그만둔 전문의는 아직 없다고 밝힘",
+   "content": "경기남부경찰청이 7월 환아 사망 사건과 관련해 9-30 소아전문응급의료센터 등을 압수수색한 뒤, 센터 소아응급의학과 전문의 9명 가운데 7명이 병원에 사직 의사를 전달. 병원은 실제 사직서 제출·수리나 그만둔 전문의는 아직 없다고 밝힘.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "경기남부경찰청",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261028059400061",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "76c7fcca-6b24-4864-ae88-e8b6be1a1567",
+   "title": "원피스 콜라보 예고",
+   "type": "새 영상",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "4190f527-4189-44c5-bd6a-63b37427cbc9",
+     "category": "게임",
+     "name": "Fortnite"
+    }
+   ],
+   "summary": "에픽게임즈가 고잉 메리호가 나오는 원피스 콜라보 예고 영상을 공개함",
+   "why": null,
+   "how": "미니 시즌 「Treasure Hunters」는 2026년 11월 1일 시작. 등장 캐릭터·아이템은 아직 발표 안 됨",
+   "content": "에픽게임즈가 포트나이트와 원피스의 콜라보를 예고하는 영상을 공개했다. 영상에는 밀짚모자 해적단의 배 고잉 메리호가 나오고, 미니 시즌 「Treasure Hunters」는 2026년 11월 1일 시작한다. 등장 캐릭터와 아이템은 아직 발표되지 않았다.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "One Piece",
+     "id": null
+    },
+    {
+     "name": "에픽게임즈",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://crunchyroll.com/news/latest/2026/10/27/fortnite-teases-one-piece-collab-in-treasure-hunters-trailer",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "2b6eec49-8141-4bc6-8fb9-a84bf74dc108",
+   "title": "인앱결제 강제로 과징금 429억 원",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "b2a52571-fe91-4107-a28c-8883139cb10b",
+     "category": "단체",
+     "name": "Google"
+    }
+   ],
+   "summary": "방송미디어통신위원회가 인앱결제 강제·앱 심사 부당 지연으로 구글에 429억 원 과징금을 의결함",
+   "why": "전기통신사업법 위반",
+   "how": "10-28 제46차 전체회의. 애플 208억1천만 원 포함 총 637억1천만 원. 2021년 「인앱결제 강제 금지법」 뒤 첫 제재로 외부결제 허용·제3자 결제 수수료 조정 명령, 3개월 안에 개선해야 함. 형사고발은 안 함",
+   "content": "방송미디어통신위원회가 10-28 제46차 전체회의에서 인앱결제 강제·앱 심사 부당 지연 등 전기통신사업법 위반으로 구글에 429억 원, 애플에 208억1천만 원(총 637억1천만 원) 과징금을 의결. 2021년 '인앱결제 강제 금지법' 도입 뒤 첫 제재로, 앱 내 외부결제 허용·제3자 결제 수수료 조정을 명령했고 3개월 안에 개선을 마쳐야 함. 형사고발은 하지 않기로 함.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "Apple",
+     "id": "a99fdc75-b250-4d63-b983-9d593b990b0d"
+    },
+    {
+     "name": "방송미디어통신위원회",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261028139252017",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "9b70c494-3826-4c05-97b8-bf3b65b37876",
+   "title": "일본 개봉 2027년 1월 8일 확정",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "b059b1a4-4d53-4d3c-88e3-ee1f43710df3",
+     "category": "작품",
+     "name": "The Death of Robin Hood"
+    }
+   ],
+   "summary": "휴 잭맨 주연작이 『ロビン・フッドの死』라는 제목으로 일본에서 개봉함",
+   "why": null,
+   "how": "마이클 사노스키 감독·각본, 조디 코머·빌 스카스가드·노아 주프 출연",
+   "content": "휴 잭맨 주연 영화 「The Death of Robin Hood」(일본 제목 『ロビン・フッドの死』)가 일본에서 2027년 1월 8일 개봉한다. 마이클 사노스키가 감독·각본을 맡았고 조디 코머·빌 스카스가드·노아 주프가 출연한다.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "Hugh Jackman",
+     "id": null
+    },
+    {
+     "name": "마이클 사노스키",
+     "id": null
+    },
+    {
+     "name": "조디 코머",
+     "id": null
+    },
+    {
+     "name": "빌 스카스가드",
+     "id": null
+    },
+    {
+     "name": "노아 주프",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/cd94e3d5044968e9584fee35dcaaa288cd423b12",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "f5c12b93-aca4-4588-985b-6da5cde58803",
+   "title": "일본판 성우에 이쿠타 토마 · 하타 메이",
+   "type": "행사",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "730f84ab-d5f8-414e-b6bf-fd7af9792c2c",
+     "category": "작품",
+     "name": "Hexed"
+    }
+   ],
+   "summary": "이쿠타 토마가 마녀의 고양이 비프 목소리로 첫 성우 일을 맡고 하타 메이도 함께함",
+   "why": null,
+   "how": "10월 28일 도쿄 시부야 모디 핼러윈 행사에서 발표. 일본 제목 『ビリーと魔法のはじまり』, 일본 12월 4일 개봉",
+   "content": "디즈니 애니메이션 「Hexed」(일본 제목 『ビリーと魔法のはじまり』, 일본 12월 4일 개봉)의 일본판 성우 발표 핼러윈 행사가 10월 28일 도쿄 시부야 모디에서 열렸다. 하타 메이와 함께 이쿠타 토마가 마녀의 고양이 비프 목소리를 맡는다고 발표됐고, 이쿠타에게는 첫 성우 일이다.",
+   "places": [
+    {
+     "name": "시부야 모디",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Toma Ikuta",
+     "id": null
+    },
+    {
+     "name": "Mei Hata",
+     "id": null
+    },
+    {
+     "name": "Disney",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/5ad67aa768b68560c81b30ac178e020ea6ea1ae3",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "20133e7e-8a56-4dee-83bd-d1f608e9dcc0",
+   "title": "전 직원 산재 녹취 공개·재반박",
+   "type": "논란",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "c08bdf11-2ecc-4182-880d-a0801daf24a7",
+     "category": "인물",
+     "name": "헤이지니"
+    }
+   ],
+   "summary": "사측이 근로복지공단 의견서에 「정말 아픈 사람이 맞는지 의심스럽다」고 적었다고 인정하는 녹취가 공개됨",
+   "why": null,
+   "how": "10-27 한 유튜브 채널에 전 직원 A씨와의 통화 녹취 공개. A씨는 10-28 원천징수영수증을 공개하며 연봉 인상은 2,000만 원에서 2,100만 원으로 5%였다고 사측의 「25% 인상」 해명을 재반박",
+   "content": "10-27 한 유튜브 채널에 헤이지니와 전 직원 A씨의 통화 녹취가 공개돼, 사측이 근로복지공단 의견서에 '정말 아픈 사람이 맞는지 의심스럽다'는 문구를 적었느냐는 물음에 헤이지니가 그렇다고 답한 내용이 담김. A씨는 10-28 원천징수영수증 등을 공개하며 연봉 인상은 2,000만 원에서 2,100만 원으로 5%였다고 사측의 '25% 인상' 해명을 재반박.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "근로복지공단",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261028_0003843766",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "ba3bf06b-919e-4845-8818-8052f351dd46",
+   "title": "정부, 시위 막으려 SNS 차단 검토",
+   "type": "뉴스",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "8fd447de-086d-4ad9-b287-af85b002c7c9",
+     "category": "국가",
+     "name": "France"
+    }
+   ],
+   "summary": "내무부가 10-24 전국 시위를 앞두고 통신업체에 SNS·모바일 인터넷 차단을 타진했다가 무산됨",
+   "why": "9월 고등학생 교육환경 개선 요구에서 시작한 시위가 전국으로 번짐",
+   "how": "폴리티코 유럽판 10-27(현지) 보도. 르코르뉘 총리가 틱톡·인스타그램·스냅챗·X에 차단 준비를 요청하는 서한을 보냄. 기술·법적 문제로 무산",
+   "content": "폴리티코 유럽판은 프랑스 내무부가 10-24 전국 시위를 앞두고 통신업체에 특정 지역의 소셜미디어·모바일 인터넷 접속 차단을 타진했고, 르코르뉘 총리가 틱톡·인스타그램·스냅챗·X에 차단 준비를 요청하는 서한을 보냈다고 10-27(현지) 보도. 기술·법적 문제로 무산됨. 시위는 9월 고등학생 교육환경 개선 요구에서 시작해 전국 시위로 번졌음.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "르코르뉘",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261028000700082",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "720ea206-9cd4-44ba-97db-28efdd76518a",
+   "title": "제니퍼 로런스, 캣니스 복귀 직접 확인",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "3de26a28-8764-4606-a247-d10f70076b83",
+     "category": "작품",
+     "name": "The Hunger Games: Sunrise on the Reaping"
+    }
+   ],
+   "summary": "제니퍼 로런스가 팟캐스트에서 11년 만에 캣니스 역으로 이 영화에 출연했다고 밝힘",
+   "why": null,
+   "how": "「Call Her Daddy」에서 「믿을 수 없었다」, 「아름다웠다」고 말함. 조시 허처슨(피타)·우디 해럴슨(헤이미치)도 출연. 라이언스게이트 배급, 2026년 11월 20일 개봉",
+   "content": "제니퍼 로런스가 팟캐스트 「Call Her Daddy」에서 11년 만에 캣니스 에버딘 역으로 이 영화에 출연했다고 밝히며 「믿을 수 없었다」, 「아름다웠다」고 말했다. 조시 허처슨(피타)과 우디 해럴슨(헤이미치)도 나온다고 말했다. 영화는 라이언스게이트 배급으로 2026년 11월 20일 개봉한다.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "Jennifer Lawrence",
+     "id": null
+    },
+    {
+     "name": "조시 허처슨",
+     "id": null
+    },
+    {
+     "name": "우디 해럴슨",
+     "id": null
+    },
+    {
+     "name": "라이언스게이트",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://variety.com/2026/film/news/jennifer-lawrence-katniss-hunger-games-sunrise-on-the-reaping-1236933329/",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "8f6b1eed-c48a-46d0-9164-c18b9e00c003",
+   "title": "제작발표회",
+   "type": "행사",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "a36a1ea1-8cb6-4d43-ad7b-d9a2cfbdfd02",
+     "category": "작품",
+     "name": "라이어"
+    }
+   ],
+   "summary": "MBC 상암 사옥에서 유연석·서현진·조영민 감독이 참석한 제작발표회가 열림",
+   "why": null,
+   "how": "MBC 새 금토드라마(극본 백재영). 두 배우는 2016년 「낭만닥터 김사부」 뒤 10년 만에 다시 함께함. 첫 방송 10-30 오후 9시 50분",
+   "content": "MBC 새 금토드라마 '라이어'(극본 백재영·연출 조영민) 제작발표회가 10-28 서울 마포구 MBC 상암 사옥에서 열려 유연석·서현진·조영민 감독이 참석. 두 배우는 2016년 '낭만닥터 김사부' 뒤 10년 만에 다시 함께하며, 첫 방송은 10-30 오후 9시 50분.",
+   "places": [
+    {
+     "name": "MBC 상암 사옥",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "MBC",
+     "id": null
+    },
+    {
+     "name": "유연석",
+     "id": null
+    },
+    {
+     "name": "서현진",
+     "id": null
+    },
+    {
+     "name": "조영민",
+     "id": null
+    },
+    {
+     "name": "백재영",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.news1.kr/entertain/broadcast-tv/6334988",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "714499d0-6bc3-4a85-b912-5993a48affc3",
+   "title": "직접 작사한 신곡 'Perfect World' 발매",
+   "type": "싱글",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "9b741089-796c-4175-91d9-c3ca3e929e54",
+     "category": "인물",
+     "name": "거미"
+    }
+   ],
+   "summary": "거미가 10-28 오후 6시 직접 작사한 새 싱글 '퍼펙트 월드(Perfect World)'를 발매(소속사 아메바컬쳐). 11월부터 전국 투어 'LOVE'를 진행.",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/music/2026/10/28/HBQWCZRTGQ3WGMRQGI3TMZJZMU/",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "759e4c0f-05c0-4f61-893a-ba96d40c14f7",
+   "title": "첫 터치스크린 맥북 프로 발표",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "a99fdc75-b250-4d63-b983-9d593b990b0d",
+     "category": "단체",
+     "name": "Apple"
+    }
+   ],
+   "summary": "첫 터치스크린 맥 「PROLED XDR 디스플레이 탑재 MacBook Pro」(14·16인치, M5 Pro·M5 Max)를 내놓음",
+   "why": null,
+   "how": "14인치 M5 Pro 모델 2,899달러(일본 49만 9,800엔)부터. 10월 28일 사전 주문, 11월 6일 출시",
+   "content": "애플이 첫 터치스크린 맥인 「PROLED XDR 디스플레이 탑재 MacBook Pro」(14·16인치, M5 Pro·M5 Max)를 발표했다. 14인치 M5 Pro 모델이 2,899달러(일본 49만 9,800엔)부터이고, 10월 28일 사전 주문을 받아 11월 6일 출시한다.",
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://game.watch.impress.co.jp/docs/news/2152069.html",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "d8291944-017f-4f49-9477-3dc4f3b44e44",
+   "title": "춘천역세권 개발 용역 발주",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589",
+     "category": "장소",
+     "name": "춘천시"
+    }
+   ],
+   "summary": "춘천역·하수처리장 이전 부지 42만㎡ 역세권 개발의 구역 지정·계획 수립 용역(11억 원)을 발주함",
+   "why": null,
+   "how": "사업비 4,700억 원. 춘천도시공사가 주도하고 국가철도공단과 사업비 분담, 2031년 완공 목표",
+   "content": "춘천시가 춘천역과 하수처리장 이전 부지 42만㎡에 사업비 4,700억 원을 들이는 역세권 개발사업의 개발구역 지정·개발계획 수립 용역(11억 원)을 10월 발주. 춘천도시공사가 주도하고 국가철도공단과 사업비를 나눠 부담하며 2031년 완공이 목표.",
+   "places": [
+    {
+     "name": "춘천역",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "춘천도시공사",
+     "id": null
+    },
+    {
+     "name": "국가철도공단",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697099",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "ae65390c-a2db-4dd6-8dd4-202915d0bb7c",
+   "title": "톨레도 인근 고속열차 추돌 사고",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "42091f3e-92cd-4a3a-8452-a46e96b84f30",
+     "category": "국가",
+     "name": "Spain"
+    }
+   ],
+   "summary": "렌페 고속열차가 선로에 서 있던 이리오 열차 후미를 들이받아 최소 68명이 숨짐",
+   "why": "교통장관은 신호 시스템 오류 뒤 관제센터의 잘못된 운행 재개 지시를 원인으로 지목",
+   "how": "10-28 오전 8시 54분께 톨레도주 우르다 인근(마드리드 남쪽 약 120km). 두 열차 탑승 544명, 탑승 한국인 10명 중 2명 부상",
+   "content": "10-28 오전 8시 54분께 마드리드 남쪽 약 120km 톨레도주 우르다 인근에서 렌페 고속열차가 선로에 정차해 있던 이리오 열차 후미를 들이받아 최소 68명이 숨짐(카스티야라만차 지방정부, 두 열차 탑승 544명). 교통장관은 신호 시스템 오류 뒤 관제센터의 잘못된 운행 재개 지시를 원인으로 지목. 외교부는 탑승 한국인 10명 중 2명이 다쳐 병원 치료를 받았다고 밝힘.",
+   "places": [
+    {
+     "name": "Toledo",
+     "id": null
+    },
+    {
+     "name": "우르다",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "렌페",
+     "id": null
+    },
+    {
+     "name": "이리오",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261029_0003845529",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "9b3c3606-e481-4707-a1e0-cca940e55f02",
+   "title": "팜스프링스 국제영화상 뱅가드상",
+   "type": "수상",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "c316e7c4-9125-40c5-9b08-81ea2c60b566",
+     "category": "작품",
+     "name": "The Invite"
+    }
+   ],
+   "summary": "팜스프링스 국제영화제가 올리비아 와일드 감독의 「The Invite」에 뱅가드상을 주기로 함",
+   "why": null,
+   "how": "와일드·세스 로건·페넬로페 크루스·에드워드 노턴이 받음. 시상식은 2027년 1월 7일 팜스프링스 컨벤션 센터",
+   "content": "팜스프링스 국제영화제가 올리비아 와일드 감독의 「The Invite」에 뱅가드상을 준다고 발표했다. 와일드·세스 로건·페넬로페 크루스·에드워드 노턴이 받으며, 시상식은 2027년 1월 7일 팜스프링스 컨벤션 센터에서 열린다.",
+   "places": [
+    {
+     "name": "팜스프링스 컨벤션 센터",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Olivia Wilde",
+     "id": null
+    },
+    {
+     "name": "팜스프링스 국제영화제",
+     "id": null
+    },
+    {
+     "name": "세스 로건",
+     "id": null
+    },
+    {
+     "name": "페넬로페 크루스",
+     "id": null
+    },
+    {
+     "name": "에드워드 노턴",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://variety.com/2026/film/news/the-invite-vanguard-award-palm-springs-film-awards-1236932325/",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "446e77f7-c0a3-4915-a058-0ce68f0ac7b4",
+   "title": "한미 국방장관 12월 워싱턴 회담·SCM 내년 초 합의",
+   "type": "뉴스",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "강신철 국방장관과 헤그세스 미 국방장관이 첫 대면 회담에서 전작권 전환 협력에 뜻을 모음",
+   "why": null,
+   "how": "필리핀 제13차 아세안 확대 국방장관회의 계기. 12월 워싱턴에서 다시 회담하고, 전작권 전환 등을 논의할 제58차 한미안보협의회의(SCM)는 내년 초 열기로 합의",
+   "content": "강신철 국방부 장관과 피트 헤그세스 미 국방장관이 필리핀 제13차 아세안 확대 국방장관회의를 계기로 첫 대면 회담을 하고 전시작전통제권 전환이 적기에 이뤄지도록 협력하기로 함. 12월 워싱턴에서 국방장관회담을 다시 열고, 전작권 전환 등을 논의할 제58차 한미안보협의회의(SCM)는 내년 초 열기로 합의.",
+   "places": [
+    {
+     "name": "필리핀",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "강신철",
+     "id": "d37fee28-ec40-403f-8588-6b84754708e0"
+    },
+    {
+     "name": "피트 헤그세스",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697666",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "2290aeeb-6ac6-4c45-abb7-740474639993",
+   "title": "혼인신고 사실 인정",
+   "type": "결혼",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "fab4f937-821a-4b3c-bd50-219c2366da99",
+     "category": "인물",
+     "name": "승리"
+    }
+   ],
+   "summary": "그룹 빅뱅 출신 승리가 비연예인 여성과 혼인신고를 마친 법적 부부라고 밝히고, '임신해서 결혼했다'는 내용은 사실이 아니라고 함. 결혼식은 현재로서는 고려하지 않는다고 밝힘.",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newspim.com/news/view/20261028000497",
+   "source": "뉴스",
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "470496c2-e95e-4dd5-b3d0-e540de1b880d",
+   "title": "수요미식회 144회 — 국밥 · 모둠 수육",
+   "type": "방송출연",
+   "date": null,
+   "parent": [
+    {
+     "id": "788547d4-da91-4f74-95be-80b2f38ad9ee",
+     "category": "장소",
+     "name": "농민백암"
+    }
+   ],
+   "summary": "수요미식회 144회에 나왔다. 국밥과 모둠 수육을 다뤘다.",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "",
+   "source": "대표",
+   "added_at": "2026-10-29T02:51:02.760886+00:00"
+  },
+  {
+   "id": "a0bd6d3c-3e5e-4325-9e22-7053315afcdb",
+   "title": "전현무계획 3회 — 순대 · 수육",
+   "type": "방송출연",
+   "date": null,
+   "parent": [
+    {
+     "id": "788547d4-da91-4f74-95be-80b2f38ad9ee",
+     "category": "장소",
+     "name": "농민백암"
+    }
+   ],
+   "summary": "전현무계획 3회에 나왔다. 순대와 수육을 먹었다.",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "",
+   "source": "대표",
+   "added_at": "2026-10-29T02:51:02.760886+00:00"
+  },
+  {
+   "id": "bcaf5c47-905c-4901-bc8f-128c01f8f35d",
+   "title": "찾아라 맛있는 TV 570회 — 순댓국",
+   "type": "방송출연",
+   "date": null,
+   "parent": [
+    {
+     "id": "788547d4-da91-4f74-95be-80b2f38ad9ee",
+     "category": "장소",
+     "name": "농민백암"
+    }
+   ],
+   "summary": "찾아라 맛있는 TV 570회에 순댓국으로 나왔다.",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "",
+   "source": "대표",
+   "added_at": "2026-10-29T02:51:02.760886+00:00"
+  }
+ ],
+ "new_planets": [
+  {
+   "id": "b1c2c23c-d85b-440f-83cd-0ee5bce07289",
+   "name": "Alan Jackson",
+   "category": "인물",
+   "alias": "Alan Jackson; Alan Eugene Jackson; 앨런 잭슨; アラン・ジャクソン",
+   "disambig": "미국의 컨트리 가수",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Alan Eugene Jackson",
+    "name_en": "Alan Jackson",
+    "birth_date": "1958-10-17",
+    "birthplace": "Newnan, Georgia, United States",
+    "nationality": "United States",
+    "gender": "남성",
+    "occupation": "가수, 작곡가",
+    "active_years": "1987–2026",
+    "notable_works": "Chattahoochee; Livin' on Love; Where Were You (When the World Stopped Turning); It's Five O'Clock Somewhere; Remember When",
+    "website": "https://www.alanjackson.com",
+    "sns": "",
+    "summary": "미국의 컨트리 가수이자 작곡가다. 2026년 내슈빌 닛산 스타디움에서 마지막 공연을 했고, 그 실황이 2026년 12월 NBC에서 방영된다.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Alan_Jackson",
+     "https://variety.com/2026/music/news/alan-jacksons-farewell-concert-sets-release-1236932620/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q380927",
+   "links": [
+    {
+     "id": "7e2a1dff-7772-40ec-bb25-59e589a90584",
+     "category": "허브",
+     "name": "United States Singer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "0d5b0119-1911-4a9c-992b-68cfb79f2555",
+   "name": "Beauty and the Beast",
+   "category": "작품",
+   "alias": "Beauty and the Beast; 미녀와 야수; 美女と野獣",
+   "disambig": "1991년 미국 디즈니 애니메이션 영화",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "미녀와 야수",
+    "name_en": "Beauty and the Beast",
+    "medium": "애니메이션",
+    "genre": "뮤지컬 판타지",
+    "release_date": "1991-11-22",
+    "director": "Gary Trousdale, Kirk Wise",
+    "creator": "Linda Woolverton (각본)",
+    "production": "Walt Disney Feature Animation",
+    "distributor": "Buena Vista Pictures Distribution",
+    "cast": "Paige O'Hara, Robby Benson, Richard White, Jerry Orbach, David Ogden Stiers, Angela Lansbury",
+    "source_material": "가브리엘수잔 바르보 드 빌뇌브의 동화 「미녀와 야수」",
+    "platform": "극장",
+    "synopsis": "마법에 걸려 야수가 된 왕자가 장미 꽃잎이 다 지기 전에 벨의 사랑을 얻어야 저주가 풀린다.",
+    "summary": "월트 디즈니 장편 애니메이션 영화로 1991년 11월 22일 미국에서 개봉했다. 게리 트루즈데일과 커크 와이즈가 감독했다.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film)",
+     "https://www.wikidata.org/wiki/Q179673"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q179673",
+   "links": [
+    {
+     "id": "3528df46-589d-4a05-9910-c4f66ec53ae8",
+     "category": "허브",
+     "name": "United States Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "5faea39b-0a39-4e05-86ac-868b40d1648d",
+   "name": "Blossom",
+   "category": "작품",
+   "alias": "Blossom; ブラッサム; 블라섬",
+   "disambig": "2026년 일본 NHK 아침 드라마",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "name_ko": "블라섬",
+    "name_en": "Blossom",
+    "medium": "드라마",
+    "genre": "연속 TV 소설(아침 드라마)",
+    "release_date": "2026-09-28",
+    "director": "Makoto Bonkobara 외",
+    "creator": "Tsuyoshi Sakurai, Yoshiko Komatsu (각본)",
+    "production": "NHK",
+    "distributor": "",
+    "cast": "Shizuka Ishibashi, Mariko Kaga, Takako Matsu, Ryōko Kuninaka, Atsuro Watabe, Daichi Kaneko, Kenichi Endo, Arata Iura",
+    "source_material": "소설가 우노 지요를 모델로 한 창작",
+    "platform": "NHK 종합",
+    "synopsis": "이와쿠니에서 자란 하노 다마가 어려움을 지나 소설가가 되는 이야기.",
+    "summary": "소설가 우노 지요를 모델로 한 NHK 연속 TV 소설로 이시바시 시즈카가 주인공 다마를 맡았다. 2026년 9월 28일 방송을 시작했고 한 회 15분이다.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Blossom_(Japanese_TV_series)",
+     "https://www.wikidata.org/wiki/Q135932235"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q135932235",
+   "links": [
+    {
+     "id": "8bffbfb1-e40d-4a24-aa8b-8687a513562f",
+     "category": "허브",
+     "name": "Japan Drama",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "4190f527-4189-44c5-bd6a-63b37427cbc9",
+   "name": "Fortnite",
+   "category": "게임",
+   "alias": "Fortnite; 포트나이트; フォートナイト",
+   "disambig": "미국 에픽게임즈의 온라인 게임",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "포트나이트",
+    "name_en": "Fortnite",
+    "genre": "배틀로열, 생존, 샌드박스",
+    "developer": "Epic Games",
+    "publisher": "Epic Games",
+    "release_date": "2017-07-25",
+    "platform": "Windows, macOS, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2, iOS, Android",
+    "age_rating": "",
+    "business_model": "무료 플레이",
+    "series": "",
+    "summary": "에픽게임즈가 만든 온라인 게임으로 배틀로열·크리에이티브 등 여러 모드가 있다. 2017년 「세이브 더 월드」 얼리 액세스로 처음 나왔다.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Fortnite",
+     "https://www.wikidata.org/wiki/Q349375"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q349375",
+   "links": [
+    {
+     "id": "c9379af8-303d-4e30-8e92-0411e45389f5",
+     "category": "허브",
+     "name": "United States Game",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "b6d5ce83-226b-427a-83b5-1c39bc82e467",
+   "name": "Grand Theft Auto VI",
+   "category": "게임",
+   "alias": "Grand Theft Auto VI; GTA 6; GTA VI; 그랜드 테프트 오토 VI; グランド・セフト・オートVI",
+   "disambig": "2026년 미국 록스타게임스 게임",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "그랜드 테프트 오토 VI",
+    "name_en": "Grand Theft Auto VI",
+    "genre": "액션 어드벤처",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "release_date": "2026-11-19",
+    "platform": "PlayStation 5, Xbox Series X/S",
+    "age_rating": "",
+    "business_model": "유료(일반판 79.99달러)",
+    "series": "Grand Theft Auto",
+    "summary": "록스타게임스가 만든 GTA 시리즈 여섯째 본편이다. 2026년 11월 19일 PS5와 Xbox Series X/S로 나온다.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+     "https://www.wikidata.org/wiki/Q23648408"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q23648408",
+   "links": [
+    {
+     "id": "c9379af8-303d-4e30-8e92-0411e45389f5",
+     "category": "허브",
+     "name": "United States Game",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "730f84ab-d5f8-414e-b6bf-fd7af9792c2c",
+   "name": "Hexed",
+   "category": "작품",
+   "alias": "Hexed; ビリーと魔法のはじまり; 헥스: 마녀왕국",
+   "disambig": "2026년 디즈니 애니메이션 영화",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "헥스: 마녀왕국",
+    "name_en": "Hexed",
+    "medium": "애니메이션",
+    "genre": "판타지 코미디",
+    "release_date": "2026-11-25",
+    "director": "Fawn Veerasunthorn, Jason Hand",
+    "creator": "Jared Bush, Dana Ledoux Miller, Jon Robin Baitz (각본)",
+    "production": "Walt Disney Animation Studios",
+    "distributor": "Walt Disney Studios Motion Pictures",
+    "cast": "Hailee Steinfeld, Rashida Jones, Jodie Foster, Walton Goggins",
+    "source_material": "",
+    "platform": "극장",
+    "synopsis": "학교에서 쫓겨난 10대 빌리가 마법을 알게 되어 마녀들의 세계 「헥세」로 들어가 엄마와 함께 집안의 비밀을 쫓는다.",
+    "summary": "월트 디즈니 애니메이션 스튜디오가 만든 2026년 영화로 미국에서 11월 25일, 일본에서 12월 4일 개봉한다. 일본 제목은 『ビリーと魔法のはじまり』다.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Hexed_(2026_film)",
+     "https://news.yahoo.co.jp/articles/5ad67aa768b68560c81b30ac178e020ea6ea1ae3"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q136027913",
+   "links": [
+    {
+     "id": "3528df46-589d-4a05-9910-c4f66ec53ae8",
+     "category": "허브",
+     "name": "United States Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "b2482f7b-08d6-44f5-a760-e2c90578bfdc",
+   "name": "John Carpenter",
+   "category": "인물",
+   "alias": "John Carpenter; 존 카펜터; ジョン・カーペンター",
+   "disambig": "미국의 영화감독",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "John Carpenter",
+    "name_en": "John Carpenter",
+    "birth_date": "1948-01-16",
+    "birthplace": "Carthage, New York, United States",
+    "nationality": "United States",
+    "gender": "남성",
+    "occupation": "영화감독, 작곡가, 배우",
+    "active_years": "",
+    "notable_works": "Halloween (1978); The Fog; Escape from New York; The Thing (1982); Christine; Starman",
+    "website": "",
+    "sns": "",
+    "summary": "미국의 영화감독이자 작곡가로 공포·SF 영화로 알려졌다. 대표작은 「Halloween」(1978), 「The Thing」(1982) 등이며 자기 영화 음악을 직접 짓는다.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/John_Carpenter",
+     "https://www.wikidata.org/wiki/Q95008"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q95008",
+   "links": [
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "65061b39-9651-47fd-87e6-c81c02e16657",
+   "name": "Kathleen Kennedy",
+   "category": "인물",
+   "alias": "Kathleen Kennedy; 캐슬린 케네디; キャスリーン・ケネディ",
+   "disambig": "미국의 영화 제작자",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Kathleen Kennedy",
+    "name_en": "Kathleen Kennedy",
+    "birth_date": "1953-06-05",
+    "birthplace": "Berkeley, California, United States",
+    "nationality": "United States",
+    "gender": "여성",
+    "occupation": "영화 제작자",
+    "active_years": "1979–",
+    "notable_works": "E.T. the Extra-Terrestrial; Jurassic Park; Schindler's List; Star Wars: The Force Awakens; Indiana Jones and the Dial of Destiny",
+    "website": "",
+    "sns": "",
+    "summary": "미국의 영화 제작자로, 앰블린 엔터테인먼트를 공동 설립했고 2012년부터 2026년까지 루카스필름 사장을 지냈다. 2026년 10월 LA28 올림픽·패럴림픽 개·폐회식·콘텐츠 총괄을 맡았다.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Kathleen_Kennedy_(producer)",
+     "https://la28.org/en/newsroom/la28-adds-legendary-producer-kathleen-kennedy-as-head-of-ceremonies-and-content.html"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q237207",
+   "links": [
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "a674a742-bd6b-4420-812c-d401a226cb29",
+   "name": "Mushroom Murders",
+   "category": "작품",
+   "alias": "Mushroom Murders; 머시룸 머더스",
+   "disambig": "파라마운트+ 호주 한정 시리즈",
+   "country_tags": [
+    "Australia"
+   ],
+   "fields": {
+    "name_ko": "머시룸 머더스",
+    "name_en": "Mushroom Murders",
+    "medium": "드라마",
+    "genre": "실화 범죄 드라마",
+    "release_date": "",
+    "director": "Daina Reid",
+    "creator": "Anya Beyersdorf, Daina Reid, Deb Balderstone",
+    "production": "Soapbox Pictures",
+    "distributor": "",
+    "cast": "Melanie Lynskey",
+    "source_material": "호주 에린 패터슨 독버섯 살인 사건(실화)",
+    "platform": "Paramount+",
+    "synopsis": "독버섯이 든 식사부터 에린 패터슨이 체포되기까지 97일을 다룬다.",
+    "summary": "호주 빅토리아주 레옹가타 독버섯 살인 사건을 다룬 파라마운트+ 6부작 한정 시리즈다. 멜라니 린스키가 에린 패터슨 역으로 주연하고 다이나 리드가 연출한다. 공개일은 정해지지 않았다.",
+    "sources": [
+     "https://variety.com/2026/tv/news/melanie-lynskey-erin-patterson-mushroom-murders-series-1236932452/",
+     "https://au.rollingstone.com/tv/tv-news/melanie-lynskey-erin-patterson-mushroom-murders-series-102787/"
+    ]
+   },
+   "source_url": "https://variety.com/2026/tv/news/melanie-lynskey-erin-patterson-mushroom-murders-series-1236932452/",
+   "links": [
+    {
+     "id": "696067df-0fcb-4e0e-9071-1132729e6548",
+     "category": "허브",
+     "name": "Australia Drama",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "a489f167-83be-4a43-a2af-c99efa2fd3ca",
+   "name": "P4C",
+   "category": "단체",
+   "alias": "P4C",
+   "disambig": "일본의 음악 유닛",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "real_name": "P4C",
+    "name_en": "P4C",
+    "org_type": "음악그룹",
+    "formation_date": "2022",
+    "summary": "2022년 가을 프로젝트로 시작한 일본 음악 유닛으로, 오사카의 니시나카지마 키나코가 이끈다. 멤버가 여러 번 바뀌었고 지금은 니시나카지마 키나코와 키라키라모모짱 두 사람이다.",
+    "sources": [
+     "https://news.yahoo.co.jp/articles/6ec4b35dda2e4ac956bd189368e19568e431e936"
+    ]
+   },
+   "source_url": "https://news.yahoo.co.jp/articles/6ec4b35dda2e4ac956bd189368e19568e431e936",
+   "links": [
+    {
+     "id": "ea9ba2ee-8781-4076-9d7d-736040917f47",
+     "category": "허브",
+     "name": "Japan Singer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "8d74a06f-424c-45a0-be9d-eadb4a157aaf",
+   "name": "Pride and Prejudice",
+   "category": "작품",
+   "alias": "Pride and Prejudice; 오만과 편견; 高慢と偏見",
+   "disambig": "2026년 영국 넷플릭스 드라마",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "name_ko": "오만과 편견",
+    "name_en": "Pride and Prejudice",
+    "medium": "드라마",
+    "genre": "시대극",
+    "release_date": "2026-12-03",
+    "director": "Euros Lyn",
+    "creator": "Dolly Alderton (각본)",
+    "production": "Lookout Point",
+    "distributor": "Netflix",
+    "cast": "Emma Corrin, Jack Lowden, Olivia Colman, Rufus Sewell, Freya Mavor",
+    "source_material": "제인 오스틴 소설 『Pride and Prejudice』(1813)",
+    "platform": "Netflix",
+    "synopsis": "엘리자베스 베넷과 다아시의 이야기를 다시 그린 6부작.",
+    "summary": "제인 오스틴 소설을 옮긴 넷플릭스 6부작 시리즈로, 영국 룩아웃 포인트가 만들었다. 에마 코린과 잭 로든이 주연하며 2026년 12월 3일 공개한다.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Pride_and_Prejudice_(2026_TV_series)",
+     "https://www.hollywoodreporter.com/tv/tv-news/netlix-pride-and-prejudice-trailer-emma-corrin-jack-lowden-1236741806/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q133861919",
+   "links": [
+    {
+     "id": "9a5660d7-f5b7-4274-8205-030bf915aed7",
+     "category": "허브",
+     "name": "United Kingdom Drama",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "b059b1a4-4d53-4d3c-88e3-ee1f43710df3",
+   "name": "The Death of Robin Hood",
+   "category": "작품",
+   "alias": "The Death of Robin Hood; ロビン・フッドの死; 로빈 후드의 죽음",
+   "disambig": "2026년 미국 영화",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "로빈 후드의 죽음",
+    "name_en": "The Death of Robin Hood",
+    "medium": "영화",
+    "genre": "스릴러",
+    "release_date": "2026-06-19",
+    "director": "Michael Sarnoski",
+    "creator": "Michael Sarnoski (각본)",
+    "production": "Lyrical Media, Ryder Picture Company",
+    "distributor": "A24",
+    "cast": "Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett, Noah Jupe",
+    "source_material": "작자 미상 발라드 「Robin Hood's Death」",
+    "platform": "극장",
+    "synopsis": "지난날의 살인에 시달리는 늙은 로빈 후드가 다친 뒤 수녀원에 숨어 지낸다.",
+    "summary": "휴 잭맨이 늙은 로빈 후드를 연기한 마이클 사노스키 감독 영화로, 미국에서 2026년 6월 19일 A24 배급으로 개봉했다. 일본에서는 2027년 1월 8일 개봉한다.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/The_Death_of_Robin_Hood",
+     "https://news.yahoo.co.jp/articles/cd94e3d5044968e9584fee35dcaaa288cd423b12"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q125960231",
+   "links": [
+    {
+     "id": "3528df46-589d-4a05-9910-c4f66ec53ae8",
+     "category": "허브",
+     "name": "United States Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "3de26a28-8764-4606-a247-d10f70076b83",
+   "name": "The Hunger Games: Sunrise on the Reaping",
+   "category": "작품",
+   "alias": "The Hunger Games: Sunrise on the Reaping; Sunrise on the Reaping; 헝거게임: 수확의 일출",
+   "disambig": "2026년 미국 영화",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "헝거게임: 수확의 일출",
+    "name_en": "The Hunger Games: Sunrise on the Reaping",
+    "medium": "영화",
+    "genre": "디스토피아 SF 액션",
+    "release_date": "2026-11-20",
+    "director": "Francis Lawrence",
+    "creator": "Billy Ray, Michael Lesslie (각본)",
+    "production": "Color Force",
+    "distributor": "Lionsgate",
+    "cast": "Joseph Zada, Jesse Plemons, Ralph Fiennes, Glenn Close, Elle Fanning, Kieran Culkin, Jennifer Lawrence, Josh Hutcherson, Woody Harrelson",
+    "source_material": "수잰 콜린스 소설 『Sunrise on the Reaping』(2025)",
+    "platform": "극장",
+    "synopsis": "첫 영화보다 24년 앞선 때, 16살 헤이미치 애버내시가 제50회 헝거게임(쿼터 퀠)에 뽑혀 싸우는 이야기.",
+    "summary": "헝거게임 시리즈의 프리퀄 영화로, 젊은 헤이미치가 제50회 헝거게임에 나가는 이야기다. 프랜시스 로런스가 감독하고 라이언스게이트가 배급하며 2026년 11월 20일 미국에서 개봉한다.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+     "https://www.wikidata.org/wiki/Q126390739"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q126390739",
+   "links": [
+    {
+     "id": "3528df46-589d-4a05-9910-c4f66ec53ae8",
+     "category": "허브",
+     "name": "United States Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "c316e7c4-9125-40c5-9b08-81ea2c60b566",
+   "name": "The Invite",
+   "category": "작품",
+   "alias": "The Invite; 디 인바이트",
+   "disambig": "2026년 미국 영화",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "디 인바이트",
+    "name_en": "The Invite",
+    "medium": "영화",
+    "genre": "코미디 드라마",
+    "release_date": "2026-06-26",
+    "director": "Olivia Wilde",
+    "creator": "Will McCormack, Rashida Jones (각본)",
+    "production": "FilmNation Entertainment, Permut Presentations, Annapurna Pictures",
+    "distributor": "A24",
+    "cast": "Seth Rogen, Olivia Wilde, Penélope Cruz, Edward Norton",
+    "source_material": "세스크 가이 감독의 스페인 영화 『Sentimental』(The People Upstairs, 2020)",
+    "platform": "극장",
+    "synopsis": "샌프란시스코의 한 부부가 위층 이웃 부부를 저녁에 초대하면서 벌어지는 이야기.",
+    "summary": "올리비아 와일드가 감독하고 출연한 A24 배급 영화로 2026년 선댄스에서 처음 상영됐다. 미국에서 2026년 6월 26일 제한 개봉했다.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/The_Invite",
+     "https://www.wikidata.org/wiki/Q134083296"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q134083296",
+   "links": [
+    {
+     "id": "3528df46-589d-4a05-9910-c4f66ec53ae8",
+     "category": "허브",
+     "name": "United States Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "72d2b79c-0a75-430e-81fe-32be57aa98ae",
+   "name": "대탈출",
+   "category": "작품",
+   "alias": "Great Escape, The Great Escape, Big Escape, 대탈출: 더 스토리, 대탈출: 도시괴담",
+   "disambig": "한국의 방 탈출 예능 프로그램",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Great Escape",
+    "medium": "예능",
+    "genre": "버라이어티, 방 탈출, 추리",
+    "release_date": "2018-07-01",
+    "production": "CJ ENM",
+    "platform": "tvN, 티빙",
+    "cast": "강호동, 김종민, 김동현, 신동, 유병재, 피오",
+    "summary": "출연진이 대형 세트에 갇혀 단서를 풀고 탈출하는 방 탈출 예능. 2018~2021년 tvN에서 시즌 1~4를 방송했고, 2025년 티빙으로 옮겨 '대탈출: 더 스토리', 2026-12 '대탈출: 도시괴담'으로 이어짐. 기획·연출 이우형 PD.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q55695986",
+     "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%83%88%EC%B6%9C",
+     "https://www.yna.co.kr/view/AKR20261028042100005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q55695986",
+   "links": [
+    {
+     "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
+     "category": "허브",
+     "name": "한국 예능",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "2a5a90b2-b1a2-42e5-8901-65b83dc83e18",
+   "name": "백진희",
+   "category": "인물",
+   "alias": "Baek Jin-hee, Baek Jin-hui, 白眞熙",
+   "disambig": "한국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "real_name": "백진희",
+    "name_en": "Baek Jin-hee",
+    "birth_date": "1990-02-08",
+    "birthplace": "서울특별시 강동구",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "occupation": "배우",
+    "active_years": "2008~",
+    "organization": "매니지먼트에이엠나인",
+    "debut_work": "사람을 찾습니다(2008, 영화)",
+    "notable_works": "하이킥! 짧은 다리의 역습, 기황후, 내 딸, 금사월, 미씽나인, 저글러스, 식샤를 합시다3, 진짜가 나타났다!, 판사 이한영",
+    "blood_type": "O형",
+    "sns": "https://www.instagram.com/jinibeak/",
+    "summary": "대한민국의 배우. 2008년 독립영화 '사람을 찾습니다'로 활동을 시작했고 '반두비'로 주목받았으며, 시트콤 '하이킥! 짧은 다리의 역습'(2011)과 드라마 '기황후'(2013) 타나실리 역으로 알려짐.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q210471",
+     "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%A7%84%ED%9D%AC",
+     "https://en.wikipedia.org/wiki/Baek_Jin-hee",
+     "https://namu.wiki/w/%EB%B0%B1%EC%A7%84%ED%9D%AC",
+     "https://www.xportsnews.com/article/2192947"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q210471",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "d8074be7-855c-4525-859f-432e584abaa8",
+   "name": "빗썸",
+   "category": "단체",
+   "alias": "Bithumb, 빗썸코리아, 비티씨코리아닷컴, BTC Korea, 엑스코인",
+   "disambig": "한국의 가상자산 거래소",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "real_name": "주식회사 빗썸",
+    "name_en": "Bithumb",
+    "org_type": "기업",
+    "formation_date": "2014-01-05",
+    "hq": "서울특별시 강남구 테헤란로 124, 삼원타워 (역삼동)",
+    "ceo": "이재원",
+    "website": "https://www.bithumb.com/",
+    "summary": "대한민국의 가상자산(암호화폐) 거래소. 2014년 '엑스코인'으로 서비스를 시작해 2015년 '빗썸'으로 이름을 바꿨고, 운영사는 비티씨코리아닷컴→빗썸코리아(2019)→빗썸(2024)으로 상호를 바꿈.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q55730566",
+     "https://ko.wikipedia.org/wiki/%EB%B9%97%EC%8D%B8",
+     "https://www.viva100.com/article/201910314352074",
+     "https://www.smarttoday.co.kr/ko-kr/articles/63062",
+     "https://www.newsis.com/view/NISX20260929_0003807100"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q55730566",
+   "links": [
+    {
+     "id": "9409d949-ff0a-423b-ac1b-b1d40d6c0ec9",
+     "category": "장소",
+     "name": "역삼동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-29T00:21:27.149661+00:00"
+  },
+  {
+   "id": "d48d63db-80e8-4a6e-a1ed-9303f6b0f998",
+   "name": "피오",
+   "category": "인물",
+   "alias": "표코몽, 표블리, 지훈이, 표지훈, Pyo Ji-hoon, P.O",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "P.O",
+    "real_name": "표지훈",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1993-02-02",
+    "measurements": "180cm",
+    "organization": "아티스트컴퍼니",
+    "debut_date": "2011-04-15",
+    "debut_work": "Do U Wanna B? (2011)",
+    "notable_works": "굿파트너 (2024), 뉴 노멀 (2023), 마우스 (2021), 경우의 수 (2020), 호텔 델루나 (2019), 남자친구 (2018)",
+    "website": "https://www.artistcompany.com/portfolio-item/pyo-ji-hoon/",
+    "sns": "https://www.instagram.com/pyojihoon_official",
+    "blood_type": "B형",
+    "mbti": "ESFJ",
+    "military_service": "현역",
+    "birthplace": "서울특별시",
+    "weight": "80kg",
+    "religion": "개신교",
+    "education": "글로벌사이버대학교 방송연예학 학사",
+    "awards": "2017년 MBC 방송연예대상 인기상",
+    "summary": "보이그룹 블락비의 래퍼이자 예능과 연극 무대, 그리고 드라마 〈호텔 델루나〉, 〈굿파트너〉 등에서 활약하며 개성 있는 연기력을 인정받은 배우 겸 방송인.",
+    "sources": [
+     "https://namu.wiki/w/%ED%94%BC%EC%98%A4",
+     "https://ko.wikipedia.org/wiki/%ED%94%BC%EC%98%A4",
+     "http://www.artistcompany.com"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://namu.wiki/w/%ED%94%BC%EC%98%A4",
+   "links": [
+    {
+     "id": "a9787ef0-8de3-4036-82ae-da6b16458b60",
+     "category": "작품",
+     "name": "굿파트너 2",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "305c3efe-cfc0-4991-87e0-033913a2d161",
+     "category": "단체",
+     "name": "아티스트컴퍼니",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "72d2b79c-0a75-430e-81fe-32be57aa98ae",
+     "category": "작품",
+     "name": "대탈출",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "a9787ef0-8de3-4036-82ae-da6b16458b60",
+     "category": "작품",
+     "name": "굿파트너 2",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "a4c12228-170f-4d31-8e58-2a442805bd66",
+     "category": "작품",
+     "name": "HEARTMAN",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-29T01:00:25.759032+00:00"
+  },
+  {
+   "id": "ee9ac397-2f90-4e5c-b4bd-d52f205d8b9d",
+   "name": "오아",
+   "category": "인물",
+   "alias": "오아몬, 오아모롤",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "gender": "여성",
+    "name_en": "OA",
+    "real_name": "Olivia Angel",
+    "activity": "그룹",
+    "group": "A2O LITE",
+    "nationality": "일본",
+    "birth_date": "2013-02-08",
+    "debut_date": "2026-10-13",
+    "blood_type": "A형",
+    "summary": "이수만 프로듀서가 제작한 A2O엔터테인먼트 소속 9인조 다국적 걸그룹 A2O LITE의 멤버이자 비주얼 센터.",
+    "birthplace": "비공개",
+    "website": "https://a2olite.world",
+    "sns": "https://www.youtube.com/@A2OLITE",
+    "sources": [
+     "https://namu.wiki/w/%EC%98%A4%EC%95%84(A2O%20LITE)",
+     "https://ko.wikipedia.org/wiki/A2O_LITE"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://namu.wiki/w/%EC%98%A4%EC%95%84(A2O%20LITE)",
+   "links": [
+    {
+     "id": "77e94146-431a-4524-8b9f-e3e4cdc6327a",
+     "category": "단체",
+     "name": "A2O LITE",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-10-29T04:29:09.626303+00:00"
+  },
+  {
+   "id": "72d039ed-66b0-4b6f-89d4-3364236f4543",
+   "name": "아이찡",
+   "category": "인물",
+   "alias": "아이징, 셩아이징",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "gender": "여성",
+    "activity": "그룹",
+    "group": "A2O LITE",
+    "name_en": "AIJING",
+    "real_name": "盛艾敬",
+    "nationality": "중국",
+    "birth_date": "2006",
+    "debut_date": "2026-10-13",
+    "summary": "이수만 프로듀서가 제작한 A2O엔터테인먼트 소속 다국적 걸그룹 A2O LITE의 중국 국적 멤버.",
+    "sns": "https://www.instagram.com/a2o.world",
+    "sources": [
+     "https://namu.wiki/w/A2O%20LITE",
+     "https://namu.wiki/w/%EC%95%84%EC%9D%B4%EC%B0%A1(A2O%20LITE)"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://namu.wiki/w/A2O%20LITE",
+   "links": [
+    {
+     "id": "77e94146-431a-4524-8b9f-e3e4cdc6327a",
+     "category": "단체",
+     "name": "A2O LITE",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-10-29T09:43:39.618054+00:00"
+  },
+  {
+   "id": "c3bcd621-78bd-449e-97bc-c44c8cd536c0",
+   "name": "퇴촌갈비밥",
+   "category": "장소",
+   "alias": "퇴촌 갈비밥",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "cuisine": "백반/한정식",
+    "address": "경기도 광주시 퇴촌면 정영로 580",
+    "phone": "031-767-7793",
+    "hours": "11:00 - 20:00 (라스트오더 19:00)",
+    "price_range": "1인당 15,000원 - 20,000원",
+    "menu": "퇴촌갈비밥, 직화쭈꾸미",
+    "menu_all": "퇴촌갈비밥, 매운갈비밥, 불쭈꾸미, 샤브샤브 (메인 주문 시 제공)",
+    "featured_in": "2TV생생정보 1073회",
+    "restday": "매주 화요일",
+    "amenities": "주차 가능, 간편결제",
+    "summary": "숯불향 가득한 갈비 덮밥 주문 시 소고기 샤브샤브가 함께 제공되어 푸짐한 구성을 자랑하는 경기 광주 퇴촌의 명소.",
+    "ai_model": "Gemini",
+    "region_code": "4161034000"
+   },
+   "source_url": "",
+   "links": [
+    {
+     "id": "1b70b23c-0977-4c8d-a7e3-5bd09b2fafcc",
+     "category": "장소",
+     "name": "퇴촌면",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-29T10:09:45.821824+00:00"
+  },
+  {
+   "id": "e79cad36-afd4-4368-a6a1-8dd44182b707",
+   "name": "영",
+   "category": "인물",
+   "alias": "아기여우",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "gender": "여성",
+    "activity": "그룹",
+    "group": "A2O LITE",
+    "organization": "A2O엔터테인먼트",
+    "name_en": "YOUNG",
+    "real_name": "정시영",
+    "nationality": "대한민국",
+    "website": "https://a2olite.world",
+    "birth_date": "2008-10-27",
+    "debut_date": "2026-10-13",
+    "birthplace": "고양시",
+    "education": "고양화정초등학교 (졸업), 화정중학교 (졸업), 한림연예예술고등학교 실용음악과 (재학)",
+    "summary": "이수만 프로듀서가 제작한 다국적 걸그룹 A2O LITE의 맏언니이자 매력적인 음색을 지닌 메인보컬.",
+    "sources": [
+     "https://namu.wiki/w/%EC%98%81(A2O%20LITE)",
+     "https://ko.wikipedia.org/wiki/A2O_LITE"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://namu.wiki/w/%EC%98%81(A2O%20LITE)",
+   "links": [
+    {
+     "id": "5d89e7cf-d8ed-4b76-83e4-a8bf59c98d35",
+     "category": "장소",
+     "name": "고양시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "77e94146-431a-4524-8b9f-e3e4cdc6327a",
+     "category": "단체",
+     "name": "A2O LITE",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-10-29T12:13:33.903667+00:00"
+  }
+ ],
+ "bulk_added": []
+}

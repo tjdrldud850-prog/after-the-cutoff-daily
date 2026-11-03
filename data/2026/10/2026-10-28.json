@@ -1,0 +1,3567 @@
+{
+ "date": "2026-10-28",
+ "timezone": "Asia/Seoul",
+ "exported_at": "2026-11-03T23:50:33+00:00",
+ "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
+ "counts": {
+  "updates": 17,
+  "new_planets": 56,
+  "bulk_added": 0
+ },
+ "updates": [
+  {
+   "id": "214a4c73-1398-48e6-8a80-6324351b204c",
+   "title": "2026 통영 월드 트라이애슬론 컵 동호인부 3위",
+   "type": "대회 출전",
+   "date": "2026-10-25",
+   "parent": [
+    {
+     "id": "93c98381-7f2e-4181-b52c-ae2b7e3f3cd3",
+     "category": "인물",
+     "name": "민호"
+    }
+   ],
+   "summary": "경남 통영 대회 동호인부 남자 35~39세 부문 스탠더드 코스(수영 1.5km · 사이클 40km · 달리기 10km)를 2시간27분13초에 완주해 3위",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "통영시",
+     "id": "736127d2-e09c-46b4-830f-54ede9b89ebe"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261027_0003842304",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "74e8bf90-cd14-44c6-8f93-b8ee86d3e7ea",
+   "title": "35기 공채 코미디언 모집",
+   "type": "뉴스",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
+     "category": "단체",
+     "name": "KBS"
+    }
+   ],
+   "summary": "「개그콘서트」 공식 홈페이지 · 유튜브로 공고, 나이 · 성별 관계없이 모집. 34기 코미디언들이 홍보 영상에",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261027/134913949/1",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "be044a80-ba92-4ed1-a48d-756971e3d9a0",
+   "title": "SBS 「거장항준」 출연 — 뮤지컬 「그리스」 노출 사고 일화",
+   "type": "방송출연",
+   "date": "2026-10-29",
+   "parent": [
+    {
+     "id": "c1ffcd2b-6960-4dc5-9e9c-8694d462f518",
+     "category": "인물",
+     "name": "조정석"
+    }
+   ],
+   "summary": "10-29 밤 10시 20분 방송. 「그리스」 로저 역으로 공연하던 중 바지가 허벅지까지 내려간 사고를 털어놓는다 — 「관객 반응은 엄청 뜨거웠고 그때 팬이 많이 생겼다」",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261027_0003842142",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "9a115a03-dc1e-440b-b3a5-8e2d27ad9c9a",
+   "title": "tvN STORY 「남겨서 뭐하게」 출연 — 응급 출산 이야기",
+   "type": "방송출연",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "5feb290c-064c-4ee7-96d4-8f19b1e4aa05",
+     "category": "인물",
+     "name": "트루디"
+    }
+   ],
+   "summary": "출산 예정일 2주 전 진통으로 응급 출산을 하게 돼 남편(전 야구선수 이대은)이 2시간 거리에 있던 사이 홀로 5분 거리 병원에 갔던 일을 이야기했다. 이대은과 함께 출연",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261027_0003842191",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "ae842cba-364a-4cfb-8420-638469f33207",
+   "title": "「글로벌 레이블 서비스」 출범 — 대표 후안 S. 아레나스",
+   "type": "뉴스",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "e5eed119-8891-4a91-94cf-2e099524dc12",
+     "category": "단체",
+     "name": "하이브"
+    }
+   ],
+   "summary": "전 세계 산하 레이블 · 아티스트의 음반 · 음원 유통과 마케팅 · 프로모션을 통합 지원하는 조직, 대표에 하이브아메리카 최고지식재산책임자 후안 S. 아레나스",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261027_0003842376",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "2864437a-4144-4456-a91b-06f20b350d55",
+   "title": "고리 원전 3 · 4호기 계속운전 허가",
+   "type": "뉴스",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "859a418a-cc2c-47df-b599-bcd6bc776f6e",
+     "category": "장소",
+     "name": "장안읍"
+    }
+   ],
+   "summary": "원자력안전위원회가 고리 3·4호기 수명을 설계수명 만료일로부터 10년 늘리기로 의결함",
+   "why": null,
+   "how": "제2026-17회 회의 의결. 3호기 2034년 9월·4호기 2035년 8월까지. 한수원 신청(2022-09) 4년 만, 정지 2년 1개월·1년 2개월 만에 재가동 절차. 1985·1986년 상업 운전, 가압경수로 1,025MWe",
+   "content": "원자력안전위원회가 제2026-17회 회의에서 의결, 수명을 설계수명 만료일로부터 10년 늘려 3호기 2034년 9월 · 4호기 2035년 8월까지. 한수원 신청(2022-09) 4년 만, 정지 2년 1개월 · 1년 2개월 만에 재가동 절차. 1985 · 1986년 상업 운전, 가압경수로 1,025MWe",
+   "places": [
+    {
+     "name": "고리원자력발전소",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "원자력안전위원회",
+     "id": null
+    },
+    {
+     "name": "한국수력원자력",
+     "id": "1beec75a-0c6b-476c-9cd5-4b49a3cfcd38"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261027152251017",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "b7e32549-3fe6-4ca8-83d4-e350aa42fbdd",
+   "title": "구룡마을 큰불 — 12시간 50분 만에 완진",
+   "type": "뉴스",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "0759bfca-4bf0-402e-88de-7266b59e05f9",
+     "category": "장소",
+     "name": "개포동"
+    }
+   ],
+   "summary": "2지구 가건물에서 난 불이 번져 약 19만㎡가 타고 77가구 107명이 이재민이 됨",
+   "why": "강풍을 타고 1·3·7지구로 번짐. 정확한 원인은 합동 감식 중",
+   "how": "10-27 15:50께 발생, 대응 2단계·국가소방동원령. 헬기 6대·인력 940여 명 투입, 7시간 30분 만에 큰불을 잡고 10-28 04:42 완진. 축구장 26개 넓이 소실, 30대 1명 경상",
+   "content": "10-27 15:50께 구룡마을 2지구 가건물에서 시작해 강풍을 타고 1 · 3 · 7지구로 번졌다. 대응 2단계 · 국가소방동원령, 헬기 6대와 인력 940여 명, 7시간 30분 만에 큰불을 잡고 10-28 04:42 완진. 약 19만㎡(축구장 26개) 소실, 77가구 107명 이재민, 30대 1명 경상. 원인은 합동 감식 중",
+   "places": [
+    {
+     "name": "구룡마을",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261027151655004",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "17b5586a-ed58-4be4-9f77-f37bcff5df5e",
+   "title": "국내 스팀 매출 1위",
+   "type": "흥행 기록",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "d2e6b17e-242a-4e37-bc3c-62c2f66678df",
+     "category": "게임",
+     "name": "Call of Duty: Modern Warfare 4"
+    }
+   ],
+   "summary": "남북 전면전 소재 논란 속 국내 스팀 매출 1위",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261027122000017",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "304e8631-fbd6-4a70-9000-f2b9f23e3f83",
+   "title": "미니 2집 「시퀀스 투: 어트랙션」 발매",
+   "type": "미니앨범",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "22eb788e-e56f-4c8e-b616-593fed9eeb6a",
+     "category": "단체",
+     "name": "앤더블"
+    }
+   ],
+   "summary": "데뷔(5월) 5개월 만의 첫 컴백, 10-27 오후 6시 공개. 타이틀곡 「프렌치 키싱」(트로피컬 알앤비) 등 5곡. 같은 날 블루스퀘어에서 쇼케이스",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261027165300005",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "92cf9c64-5106-4f68-9769-f1f586765200",
+   "title": "미니 4집 「PULSE」 발매 예정",
+   "type": "미니앨범",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "24fd11b0-5180-470f-816a-f56bddacc5ce",
+     "category": "단체",
+     "name": "리센느 RESCENE"
+    }
+   ],
+   "summary": "11-03 발매, 타이틀곡 「With」 등 5곡(Finest Thing · Dragon · 백화요란 · MEME). 10-26 하이라이트 메들리 공개",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261027/134913954/1",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "75548c06-e159-460d-b675-c1619b508241",
+   "title": "시리 AI 한국어 지원 시작 — iOS 27.2",
+   "type": "뉴스",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "a99fdc75-b250-4d63-b983-9d593b990b0d",
+     "category": "단체",
+     "name": "Apple"
+    }
+   ],
+   "summary": "iOS 27.2 배포와 함께 한국어·프랑스어·일본어·포르투갈어·스페인어 시리 AI를 시작함",
+   "why": null,
+   "how": "9월 영어 베타 뒤 확대. 메시지·이메일·사진에서 개인 맥락을 찾고 화면 내용을 인식해 여러 앱을 넘나들며 작업, 구글 제미나이 협업 기반 애플 파운데이션 모델",
+   "content": "iOS 27.2 배포와 함께 한국어 · 프랑스어 · 일본어 · 포르투갈어 · 스페인어 시리 AI 시작(9월 영어 베타 뒤). 메시지 · 이메일 · 사진에서 개인 맥락을 찾고 화면 내용을 인식해 여러 앱을 넘나들며 작업, 구글 제미나이 협업 기반 애플 파운데이션 모델",
+   "places": [],
+   "featuring": [
+    {
+     "name": "Google",
+     "id": "b2a52571-fe91-4107-a28c-8883139cb10b"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261027039800017",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "ed500506-d6bf-4631-9fef-3e57502511de",
+   "title": "전 직원 노동 착취 폭로 · 헤이지니 측 반박",
+   "type": "논란",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "c08bdf11-2ecc-4182-880d-a0801daf24a7",
+     "category": "인물",
+     "name": "헤이지니"
+    }
+   ],
+   "summary": "전 직원이 연봉 2천만 원에 하루 최대 16시간 일했다고 주장하자 헤이지니 측이 반박함",
+   "why": null,
+   "how": "전 직원은 포괄임금제로 야근했고 산재를 인정받았다고 밝힘. 헤이지니 측은 「산재 신청을 방해한 적 없고 연봉 인상·상여금을 지급했다」고 반박",
+   "content": "전 직원이 「연봉 2천만 원에 하루 최대 16시간 근무, 포괄임금제로 야근」을 주장하고 산재 인정 사실을 밝혔다. 헤이지니 측은 「산재 신청을 방해한 적 없고 연봉 인상 · 상여금을 지급했다」고 반박",
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261027_0003843473",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "f61996b8-3be5-415d-8e59-62b05ac065a2",
+   "title": "정규 1집 두 번째 선공개 싱글 「어딕티드」",
+   "type": "싱글",
+   "date": "2026-10-30",
+   "parent": [
+    {
+     "id": "4af5b6b6-65a8-46e7-9c35-0cfa09834050",
+     "category": "인물",
+     "name": "지수"
+    }
+   ],
+   "summary": "10-30 오전 8시 발표, 9월 선공개곡 「클릭」에 이은 정규 1집 두 번째 선공개 싱글. 소속사 블리수(BLISSOO)",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261027_0003842115",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "ac7fa156-0ca3-4d6b-b946-83d1c1804268",
+   "title": "제2회 코리아 그랜드 페스티벌",
+   "type": "행사",
+   "date": "2026-10-29",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "동행축제와 K-세일페스타를 합친 정부 소비 축제가 10-29~11-15 열려 4만여 기업이 참여함",
+   "why": null,
+   "how": "한우 10-28~11-08·수산물 10-28~11-29 최대 50%, 김장재료 10-29~12-02 최대 40% 할인. 완성차 5사·삼성전자·LG전자 11-01부터. 지역사랑상품권 할인 확대, 4대 궁 무료 개방",
+   "content": "10-29~11-15 정부 통합 소비 축제(동행축제 · K-세일페스타 통합), 4만여 기업 참여. 한우 10-28~11-08 · 수산물 10-28~11-29 최대 50%, 김장재료 10-29~12-02 최대 40% 할인, 완성차 5사 · 삼성전자 · LG전자 11-01부터, 지역사랑상품권 할인 확대 · 4대 궁 무료 개방",
+   "places": [],
+   "featuring": [
+    {
+     "name": "삼성전자",
+     "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6"
+    },
+    {
+     "name": "LG전자",
+     "id": "1c22448e-555a-482f-9708-7e53a5d1d9af"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261027023700030",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "a35beb6d-d73d-498f-917e-9649659cd65b",
+   "title": "캠페인 영상에 이태원 참사 현장 영상 사용 의혹",
+   "type": "논란",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "d2e6b17e-242a-4e37-bc3c-62c2f66678df",
+     "category": "게임",
+     "name": "Call of Duty: Modern Warfare 4"
+    }
+   ],
+   "summary": "북한의 기습을 받은 한국 배경 캠페인 소개 영상 일부가 이태원 참사 영상과 거의 같다는 제보가 나옴",
+   "why": null,
+   "how": "MBC 단독 보도, 유족·시민 제보. 영상 끝에 게티이미지가 출처로 표시됨",
+   "content": "MBC 단독: 북한의 기습 공격을 받은 한국을 배경으로 한 캠페인 소개 영상 일부 장면이 이태원 참사 당시 영상과 거의 같다는 유족 · 시민 제보, 영상 끝에 게티이미지가 출처로 표시",
+   "places": [],
+   "featuring": [
+    {
+     "name": "MBC",
+     "id": null
+    },
+    {
+     "name": "게티이미지",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861144_37004.html",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "77df7539-4585-4d1a-9307-fea5b22d8e39",
+   "title": "학생 시위에 정부 교육 대책 발표",
+   "type": "뉴스",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "8fd447de-086d-4ad9-b287-af85b002c7c9",
+     "category": "국가",
+     "name": "France"
+    }
+   ],
+   "summary": "한 달 넘게 이어진 학생 시위에 교직 신설·감원 철회 등 교육 대책을 내놓음",
+   "why": "학생들의 교육 여건 개선 요구 시위",
+   "how": "교직 수백 개 신설, 파르쿠르쉽 개선(2028년 전면 교체), 고교 학급당 28명 제한, 2027·2028년 고등교육 정원 1만5천 명 추가, 학교 개보수 저리 대출 40억 유로. 학생단체는 「요구 미충족」이라며 시위·총파업 예고",
+   "content": "한 달 넘게 이어진 학생들의 교육 여건 개선 시위에 교직 수백 개 신설 · 감원 철회, 대입 플랫폼 파르쿠르쉽 개선(2028년 전면 교체), 고교 학급당 28명 제한, 2027 · 2028년 고등교육 정원 1만5천 명 추가, 학교 개보수 저리 대출 40억 유로. 학생단체는 「요구 미충족」이라며 시위 · 총파업 예고",
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261027007400085",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "4bb1ce83-e2c5-419c-a013-5f1f921b74ed",
+   "title": "화면 결함 인정 — 애플케어로 무상 교체",
+   "type": "뉴스",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "eb25150b-c4b9-4eb3-9976-396da2d0f7af",
+     "category": "제품",
+     "name": "iPhone Duo"
+    }
+   ],
+   "summary": "애플이 소수 기기의 내부 화면 문제를 인지했다며 애플케어로 교체받으라고 밝힘",
+   "why": "애플은 원인을 밝히지 않음. 아이픽스잇은 접힐 때 중앙 지지대에 응력이 몰린 것으로 추정",
+   "how": "로이터·블룸버그 보도(현지 10-26). 매장에 교체용 재고가 없다는 이용자 반응",
+   "content": "애플 대변인이 「소수의 아이폰 듀오에서 내부 화면 문제를 인지」했다며 애플케어로 교체품을 받으라고 밝혔다(로이터 · 블룸버그, 현지 10-26). 원인은 밝히지 않았고 매장에 교체용 재고가 없다는 이용자 반응. 아이픽스잇은 접힐 때 중앙 지지대에 응력이 몰린 것으로 추정",
+   "places": [],
+   "featuring": [
+    {
+     "name": "Apple",
+     "id": "a99fdc75-b250-4d63-b983-9d593b990b0d"
+    },
+    {
+     "name": "아이픽스잇",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8696114",
+   "source": "뉴스",
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  }
+ ],
+ "new_planets": [
+  {
+   "id": "d2e6b17e-242a-4e37-bc3c-62c2f66678df",
+   "name": "Call of Duty: Modern Warfare 4",
+   "category": "게임",
+   "alias": "콜 오브 듀티: 모던 워페어 4, 모던 워페어 4, 모던워페어4, MW4, Modern Warfare 4",
+   "disambig": "2026년 인피니티 워드의 1인칭 슈팅 게임",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "콜 오브 듀티: 모던 워페어 4",
+    "name_en": "Call of Duty: Modern Warfare 4",
+    "genre": "1인칭 슈팅(FPS), DMZ 모드는 익스트랙션 슈터",
+    "developer": "인피니티 워드",
+    "publisher": "액티비전 (국내 서비스 블리자드 엔터테인먼트)",
+    "release_date": "2026-10-23",
+    "platform": "PlayStation 5, Xbox Series X|S, Windows, Nintendo Switch 2",
+    "age_rating": "청소년이용불가 / ESRB M / PEGI 18 / CERO Z",
+    "business_model": "패키지 유료 판매 (스탠더드 콘솔 88,900원 · PC 80,000원)",
+    "engine": "IW 엔진",
+    "series": "콜 오브 듀티 (시리즈 23번째, 모던 워페어 4번째)",
+    "website": "https://www.callofduty.com/ko/modernwarfare4",
+    "summary": "인피니티 워드가 개발하고 액티비전이 2026년 10월 23일 출시한 1인칭 슈팅 게임으로, 북한의 전면 남침으로 벌어진 한반도 전쟁을 캠페인 무대로 삼았다. 출시 직후 국내 스팀 매출 1위에 올랐고, MBC가 10월 27일 캠페인 소개 영상 일부에 이태원 참사 당시 영상이 쓰인 것으로 보인다고 보도했다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q139969024",
+     "https://namu.wiki/w/콜%20오브%20듀티:%20모던%20워페어%204",
+     "https://www.callofduty.com/ko/modernwarfare4/campaign",
+     "https://imnews.imbc.com/replay/2026/nwdesk/article/6861144_37004.html",
+     "https://www.newsis.com/view/NISX20261027_0003843484"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q139969024",
+   "links": [
+    {
+     "id": "c9379af8-303d-4e30-8e92-0411e45389f5",
+     "category": "허브",
+     "name": "United States Game",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
+   "name": "KBS",
+   "category": "단체",
+   "alias": "한국방송공사, 케이비에스, 한국방송, Korean Broadcasting System",
+   "disambig": "한국의 공영방송사",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "real_name": "한국방송공사",
+    "name_en": "Korean Broadcasting System",
+    "org_type": "공공기관",
+    "formation_date": "1973-03-03",
+    "hq": "서울특별시 영등포구 여의공원로 13 (여의도동)",
+    "ceo": "박장범 (제27대, 2024-12-10 취임) — 2026-10-20 이사회가 이태현 전 콘텐츠웨이브 대표를 제28대 사장 임명 제청 대상자로 선정, 임명 전",
+    "website": "https://www.kbs.co.kr",
+    "summary": "한국방송공사(KBS)는 1973년 3월 3일 국영방송에서 공사로 바뀌어 출범한 한국의 공영방송으로, 본사는 서울 영등포구 여의도에 있다. 2026년 10월 이사회가 이태현 전 콘텐츠웨이브 대표를 차기 사장으로 임명 제청해 인사청문회 · 대통령 임명을 앞두고 있다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q498825",
+     "https://ko.wikipedia.org/wiki/한국방송공사",
+     "https://www.khan.co.kr/article/202610202018055/",
+     "https://www.hankookilbo.com/news/article/A2026102018030003789"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q498825",
+   "links": [
+    {
+     "id": "73dc5064-aa36-43f3-8393-54fb4ce7b203",
+     "category": "장소",
+     "name": "여의도동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "22eb788e-e56f-4c8e-b616-593fed9eeb6a",
+   "name": "앤더블",
+   "category": "단체",
+   "alias": "AND2BLE, And2ble, 앤 더블",
+   "disambig": "한국의 보이그룹",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "real_name": "앤더블",
+    "name_en": "AND2BLE",
+    "org_type": "음악그룹",
+    "formation_date": "2026-05-26",
+    "parent_company": "YH엔터테인먼트",
+    "group_type": "보이그룹",
+    "members": "장하오, 유승언, 리키, 김규빈, 한유진",
+    "leader": "장하오",
+    "fandom_name": "앤클로 (N:DCLO)",
+    "website": "https://www.yhent.co.kr/artist/and2ble/",
+    "sns": "https://x.com/AND2BLE, https://www.instagram.com/and2ble, https://weverse.io/and2ble",
+    "summary": "제로베이스원 출신 장하오 · 리키 · 김규빈 · 한유진과 EVNNE 출신 유승언으로 구성된 YH엔터테인먼트의 5인조 보이그룹으로, 2026년 5월 26일 미니 1집 「Sequence 01: Curiosity」(타이틀곡 「Curious」)로 데뷔했다. 10월 27일 미니 2집 「Sequence 02: Attraction」(타이틀곡 「French Kissing」)을 냈다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q138948755",
+     "https://namu.wiki/w/앤더블",
+     "https://sports.khan.co.kr/article/202605260103003",
+     "https://www.tenasia.co.kr/article/2026102028884"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q138948755",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "5feb290c-064c-4ee7-96d4-8f19b1e4aa05",
+   "name": "트루디",
+   "category": "인물",
+   "alias": "Truedy, 김진솔",
+   "disambig": "한국의 래퍼",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "real_name": "김진솔",
+    "name_en": "Truedy",
+    "birth_date": "1993-08-20",
+    "birthplace": "서울특별시 은평구 응암동",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "occupation": "래퍼, 가수, 방송인",
+    "active_years": "2015년~현재",
+    "organization": "KX엔터테인먼트 (2023-05~)",
+    "debut_work": "Mnet 언프리티 랩스타 2 (2015)",
+    "notable_works": "언프리티 랩스타 2 우승(2015), 싱글 ALL KILL(2016), 딴따라 OST Part 7(2016), EP Rued(2018), 싱글 Lonely(2020), LovE yOuRSelF(2021), 골 때리는 그녀들(2023)",
+    "awards": "Mnet 언프리티 랩스타 2 우승 (2015)",
+    "education": "영훈고등학교, 동국대학교 경찰행정학과",
+    "summary": "트루디(본명 김진솔)는 2015년 Mnet 「언프리티 랩스타 2」에서 우승하며 이름을 알린 한국의 래퍼다. 2026년 10월 26일 tvN STORY 「남겨서 뭐하게」에 남편과 함께 나와 출산 예정일 2주 전 응급 출산으로 혼자 병원에 갔던 일을 이야기했다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q21825290",
+     "https://ko.wikipedia.org/wiki/트루디",
+     "https://www.newsis.com/view/NISX20261027_0003842191"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q21825290",
+   "links": [
+    {
+     "id": "6cad348d-07a7-4947-ba2d-b16c993ec29d",
+     "category": "장소",
+     "name": "은평구",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "c08bdf11-2ecc-4182-880d-a0801daf24a7",
+   "name": "헤이지니",
+   "category": "인물",
+   "alias": "Hey Jini, 헤이 지니, 지니언니, 강혜진, 캐리언니, 1대 캐리",
+   "disambig": "한국의 키즈 유튜버",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "real_name": "강혜진",
+    "name_en": "Hey Jini",
+    "birth_date": "1989-11-20",
+    "birthplace": "대한민국 대전광역시",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "occupation": "키즈 유튜버(키즈 크리에이터), 방송인",
+    "active_years": "2014년~현재 (캐리 앤 토이즈 2014-08-03, 헤이지니 채널 2017년~)",
+    "organization": "키즈웍스",
+    "platform": "유튜브",
+    "channel_url": "https://www.youtube.com/channel/UCdet8uJfTFlACtY05BQmJ1Q",
+    "subscribers": "약 413만 명 (2026-10-27 보도 기준)",
+    "debut_date": "2014-08-03",
+    "notable_works": "캐리와 장난감 친구들(1대 캐리, 2014~2017-02), 헤이지니 유튜브 채널(2017~), KBS2 TV유치원, JTBC 드라마 선배 그 립스틱 바르지 마요(2021, 김가영 역)",
+    "awards": "유튜브 실버 · 골드 플레이 버튼(골드 2016-09-02, 캐리소프트 시절)",
+    "education": "대전지족고등학교, 동덕여자대학교 방송연예과",
+    "summary": "헤이지니(본명 강혜진)는 캐리소프트의 1대 「캐리」로 이름을 알린 뒤 2017년부터 키즈웍스 소속으로 「헤이지니」 채널을 운영하는 한국의 키즈 유튜버다. 2026년 10월 전 직원이 2017~2018년 재직 당시 연봉 약 2천만 원에 하루 최대 16시간을 일했고 회사가 산재 신청에서 업무 관련성을 부인했다고 주장했으며, 헤이지니 측은 연봉 인상 · 외부 노무사 소개로 산재 신청을 도왔다고 반박했다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q64515716",
+     "https://ko.wikipedia.org/wiki/헤이지니",
+     "https://namu.wiki/w/헤이지니",
+     "https://www.hankyung.com/article/202610276717H",
+     "https://biz.heraldcorp.com/article/10916747",
+     "https://www.fnnews.com/news/202610270845378489"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q64515716",
+   "links": [
+    {
+     "id": "a40044d7-0db6-41fa-abf7-ce3da7591c09",
+     "category": "허브",
+     "name": "한국 크리에이터",
+     "rel": "IS_A"
+    },
+    {
+     "id": "128cb9fc-75dd-4f2f-941b-f0357e5c88d6",
+     "category": "장소",
+     "name": "대전광역시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-28T00:03:22.280815+00:00"
+  },
+  {
+   "id": "77ab2924-3b04-4e88-b396-b540852fa048",
+   "name": "천천히 강렬하게",
+   "category": "작품",
+   "alias": "쇼비즈니스",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "드라마",
+    "name_en": "Tantara",
+    "genre": "드라마, 멜로/로맨스",
+    "hashtags": "#천천히강렬하게 #Tantara #넷플릭스 #송혜교 #공유 #노희경",
+    "release_date": "2026-12-11",
+    "creator": "노희경",
+    "director": "이윤정",
+    "production": "지티스트, 스튜디오드래곤",
+    "cast": "송혜교, 공유, 김설현, 차승원, 이하늬, 나문희, 김정우",
+    "platform": "Netflix",
+    "synopsis": "야만과 폭력이 판치던 1960~80년대 한국 연예계를 배경으로, 가진 것은 없지만 눈부신 성공을 꿈꾸며 가요·음반 산업에 온몸을 던졌던 이들의 치열한 생존기와 성장 서사를 담은 이야기.",
+    "website": "https://www.netflix.com/title/81987919",
+    "rating": "청소년이용불가",
+    "distributor": "Netflix",
+    "length": "22부작",
+    "summary": "노희경 작가와 이윤정 감독이 의기투합하고 송혜교, 공유가 주연을 맡아 격동의 1960~80년대 한국 연예계와 쇼비즈니스 세계를 그려낸 넷플릭스 대작 시리즈.",
+    "sources": [
+     "https://www.netflix.com/kr/title/81987919",
+     "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%B2%9C%ED%9E%88_%EA%B0%95%EB%A0%AC%ED%95%98%EA%B2%8C",
+     "https://namu.wiki/w/%EC%B2%9C%EC%B2%9C%ED%9E%88%20%EA%B0%95%EB%A0%AC%ED%95%98%EA%B2%8C"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://www.netflix.com/kr/title/81987919",
+   "links": [
+    {
+     "id": "5bc503ce-8afc-4fd8-9473-a14f1f4104bc",
+     "category": "허브",
+     "name": "한국 드라마",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:50.176657+00:00"
+  },
+  {
+   "id": "8ae37331-572f-43b2-b4a2-36f4ad396b56",
+   "name": "A2O엔터테인먼트",
+   "category": "단체",
+   "alias": "A2O, 에이투오, 에이투오엔터테인먼트",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "A2O Entertainment",
+    "industry": "방송과엔터테인먼트",
+    "real_name": "A2O Entertainment Co. Private Limited",
+    "formation_date": "2020-11-25",
+    "hq": "서울특별시 강남구 청담동 117-2",
+    "founder": "이수만",
+    "ceo": "이수만",
+    "website": "https://www.a2oentertainment.com",
+    "sns": "https://www.instagram.com/a2o.world, https://x.com/A2OWORLD, https://www.youtube.com/@A2OWORLD, https://www.tiktok.com/@a2oworld",
+    "listed_on": "비상장",
+    "subsidiaries": "(주)에이투오엔터테인먼트코리아",
+    "summary": "SM엔터테인먼트 창립자인 이수만 프로듀서가 설립하여 잘파 팝(Zalpha Pop) 장르와 첨단 엔터테크를 결합해 글로벌 아티스트를 육성·제작하는 엔터테인먼트 기업.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/A2O_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+     "https://namu.wiki/w/A2O%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+     "https://www.a2oentertainment.com"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/A2O_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:50.874452+00:00"
+  },
+  {
+   "id": "0b1c8e90-0900-4ddd-a95e-669ea420f00d",
+   "name": "더프레젠트컴퍼니",
+   "category": "단체",
+   "alias": "The Present Co., TPC",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "The Present Company",
+    "industry": "방송과엔터테인먼트",
+    "real_name": "(주)더프레젠트컴퍼니",
+    "formation_date": "2022-05-02",
+    "hq": "서울특별시 강남구 논현로159길 34, 3층",
+    "founder": "안효섭, 김민지",
+    "ceo": "김민지, 정우성",
+    "website": "https://thepresentcompany.kr",
+    "sns": "https://www.instagram.com/thepresentofficial, https://x.com/ThePresent_twt, https://www.youtube.com/@ThePresentCo",
+    "listed_on": "비상장",
+    "summary": "배우 안효섭과 매니저가 함께 설립한 대한민국의 연예 기획사로, 아티스트 IP를 활용한 가치 창출과 매니지먼트 사업을 전개하고 있다.",
+    "sources": [
+     "https://thepresentcompany.kr",
+     "https://namu.wiki/w/%EB%8D%94%ED%94%84%EB%A0%88%EC%A0%A0%ED%8A%B8%EC%BB%B4%ED%8D%BC%EB%8B%88",
+     "https://cine21.com/db/company/info/?company_id=8793"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "https://thepresentcompany.kr",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:51.744004+00:00"
+  },
+  {
+   "id": "78d50b3f-f371-40ba-8a37-ce84188a0eeb",
+   "name": "디와이디",
+   "category": "단체",
+   "alias": "DYD, 디와이디대양, MP한강, 자안코스메틱",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "DYD Co., Ltd.",
+    "industry": "화장품",
+    "real_name": "주식회사 디와이디",
+    "formation_date": "2000-12-22",
+    "hq": "경기도 고양시 덕양구 동송로 30, 18층 (동산동, 삼송더샵미디어시티)",
+    "ceo": "김영덕",
+    "website": "http://www.dydbio.com",
+    "listed_on": "코스닥",
+    "subsidiaries": "DYD TVS, 아이디엔디",
+    "headcount": "79명 (2026년 기준)",
+    "summary": "화장품 제조·유통 및 건설 사업 등을 영위하며 색조 및 스킨케어 브랜드 운영을 주력으로 하는 코스닥 상장 기업.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/DYD_(%EA%B8%B0%EC%97%85)",
+     "https://finance.daum.net/quotes/A219550",
+     "http://www.dydbio.com"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "4128000000"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/DYD_(%EA%B8%B0%EC%97%85)",
+   "links": [
+    {
+     "id": "5d89e7cf-d8ed-4b76-83e4-a8bf59c98d35",
+     "category": "장소",
+     "name": "고양시",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "d9eee50b-120b-4b1e-a190-a1773361fb06",
+     "category": "제품",
+     "name": "해서린 스팟케어패치 붉은스팟",
+     "rel": "CREATED"
+    },
+    {
+     "id": "7f2e4fe0-45c4-456d-9651-df69a4dcf917",
+     "category": "제품",
+     "name": "해서린 스팟케어패치 노란스팟",
+     "rel": "CREATED"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:52.676669+00:00"
+  },
+  {
+   "id": "c944a94b-ab9e-4801-9f08-75e574f2c4ce",
+   "name": "사람엔터테인먼트",
+   "category": "단체",
+   "alias": "사람엔터, Saram Entertainment",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "SARAM Entertainment",
+    "industry": "방송과엔터테인먼트",
+    "real_name": "(주)사람엔터테인먼트",
+    "formation_date": "2006",
+    "parent_company": "스탠더스",
+    "hq": "서울특별시 마포구 성미산로29안길 13",
+    "founder": "이소영",
+    "ceo": "이소영",
+    "website": "http://www.esaram.co.kr",
+    "sns": "https://www.instagram.com/sarament_official, https://www.youtube.com/@saramentofficial",
+    "listed_on": "비상장",
+    "summary": "조진웅, 이하늬, 정호연, 변요한 등 정상급 배우 매니지먼트를 비롯해 영화 및 드라마 콘텐츠 제작까지 활발히 전개하는 대한민국의 종합 엔터테인먼트 기업.",
+    "sources": [
+     "http://www.esaram.co.kr",
+     "https://ko.wikipedia.org/wiki/%EC%82%AC%EB%9E%8C_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+     "https://namu.wiki/w/%EC%82%AC%EB%9E%8C%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "http://www.esaram.co.kr",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:53.373038+00:00"
+  },
+  {
+   "id": "0b0e4f3e-6952-4014-9562-357905e5f617",
+   "name": "아마존 게임스",
+   "category": "단체",
+   "alias": "아마존 게임 스튜디오, AGS, Amazon Game Studios",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "Amazon Games",
+    "industry": "게임엔터테인먼트",
+    "real_name": "Amazon Games",
+    "formation_date": "2012-08-07",
+    "parent_company": "Amazon",
+    "hq": "서울특별시 강남구 테헤란로 231, 센터필드 웨스트타워 (역삼동)",
+    "ceo": "크리스토프 하트만",
+    "website": "https://www.amazongames.com",
+    "sns": "https://www.instagram.com/amazongames, https://x.com/AMDGaming, https://www.youtube.com/@amazongames, https://www.tiktok.com/@amazongames",
+    "listed_on": "해당없음",
+    "subsidiaries": "Relentless Studios, Glowmade",
+    "summary": "아마존닷컴 산하의 비디오 게임 개발 및 배급사로, 〈뉴 월드〉와 스마일게이트의 〈로스트아크〉 글로벌 퍼블리싱 등을 진행하고 있다.",
+    "sources": [
+     "https://www.amazongames.com",
+     "https://en.wikipedia.org/wiki/Amazon_Games",
+     "https://namu.wiki/w/%EC%95%84%EB%A7%88%EC%A1%B4%20%EA%B2%8C%EC%9E%84%EC%A6%88"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "https://www.amazongames.com",
+   "links": [
+    {
+     "id": "5b7756c5-6a9f-4dba-99c0-b32e264125d5",
+     "category": "게임",
+     "name": "로스트아크",
+     "rel": "RELATED_TO"
+    },
+    {
+     "id": "ae58f28f-14f7-4287-9873-9c6e30d44ea7",
+     "category": "게임",
+     "name": "프로젝트 TL",
+     "rel": "RELATED_TO"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:54.062457+00:00"
+  },
+  {
+   "id": "b45d502b-bbb3-413c-a062-0edcd3f19b07",
+   "name": "오라클코스메틱",
+   "category": "단체",
+   "alias": "닥터오라클, 오라클화장품, Dr.Oracle",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "Oracle Cosmetic Co., Ltd.",
+    "industry": "화장품",
+    "real_name": "오라클코스메틱(주)",
+    "formation_date": "2006-11-28",
+    "hq": "서울특별시 금천구 가산디지털1로 131, A동 21층",
+    "founder": "노영우",
+    "ceo": "노영우",
+    "website": "https://www.droracle.co.kr",
+    "sns": "https://www.instagram.com/droracle_official",
+    "listed_on": "비상장",
+    "headcount": "29명",
+    "summary": "국내외 오라클피부과 네트워크의 임상 경험과 피부과 전문의 연구를 바탕으로 '닥터오라클'과 '큐어소나' 등의 메디컬 더마 코스메틱 브랜드를 전개하는 화장품 전문 기업.",
+    "sources": [
+     "https://www.droracle.co.kr",
+     "https://www.cosmorning.com/news/article.html?no=52518",
+     "https://www.incruit.com/company/19454556/"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "https://www.droracle.co.kr",
+   "links": [
+    {
+     "id": "1c3ecd2b-3d7a-49db-9525-ac7f96cd7f73",
+     "category": "제품",
+     "name": "닥터오라클 큐어소나 리커버링 밸런싱토너",
+     "rel": "CREATED"
+    },
+    {
+     "id": "24996e82-8967-4db8-bbeb-48f8e0cd8adb",
+     "category": "제품",
+     "name": "닥터오라클 큐어소나 래디언스 글로우앰플",
+     "rel": "CREATED"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:54.953217+00:00"
+  },
+  {
+   "id": "bbe02242-17b8-4435-87c3-50ce2e0e6a16",
+   "name": "저스트엔터테인먼트",
+   "category": "단체",
+   "alias": "저스트엔터, 저스트 엔터테인먼트",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "JUST Entertainment",
+    "industry": "방송과엔터테인먼트",
+    "real_name": "(주)저스트엔터테인먼트",
+    "formation_date": "2020-07-17",
+    "hq": "서울특별시 성동구 고산자로 130, 4층 (응봉동, 지오빌딩)",
+    "founder": "이창오",
+    "ceo": "이창오",
+    "website": "https://www.justent.co.kr",
+    "sns": "https://www.instagram.com/enter_just, https://www.youtube.com/@JUSTWORLD",
+    "listed_on": "비상장",
+    "summary": "국내 대형 기획사 매니지먼트 출신의 이창오 대표가 설립하여 윤계상, 김상호, 정웅인, 박지환, 차우민 등 실력파 및 신예 배우들의 매니지먼트를 전문으로 하는 연예 기획사.",
+    "sources": [
+     "https://www.justent.co.kr",
+     "https://ko.wikipedia.org/wiki/%EC%A0%80%EC%8A%A4%ED%8A%B8_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+     "https://namu.wiki/w/%EC%A0%80%EC%8A%A4%ED%8A%B8%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "https://www.justent.co.kr",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:55.597904+00:00"
+  },
+  {
+   "id": "984759ed-bd5a-4722-a002-c07ef76d9067",
+   "name": "제일기획",
+   "category": "단체",
+   "alias": "제일, Cheil",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "Cheil Worldwide",
+    "industry": "광고",
+    "real_name": "(주)제일기획",
+    "formation_date": "1973-01-17",
+    "parent_company": "삼성전자",
+    "hq": "서울특별시 용산구 이태원로 222",
+    "founder": "이병철",
+    "ceo": "김종현",
+    "website": "https://www.cheil.com",
+    "sns": "https://www.instagram.com/cheil_worldwide, https://www.facebook.com/CheilWorldwide, https://www.youtube.com/@cheilworldwide",
+    "listed_on": "코스피",
+    "awards": "2025년 대한민국광고대상 은탑산업훈장, 2024년 런던국제광고제 동상, 2024년 스파이크스 아시아 금상, 2023년 칸 라이언즈 은사자상",
+    "headcount": "1,511명",
+    "summary": "삼성그룹 계열의 글로벌 종합 광고대행사로, 광고 및 마케팅 전략 수립부터 디지털 크리에이티브, 데이터 기반 솔루션까지 전 영역을 아우르는 국내 1위 광고 기획사.",
+    "sources": [
+     "https://www.cheil.com",
+     "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%9D%BC%EA%B8%B0%ED%9A%8D",
+     "https://namu.wiki/w/%EC%A0%9C%EC%9D%BC%EA%B8%B0%ED%9A%8D"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "https://www.cheil.com",
+   "links": [
+    {
+     "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6",
+     "category": "단체",
+     "name": "삼성전자",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:56.257702+00:00"
+  },
+  {
+   "id": "c3434f59-83e1-49bd-ba2d-5cb8c86aa87f",
+   "name": "킹콩 by 스타쉽",
+   "category": "단체",
+   "alias": "킹콩엔터테인먼트, 킹콩, KINGKONG by Starship",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "KINGKONG by Starship",
+    "industry": "방송과엔터테인먼트",
+    "real_name": "(주)스타쉽엔터테인먼트",
+    "formation_date": "2009-04-22",
+    "parent_company": "스타쉽엔터테인먼트",
+    "hq": "서울특별시 강남구 삼성로146길 4-5, 3층",
+    "founder": "이진성",
+    "ceo": "이진성",
+    "website": "http://starship-ent.com",
+    "sns": "https://www.instagram.com/kkbyss___official, https://www.facebook.com/kingkongENT, https://www.youtube.com/@KINGKONGbySTARSHIP",
+    "listed_on": "비상장",
+    "summary": "2009년 킹콩엔터테인먼트로 출발해 스타쉽엔터테인먼트에 흡수합병된 후 이동욱, 송승헌, 유연석, 이광수, 채수빈 등 정상급 배우들의 매니지먼트를 전담하는 전문 연기자 레이블.",
+    "sources": [
+     "http://starship-ent.com",
+     "https://ko.wikipedia.org/wiki/%ED%82%B9%EC%BD%A9_by_%EC%8A%A4%ED%83%80%EC%89%BD",
+     "https://namu.wiki/w/%ED%82%B9%EC%BD%A9%20by%20%EC%8A%A4%ED%83%80%EC%89%BD"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "http://starship-ent.com",
+   "links": [
+    {
+     "id": "8fabec08-e22c-4cb3-b863-be7c7cbfa575",
+     "category": "단체",
+     "name": "스타쉽엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:56.967884+00:00"
+  },
+  {
+   "id": "1aaa4d20-3652-4528-aa09-03058edf898d",
+   "name": "토니모리",
+   "category": "단체",
+   "alias": "TONYMOLY, 톤모",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "TONYMOLY CO., LTD.",
+    "industry": "화장품",
+    "real_name": "(주)토니모리",
+    "formation_date": "2006-07-26",
+    "hq": "서울특별시 서초구 남부순환로 2557 (서초동)",
+    "founder": "배해동",
+    "ceo": "김승철, 배진형",
+    "website": "https://corp.tonymoly.com",
+    "sns": "https://www.instagram.com/tonymoly_street, https://www.facebook.com/tonymoly.kr, https://www.youtube.com/@tonymolyofficial, https://x.com/tonymoly_kr",
+    "listed_on": "코스피",
+    "subsidiaries": "메가코스, 오션",
+    "summary": "스트리트 컬처 콘셉트의 화장품 브랜드 및 자체 ODM·OEM 생산 체계를 갖추고 기초·색조 화장품을 국내외에 제조 및 유통하는 코스피 상장 뷰티 기업.",
+    "sources": [
+     "https://corp.tonymoly.com",
+     "https://tonymoly.com",
+     "https://ko.wikipedia.org/wiki/%ED%86%A0%EB%8B%88%EB%AA%A8%EB%A6%AC",
+     "https://namu.wiki/w/%ED%86%A0%EB%8B%88%EB%AA%A8%EB%A6%AC"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "https://corp.tonymoly.com",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "e6e1bad0-dc1e-43a4-ba79-94b83875a145",
+     "category": "제품",
+     "name": "본셉 레티놀 2500 IU 링클샷 퍼펙터",
+     "rel": "CREATED"
+    },
+    {
+     "id": "e39d9993-faaa-40db-b898-563c0ea6d7b4",
+     "category": "제품",
+     "name": "본셉 레티놀 더블 브이핏 겔마스크",
+     "rel": "CREATED"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:57.611451+00:00"
+  },
+  {
+   "id": "0130cdcd-98d7-46c7-ab89-579f4feda727",
+   "name": "배현성",
+   "category": "인물",
+   "alias": "Bae Hyeon-seong, 박보검 닮은꼴",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Bae Hyeon-seong",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1999-05-03",
+    "measurements": "180cm",
+    "organization": "어썸이엔티",
+    "debut_date": "2018",
+    "debut_work": "김비서가 왜 그럴까 (2018)",
+    "notable_works": "조립식 가족 (2024), 경성크리처 시즌 2 (2024), 기적의 형제 (2023), 우리들의 블루스 (2022), 가우스전자 (2022), 슬기로운 의사생활 (2020)",
+    "website": "http://www.awesomeent.co.kr/portfolio-items/%EB%B0%B0%ED%98%84%EC%84%B1/",
+    "sns": "https://www.instagram.com/baehyeonseong_",
+    "mbti": "ISFJ",
+    "birthplace": "전주시",
+    "summary": "맑은 마스크와 안정적인 연기력으로 〈우리들의 블루스〉, 〈조립식 가족〉 등 다양한 청춘극과 장르물에서 주목받는 대한민국의 배우.",
+    "sources": [
+     "http://www.awesomeent.co.kr/portfolio-items/%EB%B0%B0%ED%98%84%EC%84%B1/",
+     "https://ko.wikipedia.org/wiki/%EB%B0%B0%ED%98%84%EC%84%B1",
+     "https://namu.wiki/w/%EB%B0%B0%ED%98%84%EC%84%B1"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "http://www.awesomeent.co.kr/portfolio-items/%EB%B0%B0%ED%98%84%EC%84%B1/",
+   "links": [
+    {
+     "id": "eb8438c1-0455-4496-8506-1ab6571b677f",
+     "category": "작품",
+     "name": "대리수능",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "8267411e-94c1-4611-a317-7a9c0eddda6e",
+     "category": "단체",
+     "name": "어썸이엔티",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "652f61b7-7013-436c-adda-7b76f78fab66",
+     "category": "장소",
+     "name": "전주시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "3716ccac-1edc-404e-b9f7-f6bfcaadac55",
+     "category": "작품",
+     "name": "실낙원",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "4a4b9f20-f89b-494c-a4b4-ab3c2a8a9e69",
+     "category": "작품",
+     "name": "디어엠",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "de22fb60-7bfc-46a9-8fde-ba5e01e8d6ef",
+     "category": "작품",
+     "name": "경성크리처",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "ca0e93cd-cece-469f-9f86-ca76fdc92b98",
+     "category": "작품",
+     "name": "신사장 프로젝트",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:58.360082+00:00"
+  },
+  {
+   "id": "bb5f5f46-2bc0-4cce-8992-e736d6511836",
+   "name": "곽선영",
+   "category": "인물",
+   "alias": "곽순경, 이익순",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Kwak Sun-young",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1983-05-11",
+    "measurements": "160cm",
+    "organization": "블러썸 엔터테인먼트",
+    "debut_date": "2006",
+    "debut_work": "달고나 (2006)",
+    "notable_works": "크래시 (2024), 무빙 (2023), 두뇌공조 (2023), 연예인 매니저로 살아남기 (2022), 구경이 (2021), 슬기로운 의사생활 (2020)",
+    "website": "https://blossomenter.com",
+    "blood_type": "B형",
+    "mbti": "ISFJ",
+    "birthplace": "서울특별시",
+    "education": "동국대학교 연극학부 학사",
+    "awards": "2021년 KBS 연기대상 드라마스페셜 TV시네마상",
+    "summary": "오랜 뮤지컬 무대 경험을 바탕으로 〈슬기로운 의사생활〉, 〈무빙〉, 〈크래시〉 등에서 흡인력 있는 연기력을 선보인 대한민국의 배우.",
+    "sources": [
+     "https://blossomenter.com",
+     "https://ko.wikipedia.org/wiki/%EA%B3%BD%EC%84%A0%EC%98%81",
+     "https://namu.wiki/w/%EA%B3%BD%EC%84%A0%EC%98%81"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://blossomenter.com",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "17f53557-9c03-4f47-8339-fb3efa169749",
+     "category": "작품",
+     "name": "허수아비",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "e9c4da7c-7c9f-4497-a1ec-de06950f9b56",
+     "category": "작품",
+     "name": "로비",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "663f46ff-33a8-4d33-8353-46b21dba4eec",
+     "category": "작품",
+     "name": "침범",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:26:59.004708+00:00"
+  },
+  {
+   "id": "a5c8fd84-ae85-404a-98aa-f0e138d1ba15",
+   "name": "김민주",
+   "category": "인물",
+   "alias": "김민또, 밍구리, 펩시민주",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Kim Min-ju",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "2001-02-05",
+    "measurements": "166cm",
+    "organization": "매니지먼트 숲",
+    "debut_date": "2018-10-29",
+    "debut_work": "COLOR*IZ (2018)",
+    "notable_works": "청설 (2024), 커넥션 (2024), 금혼령, 조선 혼인 금지령 (2022), 어제 일은 모두 괜찮아 (2019)",
+    "website": "http://www.management-soop.com/artists/kim-min-ju",
+    "sns": "https://www.instagram.com/minn.__.ju, https://x.com/minju_official_",
+    "blood_type": "AB형",
+    "mbti": "INFJ",
+    "birthplace": "서울특별시",
+    "weight": "45kg",
+    "education": "서울공연예술고등학교 연극영화과 졸업",
+    "awards": "2022년 MBC 연기대상 여자 신인상",
+    "summary": "걸그룹 IZ*ONE 활동 이후 드라마 〈금혼령〉, 영화 〈청설〉 등을 통해 입지를 다져가고 있는 대한민국의 배우.",
+    "sources": [
+     "http://www.management-soop.com/artists/kim-min-ju",
+     "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC%EC%A3%BC_(2001%EB%85%84)",
+     "https://namu.wiki/w/%EA%B9%80%EB%AF%BC%EC%A3%BC(%EB%B0%B0%EC%9A%B0)"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "http://www.management-soop.com/artists/kim-min-ju",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "b93918e1-515d-49de-a50f-af48fe2538f0",
+     "category": "단체",
+     "name": "매니지먼트 숲",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "4ad3d7a0-51a2-4fee-a1f4-f3a5b5493edf",
+     "category": "작품",
+     "name": "퇴마록",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:46.446466+00:00"
+  },
+  {
+   "id": "6491e0dc-b548-42ea-9354-995a3d9e59f9",
+   "name": "김신록",
+   "category": "인물",
+   "alias": "박정자, 진화영",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Kim Shin-rock",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1981-03-24",
+    "measurements": "164cm",
+    "organization": "저스트엔터테인먼트",
+    "debut_date": "2004",
+    "debut_work": "서바이벌 캘린더 (2004)",
+    "notable_works": "전,란 (2024), 지옥 시즌 2 (2024), 스위트홈 시즌 2 (2023), 유괴의 날 (2023), 재벌집 막내아들 (2022), 지옥 (2021)",
+    "website": "https://justent.co.kr/artist/kim-shin-rock/",
+    "sns": "https://www.instagram.com/shinrock",
+    "mbti": "INFP",
+    "birthplace": "전남광주통합특별시",
+    "education": "한국예술종합학교 연극원 연기과 예술전문사 졸업",
+    "awards": "2023년 제2회 청룡시리즈어워즈 여우조연상, 2022년 제58회 백상예술대상 TV부문 여자 조연상, 2022년 제1회 청룡시리즈어워즈 드라마부문 여우조연상",
+    "summary": "서울대 지리학과 졸업 후 한예종을 거쳐 연극 무대에서 탄탄히 쌓아 올린 독보적인 연기력으로 〈지옥〉, 〈재벌집 막내아들〉 등에서 강렬한 인상을 남긴 배우.",
+    "sources": [
+     "https://justent.co.kr/artist/kim-shin-rock/",
+     "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%8B%A0%EB%A1%9D",
+     "https://namu.wiki/w/%EA%B9%80%EC%8B%A0%EB%A1%9D"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://justent.co.kr/artist/kim-shin-rock/",
+   "links": [
+    {
+     "id": "bbe02242-17b8-4435-87c3-50ce2e0e6a16",
+     "category": "단체",
+     "name": "저스트엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "b8dc39d2-e5a5-46a6-8622-512fc5c216af",
+     "category": "장소",
+     "name": "전남광주통합특별시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:47.105072+00:00"
+  },
+  {
+   "id": "2efd63da-82b8-4ce0-855c-68e7875c5097",
+   "name": "김지훈",
+   "category": "인물",
+   "alias": "장발남, 덴버",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Kim Ji-hoon",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1981-05-09",
+    "measurements": "178cm",
+    "organization": "빅픽처이엔티",
+    "debut_date": "2002",
+    "debut_work": "러빙유 (2002)",
+    "notable_works": "이재, 곧 죽습니다 (2023), 발레리나 (2023), 연애대전 (2023), 종이의 집: 공동경제구역 (2022), 악의 꽃 (2020), 왔다! 장보리 (2014)",
+    "sns": "https://www.instagram.com/jiraishin9",
+    "birthplace": "서울특별시",
+    "weight": "68kg",
+    "education": "아주대학교 사회과학대학 심리학과 학사",
+    "awards": "2023년 제8회 아시아 아티스트 어워즈 배우 부문 베스트 아티스트상, 2014년 MBC 연기대상 연속극부문 남자 최우수연기상, 2013년 SBS 연기대상 장편드라마부문 남자 우수연기상",
+    "summary": "주말 드라마의 황태자에서 〈악의 꽃〉, 〈종이의 집: 공동경제구역〉, 〈발레리나〉 등을 통해 강렬한 비주얼과 파격적인 악역 연기로 스펙트럼을 넓힌 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A7%80%ED%9B%88_(1981%EB%85%84)",
+     "https://namu.wiki/w/%EA%B9%80%EC%A7%80%ED%9B%88(1981)"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A7%80%ED%9B%88_(1981%EB%85%84)",
+   "links": [
+    {
+     "id": "b1226071-ef55-4862-bef4-2e5617642eb7",
+     "category": "작품",
+     "name": "크라임씬 제로",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:47.735179+00:00"
+  },
+  {
+   "id": "a7082168-2c2e-41af-80d5-dcc51c95db13",
+   "name": "라미란",
+   "category": "인물",
+   "alias": "치타 여사, 덕희",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Ra Mi-ran",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1975-03-06",
+    "measurements": "162cm",
+    "organization": "씨제스 스튜디오",
+    "debut_date": "2005",
+    "debut_work": "친절한 금자씨 (2005)",
+    "notable_works": "정년이 (2024), 시민덕희 (2024), 나쁜엄마 (2023), 잔혹한 인턴 (2023), 정직한 후보 (2020), 응답하라 1988 (2015)",
+    "website": "http://www.c-jes.com",
+    "sns": "https://www.instagram.com/ramirani668",
+    "birthplace": "정선군",
+    "education": "서울예술전문대학 연극과 전문학사",
+    "awards": "2021년 제41회 청룡영화상 여우주연상, 2016년 제52회 백상예술대상 TV부문 여자 조연상",
+    "summary": "자연스러운 생활 밀착형 연기와 압도적인 희로애락 표현력으로 코미디와 정극을 넘나들며 대중의 큰 사랑을 받는 대한민국의 배우.",
+    "sources": [
+     "http://www.c-jes.com",
+     "https://ko.wikipedia.org/wiki/%EB%9D%BC%EB%AF%B8%EB%9E%80",
+     "https://namu.wiki/w/%EB%9D%BC%EB%AF%B8%EB%9E%80"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "http://www.c-jes.com",
+   "links": [
+    {
+     "id": "eac943e9-7dfd-4b3e-b423-149f0bf8be37",
+     "category": "작품",
+     "name": "아버지의 비밀",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "e7f61383-9e30-4116-8d09-f2600193d41a",
+     "category": "단체",
+     "name": "씨제스 스튜디오",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "b4414025-e520-4b00-8bab-1069273053b8",
+     "category": "장소",
+     "name": "정선군",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "30e9a083-c423-49c8-8150-3d89d26e7fa4",
+     "category": "작품",
+     "name": "To the Moon",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:48.402682+00:00"
+  },
+  {
+   "id": "153b2efe-aae9-4909-9cb7-e293445c07b2",
+   "name": "문가영",
+   "category": "인물",
+   "alias": "문가, 임주경, 안수영",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Mun Ka-young",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1996-07-10",
+    "measurements": "169cm",
+    "organization": "피크제이엔터테인먼트",
+    "debut_date": "2006",
+    "debut_work": "스승의 은혜 (2006)",
+    "notable_works": "서초동 (2025), 그놈은 흑염룡 (2025), 사랑의 이해 (2022), 링크: 먹고 사랑하라, 죽이게 (2022), 여신강림 (2020), 그 남자의 기억법 (2020)",
+    "sns": "https://www.instagram.com/m_kayoung",
+    "blood_type": "A형",
+    "mbti": "INTP",
+    "birthplace": "바덴뷔르템베르크주 카를스루에",
+    "weight": "47kg",
+    "religion": "개신교",
+    "education": "성균관대학교 연기예술학 학사",
+    "awards": "2023년 아시아 아티스트 어워즈 베스트 액팅 퍼포먼스상, 2021년 아시아 아티스트 어워즈 이모티브상, 2020년 MBC 연기대상 수목미니시리즈부문 여자 우수연기상, 2018년 MBC 연기대상 월화미니시리즈부문 여자 우수연기상",
+    "summary": "독일에서 태어나 3개 국어를 구사하는 아역 출신 배우로, 〈여신강림〉과 〈사랑의 이해〉 등을 통해 섬세한 감정선과 독보적인 매력을 입증한 글로벌 대세 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B0%80%EC%98%81",
+     "https://namu.wiki/w/%EB%AC%B8%EA%B0%80%EC%98%81"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B0%80%EC%98%81",
+   "links": [
+    {
+     "id": "d63f1232-b9d4-442a-8ae3-16b8f3cb1078",
+     "category": "작품",
+     "name": "그놈은 흑염룡",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "def3e9e4-4136-453f-98a7-4620bf3b829d",
+     "category": "작품",
+     "name": "서초동",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "25c6fbd2-ef68-40b8-a023-f24980611bed",
+     "category": "작품",
+     "name": "여신강림",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "8384fd8e-2424-470e-9042-7b7213f315ac",
+     "category": "작품",
+     "name": "만약에 우리",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:49.085641+00:00"
+  },
+  {
+   "id": "c3127b08-9337-4fa0-b6a5-a88bfa0bc204",
+   "name": "박민영",
+   "category": "인물",
+   "alias": "로코퀸, Rachel Park, 김미소, 강지원",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Park Min-young",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1986-03-04",
+    "measurements": "164cm",
+    "organization": "다름엔터테인먼트",
+    "debut_date": "2006-11-06",
+    "debut_work": "거침없이 하이킥! (2006)",
+    "notable_works": "내 남편과 결혼해줘 (2024), 월수금화목토 (2022), 기상청 사람들: 사내연애 잔혹사 편 (2022), 그녀의 사생활 (2019), 김비서가 왜 그럴까 (2018), 성균관 스캔들 (2010)",
+    "sns": "https://www.instagram.com/rachel_mypark, https://weibo.com/supermypark",
+    "blood_type": "O형",
+    "mbti": "ENFP",
+    "birthplace": "서울특별시",
+    "weight": "47kg",
+    "religion": "개신교",
+    "education": "동국대학교 영상대학원 공연예술학 석사",
+    "awards": "2024년 제9회 아시아 아티스트 어워즈 배우 부문 핫트렌드상, 2024년 제9회 아시아 아티스트 어워즈 베스트 아티스트상, 2014년 KBS 연기대상 중편드라마부문 여자 우수연기상, 2011년 KBS 연기대상 중편드라마부문 여자 우수연기상",
+    "fandom_name": "미소블럭",
+    "channel_url": "https://www.youtube.com/@justParkminyoung",
+    "summary": "〈거침없이 하이킥!〉의 유미 역으로 데뷔한 이래 〈김비서가 왜 그럴까〉, 〈내 남편과 결혼해줘〉 등을 연이어 히트시키며 자타공인 '로코퀸'으로 자리매김한 대한민국의 톱배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EB%B0%95%EB%AF%BC%EC%98%81",
+     "https://namu.wiki/w/%EB%B0%95%EB%AF%BC%EC%98%81"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EB%AF%BC%EC%98%81",
+   "links": [
+    {
+     "id": "8256556d-4fa1-4d93-b28e-91f56e04ed7e",
+     "category": "작품",
+     "name": "나인 투 식스",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "d33f0c7f-2de9-44fe-9e79-a7570e75a5d5",
+     "category": "작품",
+     "name": "내 남편과 결혼해줘",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:49.862040+00:00"
+  },
+  {
+   "id": "f4d6810b-1a9c-42c3-bb75-0a97225158d6",
+   "name": "박성웅",
+   "category": "인물",
+   "alias": "이중구, 살려는 드릴게, 웅남이",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Park Sung-woong",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1973-01-09",
+    "measurements": "187cm",
+    "organization": "씨제스 스튜디오",
+    "debut_date": "1997",
+    "debut_work": "넘버 3 (1997)",
+    "notable_works": "좋거나 나쁜 동재 (2024), 사냥개들 (2023), 국민사형투표 (2023), 라이프 온 마스 (2018), 안시성 (2018), 신세계 (2013)",
+    "website": "http://www.c-jes.com",
+    "blood_type": "AB형",
+    "mbti": "ENFJ",
+    "birthplace": "충주시",
+    "weight": "78kg",
+    "religion": "개신교",
+    "education": "한국외국어대학교 법과대학 법학 학사",
+    "awards": "2016년 SBS 연기대상 장르드라마부문 남자 특별연기상",
+    "summary": "오랜 무명과 액션 배우 생활을 거쳐 영화 〈신세계〉의 이중구 역으로 독보적인 카리스마를 각인시킨 후 드라마와 영화를 넘나들며 묵직한 존재감을 발휘하는 대한민국의 배우.",
+    "sources": [
+     "http://www.c-jes.com",
+     "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%84%B1%EC%9B%85",
+     "https://namu.wiki/w/%EB%B0%95%EC%84%B1%EC%9B%85"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "http://www.c-jes.com",
+   "links": [
+    {
+     "id": "9cd3ca27-1c1f-4e4d-a804-e6baba30e7a7",
+     "category": "작품",
+     "name": "문무",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "e7f61383-9e30-4116-8d09-f2600193d41a",
+     "category": "단체",
+     "name": "씨제스 스튜디오",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "68eecf17-743f-45d3-a79f-9e3554951343",
+     "category": "장소",
+     "name": "충주시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "87f7614f-7915-4fd9-8a13-aa1df66681e3",
+     "category": "작품",
+     "name": "심우면 연리리",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:50.562797+00:00"
+  },
+  {
+   "id": "fd23c194-3462-46e8-87d3-27f97b99fbd1",
+   "name": "박희순",
+   "category": "인물",
+   "alias": "지천명 아이돌, 최무진",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Park Hee-soon",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1970-02-13",
+    "measurements": "180cm",
+    "organization": "매니지먼트 시선",
+    "debut_date": "1990",
+    "debut_work": "심청이는 왜 두 번 인당수에 몸을 던졌는가 (1990)",
+    "notable_works": "오징어 게임 시즌 2 (2024), 선산 (2024), 무빙 (2023), 트롤리 (2022), 모범가족 (2022), 마이 네임 (2021)",
+    "sns": "https://www.instagram.com/park_hee_soon",
+    "blood_type": "O형",
+    "mbti": "INFJ",
+    "birthplace": "서울특별시",
+    "weight": "70kg",
+    "religion": "개신교",
+    "education": "서울예술전문대학 연극과 전문학사",
+    "awards": "2008년 제29회 청룡영화상 남우조연상, 2008년 제7회 대한민국 영화대상 남우조연상, 2008년 제9회 부산영화평론가협회상 남우조연상",
+    "summary": "극단 목화 출신의 탄탄한 연기 내공과 묵직한 중저음 보이스를 바탕으로 영화와 시리즈물에서 강렬한 카리스마를 발휘하는 대한민국의 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EB%B0%95%ED%9D%AC%EC%88%9C",
+     "https://namu.wiki/w/%EB%B0%95%ED%9D%AC%EC%88%9C"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%95%ED%9D%AC%EC%88%9C",
+   "links": [
+    {
+     "id": "eac943e9-7dfd-4b3e-b423-149f0bf8be37",
+     "category": "작품",
+     "name": "아버지의 비밀",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "7723f99f-2ea7-4a47-ba0d-f296693e7839",
+     "category": "작품",
+     "name": "판사 이한영",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:51.295643+00:00"
+  },
+  {
+   "id": "c4e662ea-8944-4fbc-b658-d9b88cb86c74",
+   "name": "서현우",
+   "category": "인물",
+   "alias": "연기 청부업자, 연천, 이성조",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Seo Hyun-woo",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1983-11-20",
+    "measurements": "180cm",
+    "organization": "저스트엔터테인먼트",
+    "debut_date": "2010",
+    "debut_work": "내 마음의 풍금 (2010)",
+    "notable_works": "열혈사제2 (2024), 킬러들의 쇼핑몰 (2024), 탈주 (2024), 연예인 매니저로 살아남기 (2022), 헤어질 결심 (2022), 악의 꽃 (2020)",
+    "website": "https://www.justent.co.kr",
+    "sns": "https://www.instagram.com/shwoo1120",
+    "mbti": "ENFJ",
+    "birthplace": "부산광역시",
+    "education": "한국예술종합학교 연극원 연기과 예술사",
+    "awards": "2024년 SBS 연기대상 시즌제 드라마 부문 남자 조연상, 2023년 제21회 디렉터스컷 어워즈 올해의 새로운 남자배우상, 2022년 제26회 부천국제판타스틱영화제 코리안 판타스틱 장편 배우상",
+    "summary": "수많은 영화와 드라마에서 선역과 악역을 넘나드는 탁월한 캐릭터 소화력과 디테일한 연기로 강렬한 인상을 남기는 연기파 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%84%9C%ED%98%84%EC%9A%B0",
+     "https://namu.wiki/w/%EC%84%9C%ED%98%84%EC%9A%B0(1983)",
+     "https://www.justent.co.kr"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%ED%98%84%EC%9A%B0",
+   "links": [
+    {
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d",
+     "category": "장소",
+     "name": "부산광역시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "bbe02242-17b8-4435-87c3-50ce2e0e6a16",
+     "category": "단체",
+     "name": "저스트엔터테인먼트",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:52.211168+00:00"
+  },
+  {
+   "id": "b9555417-5aa4-449b-bef3-50d2d88833f4",
+   "name": "손석구",
+   "category": "인물",
+   "alias": "구씨, 강해상, 석구",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Son Suk-ku",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1983-02-07",
+    "measurements": "178cm",
+    "organization": "스태넘",
+    "debut_date": "2014",
+    "debut_work": "마담 뺑덕 (2014)",
+    "notable_works": "댓글부대 (2024), 살인자ㅇ난감 (2024), D.P. 시즌 2 (2023), 카지노 (2022), 범죄도시 2 (2022), 나의 해방일지 (2022)",
+    "sns": "https://www.instagram.com/sonsukku",
+    "blood_type": "B형",
+    "mbti": "ENFP",
+    "birthplace": "대전광역시",
+    "weight": "80kg",
+    "education": "시카고 예술대학교 미술학 중퇴",
+    "awards": "2023년 제59회 백상예술대상 TV부문 인기상, 2022년 제42회 한국영화평론가협회상 신인남우상",
+    "summary": "〈나의 해방일지〉의 '구씨'와 〈범죄도시 2〉의 '강해상'으로 신드롬을 일으키며 독보적인 분위기와 흡인력 있는 연기를 보여주는 대한민국의 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%86%90%EC%84%9D%EA%B5%AC",
+     "https://namu.wiki/w/%EC%86%90%EC%84%9D%EA%B5%AC"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%86%90%EC%84%9D%EA%B5%AC",
+   "links": [
+    {
+     "id": "c783fa77-d7be-48eb-886a-b4b01c808025",
+     "category": "작품",
+     "name": "너와 함께라면",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "128cb9fc-75dd-4f2f-941b-f0357e5c88d6",
+     "category": "장소",
+     "name": "대전광역시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "9e37e98c-3939-45b2-85a5-120839412749",
+     "category": "작품",
+     "name": "바이러스",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:53.147397+00:00"
+  },
+  {
+   "id": "da07c4ca-c546-42fa-8f31-2138d05dbf15",
+   "name": "손현주",
+   "category": "인물",
+   "alias": "모범형사, 거지짤, 강도창",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Son Hyun-joo",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1965-06-24",
+    "measurements": "177cm",
+    "organization": "블레이드엔터테인먼트",
+    "debut_date": "1991",
+    "debut_work": "바람꽃은 시들지 않는다 (1991)",
+    "notable_works": "유어 아너 (2024), 한산: 용의 출현 (2022), 모범형사 (2020), 숨바꼭질 (2013), 은밀하게 위대하게 (2013), 추적자 THE CHASER (2012)",
+    "sns": "https://www.instagram.com/sonhyunjoo_1000",
+    "blood_type": "O형",
+    "birthplace": "서울특별시",
+    "weight": "72kg",
+    "religion": "개신교",
+    "education": "중앙대학교 예술대학 연극영화학 학사",
+    "awards": "2017년 제39회 모스크바 국제영화제 남우주연상, 2013년 제49회 백상예술대상 TV부문 남자 최우수연기상, 2012년 SBS 연기대상 대상",
+    "summary": "오랜 단역과 조연 시절을 거쳐 〈추적자 THE CHASER〉, 〈모범형사〉 등에서 서민적이면서도 폭발적인 생활 연기로 대상을 거머쥔 명품 국민 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%86%90%ED%98%84%EC%A3%BC",
+     "https://namu.wiki/w/%EC%86%90%ED%98%84%EC%A3%BC"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%86%90%ED%98%84%EC%A3%BC",
+   "links": [
+    {
+     "id": "e52ff4e9-f0c7-44f0-907e-c70e98ce9db0",
+     "category": "작품",
+     "name": "닥터X: 하얀 마피아의 시대",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "c72b4209-ecd3-4a8b-bc86-d484e8b1f039",
+     "category": "단체",
+     "name": "블레이드엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "c6eb25a6-622a-42b0-a51e-aa9942d7d451",
+     "category": "작품",
+     "name": "신입사원 강회장",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:53.793805+00:00"
+  },
+  {
+   "id": "9203f4c9-2621-4b87-9876-03104eb1c372",
+   "name": "유재명",
+   "category": "인물",
+   "alias": "창준, 장회장, 동룡이 아빠",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Yoo Jae-myung",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1973-06-03",
+    "measurements": "183cm",
+    "organization": "에이스팩토리",
+    "debut_date": "2001",
+    "debut_work": "흑수선 (2001)",
+    "notable_works": "노 웨이 아웃 : 더 루렛 (2024), 행복의 나라 (2024), 서울의 봄 (2023), 도적: 칼의 소리 (2023), 이태원 클라쓰 (2020), 비밀의 숲 (2017)",
+    "sns": "https://www.instagram.com/youchmy",
+    "birthplace": "부산광역시",
+    "weight": "78kg",
+    "education": "부산대학교 생물학과 학사",
+    "awards": "2018년 제6회 아시아태평양 스타 어워즈 남자 연기상",
+    "summary": "부산 연극 무대에서 다져진 깊은 연기 내공으로 〈비밀의 숲〉 이창준, 〈이태원 클라쓰〉 장대희 등 선악을 넘나들며 입체적인 캐릭터를 완성하는 연기파 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%9E%AC%EB%AA%85",
+     "https://namu.wiki/w/%EC%9C%A0%EC%9E%AC%EB%AA%85"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%9E%AC%EB%AA%85",
+   "links": [
+    {
+     "id": "1c6be857-1ff3-43a6-9e99-329da0022dc8",
+     "category": "작품",
+     "name": "수능, 출제의 비밀",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "e0183ef7-8244-4f52-9301-acfc258d44cc",
+     "category": "단체",
+     "name": "에이스팩토리",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d",
+     "category": "장소",
+     "name": "부산광역시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:54.481734+00:00"
+  },
+  {
+   "id": "03190c38-7bf8-48a9-8dcd-585fc9e63788",
+   "name": "유해진",
+   "category": "인물",
+   "alias": "참바다, 참바다씨, 고광렬",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Yoo Hai-jin",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1970-01-04",
+    "measurements": "173cm",
+    "organization": "VAST엔터테인먼트",
+    "debut_date": "1988",
+    "debut_work": "울타리 꽃 (1988)",
+    "notable_works": "파묘 (2024), 달짝지근해: 7510 (2023), 올빼미 (2022), 공조2: 인터내셔날 (2022), 택시운전사 (2017), 타짜 (2006)",
+    "blood_type": "A형",
+    "mbti": "INFP",
+    "birthplace": "청주시",
+    "weight": "65kg",
+    "religion": "천주교",
+    "education": "서울예술전문대학 연극과 전문학사",
+    "awards": "2023년 제28회 춘사국제영화제 남우조연상, 2017년 제53회 백상예술대상 영화부문 남자 조연상, 2015년 제51회 백상예술대상 영화부문 남자 조연상, 2015년 제35회 황금촬영상 최우수 남우조연상, 2014년 제51회 대종상 남우조연상, 2010년 제31회 청룡영화상 남우조연상",
+    "summary": "친근한 소시민부터 서늘한 악역과 권력자까지 완벽하게 소화해 내는 독보적인 연기력과 천만 관객 신화를 다수 보유한 대한민국 대표 국민 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%95%B4%EC%A7%84",
+     "https://namu.wiki/w/%EC%9C%A0%ED%95%B4%EC%A7%84"
+    ],
+    "ai_model": "Gemini 3.8 Flash"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%95%B4%EC%A7%84",
+   "links": [
+    {
+     "id": "39023dd5-bb45-47a7-8c02-a4015feb8682",
+     "category": "작품",
+     "name": "암살자(들)",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "b9f2c530-5ffb-4cf0-b029-b071dd664221",
+     "category": "단체",
+     "name": "VAST엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "09717372-08d9-4d15-bd31-70f274f85ce1",
+     "category": "장소",
+     "name": "청주시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "677c9c3d-b253-4831-9f2f-0c824129b8dc",
+     "category": "작품",
+     "name": "왕과 사는 남자",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:55.178147+00:00"
+  },
+  {
+   "id": "d32572ad-0ceb-4458-a5e1-ea1f3059ff06",
+   "name": "이성민",
+   "category": "인물",
+   "alias": "진양철, 오과장, 최인혁",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Lee Sung-min",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1968-12-04",
+    "measurements": "178cm",
+    "organization": "호두앤유엔터테인먼트",
+    "debut_date": "1987",
+    "debut_work": "리투아니아 (1987)",
+    "notable_works": "핸섬가이즈 (2024), 운수 오진 날 (2023), 서울의 봄 (2023), 형사록 (2022), 재벌집 막내아들 (2022), 미생 (2014)",
+    "birthplace": "봉화군",
+    "education": "대구과학대학교 방송연예과 전문학사",
+    "awards": "2023년 제59회 백상예술대상 TV부문 남자 최우수연기상, 2019년 제55회 백상예술대상 영화부문 남자 최우수연기상, 2018년 제39회 청룡영화상 남우주연상, 2018년 제55회 대종상 남우주연상, 2015년 제51회 백상예술대상 TV부문 남자 최우수연기상",
+    "summary": "오랜 무명과 연극 무대 생활을 거쳐 〈골든타임〉, 〈미생〉, 〈재벌집 막내아들〉 진양철 회장 역 등으로 독보적인 화면 장악력과 명품 연기력을 증명한 대한민국의 대배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%84%B1%EB%AF%BC_(%EB%B0%B0%EC%9A%B0)",
+     "https://namu.wiki/w/%EC%9D%B4%EC%84%B1%EB%AF%BC"
+    ],
+    "ai_model": "Gemini 3.8 Flash"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%84%B1%EB%AF%BC_(%EB%B0%B0%EC%9A%B0)",
+   "links": [
+    {
+     "id": "9ea3a5a8-7988-4f9e-85eb-7deb4d4dc873",
+     "category": "단체",
+     "name": "호두앤유엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "424f85a0-b55c-4a89-b5d3-fa533013c675",
+     "category": "장소",
+     "name": "봉화군",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "e8939bd1-9e13-41d7-8c77-2c373f0dc761",
+     "category": "작품",
+     "name": "원경",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:47:55.937094+00:00"
+  },
+  {
+   "id": "026d9122-7a2c-4fc1-aca4-7da9b9865698",
+   "name": "이수경",
+   "category": "인물",
+   "alias": "숰, 강솔B, 미라",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Lee Soo-kyung",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1996-10-24",
+    "measurements": "170cm",
+    "organization": "눈컴퍼니",
+    "debut_date": "2012",
+    "debut_work": "여름방학 (2012)",
+    "notable_works": "데드맨 (2024), 아다마스 (2022), 기적 (2021), 로스쿨 (2021), 침묵 (2017), 차이나타운 (2015)",
+    "sns": "https://www.instagram.com/o.o.o.o.sk",
+    "blood_type": "A형",
+    "mbti": "INFJ",
+    "birthplace": "서울특별시",
+    "education": "경기대학교 연기학과 학사",
+    "awards": "2022년 제58회 백상예술대상 영화부문 여자 조연상, 2018년 제54회 백상예술대상 영화부문 여자 조연상",
+    "summary": "영화 〈차이나타운〉, 〈침묵〉, 〈기적〉 등에서 강렬하고 독보적인 연기력으로 역대 최연소 백상예술대상 영화부문 여자 조연상 2회 수상을 달성한 실력파 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%88%98%EA%B2%BD_(1996%EB%85%84)",
+     "https://namu.wiki/w/%EC%9D%B4%EC%88%98%EA%B2%BD(1996)"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%88%98%EA%B2%BD_(1996%EB%85%84)",
+   "links": [
+    {
+     "id": "565df487-a620-4e64-9f67-3198d5180936",
+     "category": "단체",
+     "name": "눈컴퍼니",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "c4cda04a-ae5f-4d94-baf2-da05cfe846e8",
+     "category": "작품",
+     "name": "닥터 섬보이",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "b3cc42c0-a988-4472-9b2c-4b09ea2a69ec",
+     "category": "작품",
+     "name": "극장의 시간들",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "87f7614f-7915-4fd9-8a13-aa1df66681e3",
+     "category": "작품",
+     "name": "심우면 연리리",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T03:51:54.877681+00:00"
+  },
+  {
+   "id": "49daa807-cee0-4d67-bd23-1a2bb445f5da",
+   "name": "이제훈",
+   "category": "인물",
+   "alias": "김도기, 박해영, 이제훈훈",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Lee Je-hoon",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1984-07-04",
+    "measurements": "177cm",
+    "organization": "컴퍼니온",
+    "debut_date": "2006",
+    "debut_work": "진실, 리트머스 (2006)",
+    "notable_works": "탈주 (2024), 수사반장 1958 (2024), 모범택시 2 (2023), 무브 투 헤븐: 나는 유품정리사입니다 (2021), 시그널 (2016), 파수꾼 (2011)",
+    "website": "http://companyon.co.kr/artists/view.php?id=3&type=7",
+    "sns": "https://www.instagram.com/leejehoon_official",
+    "blood_type": "B형",
+    "mbti": "ENTP",
+    "birthplace": "서울특별시",
+    "education": "한국예술종합학교 연극원 연기과 중퇴",
+    "awards": "2023년 SBS 연기대상 대상, 2021년 SBS 연기대상 미니시리즈 장르/판타지부문 남자 최우수연기상, 2011년 제32회 청룡영화상 신인남우상, 2011년 제48회 대종상 신인남우상",
+    "fandom_name": "후니스트",
+    "channel_url": "https://www.youtube.com/@companyon.official",
+    "summary": "영화 〈파수꾼〉과 〈건축학개론〉으로 충무로의 블루칩으로 떠오른 뒤 〈시그널〉, 〈모범택시〉 시리즈 등을 연이어 히트시키며 폭넓은 연기 스펙트럼과 흥행력을 인정받은 배우이자 제작자.",
+    "sources": [
+     "http://companyon.co.kr/artists/view.php?id=3&type=7",
+     "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A0%9C%ED%9B%88",
+     "https://namu.wiki/w/%EC%9D%B4%EC%A0%9C%ED%9B%88"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "http://companyon.co.kr/artists/view.php?id=3&type=7",
+   "links": [
+    {
+     "id": "a82d9341-9d36-4f91-963a-65dfdde30a35",
+     "category": "단체",
+     "name": "컴퍼니온",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "fb6e9232-77e0-4d40-b386-4dccc8e4947b",
+     "category": "작품",
+     "name": "Taxi Driver 3",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "9cbfa8ba-25dd-4c26-bd26-1cd1ee14a82d",
+     "category": "작품",
+     "name": "협상의 기술",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "bc7739dc-84e8-4270-803d-c25ba2281a9e",
+     "category": "작품",
+     "name": "소주전쟁",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:05:26.517777+00:00"
+  },
+  {
+   "id": "71e7bb08-f3a6-42b7-8caa-bf8229e2c345",
+   "name": "이주빈",
+   "category": "인물",
+   "alias": "증명사진 레전드, 천다혜",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Lee Joo-been",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1989-09-18",
+    "measurements": "161cm",
+    "organization": "키이스트",
+    "debut_date": "2017",
+    "debut_work": "귓속말 (2017)",
+    "notable_works": "범죄도시4 (2024), 눈물의 여왕 (2024), 종이의 집: 공동경제구역 (2022), 닥터로이어 (2022), 그 남자의 기억법 (2020), 멜로가 체질 (2019)",
+    "sns": "https://www.instagram.com/hellobeen",
+    "blood_type": "AB형",
+    "mbti": "INFJ",
+    "birthplace": "서울특별시",
+    "religion": "천주교",
+    "education": "동덕여자대학교 방송연예과 학사",
+    "awards": "2025년 뉴시스 한류엑스포 국회 문화체육관광위원장상",
+    "summary": "완성도 높은 비주얼과 흡인력 있는 캐릭터 표현으로 〈멜로가 체질〉, 〈종이의 집: 공동경제구역〉, 〈눈물의 여왕〉, 〈범죄도시4〉 등에서 주목받은 대한민국의 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A3%BC%EB%B9%88",
+     "https://namu.wiki/w/%EC%9D%B4%EC%A3%BC%EB%B9%88"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A3%BC%EB%B9%88",
+   "links": [
+    {
+     "id": "6030be57-936d-428f-a0cd-c0493929a538",
+     "category": "단체",
+     "name": "키이스트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "65f76f7e-cf7e-483c-a3aa-fa64ba5c5e6e",
+     "category": "작품",
+     "name": "스프링 피버",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "1c377780-b221-4816-af07-6d0ace5fccfd",
+     "category": "작품",
+     "name": "트웰브",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "de77f06e-3513-4008-b3d3-aeafcb0e6c4c",
+     "category": "작품",
+     "name": "이혼 보험",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:05:27.238212+00:00"
+  },
+  {
+   "id": "7d7bd21e-31dc-4cb9-bca9-41d2f85e37af",
+   "name": "이준영",
+   "category": "인물",
+   "alias": "준, Jun, 수겸학생",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Lee Jun-young",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1997-01-22",
+    "measurements": "185cm",
+    "organization": "빌리언스",
+    "debut_date": "2014-06-02",
+    "debut_work": "MONO SCANDAL (2014)",
+    "notable_works": "폭싹 속았수다 (2025), 나는 대놓고 신데렐라를 꿈꾼다 (2024), 황야 (2024), 마스크걸 (2023), D.P. (2021), 부암동 복수자들 (2017)",
+    "sns": "https://www.instagram.com/real_2junyoung, https://x.com/1ee_Jun_Young",
+    "blood_type": "AB형",
+    "mbti": "INFP",
+    "birthplace": "서울특별시",
+    "weight": "68kg",
+    "religion": "개신교",
+    "education": "글로벌사이버대학교 방송연예학과 학사",
+    "awards": "2023년 아시아 아티스트 어워즈 베스트 액팅 퍼포먼스상, 2022년 아시아 아티스트 어워즈 베스트 액터상, 2018년 MBC 연기대상 남자 신인상",
+    "channel_url": "https://www.youtube.com/@official_leejunyoung",
+    "summary": "아이돌 그룹 유키스 출신으로 드라마 〈부암동 복수자들〉, 〈D.P.〉, 〈마스크걸〉 등에서 강렬한 악역부터 로맨스까지 폭넓은 스펙트럼을 증명하며 대세 배우로 자리매김한 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A4%80%EC%98%81_(1997%EB%85%84)",
+     "https://namu.wiki/w/%EC%9D%B4%EC%A4%80%EC%98%81(1997)"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A4%80%EC%98%81_(1997%EB%85%84)",
+   "links": [
+    {
+     "id": "c72b4209-ecd3-4a8b-bc86-d484e8b1f039",
+     "category": "단체",
+     "name": "블레이드엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "ffa11ea5-1778-4c8d-8520-7a12f39048d5",
+     "category": "작품",
+     "name": "D.P.",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "49c78614-8b05-4b57-9e15-9197b6059ffd",
+     "category": "작품",
+     "name": "폭싹 속았수다",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "87b5e0f1-25f8-4e86-b8cd-479d94805b4d",
+     "category": "작품",
+     "name": "포헨즈",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "f424e6d7-ca1e-442f-b40d-921de4f0673e",
+     "category": "작품",
+     "name": "24시 헬스클럽",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "c6eb25a6-622a-42b0-a51e-aa9942d7d451",
+     "category": "작품",
+     "name": "신입사원 강회장",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:05:28.155565+00:00"
+  },
+  {
+   "id": "22062dac-9c02-4aad-8d7c-f2c545039988",
+   "name": "전여빈",
+   "category": "인물",
+   "alias": "홍차영, 뗘비니",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Jeon Yeo-been",
+    "real_name": "전보영",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1989-07-26",
+    "measurements": "166cm",
+    "organization": "매니지먼트 mmm",
+    "debut_date": "2015",
+    "debut_work": "간신 (2015)",
+    "notable_works": "검은 수녀들 (2025), 하얼빈 (2024), 거미집 (2023), 너의 시간 속으로 (2023), 빈센조 (2021), 죄 많은 소녀 (2018)",
+    "website": "http://www.mmm-ent.com",
+    "sns": "https://www.instagram.com/jeon.yeobeen",
+    "mbti": "INFJ",
+    "birthplace": "강릉시",
+    "education": "동덕여자대학교 방송연예과 학사",
+    "awards": "2023년 제44회 청룡영화상 여우조연상, 2020년 제56회 대종상 영화제 신인여우상, 2018년 제23회 부산국제영화제 올해의 배우상",
+    "summary": "영화 〈죄 많은 소녀〉로 충무로에 강렬한 인상을 남긴 후, 드라마 〈멜로가 체질〉과 〈빈센조〉를 거치며 섬세함과 대담함을 두루 갖춘 독보적인 연기파 배우.",
+    "sources": [
+     "http://www.mmm-ent.com",
+     "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%97%AC%EB%B9%88",
+     "https://namu.wiki/w/%EC%A0%84%EC%97%AC%EB%B9%88"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "http://www.mmm-ent.com",
+   "links": [
+    {
+     "id": "f6c6b715-3867-495a-b2b5-0159280532d3",
+     "category": "단체",
+     "name": "매니지먼트mmm",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "64985b93-1f47-4d72-9361-ca37a2264f57",
+     "category": "장소",
+     "name": "강릉시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "b21931be-0f2a-40df-93f5-a22a940ec113",
+     "category": "작품",
+     "name": "우리 영화",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "5e3d0a39-11ae-42c9-ac4b-509b5cd63184",
+     "category": "작품",
+     "name": "검은 수녀들",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:05:28.903258+00:00"
+  },
+  {
+   "id": "86c25911-155c-4fe8-9e80-9d1c477c7df7",
+   "name": "정경호",
+   "category": "인물",
+   "alias": "김준완, 최치열, 한태주",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Jung Kyung-ho",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1983-08-31",
+    "measurements": "183cm",
+    "organization": "매니지먼트 오름",
+    "debut_date": "2004",
+    "debut_work": "다섯 개의 별 (2004)",
+    "notable_works": "노무사 노무진 (2025), 일타 스캔들 (2023), 슬기로운 의사생활 (2020), 라이프 온 마스 (2018), 슬기로운 감빵생활 (2017), 미안하다, 사랑한다 (2004)",
+    "sns": "https://www.instagram.com/jstar_allallj",
+    "blood_type": "B형",
+    "mbti": "INFJ",
+    "birthplace": "광명시",
+    "weight": "70kg",
+    "religion": "개신교",
+    "education": "중앙대학교 예술대학 연극영화학 학사",
+    "awards": "2020년 제5회 아시아 아티스트 어워즈 배우 부문 베스트 연기상, 2017년 MBC 연기대상 최고의 캐릭터상",
+    "summary": "〈슬기로운 감빵생활〉, 〈라이프 온 마스〉, 〈슬기로운 의사생활〉, 〈일타 스캔들〉 등을 거치며 자연스럽고 디테일한 생활 연기로 독보적인 캐릭터를 구축한 대한민국 대표 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%A0%95%EA%B2%BD%ED%98%B8_(1983%EB%85%84)",
+     "https://namu.wiki/w/%EC%A0%95%EA%B2%BD%ED%98%B8(1983)"
+    ],
+    "ai_model": "Gemini 3.8 Flash"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EA%B2%BD%ED%98%B8_(1983%EB%85%84)",
+   "links": [
+    {
+     "id": "a492be06-74d7-4254-b8c3-c71bd50ba22e",
+     "category": "단체",
+     "name": "매니지먼트 오름",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "e55bded3-75b8-4e6f-887d-16299acc68a9",
+     "category": "장소",
+     "name": "광명시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:05:29.679690+00:00"
+  },
+  {
+   "id": "cafcd48d-194c-44f7-9112-b3f0af62f0cd",
+   "name": "조윤희",
+   "category": "인물",
+   "alias": "방이숙, 나홍주, 고명지",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Cho Youn-hee",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1982-10-13",
+    "measurements": "170cm",
+    "organization": "킹콩 by 스타쉽",
+    "debut_date": "1999",
+    "debut_work": "I Believe (1999)",
+    "notable_works": "7인의 부활 (2024), 7인의 탈출 (2023), 사랑은 뷰티풀 인생은 원더풀 (2019), 월계수 양복점 신사들 (2016), 피리부는 사나이 (2016), 넝쿨째 굴러온 당신 (2012)",
+    "website": "http://starship-ent.com/profile/artists/choyounhee.php",
+    "sns": "https://www.instagram.com/mixnutcookie",
+    "blood_type": "O형",
+    "birthplace": "청주시",
+    "weight": "51kg",
+    "religion": "개신교",
+    "education": "동덕여자대학교 방송연예학 학사",
+    "awards": "2016년 KBS 연기대상 장편드라마부문 여자 우수연기상, 2012년 KBS 연기대상 여자 조연상",
+    "summary": "뮤직비디오와 시트콤으로 데뷔해 〈넝쿨째 굴러온 당신〉, 〈월계수 양복점 신사들〉, 〈7인의 탈출〉 등 다양한 작품에서 선역과 악역을 넘나들며 안정적인 연기력을 선보인 배우.",
+    "sources": [
+     "http://starship-ent.com",
+     "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%9C%A4%ED%9D%AC",
+     "https://namu.wiki/w/%EC%A1%B0%EC%9C%A4%ED%9D%AC"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "http://starship-ent.com",
+   "links": [
+    {
+     "id": "09717372-08d9-4d15-bd31-70f274f85ce1",
+     "category": "장소",
+     "name": "청주시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "c3434f59-83e1-49bd-ba2d-5cb8c86aa87f",
+     "category": "단체",
+     "name": "킹콩 by 스타쉽",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "6afb4f4e-ca51-4f0e-95a9-943716656655",
+     "category": "작품",
+     "name": "그 자연이 네게 뭐라고 하니",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:05:30.625436+00:00"
+  },
+  {
+   "id": "8a3a17f2-3400-4aa2-aa3d-3b3a6f6a54fb",
+   "name": "진영",
+   "category": "인물",
+   "alias": "진토벤, 김윤성, 박찬영",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "JINYOUNG",
+    "real_name": "정진영",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1991-11-18",
+    "measurements": "178cm",
+    "organization": "매니지먼트 런",
+    "debut_date": "2011-04-23",
+    "debut_work": "Let's Fly (2011)",
+    "notable_works": "스위트홈 시즌 3 (2024), 스위트홈 시즌 2 (2023), 경찰수업 (2021), 내안의 그놈 (2019), 구르미 그린 달빛 (2016), 수상한 그녀 (2014)",
+    "sns": "https://www.instagram.com/jinyoung0423, https://x.com/_jinyoung911118",
+    "blood_type": "A형",
+    "mbti": "INFP",
+    "birthplace": "충주시",
+    "weight": "63kg",
+    "religion": "무종교",
+    "education": "동국대학교 영상대학원 문화콘텐츠학 석사",
+    "awards": "2021년 KBS 연기대상 인기상, 2016년 KBS 연기대상 남자 신인연기상",
+    "channel_url": "https://www.youtube.com/@JINYOUNG_Official",
+    "summary": "보이그룹 B1A4의 리더이자 프로듀서로 활동을 시작해 〈구르미 그린 달빛〉, 〈경찰수업〉, 〈스위트홈〉 시리즈 등에서 탄탄한 연기력을 인정받은 배우 겸 싱어송라이터.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%98%81_(%EA%B0%80%EC%88%98)",
+     "https://namu.wiki/w/%EC%A7%84%EC%98%81(B1A4)"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%98%81_(%EA%B0%80%EC%88%98)",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "68eecf17-743f-45d3-a79f-9e3554951343",
+     "category": "장소",
+     "name": "충주시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "ac8cc19a-2ecc-4ee2-87bc-cef113b84274",
+     "category": "작품",
+     "name": "착한 여자 부세미",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:05:31.763160+00:00"
+  },
+  {
+   "id": "e3043626-7a70-48c6-b16b-7c9e3d6f74e7",
+   "name": "차강윤",
+   "category": "인물",
+   "alias": "이시우",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Cha Kang-yoon",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "2003-03-12",
+    "measurements": "187cm",
+    "organization": "바이브액터스",
+    "debut_date": "2024",
+    "debut_work": "졸업 (2024)",
+    "notable_works": "대리수능 (2026), 서울 자가에 대기업 다니는 김 부장 이야기 (2025), 협상의 기술 (2025), 견우와 선녀 (2025), 언젠가는 슬기로울 전공의생활 (2025), 졸업 (2024)",
+    "sns": "https://www.instagram.com/chakangyoon",
+    "mbti": "ENFJ",
+    "religion": "개신교",
+    "education": "서울예술대학교 연기전공 재학",
+    "summary": "훈훈하고 단정한 외모와 안정적인 기본기를 바탕으로 드라마 〈졸업〉을 통해 데뷔한 뒤 빠르게 주목받고 있는 신예 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%B0%A8%EA%B0%95%EC%9C%A4",
+     "https://namu.wiki/w/%EC%B0%A8%EA%B0%95%EC%9C%A4"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EA%B0%95%EC%9C%A4",
+   "links": [
+    {
+     "id": "eb8438c1-0455-4496-8506-1ab6571b677f",
+     "category": "작품",
+     "name": "대리수능",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "9be5455b-5f47-4f9f-b84b-a9564fdf66ef",
+     "category": "작품",
+     "name": "언젠가는 슬기로울 전공의생활",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "79f0f21d-4b6b-43ba-8f44-88ab76fde820",
+     "category": "작품",
+     "name": "견우와 선녀",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "072f0869-6d45-4d30-a001-a01388afe12b",
+     "category": "작품",
+     "name": "서울 자가에 대기업 다니는 김 부장 이야기",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "9cbfa8ba-25dd-4c26-bd26-1cd1ee14a82d",
+     "category": "작품",
+     "name": "협상의 기술",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:05:32.525031+00:00"
+  },
+  {
+   "id": "67aece31-cc69-4651-bd3a-18718f7bf066",
+   "name": "차주영",
+   "category": "인물",
+   "alias": "스튜어디스 혜정이, 혜정이",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Cha Joo-young",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1990-06-05",
+    "measurements": "170cm",
+    "organization": "고스트스튜디오",
+    "debut_date": "2016-01-04",
+    "debut_work": "치즈인더트랩 (2016)",
+    "notable_works": "원경 (2025), 진짜가 나타났다! (2023), 더 글로리 (2022), 어게인 마이 라이프 (2022), 키마이라 (2021), 저글러스 (2017)",
+    "sns": "https://www.instagram.com/jooyoungthej",
+    "blood_type": "AB형",
+    "mbti": "INTJ",
+    "birthplace": "서울특별시",
+    "weight": "50kg",
+    "religion": "천주교",
+    "education": "유타 주립대학교 경영학 학사",
+    "awards": "2023년 제43회 황금촬영상 OTT 부문 특별연기상, 2023년 제8회 아시아 아티스트 어워즈 아이콘상",
+    "summary": "넷플릭스 〈더 글로리〉의 최혜정 역으로 강렬한 존재감을 각인시킨 후 드라마 〈원경〉 등에서 뛰어난 캐릭터 소화력을 보여주고 있는 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%B0%A8%EC%A3%BC%EC%98%81",
+     "https://namu.wiki/w/%EC%B0%A8%EC%A3%BC%EC%98%81"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EC%A3%BC%EC%98%81",
+   "links": [
+    {
+     "id": "9b65bff7-2cab-4e93-84a8-07c5e2c80727",
+     "category": "단체",
+     "name": "고스트 스튜디오",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "e8939bd1-9e13-41d7-8c77-2c373f0dc761",
+     "category": "작품",
+     "name": "원경",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "69ee203f-6daa-4447-8729-c7505920e212",
+     "category": "작품",
+     "name": "클라이맥스",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:05:33.242986+00:00"
+  },
+  {
+   "id": "b6735e87-7641-447a-b194-26fdf74e9813",
+   "name": "하윤경",
+   "category": "인물",
+   "alias": "봄날의 햇살, 최수연, 춘광좌, 하윤키",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Ha Yoon-kyung",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1992-10-20",
+    "measurements": "165cm",
+    "organization": "호두앤유엔터테인먼트",
+    "debut_date": "2015",
+    "debut_work": "록산느를 위한 발라드 (2015)",
+    "notable_works": "강남 비-사이드 (2024), 이번 생도 잘 부탁해 (2023), 경아의 딸 (2022), 이상한 변호사 우영우 (2022), 슬기로운 의사생활 (2020), 소셜포비아 (2015)",
+    "website": "https://kstar.kbs.co.kr/person_view.html?idx=157037",
+    "sns": "https://www.instagram.com/hayoonkie",
+    "blood_type": "O형",
+    "mbti": "ENFP",
+    "birthplace": "군포시",
+    "weight": "43kg",
+    "religion": "가톨릭",
+    "education": "한국예술종합학교 연극원 연기과 예술사",
+    "awards": "2023년 제21회 디렉터스컷 어워즈 올해의 새로운 여자배우상, 2022년 제23회 부산영화평론가협회상 신인여우상",
+    "summary": "〈슬기로운 의사생활〉의 허선빈 역과 〈이상한 변호사 우영우〉의 '봄날의 햇살' 최수연 역으로 큰 사랑을 받은 섬세하고 따뜻한 매력의 배우.",
+    "sources": [
+     "https://namu.wiki/w/%ED%95%98%EC%9C%A4%EA%B2%BD",
+     "https://kstar.kbs.co.kr/person_view.html?idx=157037"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://namu.wiki/w/%ED%95%98%EC%9C%A4%EA%B2%BD",
+   "links": [
+    {
+     "id": "9ea3a5a8-7988-4f9e-85eb-7deb4d4dc873",
+     "category": "단체",
+     "name": "호두앤유엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "ab65f0fe-f15b-4531-b6f7-54afb9a897aa",
+     "category": "장소",
+     "name": "군포시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-28T04:05:33.995281+00:00"
+  },
+  {
+   "id": "a97428eb-4558-4413-bfaa-2a95552f9df8",
+   "name": "한지민",
+   "category": "인물",
+   "alias": "갓지민, 뽀얀악마, 한지맹",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Han Ji-min",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1982-11-05",
+    "measurements": "160cm",
+    "organization": "BH엔터테인먼트",
+    "debut_date": "2003-01-15",
+    "debut_work": "올인 (2003)",
+    "notable_works": "나의 완벽한 비서 (2025), 힙하게 (2023), 우리들의 블루스 (2022), 눈이 부시게 (2019), 미쓰백 (2018), 이산 (2007)",
+    "website": "http://bhent.co.kr/artist/han-ji-min",
+    "sns": "https://www.instagram.com/roma.emo",
+    "blood_type": "B형",
+    "mbti": "INFP",
+    "birthplace": "서울특별시",
+    "weight": "43kg",
+    "religion": "불교",
+    "education": "서울여자대학교 사회과학대학 사회사업학 학사",
+    "awards": "2019년 제55회 백상예술대상 영화부문 여자 최우수연기상, 2018년 제39회 청룡영화상 여우주연상, 2018년 제38회 한국영화평론가협회상 여우주연상",
+    "summary": "맑고 사랑스러운 이미지부터 영화 〈미쓰백〉을 통한 파격적인 변신까지 폭넓은 스펙트럼과 깊은 울림을 전하는 대한민국의 대표 배우.",
+    "sources": [
+     "http://bhent.co.kr/artist/han-ji-min",
+     "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A7%80%EB%AF%BC",
+     "https://namu.wiki/w/%ED%95%9C%EC%A7%80%EB%AF%BC"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "http://bhent.co.kr/artist/han-ji-min",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "0939de3e-dbd9-4466-a351-f70fad87e927",
+     "category": "단체",
+     "name": "BH엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "a0e376f3-9e6c-49c7-bb17-807b23eaaf0a",
+     "category": "작품",
+     "name": "Love Scout",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:05:34.669768+00:00"
+  },
+  {
+   "id": "e7f61383-9e30-4116-8d09-f2600193d41a",
+   "name": "씨제스 스튜디오",
+   "category": "단체",
+   "alias": "씨제스, 씨제스 엔터테인먼트, C-JeS",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "C-JeS Studios",
+    "industry": "방송과엔터테인먼트",
+    "real_name": "씨제스스튜디오",
+    "formation_date": "2009-12-22",
+    "hq": "경기도 고양시 일산동구 무궁화로 116",
+    "founder": "백창주",
+    "ceo": "백창주",
+    "website": "http://c-jes.com",
+    "sns": "https://www.instagram.com/cjesstudios, https://x.com/cjesstudios, https://www.youtube.com/@cjesstudios",
+    "listed_on": "비상장",
+    "summary": "JYJ의 매니지먼트로 출발하여 대형 배우 기획사 및 드라마·영화·뮤지컬·VFX를 아우르는 종합 영상 콘텐츠 제작사로 성장한 엔터테인먼트 기업.",
+    "sources": [
+     "http://c-jes.com",
+     "https://namu.wiki/w/%EC%94%A8%EC%A0%9C%EC%8A%A4%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4",
+     "https://ko.wikipedia.org/wiki/%EC%94%A8%EC%A0%9C%EC%8A%A4_%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "4128000000"
+   },
+   "source_url": "http://c-jes.com",
+   "links": [
+    {
+     "id": "5d89e7cf-d8ed-4b76-83e4-a8bf59c98d35",
+     "category": "장소",
+     "name": "고양시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:45:25.801829+00:00"
+  },
+  {
+   "id": "b9f2c530-5ffb-4cf0-b029-b071dd664221",
+   "name": "VAST엔터테인먼트",
+   "category": "단체",
+   "alias": "VAST, 브이에이에스티",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "VAST Entertainment",
+    "industry": "방송과엔터테인먼트",
+    "real_name": "브이에이에스티엔터테인먼트",
+    "formation_date": "2016-01-28",
+    "parent_company": "카카오엔터테인먼트",
+    "hq": "서울특별시 강남구 학동로42길 65",
+    "founder": "현빈, 강건택",
+    "ceo": "강건택",
+    "website": "http://vastenm.com",
+    "sns": "https://www.instagram.com/vast.ent, https://www.facebook.com/vast.ent, https://www.youtube.com/@vastentertainment",
+    "listed_on": "비상장",
+    "summary": "배우 현빈과 강건택 대표가 설립한 배우 전문 매니지먼트사로, 2019년 카카오엔터테인먼트 산하 레이블로 편입된 종합 엔터테인먼트 기업.",
+    "sources": [
+     "http://vastenm.com",
+     "https://ko.wikipedia.org/wiki/VAST%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+     "https://namu.wiki/w/VAST%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "http://vastenm.com",
+   "links": [
+    {
+     "id": "3a2912e4-51c2-48c8-8466-2b50b44a07ac",
+     "category": "단체",
+     "name": "카카오엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:45:26.554559+00:00"
+  },
+  {
+   "id": "9b65bff7-2cab-4e93-84a8-07c5e2c80727",
+   "name": "고스트 스튜디오",
+   "category": "단체",
+   "alias": "고스트스튜디오, 미투온 계열",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "Ghost Studio",
+    "industry": "방송과엔터테인먼트",
+    "real_name": "주식회사 고스트스튜디오",
+    "formation_date": "2000-04-18",
+    "hq": "서울특별시 성동구 성수일로 77",
+    "ceo": "최명규",
+    "website": "http://ghoststudio.co.kr",
+    "sns": "https://www.instagram.com/ghoststudio_official, https://www.youtube.com/@ghoststudio_official",
+    "listed_on": "코스닥",
+    "summary": "모바일 게임 개발 사업을 모태로 출발하여, 엔터테인먼트 매니지먼트 및 드라마·영화 제작까지 아우르는 종합 콘텐츠 기업으로 확장한 코스닥 상장사.",
+    "sources": [
+     "http://ghoststudio.co.kr",
+     "https://namu.wiki/w/%EA%B3%A0%EC%8A%A4%ED%8A%B8%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4",
+     "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4"
+    ],
+    "ai_model": "Gemini 3.8 Flash",
+    "region_code": "1100000000"
+   },
+   "source_url": "http://ghoststudio.co.kr",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:45:27.424680+00:00"
+  },
+  {
+   "id": "565df487-a620-4e64-9f67-3198d5180936",
+   "name": "눈컴퍼니",
+   "category": "단체",
+   "alias": "noon company",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "noon company",
+    "industry": "방송과엔터테인먼트",
+    "real_name": "주식회사 눈컴퍼니",
+    "formation_date": "2018-01-22",
+    "hq": "서울특별시 마포구 마포대로11길 45",
+    "founder": "성현수",
+    "ceo": "성현수",
+    "website": "http://nooncompany.kr",
+    "sns": "https://www.instagram.com/noon_company, https://www.facebook.com/nooncompany, https://www.youtube.com/@noon_company",
+    "listed_on": "비상장",
+    "summary": "김슬기, 박소진, 조한철, 이수경, 강길우 등 연기력과 개성을 겸비한 실력파 배우들이 대거 포진한 배우 전문 매니지먼트사.",
+    "sources": [
+     "http://nooncompany.kr",
+     "https://namu.wiki/w/%EB%88%88%EC%BB%B4%ED%83%8C%EB%8B%88",
+     "https://ko.wikipedia.org/wiki/%EB%88%88%EC%BB%B4%ED%83%8C%EB%8B%88"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "http://nooncompany.kr",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:45:28.107335+00:00"
+  },
+  {
+   "id": "a492be06-74d7-4254-b8c3-c71bd50ba22e",
+   "name": "매니지먼트 오름",
+   "category": "단체",
+   "alias": "매니지먼트오름, 오름, ALLUM",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "Management Allum",
+    "industry": "방송과엔터테인먼트",
+    "real_name": "주식회사 매니지먼트 오름",
+    "formation_date": "2016-10-04",
+    "hq": "서울특별시 마포구 망원동 420-2",
+    "founder": "최정남",
+    "ceo": "최정남",
+    "website": "http://allum.co.kr",
+    "sns": "https://www.instagram.com/management_allum",
+    "listed_on": "비상장",
+    "summary": "정경호, 김동욱, 나영희, 우희진 등이 소속된 배우 전문 연예 기획사이자 드라마 콘텐츠 제작 자회사를 둔 종합 엔터테인먼트 기업.",
+    "sources": [
+     "http://allum.co.kr",
+     "https://namu.wiki/w/%EB%A7%A4%EB%8B%88%EC%A7%80%EB%A8%BC%ED%8A%B8%20%EC%98%A4%EB%A6%84"
+    ],
+    "ai_model": "Gemini 3.8 Flash",
+    "region_code": "1100000000"
+   },
+   "source_url": "http://allum.co.kr",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:45:28.907399+00:00"
+  },
+  {
+   "id": "f6c6b715-3867-495a-b2b5-0159280532d3",
+   "name": "매니지먼트mmm",
+   "category": "단체",
+   "alias": "매니지먼트 엠엠엠, 매니지먼트mmm, mmm",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "Management MMM",
+    "industry": "방송과엔터테인먼트",
+    "real_name": "주식회사 매니지먼트엠엠엠",
+    "formation_date": "2021-06-16",
+    "hq": "서울특별시 용산구 독서당로 122-1 501호",
+    "ceo": "김상희",
+    "website": "http://www.mmm-ent.com",
+    "sns": "https://www.instagram.com/management_mmm, https://www.youtube.com/channel/UCavXSHyaE0xNvhd-ArgcYpQ",
+    "listed_on": "비상장",
+    "summary": "김태리, 전여빈, 안재홍, 이솜, 조현철, 홍경 등이 소속되어 있으며 매니지먼트와 영상 콘텐츠 제작을 아우르는 종합 엔터테인먼트 기업.",
+    "sources": [
+     "http://www.mmm-ent.com",
+     "https://namu.wiki/w/%EB%A7%A4%EB%8B%88%EC%A7%80%EB%A8%BC%ED%8A%B8%EC%97%A0%EC%97%A0%EC%97%A0",
+     "https://en.namu.wiki/w/%EB%A7%A4%EB%8B%88%EC%A7%80%EB%A8%BC%ED%8A%B8%EC%97%A0%EC%97%A0%EC%97%A0"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "http://www.mmm-ent.com",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:45:29.728094+00:00"
+  },
+  {
+   "id": "c72b4209-ecd3-4a8b-bc86-d484e8b1f039",
+   "name": "블레이드엔터테인먼트",
+   "category": "단체",
+   "alias": "블레이드엔터, 블레이드Ent, 빌리언스, 블루베리NFT, 유니더스",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "방송과엔터테인먼트",
+    "name_en": "BILLIONS",
+    "real_name": "주식회사 빌리언스",
+    "formation_date": "1973-05-23",
+    "hq": "서울특별시 강남구 삼성로 648 판타지오빌딩 3층",
+    "ceo": "박종진",
+    "website": "https://thebillions.co.kr",
+    "listed_on": "코스닥",
+    "summary": "유니더스를 전신으로 하여 엔터테인먼트 매니지먼트 및 드라마·영상 제작 사업으로 확장한 코스닥 상장사(구 블레이드엔터테인먼트, 현 빌리언스).",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EB%B9%8C%EB%A6%AC%EC%96%B8%EC%8A%A4_(%EA%B8%B0%EC%97%85)",
+     "https://namu.wiki/w/%EB%B9%8C%EB%A6%AC%EC%96%B8%EC%8A%A4(%EC%86%8C%EC%86%8D%EC%82%AC)",
+     "https://thebillions.co.kr"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EB%B9%8C%EB%A6%AC%EC%96%B8%EC%8A%A4_(%EA%B8%B0%EC%97%85)",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:45:30.447298+00:00"
+  },
+  {
+   "id": "8267411e-94c1-4611-a317-7a9c0eddda6e",
+   "name": "어썸이엔티",
+   "category": "단체",
+   "alias": "어썸이엔티, awesome.ent",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "방송과엔터테인먼트",
+    "name_en": "Awesome ENT",
+    "real_name": "주식회사 어썸이엔티",
+    "formation_date": "2018-07-01",
+    "parent_company": "카카오엔터테인먼트",
+    "hq": "서울특별시 성동구 서울숲4길 12-8",
+    "founder": "양근환",
+    "ceo": "양근환",
+    "website": "http://www.awesomeent.co.kr",
+    "sns": "https://www.instagram.com/awesome_ent_official, https://www.youtube.com/@awesomeentofficial",
+    "listed_on": "비상장",
+    "summary": "키이스트 대표 출신 양근환 대표가 설립한 배우 전문 매니지먼트사로, 박서준·김유정 등이 소속된 카카오엔터테인먼트 산하 레이블.",
+    "sources": [
+     "http://www.awesomeent.co.kr",
+     "https://ko.wikipedia.org/wiki/%EC%96%B4%EC%8D%B8%EC%9D%B4%EC%97%94%ED%8B%B0",
+     "https://namu.wiki/w/%EC%96%B4%EC%8D%B8%EC%9D%B4%EC%97%94%ED%8B%B0"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "http://www.awesomeent.co.kr",
+   "links": [
+    {
+     "id": "3a2912e4-51c2-48c8-8466-2b50b44a07ac",
+     "category": "단체",
+     "name": "카카오엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:45:31.519130+00:00"
+  },
+  {
+   "id": "a82d9341-9d36-4f91-963a-65dfdde30a35",
+   "name": "컴퍼니온",
+   "category": "단체",
+   "alias": "컴퍼니온, COMPANY ON",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "방송과엔터테인먼트",
+    "name_en": "COMPANY ON",
+    "real_name": "주식회사 컴퍼니온",
+    "formation_date": "2021-04-12",
+    "hq": "서울특별시 강남구 논현로150길 37",
+    "founder": "이제훈, 김유경",
+    "ceo": "김유경",
+    "website": "http://companyon.co.kr",
+    "sns": "https://www.instagram.com/companyon_official, https://www.facebook.com/companyon.official, https://www.youtube.com/@companyonofficial",
+    "listed_on": "비상장",
+    "summary": "배우 이제훈이 오랜 시간 뜻을 함께해 온 동료들과 설립한 배우 매니지먼트 및 콘텐츠 기획사.",
+    "sources": [
+     "http://companyon.co.kr",
+     "https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%8D%BC%EB%8B%88%EC%98%A8",
+     "https://namu.wiki/w/%EC%BB%B4%ED%8D%BC%EB%8B%88%EC%98%A8"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "http://companyon.co.kr",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:45:32.371430+00:00"
+  },
+  {
+   "id": "9ea3a5a8-7988-4f9e-85eb-7deb4d4dc873",
+   "name": "호두앤유엔터테인먼트",
+   "category": "단체",
+   "alias": "호두앤유, 호두엔터, HODU&U",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "방송과엔터테인먼트",
+    "name_en": "HODU&U Entertainment",
+    "real_name": "호두앤유엔터테인먼트 주식회사",
+    "formation_date": "2013-04-19",
+    "hq": "서울특별시 마포구 마포대로 109 101동 1204호",
+    "founder": "이정은",
+    "ceo": "이정은, 최존호",
+    "sns": "https://www.instagram.com/hoduent",
+    "listed_on": "비상장",
+    "summary": "김혜수, 신하균, 전혜진, 최원영, 하윤경 등 탄탄한 연기력과 독보적인 캐릭터를 지닌 실력파 베테랑 및 라이징 배우들이 다수 소속된 정통 배우 전문 매니지먼트사.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%ED%98%B8%EB%91%90%EC%95%A4%EC%9C%A0%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+     "https://namu.wiki/w/%ED%98%B8%EB%91%90%EC%95%A4%EC%9C%A0%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+     "http://www.cema.or.kr/bbs/board.php?bo_table=4&wr_id=121&page=9&device=pc"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "1100000000"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%ED%98%B8%EB%91%90%EC%95%A4%EC%9C%A0%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T04:45:33.030746+00:00"
+  },
+  {
+   "id": "6d4036e6-ff3a-4bdc-b260-bf0d5b3cbcf2",
+   "name": "Kabobi",
+   "category": "장소",
+   "alias": "카보비, Kabobi Persian and Mediterranean Grill",
+   "disambig": "시카고의 페르시아 · 지중해 음식점",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "name_en": "Kabobi",
+    "address": "4748 N Kedzie Ave, Chicago, IL 60625",
+    "phone": "+1 773-583-1400",
+    "cuisine": "페르시아 · 지중해",
+    "menu": "치킨 · 코프타(kafta) 콤보, 케밥 + 밥 큰 접시",
+    "menu_all": "채식 메뉴",
+    "restday": "없음(매일 영업)",
+    "summary": "시카고 북쪽 앨버니 파크의 페르시아 · 지중해 케밥집. 양이 많고 값이 착해 단체 · 가족 손님이 많고, 매운 소스가 유명하다. 전 메뉴 할랄(Zabihah 표기), 술은 팔지 않는다. 현지인 추천.",
+    "sources": [
+     "https://checkplease.wttw.com/restaurants/kabobi",
+     "https://www.zabihah.com/restaurants/cb06c9e1-7767-11ef-95ae-6045bdeb9f57/kabobi-chicago-il"
+    ],
+    "region_code": "US.1714000"
+   },
+   "source_url": "https://checkplease.wttw.com/restaurants/kabobi",
+   "links": [
+    {
+     "id": "6ed9b9cd-53c4-4816-9a0c-31cafc3106b8",
+     "category": "장소",
+     "name": "N Kedzie Avenue",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T14:30:10.097658+00:00"
+  },
+  {
+   "id": "6ed9b9cd-53c4-4816-9a0c-31cafc3106b8",
+   "name": "N Kedzie Avenue",
+   "category": "장소",
+   "alias": "",
+   "disambig": "Chicago",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "거리·마을",
+    "region_code": "US.1714000"
+   },
+   "source_url": "",
+   "links": [
+    {
+     "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7",
+     "category": "장소",
+     "name": "Chicago",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-28T14:30:10.097658+00:00"
+  }
+ ],
+ "bulk_added": []
+}

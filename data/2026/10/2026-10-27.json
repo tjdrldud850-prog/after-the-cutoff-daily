@@ -1,0 +1,845 @@
+{
+ "date": "2026-10-27",
+ "timezone": "Asia/Seoul",
+ "exported_at": "2026-11-03T23:50:32+00:00",
+ "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
+ "counts": {
+  "updates": 19,
+  "new_planets": 7,
+  "bulk_added": 0
+ },
+ "updates": [
+  {
+   "id": "bb14ee12-46df-4bfb-8e69-6ac0e3543866",
+   "title": "2026 대한민국 지방시대 엑스포",
+   "type": "행사",
+   "date": "2026-12-10",
+   "parent": [
+    {
+     "id": "09717372-08d9-4d15-bd31-70f274f85ce1",
+     "category": "장소",
+     "name": "청주시"
+    }
+   ],
+   "summary": "12-10~12 청주 오스코, 대통령 직속 지방시대위원회 · 충북 · 산업통상부 · 행정안전부 공동 주최, 중앙부처 · 광역 지자체 · 교육청 · 공공기관 40여 곳",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "청주오스코",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8694821",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "8d5de071-7587-40c1-baed-7db703c8ffe6",
+   "title": "2026 마한 왕관 기념 문화제",
+   "type": "축제",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "482e1c92-a68a-49bb-885f-9ff7e3a144f1",
+     "category": "장소",
+     "name": "나주시"
+    }
+   ],
+   "summary": "국립나주박물관, 마한왕국 54국 깃발 퍼레이드 · 사물놀이 · 마한 제천 문화를 되새기는 소도제",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "국립나주박물관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8695000",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "61440f9e-8083-46e9-8870-59a3092ee9a4",
+   "title": "2026 보부상장터",
+   "type": "행사",
+   "date": "2026-10-30",
+   "parent": [
+    {
+     "id": "d7e2ece8-ecf4-4f19-8bc2-1592b94e5128",
+     "category": "장소",
+     "name": "군산시"
+    }
+   ],
+   "summary": "10-30~11-01 옛 시청광장 일원, 군산 근대 상업문화를 담은 장터",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261026038900055",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "7fb05fb0-16b6-4112-b2d8-06ce3968e81a",
+   "title": "2027 영동 곶감 축제",
+   "type": "축제",
+   "date": "2027-01-22",
+   "parent": [
+    {
+     "id": "39c38218-2b66-4573-b095-0083d23a04b4",
+     "category": "장소",
+     "name": "영동군"
+    }
+   ],
+   "summary": "2027-01-22~24 영동천 하상 주차장 일원. 곶감 물량 사전 수요 예측을 강화하고 전통시장 · 음식점 · 관광지를 잇는 「더 많이 머무는 축제」로",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8694824",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "6b8a9ad5-8a37-4e3f-a500-e6bea989b5d5",
+   "title": "22대 감독 이동욱 · 단장 이택근 선임",
+   "type": "뉴스",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "c55fbf94-6da6-43db-9069-1239d1962fb2",
+     "category": "단체",
+     "name": "롯데 자이언츠"
+    }
+   ],
+   "summary": "김태형 감독 후임으로 이동욱 전 NC 감독을 3년 총액 20억 원에, 새 단장으로 이택근을 선임함",
+   "why": "9년 연속 포스트시즌 진출 실패",
+   "how": "이동욱 감독은 2020 NC 통합 우승을 이끌었고, 이택근 단장은 전 KBO 전력강화위원",
+   "content": "9년 연속 포스트시즌 진출에 실패한 뒤 김태형 감독 후임으로 이동욱 전 NC 감독(2020 NC 통합 우승)을 3년 총액 20억 원에 선임, 이택근 전 KBO 전력강화위원을 새 단장으로",
+   "places": [],
+   "featuring": [
+    {
+     "name": "이동욱",
+     "id": "b4d21cb9-d841-402e-b553-7828c8c999c2"
+    },
+    {
+     "name": "이택근",
+     "id": null
+    },
+    {
+     "name": "김태형",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815722",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "69c38193-df27-4ff2-b531-53606af99ebf",
+   "title": "AI 인프라 재원 최대 950억 달러 자본 조달 발표",
+   "type": "뉴스",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "0785a5f3-706f-474c-a209-65380428f973",
+     "category": "단체",
+     "name": "Meta Platforms"
+    }
+   ],
+   "summary": "데이터센터·클라우드 확장용으로 최대 950억 달러(약 125.8조 원)를 주식으로 조달한다고 밝힘",
+   "why": "AI 인프라(데이터센터·클라우드) 확장 재원 마련",
+   "how": "350억 달러 일반주·전환우선주 공모에 착수, 2027년 1분기 새 무의결권 C급 주식 거래 시작 뒤 600억 달러 시장가 주식 매각 프로그램",
+   "content": "데이터센터 · 클라우드 확장용 최대 950억 달러(약 125.8조 원). 350억 달러 일반주 · 전환우선주 공모에 착수했고, 2027년 1분기 새 무의결권 C급 주식 거래 시작 뒤 600억 달러 시장가 주식 매각 프로그램",
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261026_0003841902",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "8cb5d408-761d-49ab-a508-5b0cdeb2b3d7",
+   "title": "IPO 신청 — SEC 상장신고서 제출",
+   "type": "뉴스",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "d1028b0c-a81d-4140-8f46-d27b67ebc7c3",
+     "category": "단체",
+     "name": "Anthropic"
+    }
+   ],
+   "summary": "미국 증권거래위원회(SEC)에 상장신고서를 내고 올해 상반기 매출 162억 9천만 달러를 공개함",
+   "why": null,
+   "how": "전년 동기 11억 6천만 달러 대비 1,304% 증가, 지난해 매출 45억 9천만 달러. 이날 뉴욕증시 기술주 상승 출발",
+   "content": "미국 증권거래위원회에 상장신고서 제출, 올해 상반기 매출 162억 9천만 달러(전년 동기 11억 6천만 달러 대비 1,304%↑) · 지난해 매출 45억 9천만 달러 공개. 이날 뉴욕증시 기술주 상승 출발",
+   "places": [],
+   "featuring": [
+    {
+     "name": "미국 증권거래위원회",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261026175200009",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "8068846b-4f97-413f-82e5-0a256350b624",
+   "title": "「2026 왔니껴 안동장터」 서울광장",
+   "type": "행사",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "7fb9f9b8-3427-4264-ad97-ea5b55cdee5d",
+     "category": "장소",
+     "name": "안동시"
+    }
+   ],
+   "summary": "10-26부터 사흘 서울광장, 안동 백진주쌀 · 사과 · 한우 · 간고등어 · 찜닭 · 산약 · 헴프 특산품 할인 판매, 차전놀이 시연 · 탈놀이 댄스단 공연",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "서울광장",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8695485",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "9ce55475-e388-4d28-9ee3-c9b67aac25a1",
+   "title": "「가능한 사랑」으로 오스카 여우주연상 후보 거론",
+   "type": "뉴스",
+   "date": "2026-10-25",
+   "parent": [
+    {
+     "id": "e45c3a08-680b-4781-9e80-dc9518df9abb",
+     "category": "인물",
+     "name": "전도연"
+    }
+   ],
+   "summary": "할리우드 리포터가 한국 배우 첫 아카데미 여우주연상 후보 가능성을 보도함",
+   "why": null,
+   "how": "이창동 감독 넷플릭스 영화에서 해고노동자의 아내 미옥 역. 로튼토마토 평론가 지수 만점, LA타임스 「올해 최고의 영화」",
+   "content": "할리우드 리포터가 한국 배우 첫 아카데미 여우주연상 후보 가능성을 보도. 이창동 감독 넷플릭스 영화 「가능한 사랑」에서 해고노동자의 아내 미옥 역, 로튼토마토 평론가 지수 만점 · LA타임스 「올해 최고의 영화」",
+   "places": [],
+   "featuring": [
+    {
+     "name": "가능한 사랑",
+     "id": "f1fd1098-d8f8-419f-a716-48375e326fae"
+    },
+    {
+     "name": "할리우드 리포터",
+     "id": null
+    },
+    {
+     "name": "이창동",
+     "id": null
+    },
+    {
+     "name": "Netflix",
+     "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261026001900075",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "8e7f8a7c-5702-403c-a1d1-8c5dce9ca08b",
+   "title": "국립공원 야경 탐방 시범 운영(경주 · 팔공산)",
+   "type": "행사",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "f06d3152-bf8c-43bd-a51e-d9aed60804b4",
+     "category": "장소",
+     "name": "경주시"
+    }
+   ],
+   "summary": "11-14까지 매주 금 · 토, 경주 월정교~월성해자와 팔공산 선본사~갓바위 관봉 구간을 해설사와, 회당 20명 이내, 국립공원공단 예약 시스템",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "월정교",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8694882",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "3417e3b8-0aa8-4112-85b8-ef372b22cf4f",
+   "title": "국민훈장 동백장 수훈",
+   "type": "수상",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "415b8777-baba-4a56-915a-1f2417a8333c",
+     "category": "인물",
+     "name": "홍라희"
+    }
+   ],
+   "summary": "대한적십자사 창립 121주년 기념식에서 국민훈장 동백장(3등급)을 받음",
+   "why": "40여 년 문화·의료·복지 나눔",
+   "how": "미술품 2만3천여 점 기증, 소아암·감염병 의료 기부, 한센인 후원",
+   "content": "대한적십자사 창립 121주년 기념식에서 국민훈장 동백장(3등급). 40여 년 문화 · 의료 · 복지 나눔 — 미술품 2만3천여 점 기증 · 소아암 · 감염병 의료 기부 · 한센인 후원",
+   "places": [],
+   "featuring": [
+    {
+     "name": "대한적십자사",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261026102800003",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "235bd290-affa-4a05-93dc-5143b7338c13",
+   "title": "금관문화훈장 추서",
+   "type": "수상",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "4419e2e3-bbf6-43f6-ac71-e2d96f1b02cd",
+     "category": "인물",
+     "name": "윤동주"
+    }
+   ],
+   "summary": "문화체육관광부 문화예술 유공 시상식에서 최고 등급 문화훈장인 금관문화훈장 추서. 고 김남조 시인도 함께",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8695295",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "1bd014ce-96c8-453b-b9f5-778ea2499367",
+   "title": "문막읍 반계리 은행나무 축제",
+   "type": "축제",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "6807b4a6-bdfa-4e1c-b795-106489d96195",
+     "category": "장소",
+     "name": "원주시"
+    }
+   ],
+   "summary": "천연기념물 반계리 은행나무 일대에서 10-26~11-08 공연·먹거리 장터를 여는 축제",
+   "why": null,
+   "how": "매지농악 등 공연, 임시 주차장 340면, 주말과 휴일 버스 하루 8회. 은행나무는 천연기념물 제167호, 수령 1,300년 이상으로 추정",
+   "content": "10-26~11-08, 매지농악 등 공연 · 먹거리 장터, 임시 주차장 340면 · 주말과 휴일 버스 하루 8회. 반계리 은행나무는 천연기념물 제167호, 수령 1,300년 이상으로 추정",
+   "places": [
+    {
+     "name": "문막읍",
+     "id": "29fcd956-f432-48ce-b46b-e7dd566a057d"
+    },
+    {
+     "name": "반계리 은행나무",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8695515",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "2e015938-e7fc-4f89-a4f8-0f2fe0cf23f0",
+   "title": "전천 경관 인도교 12월 개통 예정",
+   "type": "뉴스",
+   "date": "2026-12",
+   "parent": [
+    {
+     "id": "0f554398-0c28-4106-bdbf-0147eae57621",
+     "category": "장소",
+     "name": "동해시"
+    }
+   ],
+   "summary": "송정동과 북평동을 잇는 길이 120m 아치형 케이블 인도교, 전천 지방하천 정비사업으로 185억 원, 공정률 90%(10월 기준)",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8695692",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "8b0fe0c4-077a-4869-b8fe-6a39abe945dc",
+   "title": "제19회 대구국제아트페어",
+   "type": "행사",
+   "date": "2026-10-29",
+   "parent": [
+    {
+     "id": "f1a98157-833b-4208-93a1-4593b1417a1a",
+     "category": "장소",
+     "name": "북구"
+    }
+   ],
+   "summary": "10-29 VIP 프리뷰 ~ 11-01 엑스코 동관, 국내와 미국 · 일본 · 독일 · 프랑스 등 해외 9개국 갤러리 103곳, 작품 해설 하루 최대 4회",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "엑스코",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8695012",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "3010f267-df1a-4384-a5f3-9252d799fd3e",
+   "title": "제2회 갑 · 맥 파티",
+   "type": "축제",
+   "date": "2026-10-30",
+   "parent": [
+    {
+     "id": "d7e2ece8-ecf4-4f19-8bc2-1592b94e5128",
+     "category": "장소",
+     "name": "군산시"
+    }
+   ],
+   "summary": "10-30~31 금암동 군산비어포트, 군산 갑오징어와 지역 수제 맥주 · 음악 공연 · 체험, 수제 맥주 10% · 갑오징어 제품 최대 30% 할인",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "군산비어포트",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8694605",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "8d3c0d99-80ca-4186-ae30-c3560f7326f2",
+   "title": "제4회 미래 특장차산업 박람회",
+   "type": "행사",
+   "date": "2026-10-30",
+   "parent": [
+    {
+     "id": "fc139e4f-5157-4ced-a003-be4378d2ed53",
+     "category": "장소",
+     "name": "김제시"
+    }
+   ],
+   "summary": "10-30~31 김제실내체육관 일원",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "김제실내체육관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261026065400055",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "0cdd1c5a-ce9c-4a72-90cd-0093ebf07f40",
+   "title": "창원사랑상품권 「누비전」 950억 원 판매",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "6cc78e43-34d6-4ab3-82db-e09508c43ec1",
+     "category": "장소",
+     "name": "창원시"
+    }
+   ],
+   "summary": "11-02부터 10% 할인, 개인 월 최대 80만 원, 취약계층 · 고령자 우선 판매",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8695745",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "6cd89295-910d-459f-a56d-6cce48a8f197",
+   "title": "한국 · 미국 출시 — 애플 첫 폴더블 아이폰",
+   "type": "출시",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "eb25150b-c4b9-4eb3-9976-396da2d0f7af",
+     "category": "제품",
+     "name": "iPhone Duo"
+    }
+   ],
+   "summary": "한국 출고가 329만 원부터로 출시됐으나 내구성 시험에서 힌지 부근 화면이 손상돼 논란",
+   "why": null,
+   "how": "2026-09-09 공개, 사전 주문 10-16. 출시 직후 유튜버 JerryRigEverything 시험에서 먼지·반대 방향 굽힘에 화면 손상",
+   "content": "2026-09-09 공개, 10-23 한국 · 미국 등 1차 출시(사전 주문 10-16). 한국 출고가 329만 원부터. 출시 직후 유튜버 JerryRigEverything 내구성 시험에서 먼지 · 반대 방향 굽힘에 힌지 부근 화면이 손상돼 논란",
+   "places": [],
+   "featuring": [
+    {
+     "name": "Apple",
+     "id": "a99fdc75-b250-4d63-b983-9d593b990b0d"
+    },
+    {
+     "name": "JerryRigEverything",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8695320",
+   "source": "뉴스",
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  }
+ ],
+ "new_planets": [
+  {
+   "id": "d1028b0c-a81d-4140-8f46-d27b67ebc7c3",
+   "name": "Anthropic",
+   "category": "단체",
+   "alias": "앤트로픽, 앤스로픽, Anthropic PBC",
+   "disambig": "미국의 AI 기업",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "Anthropic, PBC",
+    "industry": "인공지능",
+    "formation_date": "2021-01-26",
+    "hq": "미국 캘리포니아주 샌프란시스코 하워드 스트리트 500",
+    "founder": "다리오 아모데이, 다니엘라 아모데이, 재러드 캐플런, 잭 클라크, 크리스 올라, 벤 만, 샘 매캔들리시, 톰 브라운",
+    "ceo": "다리오 아모데이",
+    "website": "https://www.anthropic.com/",
+    "summary": "2021년 다리오 아모데이 등 OpenAI 출신 연구자들이 세운 미국 AI 기업으로, 대형 언어 모델 Claude와 Claude Code를 만든다. 2026년 10월 26일 미국 증권거래위원회에 상장신고서(S-1)를 공개 제출해 나스닥 티커 ANT로 상장을 신청했고, 신고서에 따르면 올해 상반기 매출은 162억9천만 달러다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q116758847",
+     "https://en.wikipedia.org/wiki/Anthropic",
+     "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+     "https://en.sedaily.com/international/2026/10/27/nasdaq-climbs-08-percent-on-anthropic-ipo-filing-as-oil",
+     "https://www.yna.co.kr/view/AKR20261026175200009"
+    ],
+    "listed_on": "나스닥 상장 신청 (티커 ANT, 2026-10-26 상장신고서 공개 제출)"
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q116758847",
+   "links": [
+    {
+     "id": "54578aae-1db2-40b8-a187-948037d0b02e",
+     "category": "장소",
+     "name": "San Francisco County",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "a99fdc75-b250-4d63-b983-9d593b990b0d",
+   "name": "Apple",
+   "category": "단체",
+   "alias": "애플, Apple Inc.",
+   "disambig": "미국의 기술 기업",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "Apple Inc.",
+    "industry": "기술 (스마트폰 · 컴퓨터 · 소프트웨어 · 서비스)",
+    "formation_date": "1976-04-01",
+    "hq": "미국 캘리포니아주 쿠퍼티노, 애플 파크",
+    "founder": "스티브 잡스, 스티브 워즈니악, 로널드 웨인",
+    "ceo": "존 터너스 (John Ternus, 2026-09-01부터)",
+    "website": "https://www.apple.com/",
+    "summary": "1976년 스티브 잡스 · 스티브 워즈니악 · 로널드 웨인이 세운 미국 기술 기업으로, 아이폰 · 맥 · 아이패드를 만들며 본사는 캘리포니아주 쿠퍼티노의 애플 파크다. 2026년 9월 1일 팀 쿡이 이사회 의장으로 물러나고 존 터너스가 8번째 CEO가 됐으며, 같은 달 9일 첫 폴더블 아이폰 「아이폰 듀오」를 공개했다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q312",
+     "https://en.wikipedia.org/wiki/Apple_Inc.",
+     "https://newsonair.gov.in/apple-announces-john-ternus-as-successor-to-tim-cook-as-ceo-from-september-1/",
+     "https://www.wikitree.co.kr/articles/1158490"
+    ],
+    "listed_on": "나스닥 (AAPL)"
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q312",
+   "links": [
+    {
+     "id": "7af1a331-392a-4cc3-9e43-d4359d65ae5c",
+     "category": "장소",
+     "name": "California",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "eb25150b-c4b9-4eb3-9976-396da2d0f7af",
+   "name": "iPhone Duo",
+   "category": "제품",
+   "alias": "아이폰 듀오, 아이폰듀오",
+   "disambig": "애플의 첫 폴더블 아이폰(2026)",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "아이폰 듀오",
+    "product_type": "스마트폰·태블릿",
+    "manufacturer": "Apple",
+    "price": "미국 1,999달러부터 (256GB) / 한국 329만 원 (256GB), 359만 원 (512GB), 419만 원 (1TB), 509만 원 (2TB)",
+    "specs": "내부 화면 7.6인치 · 외부 화면 5.4인치, A20 프로 칩 · C2 통신 칩, 254g, 접었을 때 두께 11.3mm, 저장 256GB~2TB, 색상 스타 화이트 · 나이트 스카이, 애플펜슬 지원\n종류: 폴더블 스마트폰",
+    "summary": "애플이 2026년 9월 9일 공개해 10월 23일 한국 · 미국 등에서 내놓은 첫 폴더블 아이폰으로, 펼치면 7.6인치 · 접으면 5.4인치 화면이며 한국 출고가는 329만 원부터다. 출시 직후 유튜버 내구성 시험에서 힌지 부근 화면이 갈라지는 문제가 드러나 「크랙 게이트」라는 말이 나왔다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q141393879",
+     "https://en.wikipedia.org/wiki/IPhone_Duo",
+     "https://www.wikitree.co.kr/articles/1158490",
+     "https://futurechosun.com/archives/159864",
+     "https://www.hankyung.com/article/202609183710g",
+     "https://www.channelinsider.com/apple/news-apple-iphone-duo-1999-launch/",
+     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695320"
+    ],
+    "launch_date": "2026-10-23 (한국 · 미국 등 1차 출시국, 사전 주문 10-16 / 28개 나라 · 지역은 10-30)",
+    "product_category": "가전·디지털"
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q141393879",
+   "links": [],
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "f1fd1098-d8f8-419f-a716-48375e326fae",
+   "name": "가능한 사랑",
+   "category": "작품",
+   "alias": "Possible Love",
+   "disambig": "2026년 한국 영화, 이창동 감독",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Possible Love",
+    "medium": "영화",
+    "genre": "드라마",
+    "release_date": "2026-09-23",
+    "director": "이창동",
+    "creator": "이창동 · 오정미 (각본)",
+    "cast": "전도연 (미옥), 설경구 (호석), 조인성 (상우), 조여정 (예지)",
+    "production": "파인하우스필름, Anonymous Content, Nowfilm",
+    "platform": "넷플릭스 (2026-11-06 공개)",
+    "distributor": "넷플릭스",
+    "length": "164분",
+    "synopsis": "해고 노동자와 그의 아내, 다큐멘터리 감독과 그녀의 남편 두 부부가 다큐멘터리 제작을 위해 만나 서로 다른 삶과 숨은 욕망을 마주하는 이야기로, 이창동 감독이 「버닝」 이후 8년 만에 내놓은 장편이다. 넷플릭스가 제작비 전액을 투자했으며 2026년 9월 23일 한국 극장, 10월 23일 미국 극장에서 먼저 개봉하고 11월 6일 넷플릭스로 전 세계에 공개된다. 제83회 베니스국제영화제 경쟁 부문에서 심사위원대상(은사자상, 한국 영화 처음)을 받았고 토론토국제영화제 스페셜 프레젠테이션에 초청됐다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q137843740",
+     "https://en.wikipedia.org/wiki/Possible_Love",
+     "https://isplus.com/article/view/isp202607280040",
+     "https://news.mtn.co.kr/news-detail/2026091309505869178",
+     "https://tvreport.co.kr/entertainment/article/1083193/",
+     "https://www.yna.co.kr/view/AKR20261026001900075"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q137843740",
+   "links": [
+    {
+     "id": "18fea518-c6b2-4cb1-8f6d-06c0f5b1156e",
+     "category": "허브",
+     "name": "한국 영화",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "4419e2e3-bbf6-43f6-ac71-e2d96f1b02cd",
+   "name": "윤동주",
+   "category": "인물",
+   "alias": "Yun Dong-ju, Yun Dongju",
+   "disambig": "한국의 시인(1917~1945)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "시인",
+    "name_en": "Yun Dong-ju",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1917-12-30",
+    "birthplace": "중국 지린성 룽징시 (명동촌)",
+    "death_date": "1945-02-16",
+    "education": "연희전문학교 문과, 릿쿄 대학 문학부 영문과 (중퇴), 도시샤 대학 문학부 (제적)",
+    "notable_works": "하늘과 바람과 별과 시 (유고 시집, 1948), 서시, 별 헤는 밤, 쉽게 씌어진 시, 또 다른 고향",
+    "awards": "건국훈장 독립장 (1990, 추서), 금관문화훈장 (2026-10-26, 추서)",
+    "summary": "일제강점기 우리말 시로 민족의 아픔과 저항 의식을 노래한 시인으로, 일본 유학 중 체포돼 1945년 후쿠오카 형무소에서 숨졌고 유고 시집 『하늘과 바람과 별과 시』가 1948년 간행됐다. 1990년 건국훈장 독립장에 이어 2026년 10월 26일 문화예술 유공 시상식에서 최고 등급 문화훈장인 금관문화훈장이 추서됐다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q625089",
+     "https://ko.wikipedia.org/wiki/윤동주",
+     "https://news.kbs.co.kr/news/view.do?ncd=8695295"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q625089",
+   "links": [
+    {
+     "id": "8b5bb2dc-f63d-499e-bdb3-a450817be0d1",
+     "category": "장소",
+     "name": "Longjing",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "7638582a-2f86-465d-9250-ea8d9548d896",
+     "category": "허브",
+     "name": "한국 작가",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "e45c3a08-680b-4781-9e80-dc9518df9abb",
+   "name": "전도연",
+   "category": "인물",
+   "alias": "Jeon Do-yeon, Jeon Do-youn",
+   "disambig": "한국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Jeon Do-yeon",
+    "gender": "여성",
+    "activity": "솔로",
+    "nationality": "대한민국",
+    "birth_date": "1973-02-11",
+    "birthplace": "서울특별시",
+    "organization": "매니지먼트 숲",
+    "education": "서울예술전문대학 방송연예과",
+    "debut_date": "1990",
+    "notable_works": "접속 (1997), 약속 (1998), 해피 엔드 (1999), 내 마음의 풍금 (1999), 너는 내 운명, 밀양 (2007), 하녀 (2010), 무뢰한 (2015), 일타 스캔들 (2023), 가능한 사랑 (2026)",
+    "awards": "제60회 칸 영화제 여우주연상 (2007, 밀양), 청룡영화상 여우주연상 (2007), 대종상 여우주연상 (2007), 한국영화평론가협회상 여우주연상 (2026, 가능한 사랑)",
+    "summary": "1990년 광고 모델로 데뷔해 1997년 영화 「접속」으로 스크린에 오른 배우로, 2007년 「밀양」으로 한국 배우 처음 칸 영화제 여우주연상을 받았다. 2026년 이창동 감독의 넷플릭스 영화 「가능한 사랑」에서 해고노동자의 아내 미옥을 맡아 미국 매체에서 오스카 여우주연상 후보로 거론됐다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q267037",
+     "https://ko.wikipedia.org/wiki/전도연",
+     "https://namu.wiki/w/전도연",
+     "https://en.wikipedia.org/wiki/Possible_Love",
+     "https://www.yna.co.kr/view/AKR20261026001900075"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q267037",
+   "links": [
+    {
+     "id": "6e000b6d-2feb-40b2-a3ff-54b7da25155b",
+     "category": "작품",
+     "name": "심장소리",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "b93918e1-515d-49de-a50f-af48fe2538f0",
+     "category": "단체",
+     "name": "매니지먼트 숲",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "f1fd1098-d8f8-419f-a716-48375e326fae",
+     "category": "작품",
+     "name": "가능한 사랑",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  },
+  {
+   "id": "415b8777-baba-4a56-915a-1f2417a8333c",
+   "name": "홍라희",
+   "category": "인물",
+   "alias": "Hong Ra-hee",
+   "disambig": "리움미술관 명예관장",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "미술관 관장",
+    "name_en": "Hong Ra-hee",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1945-07-15",
+    "birthplace": "전북특별자치도 전주시",
+    "organization": "리움미술관 (명예관장)",
+    "education": "경기여자고등학교, 서울대학교 미술대학 응용미술학과",
+    "awards": "프랑스 문예공로훈장 코망되르 (1996), 대한적십자사 인도장 금장 (2024), 국민훈장 동백장 (2026-10-26)",
+    "summary": "호암미술관 관장을 거쳐 2004년 개관한 삼성미술관 리움 관장을 지낸 미술계 인사로, 현재 리움미술관 명예관장이다. 2021년 문화재 · 미술품 2만3천여 점(이건희 컬렉션) 국가 기증과 소아암 · 감염병 대응 의료 기부, 40여 년 한센인 후원 등 나눔으로 2026년 10월 26일 국민훈장 동백장(3등급)을 받았다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q12625359",
+     "https://ko.wikipedia.org/wiki/홍라희",
+     "https://namu.wiki/w/홍라희",
+     "https://www.yna.co.kr/view/AKR20261026102800003"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12625359",
+   "links": [
+    {
+     "id": "652f61b7-7013-436c-adda-7b76f78fab66",
+     "category": "장소",
+     "name": "전주시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-26T23:20:19.240310+00:00"
+  }
+ ],
+ "bulk_added": []
+}

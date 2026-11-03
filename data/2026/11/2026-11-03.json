@@ -1,0 +1,6511 @@
+{
+ "date": "2026-11-03",
+ "timezone": "Asia/Seoul",
+ "exported_at": "2026-11-03T23:50:40+00:00",
+ "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
+ "counts": {
+  "updates": 101,
+  "new_planets": 92,
+  "bulk_added": 0
+ },
+ "updates": [
+  {
+   "id": "f494c18a-3a18-4765-99d9-0e59efe692d8",
+   "title": "'KAMIGATA EXPO PARK FES 2026' 이틀간 12만 명",
+   "type": "콘서트",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "861a99b5-b678-401f-bd0b-3b4be1bfe3ac",
+     "category": "단체",
+     "name": "なにわ男子"
+    }
+   ],
+   "summary": "SUPER EIGHT·Aぇ! group과 'KAMIGATA BOYZ'로 오사카 만박기념공원에서 연 이틀짜리 대형 야외 페스티벌에 12만 명이 모임",
+   "why": null,
+   "how": "10월 31일~11월 1일 개최, 오사카부·오사카시가 전면 지원. 메인 무대의 그룹별 공연과 KAMIGATA BOYZ 피날레 외에 간사이 주니어 공연, 공원 퍼레이드, 스탬프 랠리가 열림. 모두 STARTO ENTERTAINMENT 소속",
+   "content": null,
+   "places": [
+    {
+     "name": "Expo '70 Commemorative Park",
+     "id": null
+    },
+    {
+     "name": "Osaka",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Super Eight",
+     "id": "59a73877-c578-4cb1-a82e-fe60a0496023"
+    },
+    {
+     "name": "Ae! group",
+     "id": "f451143d-62d7-45ff-b1b8-1920079f1901"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/e2f54d72dcdbd6d2d49b3aeabd24d67ae532217d",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "825ab724-ef27-42a9-b082-2241829c76b3",
+   "title": "'The Black Parade' 20년 만에 빌보드 200 첫 1위",
+   "type": "흥행 기록",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "168d3584-ca90-42aa-aab1-b445e15a91aa",
+     "category": "단체",
+     "name": "My Chemical Romance"
+    }
+   ],
+   "summary": "발매 20주년 디럭스 재발매로 139위에서 1위로 뛰어올라 밴드 첫 빌보드 200 정상에 오름",
+   "why": "2006년 10월 23일 낸 앨범의 20주년 디럭스 재발매",
+   "how": "환산 판매 7만8천 장. 발매 당시 최고 2위였음. 앨범이 1위에 다시 오르기까지 걸린 시간으로 역대 최장이고, 기념반이 1위로 데뷔한 첫 사례. 20주년 기념으로 할리우드 볼에서 5회 공연을 열었음",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://variety.com/2026/music/news/my-chemical-romance-scores-first-no-1-with-the-black-parade-1236936933/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ed15d52b-e55f-440c-b46e-a8ac6e51821e",
+   "title": "'삐그덕' 뮤직비디오 1천만 뷰",
+   "type": "흥행 기록",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "51255d02-9796-4146-88ce-f693a60199d6",
+     "category": "인물",
+     "name": "크러쉬"
+    }
+   ],
+   "summary": "아이유가 피처링한 '삐그덕' 뮤직비디오가 10월 21일 공개 뒤 11월 2일 새벽 1천만 뷰를 넘음",
+   "why": null,
+   "how": "10월 22일 유튜브 일간 인기 뮤직비디오 차트 1위. 크러쉬가 작사·작곡",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "아이유",
+     "id": "017e8273-2bab-4860-92d0-eb1eb4e2a471"
+    },
+    {
+     "name": "피네이션",
+     "id": "ab71a867-4380-4168-87fe-d3774987ae95"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/music/2026/11/02/GI2TOMTBGAYWENJRMUZDGNZRHE/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "98ece86c-c65c-4efa-945c-b6514e3dd450",
+   "title": "10월 기업심리지수 101.6, 장기평균 웃돎",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "7250e6ab-33cc-4cbc-9dbe-7a3d960305d3",
+     "category": "장소",
+     "name": "제주특별자치도"
+    }
+   ],
+   "summary": "한국은행 제주본부 집계로 지난달 제주 기업심리지수가 전달보다 3.4포인트 올라 장기 평균 100을 넘음",
+   "why": "전국체전 등 대규모 행사가 비제조업 체감경기를 끌어올림",
+   "how": "비제조업이 3포인트 넘게 올랐고 제조업은 조금 내림. 11월 전망지수는 93.5로 다시 평균 아래",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "한국은행",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701110",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "d93ddc2b-d133-4407-af1f-98cba7d3cab2",
+   "title": "11월 14일 첫 방송, KBS 3년 만의 대하드라마",
+   "type": "개봉·방영",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "9cd3ca27-1c1f-4e4d-a804-e6baba30e7a7",
+     "category": "작품",
+     "name": "문무"
+    }
+   ],
+   "summary": "'고려거란전쟁' 이후 약 3년 만의 KBS 대하드라마로 신라의 삼국통일 과정을 28부작에 담음",
+   "why": null,
+   "how": "이현욱이 김법민, 장혁이 연개소문, 김강우가 김춘추, 박성웅이 김유신을 맡음. 고구려·백제·당나라의 선택까지 함께 다룸. 11월 14일 밤 9시 20분 KBS 2TV 첫 방송",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "이현욱",
+     "id": "ae650ff5-b801-4777-bf00-347d33aa6e1d"
+    },
+    {
+     "name": "장혁",
+     "id": "80d723b0-8fc5-4959-831c-650b5a89f648"
+    },
+    {
+     "name": "김강우",
+     "id": "f9f38db6-6c1e-4edb-b5a7-4b46f21b40be"
+    },
+    {
+     "name": "박성웅",
+     "id": "f4d6810b-1a9c-42c3-bb75-0a97225158d6"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134947997/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "a5942738-56b1-4e8b-bcae-327c9d4f73cd",
+   "title": "11월 18일 개봉, 2차 스틸 공개",
+   "type": "개봉·방영",
+   "date": "2026-11-18",
+   "parent": [
+    {
+     "id": "9b46c211-b740-46b0-b4f8-26b5957c58bb",
+     "category": "작품",
+     "name": "폭설"
+    }
+   ],
+   "summary": "폭설로 고립된 시골 기차역에서 퇴직을 앞둔 역장과 후임 앞에 의문의 시신이 나오며 벌어지는 미스터리 영화가 11월 18일 개봉함",
+   "why": null,
+   "how": "김윤석이 역장 갑수, 구교환이 후임 현택을 맡고 박수영·노윤서가 출연. 홍의정·박선우 감독 공동 연출. 11월 2일 2차 보도스틸 8종 공개",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "김윤석",
+     "id": "dbc2b10a-2832-4806-bcd8-6235b08f9c51"
+    },
+    {
+     "name": "구교환",
+     "id": "ec177075-2a4a-4bf9-8def-d15f280c3555"
+    },
+    {
+     "name": "박수영",
+     "id": "cf360bd5-3ba1-4c39-ba20-add81f231c65"
+    },
+    {
+     "name": "노윤서",
+     "id": "b86eae04-9c83-4ef7-8d91-c3faa976c367"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134947862/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "23e65977-e689-45ed-b909-e9f60a031f7d",
+   "title": "11월 19일 위버스 공개, 6부작",
+   "type": "개봉·방영",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "7477351e-d7a7-4691-8c2b-907cb612a01e",
+     "category": "작품",
+     "name": "정답 없는 여행"
+    }
+   ],
+   "summary": "세븐틴 정한·도겸이 고르는 답에 따라 일정이 바뀌는 제주도 여행 예능을 11월 19일부터 위버스에서 공개함",
+   "why": null,
+   "how": "6부작으로 VOD 구매자에게 매주 목요일 한 편씩 올라옴. 회차별 프리뷰와 멤버별 포커스 캠, 필름 포토북도 나옴",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "정한",
+     "id": "0b64a9d2-e226-4854-85b0-a8ad48dc4e7c"
+    },
+    {
+     "name": "도겸",
+     "id": "361cdbd1-488a-4d67-8527-ec96227a717b"
+    },
+    {
+     "name": "세븐틴",
+     "id": "4aeba55e-5792-4ce9-b50a-ef2ff3d98e72"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/music/2026/11/02/G5SWCZRSGNTDGNRSMVSDSMTBGE/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "5f863dbd-422b-46ee-98b5-06ee39830620",
+   "title": "11월 4일 개봉",
+   "type": "개봉·방영",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "79ab26e6-9cd2-4936-a453-b9969ce31319",
+     "category": "작품",
+     "name": "최종면접"
+    }
+   ],
+   "summary": "최종면접장에 모인 지원자 6명이 각자의 폭로가 담긴 봉투를 발견하며 서로를 의심하는 영화가 11월 4일 개봉함",
+   "why": null,
+   "how": "김정훈 감독 연출, 조이현이 관찰자 문혜인 역. 아사쿠라 아키나리 소설 '여섯 명의 거짓말쟁이 대학생'이 원작이며, 조이현은 원작을 참고하지 않고 배우·감독과 새로 만들었다고 밝힘",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "조이현",
+     "id": "7b078bdf-85f4-4794-a010-2a40b4f18b0e"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/movie/2026/11/02/HFQTANZUHEYGCYJWGI2WIODFHA/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "36e85dc0-e286-444a-8b4e-d48fa6e50ffe",
+   "title": "11월 4일 디즈니+ 공개, 1~4회 스틸",
+   "type": "개봉·방영",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "b0fb338b-d83a-42af-b3f6-8b5c8935d181",
+     "category": "작품",
+     "name": "재혼 황후"
+    }
+   ],
+   "summary": "황후 나비에가 이혼을 받아들이는 대신 이웃 나라 왕자와의 재혼 승인을 요구하는 디즈니+ 드라마가 11월 4일 공개됨",
+   "why": null,
+   "how": "신민아가 나비에, 주지훈이 황제 소비에슈, 이세영이 도망 노예 라스타, 이종석이 서왕국 왕자 하인리를 맡음. 공개 앞서 황제 부부의 균열과 하인리의 등장을 담은 1~4회 스틸을 냄",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "신민아",
+     "id": "6a78a2b5-ad01-49d5-b80b-f8c879d9b7cb"
+    },
+    {
+     "name": "주지훈",
+     "id": "9ef7e36e-2d16-4e81-83f2-1f88164ed942"
+    },
+    {
+     "name": "이종석",
+     "id": "0de747f5-64c0-4b87-8123-b8d5322cce84"
+    },
+    {
+     "name": "이세영",
+     "id": "ff9b4a69-154a-4ed3-96bc-b0775518dec5"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134947683/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "88ce2ec5-b042-4ddc-b9d3-e4ab40795225",
+   "title": "12월 5일 첫 방송, 캐릭터 포스터 공개",
+   "type": "개봉·방영",
+   "date": "2026-12-05",
+   "parent": [
+    {
+     "id": "704da44a-c36c-427c-adaa-6ccec6767311",
+     "category": "작품",
+     "name": "기프트"
+    }
+   ],
+   "summary": "사고로 특별한 능력을 얻은 전직 투수코치가 꼴찌 고교 야구부 감독이 되는 tvN 토일드라마가 12월 5일 시작함",
+   "why": null,
+   "how": "11월 2일 캐릭터 포스터 4종 공개. 김우빈이 정민용, 서은수가 야구부장 윤서진, 차빈·한시현이 덕천고 선수를 맡음. 카카오웹툰 정이리이리 작가의 동명 웹툰이 원작. 밤 9시 10분 방송",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "김우빈",
+     "id": "6524f600-86c5-4f58-83c5-e93ea3d3160c"
+    },
+    {
+     "name": "서은수",
+     "id": "37cdb534-30c4-4583-9896-84df5ecc2a65"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134949842/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "b6cce420-01c2-49cc-b8aa-999732ea641f",
+   "title": "2026 경남 글로벌 대학 혁신 페스타",
+   "type": "행사",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "6cc78e43-34d6-4ab3-82db-e09508c43ec1",
+     "category": "장소",
+     "name": "창원시"
+    }
+   ],
+   "summary": "경남 18개 대학과 해외 대학·기업 100여 곳이 참여해 사흘 동안 창원컨벤션센터에서 전시·강연·채용 박람회를 엶",
+   "why": "청년 일자리",
+   "how": "e스포츠·자율로봇 대학생 경진대회, AI 모의 면접도 열림",
+   "content": null,
+   "places": [
+    {
+     "name": "창원컨벤션센터",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701785",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "9f61af87-45a5-42d5-bf2c-42fb77978d9a",
+   "title": "2026여수세계섬박람회 4일 폐막",
+   "type": "행사",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "7683a0ce-7eac-47cf-abd0-2004dcd6a97f",
+     "category": "장소",
+     "name": "여수시"
+    }
+   ],
+   "summary": "9월 개막한 섬박람회가 두 달여 일정을 마치고 문을 닫음. 최근 누적 관람객 200만 명을 넘김",
+   "why": "개막 전 콘텐츠 부실 논란이 있었으나 전시·공연 보강과 가을 단체 관람으로 관람객이 늘어남",
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "돌산읍",
+     "id": "7a410bab-db86-406b-8016-c16b07fa6876"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701008",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "b738784a-b0ec-4edf-9829-88211d8d1823",
+   "title": "2027년 2월 12일 개봉 확정, 예고편 공개",
+   "type": "개봉·방영",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "c9a7378d-d149-4caf-82d9-688d6ba20691",
+     "category": "작품",
+     "name": "Koe yo Hirogare"
+    }
+   ],
+   "summary": "말더듬을 겪는 청년을 그린 소마 사토루 주연 영화의 개봉일이 정해지고 포스터·예고편·스틸이 공개됨",
+   "why": null,
+   "how": "어릴 적 말더듬으로 고민한 소마 유타 감독이 자기 경험으로 만든 3화 옴니버스 중 하나. 모가미 모가가 연인, 이와하시 겐키가 난독증을 가진 친구 역. 주제가는 LEGO BIG MORL의 'Voice'",
+   "content": null,
+   "places": [
+    {
+     "name": "Cinemart Shinjuku",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Satoru Soma",
+     "id": "e45611bb-109d-4f16-b8a5-df7dbbc06ba1"
+    },
+    {
+     "name": "Moga Mogami",
+     "id": "35b0fefe-982a-4195-bd2b-cea15acff302"
+    },
+    {
+     "name": "Genki Iwahashi",
+     "id": "c1b3680d-9879-454e-ae8d-e141bbbe3050"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/340c1e3976744a7540273a93558ad7adcb70bcee",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "78e1c79c-ac36-43cd-815e-f624ea6a2ef4",
+   "title": "9번째 단독 콘서트 'ISLAND' 홍콩 앙코르",
+   "type": "콘서트",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "ae830dce-8f99-4593-ab17-f02372455969",
+     "category": "단체",
+     "name": "루시"
+    }
+   ],
+   "summary": "10월 23~25일 서울 앙코르에 이어 홍콩 퉁포 키티 우 스타디움에서 'ISLAND' 앙코르 공연을 엶",
+   "why": null,
+   "how": "홍콩 공연에서만 하는 특별 무대를 예고함. 11월 12일 8번째 디지털 싱글 '다시!'를 내고 14일 싱가포르 공연으로 앙코르 일정을 마침",
+   "content": null,
+   "places": [
+    {
+     "name": "Hong Kong",
+     "id": "c7a0c821-1b4a-47ce-bc47-a059ada14ada"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134947827/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "8e77d255-32c8-4903-85e8-d3cecb7fb75f",
+   "title": "K팝 그룹 첫 시드니 아코르 스타디움 단독 공연",
+   "type": "투어",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "960784fe-1a1d-4a78-95e2-8fca2689b4b7",
+     "category": "단체",
+     "name": "빅뱅"
+    }
+   ],
+   "summary": "월드투어 'XX : COSMOS'로 K팝 그룹 가운데 처음 시드니 아코르 스타디움에 단독으로 섰고, 시드니 공연은 11년 만",
+   "why": null,
+   "how": "히트곡과 멤버 솔로, 신곡 '빅(BiiiG)' 무대를 선보임. 11월 7~8일 방콕 라자망갈라 국립경기장으로 이어지며 투어는 19개 도시 39회 규모",
+   "content": null,
+   "places": [
+    {
+     "name": "Sydney",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "YG엔터테인먼트",
+     "id": "58fa67e0-0896-4df4-a813-0caf371902e0"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261102_0003851054",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "4a432a22-4515-4c5a-bce2-74d7ea4cca4d",
+   "title": "TOP7 굿바이 콘서트 '다시, 우리' 부산 공연",
+   "type": "콘서트",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "3100941a-3432-447e-98b3-471021749ce7",
+     "category": "작품",
+     "name": "미스터트롯3"
+    }
+   ],
+   "summary": "TOP7이 8개월 만에 완전체로 모여 10월 31일·11월 1일 부산 KBS홀에서 굿바이 콘서트를 시작함",
+   "why": null,
+   "how": "3시간 동안 29곡을 부름. 천록담이 작사·작곡한 신곡 '살아보니'를 처음 공개. 11월 7일 대구 경북대 대강당, 14~15일 서울 세종대 대양홀로 이어짐",
+   "content": null,
+   "places": [
+    {
+     "name": "부산광역시",
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "김용빈",
+     "id": "ddc038e8-bf88-4176-9c6b-5e9c92e83e47"
+    },
+    {
+     "name": "손빈아",
+     "id": "c522a7d0-423f-4efa-823c-9dd0d62d0045"
+    },
+    {
+     "name": "천록담",
+     "id": "8f9e4e91-6a43-4b2c-af26-2cade49f4a01"
+    },
+    {
+     "name": "춘길",
+     "id": "e9d720ed-6d1a-43c6-9fe5-5a7366a36fa5"
+    },
+    {
+     "name": "최재명",
+     "id": "169ce6fa-485e-4624-87b4-c8547d9ba2bc"
+    },
+    {
+     "name": "남승민",
+     "id": "56d99c0d-75b4-4755-a931-197446a6d944"
+    },
+    {
+     "name": "추혁진",
+     "id": "5bd7abdd-57a3-41af-971c-8f31dc2b455e"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134951063/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c57cf9c1-a0fc-4b00-858f-57bdb7453df4",
+   "title": "「맨발 걷기, 속초」 행사",
+   "type": "행사",
+   "date": "2026-11-07",
+   "parent": [
+    {
+     "id": "5d4886f5-b537-4a2f-b937-4cfc7172699e",
+     "category": "장소",
+     "name": "속초시"
+    }
+   ],
+   "summary": "속초해수욕장과 영랑호 맨발 황톳길, 척산온천 휴양촌 길 등 3개 코스를 걷는 행사를 강원도·강원관광재단과 엶",
+   "why": null,
+   "how": "5월부터 이어진 맨발 걷기 인증 챌린지에 누적 6천여 명이 참여함",
+   "content": null,
+   "places": [
+    {
+     "name": "속초해수욕장",
+     "id": null
+    },
+    {
+     "name": "영랑호",
+     "id": "a8590ea0-b4fe-435e-a3ae-533ac1088195"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "강원관광재단",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701788",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "dbedc7dc-8587-413d-a03c-ac8ae620365d",
+   "title": "「엔비디아 AI 데이 서울 2026」 9~10일 코엑스",
+   "type": "행사",
+   "date": "2026-11-09",
+   "parent": [
+    {
+     "id": "016de458-5e8d-421c-8654-0e9023f4b206",
+     "category": "단체",
+     "name": "Nvidia"
+    }
+   ],
+   "summary": "삼성전자·SK하이닉스·LG전자 등 20개 파트너와 피지컬 AI·에이전틱 AI·AI 팩토리 기술과 산업 적용 사례를 선보이는 행사",
+   "why": null,
+   "how": "약 2천 명이 참석할 예정. 첫날 엔비디아 임원들이 로봇 플랫폼 아이작·코스모스와 기업용 에이전틱 AI 전략을 발표함",
+   "content": null,
+   "places": [
+    {
+     "name": "코엑스",
+     "id": null
+    },
+    {
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "삼성전자",
+     "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6"
+    },
+    {
+     "name": "SK하이닉스",
+     "id": "f38bbe00-4de8-42dc-871e-da97250df3a4"
+    },
+    {
+     "name": "LG전자",
+     "id": "1c22448e-555a-482f-9708-7e53a5d1d9af"
+    },
+    {
+     "name": "SK텔레콤",
+     "id": "f37d89c8-d326-4849-a9ad-7a9dde5f8a5e"
+    },
+    {
+     "name": "네이버클라우드",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102082700017",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "8caf5ca4-1180-4615-949b-04745e631cc7",
+   "title": "간동면 18홀 파크골프장 준공",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "5b4fa651-fdbb-4158-aba6-7a3cfa45a4ce",
+     "category": "장소",
+     "name": "화천군"
+    }
+   ],
+   "summary": "간동면 간척리에 2만 9천여㎡ 규모 18홀 파크골프장을 짓고 13일까지 시범 운영함",
+   "why": null,
+   "how": "14일 주민 대회를 연 뒤 15일부터 다른 지역 동호인에게도 엶",
+   "content": null,
+   "places": [
+    {
+     "name": "간동면",
+     "id": "80c8cdfe-cf24-4538-b900-ede5f225cf6d"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701789",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "e60adb36-645b-4e26-beb1-f41a9f8c2849",
+   "title": "강릉 AI 데이터센터 수사 여파로 기업 투자 접촉 중단",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "2ecdcbb4-c65e-4e99-af86-987ed2e785b4",
+     "category": "장소",
+     "name": "강원특별자치도"
+    }
+   ],
+   "summary": "우상호 지사가 SK를 포함한 대기업들과의 AI 데이터센터 투자 접촉을 모두 멈췄다고 밝힘",
+   "why": "지방선거 때 강릉에 70조 원 규모 데이터센터를 유치했다고 한 발언이 허위사실 공표로 고발돼 지사와 SK 고위 관계자가 조사를 받음",
+   "how": "우 지사는 10월 29일 대기업 4곳과 투자 상담 중이라고 밝힌 바 있음",
+   "content": null,
+   "places": [
+    {
+     "name": "강릉시",
+     "id": "64985b93-1f47-4d72-9361-ca37a2264f57"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "우상호",
+     "id": null
+    },
+    {
+     "name": "SK",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701617",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ffdbf0f1-903e-483c-b296-85f34a9a364a",
+   "title": "강원도·IBK기업은행 지역경제 활성화 협약",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "2ecdcbb4-c65e-4e99-af86-987ed2e785b4",
+     "category": "장소",
+     "name": "강원특별자치도"
+    }
+   ],
+   "summary": "기업은행 본점에서 협약을 맺고 은행 고객에게 강원 관광과 연계한 혜택을 주며 함께 홍보하기로 함",
+   "why": "강원 관광객 유치와 경기 활성화",
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "IBK기업은행",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8702000",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "3a9f92a5-81a9-491e-8bdb-150dee23ae5d",
+   "title": "건설기계·화물차·캠핑카 불법 주차 집중 단속",
+   "type": "뉴스",
+   "date": "2026-11-16",
+   "parent": [
+    {
+     "id": "1090b9f5-e66f-4964-b7db-9150fc7e9f20",
+     "category": "장소",
+     "name": "삼척시"
+    }
+   ],
+   "summary": "16~27일 공용·부설주차장 방해 구역과 사고 위험·상습 불법 주차 구역을 집중 단속함",
+   "why": null,
+   "how": "단속 전 주요 구역에 안내와 계도를 해 자발적 이동을 유도함",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701184",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ee1ae72f-1343-460c-a3c0-a9f6f69d6f9a",
+   "title": "경주 공연 무대 이탈 해명",
+   "type": "논란",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "46a65bd1-79a8-4a1c-b3d5-4f4091e3f26b",
+     "category": "인물",
+     "name": "원이"
+    }
+   ],
+   "summary": "원이는 팬 플랫폼에서 세탁으로 줄어든 무대 의상을 입고 격한 안무를 하다 숨이 막혀 잠시 내려갔다고 설명함",
+   "why": "10월 31일 경주엑스포대공원 'APEC 정상회의장 기념관 개관식' 축하공연 중 '런웨이' 무대에서 갑자기 내려가 팬들이 놀람",
+   "how": "빈자리는 미나미 등 멤버들이 채웠고 원이는 곧 다시 올라 공연을 마침. 리센느는 11월 3일 새 앨범 '펄스'를 냄",
+   "content": null,
+   "places": [
+    {
+     "name": "경주엑스포대공원",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "리센느 RESCENE",
+     "id": "24fd11b0-5180-470f-816a-f56bddacc5ce"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/enter_general/2026/11/02/HE3TOMJTHFRWIODEHE4DKMZUMM/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c37b5703-f93c-45ab-8773-3146de6ce48a",
+   "title": "고려인 동포 자녀 정착 지원 확대",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "bddea644-38eb-4b44-8ce3-ebfebaac5f42",
+     "category": "장소",
+     "name": "김해시"
+    }
+   ],
+   "summary": "재외동포청 공모에 뽑혀 고려인 동포 자녀에게 한국어·영어·컴퓨터 교육을 학기마다 4개월씩 열고 심리·진로 상담을 늘 지원함",
+   "why": null,
+   "how": "김해에는 고려인 동포 자녀 3천 100여 명이 삶",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "재외동포청",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701067",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "63cddeaa-f309-4e01-ae92-31e4657398fa",
+   "title": "고속철도 열차 운행 개선 건의",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "cdeef9eb-3811-478c-9a55-5f78a47c4552",
+     "category": "장소",
+     "name": "목포시"
+    }
+   ],
+   "summary": "9월 고속철도 운행 개편 뒤에도 호남선 일부 열차가 목포까지 오지 않는 등 불편이 남아 개선을 건의하기로 함",
+   "why": "개편으로 수서~목포 운행은 한 차례 늘었으나 불편이 여전함",
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "한국철도공사",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701757",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "12c8d2f7-af89-451b-8d64-2d8df444b5f6",
+   "title": "광안대교 퇴근길 통행료 면제 1시간 늘리는 조례 발의",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d",
+     "category": "장소",
+     "name": "부산광역시"
+    }
+   ],
+   "summary": "평일 통행료 면제 시작을 오후 6시에서 5시로 앞당기는 조례 개정안을 윤지영 시의원이 대표 발의함",
+   "why": null,
+   "how": "3일 시작하는 부산시의회 정례회에서 심의할 예정",
+   "content": null,
+   "places": [
+    {
+     "name": "광안대교",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "부산광역시의회",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701988",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "cb0ee370-c248-4d04-bf5b-f3f235a13c46",
+   "title": "광주공장 노동자 사망, 생산 이틀째 중단",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "356525e0-5e5a-4aed-845f-35941e7a292f",
+     "category": "단체",
+     "name": "금호타이어"
+    }
+   ],
+   "summary": "10월 31일 고무를 펴는 공정에서 쓰러진 30대 노동자가 1일 숨져 광주지방고용노동청이 작업중지명령을 내림",
+   "why": "사고 구간에 CCTV가 없었고 2인 1조 공정도 아니었던 것으로 조사됨",
+   "how": "경찰은 부검으로 사인을 밝히기로 함. 민주노총 광주전남본부는 2024년 이후 사망사고만 4건이라며 경영책임자 책임을 요구했고 회사는 조사에 협조하겠다고 함",
+   "content": null,
+   "places": [
+    {
+     "name": "광산구",
+     "id": "322e9157-ccf3-4912-9376-8bf9eb1ed624"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "광주지방고용노동청",
+     "id": null
+    },
+    {
+     "name": "민주노총",
+     "id": null
+    },
+    {
+     "name": "전국금속노동조합",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701412",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "0221b24d-4148-4431-919e-c1e633acae59",
+   "title": "국방부 직할 국방드론본부 창설",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "a164b516-9e60-449c-982f-987f75719aa0",
+     "category": "단체",
+     "name": "국방드론본부"
+    }
+   ],
+   "summary": "포천에서 창설식을 열고 전군 공통의 드론·대드론 발전 방향과 전력·기술 혁신을 맡는 부대로 출범함",
+   "why": "현대전에서 드론이 판도를 바꾸는 무기로 떠오름",
+   "how": "윤석열 정부 때 만든 드론작전사령부는 해체되고 작전 기능은 각 군으로 넘어감. 이두희 국방부 차관이 참석함",
+   "content": null,
+   "places": [
+    {
+     "name": "포천시",
+     "id": "94e9d434-c6e6-407f-b38c-e6202ad96813"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "국방부",
+     "id": null
+    },
+    {
+     "name": "이두희",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261101040400504",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "bf1df0e4-728c-40cc-aa13-03caae2f7483",
+   "title": "김다현 발언 논란, 무대에서 다시 사과",
+   "type": "논란",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "964988bf-caba-4498-8504-d3faf49c1ba7",
+     "category": "인물",
+     "name": "심수봉"
+    }
+   ],
+   "summary": "원주 백운아트홀 콘서트에서 김다현을 두고 한 말은 해서는 안 될 말이었다며 반성한다고 다시 사과함",
+   "why": "9월 20일 진안고원 트로트 페스티벌에서 직전 순서였던 김다현을 두고 노래와 삶을 모르는 것 같다며 자기 앞에 세우지 말라고 말해 논란이 됨",
+   "how": "당시 다음 날 사과문을 내고 김다현에게 전화로 사과했고, 김다현도 SNS로 사과를 받았다고 밝힘. 이번 무대에서는 김다현이 훌륭한 음악인으로 자라길 바란다고 말함",
+   "content": null,
+   "places": [
+    {
+     "name": "원주시",
+     "id": "6807b4a6-bdfa-4e1c-b795-106489d96195"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "김다현",
+     "id": "f80878b0-1b07-40ee-aa93-59ad2133f13e"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261102_0003850409",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "18a92207-44eb-44a1-8674-c3ce0de54c6d",
+   "title": "넷플릭스가 세계 판권 사들여 2027년 가을 극장 개봉",
+   "type": "개봉·방영",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "8f51beb0-8e19-441f-be89-9748607f34c0",
+     "category": "작품",
+     "name": "Jack of Spades"
+    }
+   ],
+   "summary": "조엘 코엔 감독의 고딕 미스터리를 넷플릭스가 사들여 극장에 먼저 걸고 스트리밍으로 공개하기로 함",
+   "why": null,
+   "how": "1880년대 스코틀랜드 하일랜드가 배경, 1901년 소설 'The Alien: A Story of Middle Age'가 원작. 패치 퍼랜·조시 오코너·데이미언 루이스·레슬리 맨빌 출연. 지난해 말 글래스고에서 촬영을 마침",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Netflix",
+     "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
+    },
+    {
+     "name": "Joel Coen",
+     "id": "681f6829-afea-4a8c-b397-6d1e76a25b73"
+    },
+    {
+     "name": "Patsy Ferran",
+     "id": "076efdbd-75ac-48ac-98e5-72d445713224"
+    },
+    {
+     "name": "Josh O'Connor",
+     "id": "ccbf5205-9f69-4a4c-85f8-8fc8d230b39f"
+    },
+    {
+     "name": "Damian Lewis",
+     "id": "daa66eec-4403-4d84-849c-051e29ff07e2"
+    },
+    {
+     "name": "Lesley Manville",
+     "id": "fb7591da-5522-4563-a9a9-b77089fc5944"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://variety.com/2026/film/awards/netflix-joel-coen-jack-of-spades-josh-oconnor-2027-1236936906/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "d3d5a56a-b70f-4f3e-b077-e7383430a17b",
+   "title": "대전시립미술관 기증 작품 1점 행방 몰라 특별감사",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "128cb9fc-75dd-4f2f-941b-f0357e5c88d6",
+     "category": "장소",
+     "name": "대전광역시"
+    }
+   ],
+   "summary": "2005년 유족이 기증한 이동훈 화백 작품 24점 가운데 1점의 소재가 확인되지 않아 대전시가 특별감사에 나섬",
+   "why": "미술관이 8월부터 한 자체 조사에서 드러남",
+   "how": "미술관은 경찰 수사 의뢰도 검토 중",
+   "content": null,
+   "places": [
+    {
+     "name": "대전시립미술관",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "대전시립미술관",
+     "id": null
+    },
+    {
+     "name": "이동훈",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701919",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "86aa0b99-a816-4e15-98c7-524e7125a043",
+   "title": "대통령 전용기 탑승자 168명 여권정보 노출",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "6월 유럽 순방 때 공군 1호기 탑승자로 보이는 168명의 이름·생년월일·여권번호가 보안 관련 유료 사이트에 올라 있었음이 드러남",
+   "why": null,
+   "how": "이재명 대통령 부부와 국무위원·청와대 직원·경호원·출입기자 정보가 포함됨. 청와대는 미리 알고 대응했다고 했고 외교부는 경위를 조사 중",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "이재명",
+     "id": null
+    },
+    {
+     "name": "김혜경",
+     "id": null
+    },
+    {
+     "name": "외교부",
+     "id": null
+    },
+    {
+     "name": "청와대",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102174451001",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "743f9e90-2d99-412a-9333-e37fdcf6160e",
+   "title": "도시철도 3호선 출근길 16분 멈춤",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "44215e3d-3c20-4168-929c-552fe86092d8",
+     "category": "장소",
+     "name": "대구광역시"
+    }
+   ],
+   "summary": "오전 7시 49분쯤 종착역 열차를 상행선으로 옮기는 선로전환기에 장애가 나 16분 동안 운행이 끊김",
+   "why": "선로전환기 장애",
+   "how": "9월 7일에도 전력 공급 장애로 3호선 전 구간이 멈춘 바 있어 시설 관리 체계에 대한 지적이 나옴",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "대구교통공사",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701593",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "40ba2373-6b1e-4be3-82c8-55ca945383ab",
+   "title": "디지털 싱글 'SHOCK' 발매",
+   "type": "싱글",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "9fd425ab-6bdb-41ed-893c-86bbf51d2367",
+     "category": "단체",
+     "name": "트레저"
+    }
+   ],
+   "summary": "신스 사운드와 YG 힙합 비트를 엮은 일렉트로닉 힙합곡 'SHOCK'를 음원과 뮤직비디오로 함께 냄",
+   "why": null,
+   "how": "가사에 원타임 'Hot 뜨거'의 노랫말을 빌려 씀. 2일 오후 6시 공개",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "YG엔터테인먼트",
+     "id": "58fa67e0-0896-4df4-a813-0caf371902e0"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/music/2026/11/02/GEZGINRSMUYGCYJTGA4TONZWMY/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "f7bbfe62-7bbd-48c3-ac93-58c758b04a16",
+   "title": "리얼미터 대통령 지지율 36.9%",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "10월 26~30일 조사에서 긍정 평가가 1.6%포인트 올랐고 정당 지지도는 국민의힘 40.2%, 민주당 38.3%로 오차 범위 안",
+   "why": "리얼미터는 한독 정상회담과 경상수지 흑자, 수도권 주택 공급 확대 등을 반등 이유로 봄",
+   "how": "부정 평가는 60.1%. 조국혁신당은 8.1%로 2년 만에 가장 높았음. 아시아경제 의뢰, 2515명 대상",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "리얼미터",
+     "id": null
+    },
+    {
+     "name": "이재명",
+     "id": null
+    },
+    {
+     "name": "더불어민주당",
+     "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
+    },
+    {
+     "name": "국민의힘",
+     "id": "73223290-920b-403e-be26-e5107d0b30b4"
+    },
+    {
+     "name": "조국혁신당",
+     "id": "c976a523-48e5-4d42-94d0-3b98ffdfe962"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102019400001",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "4d83fd11-964d-4030-a27b-9fa02d843984",
+   "title": "마라케시 국제영화제 개막작 선정",
+   "type": "행사",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "cea3d833-daaa-42ab-9413-6007747b5a4d",
+     "category": "작품",
+     "name": "The Debut"
+    }
+   ],
+   "summary": "제시 아이젠버그 감독작이 11월 20~28일 열리는 제23회 마라케시 국제영화제 개막작으로 정해짐",
+   "why": null,
+   "how": "줄리앤 무어가 지역 극단 뮤지컬에 캐스팅된 뒤 메소드 배우로 변해 가는 내성적인 주부를 연기. 아이젠버그가 비경쟁 갈라에 참석할 예정",
+   "content": null,
+   "places": [
+    {
+     "name": "Marrakech",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Jesse Eisenberg",
+     "id": "02bb2d2d-c07d-4d42-94ca-a371885180ac"
+    },
+    {
+     "name": "Julianne Moore",
+     "id": "fae67a68-08df-4db4-881b-88dfc2008e45"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://variety.com/2026/film/festivals/the-debut-marrakech-film-festival-lineup-1236937291/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ca5d52a0-74a2-48d8-8b59-5d37fe871bbb",
+   "title": "매디슨 스퀘어 가든 30회 레지던시 마무리",
+   "type": "콘서트",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "fc92cef3-022f-4ef8-b503-378db309301f",
+     "category": "인물",
+     "name": "Harry Styles"
+    }
+   ],
+   "summary": "핼러윈 공연 둘째 날 '피자 쥐' 분장으로 30회째 마지막 무대에 섰고 뉴욕 닉스 주장에게 기념 배너를 받음",
+   "why": null,
+   "how": "첫날은 1970년대 엘비스 프레슬리 분장. 9주간 이어진 공연. 'Together, Together' 투어는 이달 호주로 가고 2027년 4월 미국에서 다시 시작해 8월 웸블리 스타디움 3회 공연으로 끝남",
+   "content": null,
+   "places": [
+    {
+     "name": "Madison Square Garden",
+     "id": null
+    },
+    {
+     "name": "New York",
+     "id": "54ed2974-8444-4934-8323-ae980bab368e"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://variety.com/2026/music/news/harry-styles-closes-madison-square-garden-harryween-1236936778/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ff6f63a9-7405-4cbd-86f2-6c695b311606",
+   "title": "문래동1가~신도림역 연결도로 개통",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "d8253a12-cdca-4362-9ffb-d7e5fed374da",
+     "category": "장소",
+     "name": "영등포구"
+    }
+   ],
+   "summary": "문래동1가 기계금속집적지에서 신도림역 쪽으로 바로 나가는 길이 열려 최대 500m 돌아가던 불편이 사라짐",
+   "why": "그동안 문래동 사거리까지 거슬러 올라가야 했음",
+   "how": "거주자 우선 주차장 일부를 도로로 바꿨고 폭 9.5m·길이 40m, 사업비 5억 원",
+   "content": null,
+   "places": [
+    {
+     "name": "문래동1가",
+     "id": "712570f4-987f-494b-aae2-1c7cdd3adc73"
+    },
+    {
+     "name": "신도림역",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102068500004",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "f247af03-b1f2-4724-9ab3-ea58bf2b8da8",
+   "title": "미니 15집 'GOLDEN HOUR : Part.6' 11월 13일 발매",
+   "type": "미니앨범",
+   "date": "2026-11-13",
+   "parent": [
+    {
+     "id": "f4fd22d4-02c6-4c78-a506-b7bfdf911ab7",
+     "category": "단체",
+     "name": "에이티즈"
+    }
+   ],
+   "summary": "11월 13일 미니 15집을 내기에 앞서 선공개곡 '드립'으로 뮤직뱅크·음악중심·인기가요 무대에 오름",
+   "why": null,
+   "how": "'드립'은 아이튠즈·애플뮤직 글로벌 톱 송 상위권과 영국 오피셜 싱글 다운로드·세일즈 차트에 듦. 10월 31일 스포티 룩의 세 번째 콘셉트 포토 공개",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134949602/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "4324193d-901f-474f-8821-42cbbaebf9cd",
+   "title": "미니 1집 '나 그대를' 초동 12만 장",
+   "type": "흥행 기록",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "c522a7d0-423f-4efa-823c-9dd0d62d0045",
+     "category": "인물",
+     "name": "손빈아"
+    }
+   ],
+   "summary": "10월 23일 낸 첫 미니앨범이 한터차트 초동 12만 3056장을 기록하고 발매 당일 수록곡 전곡이 멜론 핫100에 듦",
+   "why": null,
+   "how": "'나 그대를'·'애인합시다' 더블 타이틀. TV조선 '미스터트롯3' 준우승자로 '다시, 우리' 전국 투어에도 참여 중",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/enter_general/2026/11/02/MNRDCZJXG42DGNDDMM3DENDDME/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "1a0878d5-3c92-421b-b31c-76ca89167661",
+   "title": "미니 8집 '루트 제로 : 더 콜링' 발매",
+   "type": "미니앨범",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "40b4d6ab-f27b-4a0d-81d0-2b702308d60a",
+     "category": "단체",
+     "name": "싸이커스"
+    }
+   ],
+   "summary": "리더 민재가 작사·작곡·편곡한 '다이너마이트'를 타이틀로 한 미니 8집을 냄, 멤버가 만든 곡이 타이틀이 된 건 처음",
+   "why": null,
+   "how": "'고'·'마스크 오프'·'원'·'덤'·'생추어리'까지 6곡 수록. 민재·수민·예찬이 전곡 작사에 참여함. 2일 오후 6시 발매",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "민재",
+     "id": "c3bb8d94-d866-4da7-8031-caab8a9e524b"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134947889/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "d4b13ae1-323a-4f4e-97e4-605028986bd1",
+   "title": "민간공원 특례사업 5곳 모두 완공 못 해",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d",
+     "category": "장소",
+     "name": "부산광역시"
+    }
+   ],
+   "summary": "2024년까지 마치겠다던 명장·동래사적·온천·덕천·사상공원 조성이 모두 끝나지 않았고 세 곳은 공원 공사를 시작도 못 함",
+   "why": "명장공원은 시행사 자금난, 덕천·동래사적공원은 문화재 협의로 늦어짐",
+   "how": "공원시설 공정률은 명장공원 1%, 동래사적공원 25%",
+   "content": null,
+   "places": [
+    {
+     "name": "명장공원",
+     "id": null
+    },
+    {
+     "name": "동래사적공원",
+     "id": null
+    },
+    {
+     "name": "덕천공원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700989",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "3536784d-8910-4e29-9f46-75d91770d1b3",
+   "title": "바이낸스 해킹에 가상자산거래소 긴급 소집",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "25b4b535-b461-49ec-a97a-86a911508b6c",
+     "category": "단체",
+     "name": "금융위원회"
+    }
+   ],
+   "summary": "국내 거래소에 콜드월렛 비중을 높이고 준비금을 더 쌓으라고 당부하고 지갑 출고 승인·관리자 권한 관리를 점검함",
+   "why": "바이낸스에서 핫월렛을 통해 63억 달러 규모 가상자산이 빠져나간 사고가 업계 최대 해킹으로 기록됨",
+   "how": "금융감독원·금융보안원·닥사와 회의했고, 입출고 상시 감시와 이상 접근 보고 체계를 주문함. 거래소별 입출금 현황도 닥사를 통해 보고하게 함",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Binance",
+     "id": "9a82e26e-8395-401f-9671-54dfec368412"
+    },
+    {
+     "name": "금융감독원",
+     "id": "13d486c7-e762-44c5-8abe-61fd70fe1320"
+    },
+    {
+     "name": "디지털자산거래소 공동협의체",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102134600002",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "26cab28c-d51d-40f1-b46f-80e0466f1adf",
+   "title": "박해진 합류, 장나라와 맞수",
+   "type": "출연 확정",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "a9787ef0-8de3-4036-82ae-da6b16458b60",
+     "category": "작품",
+     "name": "굿파트너 2"
+    }
+   ],
+   "summary": "박해진이 법무법인 태수 대표이자 유튜브를 하는 이혼 전문 변호사 박태수를 맡아 차은경(장나라)과 업계 주도권을 다툼",
+   "why": null,
+   "how": "첫 스틸 공개. 최유나 작가 극본, 서민정 감독 연출. 장나라·김혜윤·표지훈 출연. 11월 20일 밤 9시 50분 SBS 첫 방송",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "박해진",
+     "id": "a69bf4d9-22e3-4130-bfee-dd562963ab67"
+    },
+    {
+     "name": "장나라",
+     "id": "b031c34e-00bf-4511-bafa-24b3d9c89870"
+    },
+    {
+     "name": "김혜윤",
+     "id": "5f6d4c88-231e-423c-90b9-90da965698fd"
+    },
+    {
+     "name": "표지훈",
+     "id": "d48d63db-80e8-4a6e-a1ed-9303f6b0f998"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134948047/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "fbddda87-80fa-4e5b-ae82-dda5a3193b69",
+   "title": "방학 끝나자 고교생 봉쇄 시위 재개",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "8fd447de-086d-4ad9-b287-af85b002c7c9",
+     "category": "국가",
+     "name": "France"
+    }
+   ],
+   "summary": "2주 중간방학 뒤 개학 첫날 파리·마르세유·렌·릴 등지 일부 고교 입구가 봉쇄됐고 전국 고교의 1%인 41곳이 휴교함",
+   "why": "학생 단체는 정부가 10월 26일 내놓은 교육 대책이 재원 없는 허울이라고 봄",
+   "how": "파리 검찰은 10월 31일 시위에서 헌병 등에게 화염병을 던진 일을 살인미수로 수사 중. 학생 단체는 5일 총파업에 함께하기로 함",
+   "content": null,
+   "places": [
+    {
+     "name": "Paris",
+     "id": null
+    },
+    {
+     "name": "Marseille",
+     "id": null
+    },
+    {
+     "name": "Rennes",
+     "id": null
+    },
+    {
+     "name": "Lille",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Emmanuel Macron",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102170700085",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "6b583595-1283-43ac-a8f7-3b68bdaca930",
+   "title": "부산지점 개소, 두바이 직항 추진",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "31f5f1c6-d9e5-4abe-8fd6-e8c7f71d7e8a",
+     "category": "단체",
+     "name": "에미레이트 항공"
+    }
+   ],
+   "summary": "두바이를 거점으로 150여 개 도시를 잇는 에미레이트 항공이 부산지점을 열고 부산시와 두바이 직항 개설에 협력하기로 함",
+   "why": null,
+   "how": "부산시는 행정 지원을 하고 김해공항 노선을 일본·중화권 중심에서 유럽·미주 중장거리로 넓힐 계획",
+   "content": null,
+   "places": [
+    {
+     "name": "김해공항",
+     "id": null
+    },
+    {
+     "name": "부산광역시",
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "부산광역시",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701742",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "15004d3b-5abb-4fc9-b7bc-f77cc0e2e77d",
+   "title": "부산항만공사, 부산항 분산에너지 특화지역 지정 추진",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d",
+     "category": "장소",
+     "name": "부산광역시"
+    }
+   ],
+   "summary": "항만에서 만든 재생에너지를 직접 팔고 쓸 수 있도록 분산에너지 특화지역 지정 용역에 나섬",
+   "why": "부산항의 에너지 자립과 친환경 항만 전환",
+   "how": "배후단지에 태양광·풍력 발전을 늘리는 사업을 찾을 계획",
+   "content": null,
+   "places": [
+    {
+     "name": "부산항",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "부산항만공사",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8702003",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "5b52e440-f263-4812-b455-627e9f5fb702",
+   "title": "사내 시스템 외부 침입, 개인정보 유출",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "e5eed119-8891-4a91-94cf-2e099524dc12",
+     "category": "단체",
+     "name": "하이브"
+    }
+   ],
+   "summary": "전자결재에 연동된 외부 문서 미리보기 솔루션과 비용처리시스템이 뚫려 협력사·전현직 임직원 개인정보가 새어 나감",
+   "why": "사내 보안 점검에서 비정상적인 외부 접근 정황을 찾아냄",
+   "how": "유출 기간은 9월 12~13일과 10월 3~5일. 이름·주민등록번호·여권번호·계좌·카드번호·의료정보 등이 포함됨. 접근 경로를 막고 KISA·개인정보보호위원회에 신고했으며 피해자에게 개별 안내 중",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261102_0003851133",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "bfbc5cea-5b71-4dbe-ac39-69d309c5dbdc",
+   "title": "사등 변전소, 호남 반도체 변압기 전용 검토에 2년 지연 우려",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "b9f1f6ae-9bc0-432a-8c80-8d638d7c0722",
+     "category": "장소",
+     "name": "거제시"
+    }
+   ],
+   "summary": "정부가 호남 반도체 전력망에 다른 지역 변전소용 변압기를 먼저 쓰는 안을 검토해 2028년 4월 준공 목표인 사등 변전소가 늦어질 위기",
+   "why": "국정감사에서 정부 검토 대상 5곳에 거제 사등과 부산·진해 신항 변전소가 포함된 것이 알려짐",
+   "how": "사등면에는 남부내륙철도 사등역·기업혁신파크·오비2 산단·고현항 재개발이 추진 중이라 경남도가 대응에 나섬",
+   "content": null,
+   "places": [
+    {
+     "name": "사등면",
+     "id": "da85c283-f300-41f3-9059-f927a71bd324"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "경상남도",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700999",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ec8bbe62-f2a8-40b3-bb02-d5c8dca996c9",
+   "title": "사토 고이치·다카하시 잇세이·기무라 후미노·스즈키 안 출연",
+   "type": "출연 확정",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "a4092377-bea4-4bb3-9f71-c04d974005c2",
+     "category": "작품",
+     "name": "Sonzai no Subete o"
+    }
+   ],
+   "summary": "니시지마 히데토시 주연 영화에 네 배우가 함께 나온다고 알려졌고 각자의 단독 스틸이 공개됨",
+   "why": null,
+   "how": "시오타 다케시 미스터리 소설이 원작으로 시효가 지난 두 아이 동시 유괴 사건 30년 뒤를 그림. 사토는 화랑 주인, 다카하시는 행방불명된 사실화가, 기무라는 그 약혼자, 스즈키는 피해 아동의 친모 역. 감독 제제 다카히사",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Hidetoshi Nishijima",
+     "id": "c3e5da96-b68c-4a3b-b89a-2d52d931d580"
+    },
+    {
+     "name": "Koichi Sato",
+     "id": "3619d830-f234-4269-9ddf-a1cfbd0376f0"
+    },
+    {
+     "name": "Issey Takahashi",
+     "id": "410045d4-f240-45ac-9795-a618ed1fbc7e"
+    },
+    {
+     "name": "Fumino Kimura",
+     "id": "ae53f364-74e5-4fab-a08c-934ef945cb36"
+    },
+    {
+     "name": "Anne Suzuki",
+     "id": "063d5ae3-4eb3-40fe-a248-de993f718a66"
+    },
+    {
+     "name": "Takahisa Zeze",
+     "id": "9d050e2f-f088-4e8d-8386-a3030865f85f"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/bfabca50c6c6b1a7d91c88a03022e9eaa21d1dda",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "07a046f0-1840-4816-ac9b-172cbb59be06",
+   "title": "산은인프라자산운용 전주사무소 개소",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "652f61b7-7013-436c-adda-7b76f78fab66",
+     "category": "장소",
+     "name": "전주시"
+    }
+   ],
+   "summary": "산은인프라자산운용이 전주사무소를 열어 전북에 자리 잡은 금융기관이 41곳으로 늘어남",
+   "why": null,
+   "how": "국민연금공단과 투자 협력을 강화할 것으로 기대됨. 개소식에 이원택 지사·김성주 국민연금 이사장·박상진 산업은행 회장 참석",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "국민연금공단",
+     "id": "20b01b91-3c32-498a-a2fb-8f5cc21cce33"
+    },
+    {
+     "name": "한국산업은행",
+     "id": null
+    },
+    {
+     "name": "이원택",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701694",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "e018ed52-8a44-40bc-9328-d2d9f3de8131",
+   "title": "상어 「부캉이」 엿새째 안 보여",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "020b3ca3-53a1-4876-92f1-2ebdd8f52169",
+     "category": "장소",
+     "name": "동구"
+    }
+   ],
+   "summary": "한 달여 북항친수공원 수로에 머물던 상어 부캉이가 엿새째 모습을 드러내지 않아 수로 주변이 한산해짐",
+   "why": "바닷물이 차가워져 더 따뜻한 남쪽 바다로 옮겨 갔을 것이라는 분석",
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "북항친수공원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6862389_37012.html",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "2a8c802b-6592-4080-9cfe-a936ce8e361c",
+   "title": "성범죄 재판 최종 변론, 변호인 「채널4 다큐가 고소인을 오염」",
+   "type": "논란",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "45af813f-d5db-48d1-b77d-2c34636037f4",
+     "category": "인물",
+     "name": "Russell Brand"
+    }
+   ],
+   "summary": "변호인은 브랜드가 상대의 동의를 믿었다며 2023년 채널4 다큐가 고소인들을 불러냈다고 주장했고 검찰은 반쪽 진실이라 맞섬",
+   "why": "1999~2009년 일로 강간 3건·성폭행 3건·강제추행 미수 1건 혐의로 기소돼 모두 무죄를 주장",
+   "how": "3주 재판 끝에 양측이 최종 변론. 변호인 이언 윈터 KC는 다큐가 일방적이고 법정에서 검증되지 않았다고 주장. 검찰은 브랜드 쪽 진술을 「반쪽 진실을 엮은 거짓」이라 함. 평결은 배심원단이 내림",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://variety.com/2026/tv/global/russell-brand-defense-closing-arguments-trial-1236937304/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c2b597a7-0fcd-4798-8ed9-dfa6dec9ab45",
+   "title": "세계해양포럼 개막, 북극항로·AI 주제",
+   "type": "행사",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "020b3ca3-53a1-4876-92f1-2ebdd8f52169",
+     "category": "장소",
+     "name": "동구"
+    }
+   ],
+   "summary": "부산항국제전시컨벤션센터에서 북극항로의 지정학·경제·환경 강연과 인공지능·친환경 에너지 토론을 엶",
+   "why": null,
+   "how": "포럼은 5월 유엔 해양과학 10년 공식 프로젝트로 승인됨",
+   "content": null,
+   "places": [
+    {
+     "name": "부산항국제전시컨벤션센터",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701272",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "f5907ddc-b3dc-4b96-a177-2a53a7b04b6c",
+   "title": "손석구·박보영 주연, 10월 31일 촬영 시작",
+   "type": "출연 확정",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "c783fa77-d7be-48eb-886a-b4b01c808025",
+     "category": "작품",
+     "name": "너와 함께라면"
+    }
+   ],
+   "summary": "강형철 감독의 첫 로맨틱 코미디에서 손석구·박보영이 부부를 맡아 10월 31일 촬영에 들어감",
+   "why": null,
+   "how": "하루 한 번 키스하지 않으면 다음 날을 맞지 못하는 부부가 크루즈 여행 중 헤어진 뒤 다시 만나려 애쓰는 판타지·타임루프 이야기. 박보영은 '과속스캔들' 이후 18년 만에 강형철 감독과 다시 만남. 국내와 싱가포르·태국에서 촬영",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "손석구",
+     "id": "b9555417-5aa4-449b-bef3-50d2d88833f4"
+    },
+    {
+     "name": "박보영",
+     "id": "1a0401dc-ab73-4bd8-afec-518fc51f86dc"
+    },
+    {
+     "name": "강형철",
+     "id": "8b6d7101-a750-4bde-a08e-487790976574"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134947647/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "3455a985-4343-45bd-aac6-d6d91e21552b",
+   "title": "스포츠콤플렉스 입지 용역 내년 추진",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "09717372-08d9-4d15-bd31-70f274f85ce1",
+     "category": "장소",
+     "name": "청주시"
+    }
+   ],
+   "summary": "1979년 지은 사직동 청주야구장·체육관을 대신할 종합 체육시설의 입지와 사업 방식을 검토할 용역비 3억 4천만 원을 내년 예산안에 넣음",
+   "why": null,
+   "how": "후보지로 청주나들목 인근과 KTX 오송역 일원이 거론되나 위치는 공개되지 않음",
+   "content": null,
+   "places": [
+    {
+     "name": "청주야구장",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701092",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "06a1d680-fb29-402d-ae3c-fbe31431364b",
+   "title": "시즌 2 무료 다시보기 1억 회 돌파",
+   "type": "흥행 기록",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "9433e036-1a4c-43e3-bc32-d21f3bd31552",
+     "category": "작품",
+     "name": "VIVANT"
+    }
+   ],
+   "summary": "시즌 2 11~22화 무료 배포 누적 재생이 1억 회를 넘었고 11~13화는 각각 1천만 회를 넘김",
+   "why": null,
+   "how": "방송 6주차에 이미 5300만 회로 시즌 1 전 10화 합계 4880만 회를 넘어섬. TVer 즐겨찾기 등록은 415만을 넘어 TBS 연속 드라마 최고 기록을 계속 경신",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Masato Sakai",
+     "id": "d4757136-a1ac-4a53-b85c-b24db98cf145"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/9fa4aee58b0b7c8daa0e3def35daec9524f78e0f",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "659bcd09-0099-48d2-8093-6db648f0409b",
+   "title": "시즌 20으로 종영 확정, 배우들 작별 인사",
+   "type": "시즌 종영",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "3aecfbad-7739-4619-ad6f-636bbf409a57",
+     "category": "작품",
+     "name": "Criminal Minds: Evolution"
+    }
+   ],
+   "summary": "파라마운트+가 시즌 20을 끝으로 시리즈를 마친다고 알렸고 A. J. 쿡·패짓 브루스터 등이 SNS로 소회를 밝힘",
+   "why": null,
+   "how": "시즌 20은 2027년 방송. 2005년 CBS에서 시작해 2022년 시즌 16부터 'Evolution'으로 이어짐. 커스틴 방스네스는 「할 이야기가 더 남았다」며 다른 곳에서라도 이어지길 바란다고 함",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "A. J. Cook",
+     "id": "e921afac-3e5f-4c1b-af48-a9700b8ba922"
+    },
+    {
+     "name": "Paget Brewster",
+     "id": "d06b95a9-79bb-4ccd-a4e6-dc53daa70cc2"
+    },
+    {
+     "name": "Kirsten Vangsness",
+     "id": "3cf922b9-2c37-4b37-b9f1-5d098dbed822"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://variety.com/2026/tv/news/criminal-minds-evolution-cancellation-reactions-1236936927/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c2eeebe5-0210-41a4-ab23-29759bf6f145",
+   "title": "시즌3 11월 11일 첫 방송",
+   "type": "시즌 공개",
+   "date": "2026-11-11",
+   "parent": [
+    {
+     "id": "e20ac158-248b-484f-905e-c9a3e34371af",
+     "category": "작품",
+     "name": "내 새끼의 연애"
+    }
+   ],
+   "summary": "스타 2세들이 합숙하며 짝을 찾는 연애 예능 시즌3가 11월 11일 밤 8시 tvN STORY·E채널에서 시작함",
+   "why": null,
+   "how": "전 축구선수 이동국의 딸 이재아, 배우 이종혁의 아들 이준수가 출연. 사전 인터뷰에서 이재아는 결혼까지 생각하는 진지한 만남을 원한다고 밝힘. 티빙에서도 공개",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134949343/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ed778eea-fff2-42b8-8461-449bf0c8dc6e",
+   "title": "신계룡~신천안 송전선로 노선 확정에 백지화 요구",
+   "type": "논란",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "37aedfed-2011-449a-bf61-fb8c4cc9fe03",
+     "category": "단체",
+     "name": "한국전력공사"
+    }
+   ],
+   "summary": "한전이 송전선로 노선을 확정하자 지역 시민단체들이 주민 동의 없는 일방적 결정이라며 원점 재검토를 촉구함",
+   "why": "단체들은 한전이 「대안위원회」를 내세워 주민 동의 없이 노선을 정했다고 주장함",
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "계룡시",
+     "id": "07504bec-006b-44db-98a3-6b5bd6071f04"
+    },
+    {
+     "name": "천안시",
+     "id": "98677a26-9cf3-417e-970d-b9d2be9f1dbc"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701905",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "e4c1f962-f770-497d-ae72-9d8a044f55e9",
+   "title": "악성 게시물 법적 대응, 군 복무 조롱 무관용",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "4aeba55e-5792-4ce9-b50a-ef2ff3d98e72",
+     "category": "단체",
+     "name": "세븐틴"
+    }
+   ],
+   "summary": "플레디스가 위버스 공지로 멤버 인신공격·허위사실·명예훼손 게시물에 민·형사 대응을 하겠다고 밝힘",
+   "why": "온라인 커뮤니티와 SNS에서 멤버를 겨냥한 비방 게시물이 퍼짐",
+   "how": "군 복무 중인 멤버를 조롱·비하한 글을 특히 짚었고, 글을 지워도 미리 확보한 증거로 고소하며 최초 작성자와 유포자 모두 선처·합의 없이 대응하겠다고 함",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "플레디스엔터테인먼트",
+     "id": "eff3c6f4-6f40-4226-a505-0578cedc554b"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261102_0003851696",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "60414c04-8cb7-4db8-b16e-8f2695f097ba",
+   "title": "악플러 항소심도 징역 8개월, 법정 구속",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "aeffcc94-1260-43d7-955d-e7bd9f14e4da",
+     "category": "인물",
+     "name": "신세경"
+    }
+   ],
+   "summary": "수백 차례 성적 모욕과 가족 협박 글을 올린 피고인이 항소심에서도 징역 8개월을 받고 법정 구속됨",
+   "why": "피고인이 약 두 달 동안 익명 계정으로 욕설·성적 모욕 글과 가족을 해칠 수 있다는 협박성 글을 반복해 올림",
+   "how": "서울동부지법은 우울증·반성을 내세운 감형 요청을 받아들이지 않음. 소속사 더프레젠트컴퍼니는 11월 2일 판결을 알리고 선처 없는 법적 대응을 이어 가겠다고 밝힘. 팬 제보가 증거 확보에 도움이 됨",
+   "content": null,
+   "places": [
+    {
+     "name": "서울동부지방법원",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "더프레젠트컴퍼니",
+     "id": "0b1c8e90-0900-4ddd-a95e-669ea420f00d"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134947762/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "0f965f8c-7b27-48ac-9f3d-4f9e1467ff8d",
+   "title": "여·야·정 협치위원회 출범",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "471e81e8-a77b-4a26-8bb2-d7ac246ee8b9",
+     "category": "장소",
+     "name": "경기도"
+    }
+   ],
+   "summary": "2027년 본예산 심의를 앞두고 추미애 지사와 도의회 의장, 양당 대표의원 4명이 공동의장을 맡는 협치위원회를 꾸림",
+   "why": "추경 갈등 뒤 도와 도의회 사이 협의 통로가 필요해짐",
+   "how": "분기마다 정례회를 열고 급한 민생 현안이 생기면 임시회로 대응함. 예산·조례·지방세제 개편 등을 다룸",
+   "content": null,
+   "places": [
+    {
+     "name": "경기도의회",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "추미애",
+     "id": null
+    },
+    {
+     "name": "경기도의회",
+     "id": null
+    },
+    {
+     "name": "더불어민주당",
+     "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
+    },
+    {
+     "name": "국민의힘",
+     "id": "73223290-920b-403e-be26-e5107d0b30b4"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102145200061",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "b78b299b-82d9-4a56-ab4d-f2ab2c4c7a43",
+   "title": "영동고속도로 양지IC 부근 4중 추돌, 6명 다침",
+   "type": "뉴스",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "f4312487-acc7-48df-a0af-4050d08911e3",
+     "category": "장소",
+     "name": "용인시"
+    }
+   ],
+   "summary": "저녁 8시쯤 7.5톤 화물차와 승용차 등 4대가 잇따라 부딪혀 2명이 크게 다치고 4명이 가볍게 다침",
+   "why": "앞서가던 승용차가 가드레일을 들이받은 뒤 뒤차들이 피하려다 연쇄 추돌함",
+   "how": "4개 차로 중 3개가 통제돼 한때 정체가 빚어짐",
+   "content": null,
+   "places": [
+    {
+     "name": "영동고속도로",
+     "id": null
+    },
+    {
+     "name": "양지IC",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6862376_37012.html",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "43f40fea-cac6-4d8f-8b44-a7bc3c2ab6d6",
+   "title": "오세훈 시장 「도심 마라톤 코스·일정 원점 협의」",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시"
+    }
+   ],
+   "summary": "1일 마라톤으로 광화문~올림픽공원, 상암~여의도 도로가 막히자 내년 대회 코스와 일정을 처음부터 다시 협의하겠다고 밝힘",
+   "why": "올해 도심 교통 통제가 30차례를 넘고 시내버스 190개 노선이 우회해 시민 불만이 커짐",
+   "how": "시는 후원 대회를 15개에서 7개로 줄이고 출발을 오전 7시 30분 이전으로 당겼지만, 오 시장은 중앙정부 후원 대회가 늘었다고 지적함",
+   "content": null,
+   "places": [
+    {
+     "name": "광화문",
+     "id": null
+    },
+    {
+     "name": "올림픽공원",
+     "id": null
+    },
+    {
+     "name": "여의도",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "오세훈",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102087200004",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "e1727f86-e29a-4617-a21d-7dba4416bc62",
+   "title": "온산제련소 2공장 화재 4시간 30분 만에 꺼짐",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "e48ad054-d382-42d2-bbe5-81361f446b64",
+     "category": "단체",
+     "name": "고려아연"
+    }
+   ],
+   "summary": "보수 작업으로 멈춰 있던 2공장 합성수지 덕트에서 불이 나 다른 설비로 번졌으나 다친 사람은 없음",
+   "why": null,
+   "how": "오전 10시 41분 발생, 대응 1단계를 냈다가 오후 3시 6분 완진. 장비 34대·81명 투입, 검은 연기가 온산공단에 퍼져 울주군이 창문을 닫으라고 안내함",
+   "content": null,
+   "places": [
+    {
+     "name": "온산읍",
+     "id": "23b8a721-e18e-4ff8-b7cd-825da963a91e"
+    },
+    {
+     "name": "울주군",
+     "id": "40308d20-1fc3-4024-a200-37ba830f2ef4"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "울산소방본부",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102102851057",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "27151651-1170-4591-9954-43ef84e62e1c",
+   "title": "올해 출생아 5년 만에 6천 명 넘을 듯",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "2fe09321-a0ad-46d6-91de-13af845996e5",
+     "category": "장소",
+     "name": "울산광역시"
+    }
+   ],
+   "summary": "1~8월 출생아가 4천243명으로 1년 전보다 14%가량 늘어 연간 6천360여 명이 예상됨",
+   "why": "코로나19 뒤 늘어난 혼인과 30대 여성 인구 증가, 출산 인식 변화가 겹친 것으로 국가데이터처는 분석함",
+   "how": "6천 명을 넘으면 2021년 이후 5년 만이고 2020년 이후 가장 많음",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "국가데이터처",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701899",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "98344a4a-4902-41b0-b83d-ba2f6dfec55d",
+   "title": "외국인 주민 4만 6천 명, 인구의 4.2%",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "2fe09321-a0ad-46d6-91de-13af845996e5",
+     "category": "장소",
+     "name": "울산광역시"
+    }
+   ],
+   "summary": "행정안전부 집계로 지난해 11월 기준 울산 외국인 주민이 4만 6천여 명으로 전체 110만 3천여 명의 4.2%를 차지함",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "행정안전부",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701061",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "6b43022a-2fe0-4383-b5e8-ddcff1ed0607",
+   "title": "울산 제네시스 생산라인 멈춤",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "ed73cd15-31b9-444f-ad00-a9b1857baaf0",
+     "category": "단체",
+     "name": "현대자동차"
+    }
+   ],
+   "summary": "울산 5공장 제네시스 의장부에 G80 하이브리드 시험차를 넣자 노조 대의원들이 막아 라인이 섰고 회사는 무노동 무임금을 공지함",
+   "why": "신차 투입 뒤 필요한 인력·작업량(맨아워) 협의가 틀어져 대의원들이 인원 감축을 우려함",
+   "how": "회사는 G80 하이브리드와 G90 부분 변경 모델 양산 합의를 추진해 왔다는 입장. 해당 의장부 조합원은 800여 명",
+   "content": null,
+   "places": [
+    {
+     "name": "울산광역시",
+     "id": "2fe09321-a0ad-46d6-91de-13af845996e5"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "제네시스",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102116000057",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "87ea1c9d-d64c-4fa1-a9b7-3d0bfb8a47ea",
+   "title": "월드투어 '아리랑' 남미 14회 전석 매진",
+   "type": "투어",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "94266f27-5abe-4ee1-ad0b-703230ec364d",
+     "category": "단체",
+     "name": "방탄소년단"
+    }
+   ],
+   "summary": "보고타에서 시작한 남미 5개 도시 14회 공연을 모두 매진시키며 관객 85만 3천 명을 모음",
+   "why": null,
+   "how": "10월 31일 상파울루 모룸비 스타디움 공연으로 남미 일정을 마침. 정규 5집 '아리랑' 수록곡과 대표곡으로 무대를 꾸밈. 11월 19일 대만 가오슝부터 방콕·쿠알라룸푸르·싱가포르·자카르타·멜버른·시드니로 이어 감",
+   "content": null,
+   "places": [
+    {
+     "name": "São Paulo",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "하이브",
+     "id": "e5eed119-8891-4a91-94cf-2e099524dc12"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261102_0003850102",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "f351c9c8-b229-4b69-b775-76399b9e1f7c",
+   "title": "월악산국립공원 가을 성수기 안전 집중 관리",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "85d7380c-d066-4ab5-a82c-daa876fd2a11",
+     "category": "장소",
+     "name": "제천시"
+    }
+   ],
+   "summary": "월악산국립공원사무소가 이달 말까지 비법정 탐방로 출입·흡연·야영·취사 등을 집중 순찰·단속함",
+   "why": "가을 성수기 탐방객 안전",
+   "how": "악어봉 탐방로 입구에서 등산화·스틱·무릎보호대 등 7가지 안전 물품을 빌려줌",
+   "content": null,
+   "places": [
+    {
+     "name": "월악산국립공원",
+     "id": null
+    },
+    {
+     "name": "악어봉",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "국립공원공단",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701093",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "35603139-3ea7-4ef0-91b3-a0ae258dd85b",
+   "title": "유니세프에 1억 원 기부",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "dffe01fb-4b7a-479e-815a-f3cbe33e03e5",
+     "category": "단체",
+     "name": "플레이브"
+    }
+   ],
+   "summary": "분쟁·재난·빈곤으로 어려움을 겪는 전 세계 어린이를 돕도록 유니세프 한국위원회에 1억 원을 냄",
+   "why": "8월 유니세프 한국위원회와 사회공헌 협약을 맺고 아동 지원 활동을 해 옴",
+   "how": "11월 20일 유니세프 한국위원회 '더아동페스타'에서 '디지털 환경 속 아동 마음건강'을 주제로 기조연설을 함",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134947939/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c9f9ee98-ab9c-43ed-b67b-1ffbe67c1222",
+   "title": "유아 「레벨테스트」 금지 조례 공포",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "e74a1b2d-575f-4ae0-9b4e-f65deabc7cb2",
+     "category": "장소",
+     "name": "전북특별자치도"
+    }
+   ],
+   "summary": "전북교육청이 학원의 유아 대상 모집 시험을 금지하는 학원·교습 조례 개정안을 공포함",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "전북특별자치도교육청",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701961",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "2e070176-25e9-4e74-8c5e-fa9bf6fa0a5f",
+   "title": "이재명 대통령 시정연설 「모두의 성장」 대전환",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "K자 성장의 그늘을 넘자며 주거·일자리·서민금융을 묶은 「3대 민생 프로젝트」를 내세우고 전작권 조기 환수 의지도 밝힘",
+   "why": "V자형 회복에도 불평등과 양극화가 짙다고 진단함",
+   "how": "약 27분 연설에 민주당은 30차례 박수, 국민의힘은 손팻말 침묵시위와 야유로 맞서 연설이 잠시 멈춤. 국회는 4일 예결위 질의로 심사를 시작하며 162조 원 미래대응기금이 최대 쟁점",
+   "content": null,
+   "places": [
+    {
+     "name": "국회",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "이재명",
+     "id": null
+    },
+    {
+     "name": "조정식",
+     "id": null
+    },
+    {
+     "name": "더불어민주당",
+     "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
+    },
+    {
+     "name": "국민의힘",
+     "id": "73223290-920b-403e-be26-e5107d0b30b4"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102080400001",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "6ae6a41b-c591-4212-8eac-01878fca47a2",
+   "title": "자체 캐릭터 관리 조례 입법예고",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "a360cbf2-412c-464f-8cea-a84768f32db8",
+     "category": "장소",
+     "name": "진천군"
+    }
+   ],
+   "summary": "군이 만든 캐릭터의 사용·관리 기준을 정하는 조례 제정안을 입법예고하고 12월 9일까지 의견을 받음",
+   "why": "무분별한 사용을 막고 군정 홍보와 상업적 활용 기반을 갖추려는 것",
+   "how": "군의회 심의를 거쳐 제정할 예정",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701094",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "31600bfa-09e8-4bec-9c2d-ae52b2d97652",
+   "title": "재개발·재건축 기준 완화, 주거정비지수 폐지",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "2fe09321-a0ad-46d6-91de-13af845996e5",
+     "category": "장소",
+     "name": "울산광역시"
+    }
+   ],
+   "summary": "주민 동의율·노후도 등으로 70점 이상을 받아야 했던 주거정비지수를 없애고 용적률 기준도 고치기로 함",
+   "why": null,
+   "how": "12월 주민 의견 수렴과 시의회 의견 청취를 거쳐 내년 1월 기본계획을 확정할 예정",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8700996",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "d572d3da-8652-4f9f-9371-492657b7e3f5",
+   "title": "저소득 어르신 임플란트 지원 치과 8곳으로",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "13246251-c192-4e42-b30a-a47105a3ed66",
+     "category": "장소",
+     "name": "태백시"
+    }
+   ],
+   "summary": "황지치과의원·민치과의원을 더해 8개 의료기관에서 65세 이상 저소득층 어르신 임플란트 지원을 운영함",
+   "why": null,
+   "how": "태백에 1년 넘게 산 대상자가 국가 지원 임플란트 2개 뒤 추가 시술이 필요하다는 소견을 받은 경우만 지원",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701102",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "3ded385f-f333-411c-9caf-d38d0af4a20d",
+   "title": "전 세계 흥행 4억 달러, 시리즈 최고",
+   "type": "흥행 기록",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "8a673776-b156-449c-b844-c726fc469d66",
+     "category": "작품",
+     "name": "Resident Evil"
+    }
+   ],
+   "summary": "잭 크레거 감독의 리부트가 전 세계 4억 달러를 채워 '파이널 챕터'(3억1200만 달러)를 넘고 시리즈 최고 흥행작이 됨",
+   "why": null,
+   "how": "북미 1억5740만 달러, 해외 2억4260만 달러. 해외는 중국 7140만·영국 1940만·멕시코 1270만 달러 순. 소니가 7500만 달러로 제작. 9월 개봉 주말 북미 6천만 달러로 시리즈 최고 출발",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Zach Cregger",
+     "id": "8639fde5-6c43-477a-a3f3-d6e6d36922c0"
+    },
+    {
+     "name": "Austin Abrams",
+     "id": "52863376-9a69-4ef0-91d7-606126dd78d5"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://variety.com/2026/film/box-office/resident-evil-box-office-milestone-highest-grossing-zach-cregger-reboot-1236936847/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c13a6e58-efc4-46d4-9bd1-33e518609dd0",
+   "title": "전방부대 20대 하사 숨진 채 발견",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "ea38a4fe-cf24-4e1f-8fff-cf2d9e9cd4c7",
+     "category": "장소",
+     "name": "철원군"
+    }
+   ],
+   "summary": "오전 7시 14분쯤 육군 부대 건물 안에서 머리를 크게 다친 하사를 부대원이 발견해 신고했으나 숨짐",
+   "why": null,
+   "how": "군 당국이 경찰과 함께 경위를 조사 중",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "대한민국 육군",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102086500062",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "de640278-6347-47e3-8a31-2e1a83f8af28",
+   "title": "제2공항 갈등조정협의회 13명 구성 마쳐",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "7250e6ab-33cc-4cbc-9dbe-7a3d960305d3",
+     "category": "장소",
+     "name": "제주특별자치도"
+    }
+   ],
+   "summary": "조정위원 7명과 찬반 이해관계인 4명 등으로 협의회를 꾸렸고 찬성 쪽 위원은 제주관광협회 추천으로 뽑힘",
+   "why": "그동안 찬성 단체가 참여를 거부해 반쪽 협의회라는 지적이 나왔음",
+   "how": "찬성 단체인 범도민 추진위원회는 추천 방식에 거세게 반발함. 반대 쪽은 진희종 전 사회협약위원장, 주민 대표는 김형주 전 난산리 이장",
+   "content": null,
+   "places": [
+    {
+     "name": "난산리",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "제주관광협회",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701625",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "197562c1-4c1c-4847-b85f-195280d8838a",
+   "title": "제97주년 학생독립운동 기념식",
+   "type": "행사",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "5531e306-6726-4316-95e5-fd7b32e53a14",
+     "category": "장소",
+     "name": "북구"
+    }
+   ],
+   "summary": "1929년 11월 광주 학생들의 항일운동을 기리는 기념식이 광주교육대학교에서 열림",
+   "why": "광주에서 시작해 전국 300여 학교로 번진 3대 항일운동 중 하나",
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "광주교육대학교",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701008",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c89f8747-9b77-4520-b368-58581f3c1a70",
+   "title": "조원태 회장, 한진칼 지분 370억 원어치 추가 매입",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "3d5b3f85-a939-4e08-80b8-dfae6a5840e7",
+     "category": "단체",
+     "name": "한진그룹"
+    }
+   ],
+   "summary": "한진칼 보통주 32만 5천 주를 블록딜로 사들이기로 해 거래가 끝나면 본인 지분이 5.75%에서 6.23%로 늘어남",
+   "why": "호반그룹이 한진칼 주식을 더 사들여 최대주주가 될 수 있다며 공정위에 기업결합을 신고함",
+   "how": "매수 기간은 12월 3일~내년 1월 1일, 특수관계인 포함 지분은 21.06%. 한진 측은 오래 준비한 일로 호반 움직임과 무관하다고 설명함",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "조원태",
+     "id": null
+    },
+    {
+     "name": "한진칼",
+     "id": null
+    },
+    {
+     "name": "호반그룹",
+     "id": null
+    },
+    {
+     "name": "공정거래위원회",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102091751003",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "223b3166-16f3-40db-b0ad-d150c2f6ef22",
+   "title": "주식 결제주기 T+1, 2028년으로 미뤄짐",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "주식을 판 돈이 다음 날 들어오도록 하는 결제주기 단축 목표 시점이 처음 거론되던 내년 10월쯤에서 2028년으로 늦춰짐",
+   "why": "외국인 투자자가 시차 속에 하루 안에 거래 확인·환전을 마쳐야 하고 600곳 넘는 금융기관이 전산을 바꿔야 함",
+   "how": "한국거래소와 예탁결제원이 내년 10월까지 결제 시스템을 고친 뒤 업계 준비가 끝나면 최소 6개월 시험 가동함",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "한국거래소",
+     "id": "6580fc70-ffcf-4a90-900a-fe09ccf32080"
+    },
+    {
+     "name": "한국예탁결제원",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701877",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "2aae8816-b77e-425d-80ca-f2adde0029c1",
+   "title": "주제가는 요네즈 겐시 신곡 「こんにちはごきげんよう！」",
+   "type": "OST",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "445c08dc-5c51-413e-aefd-cca63e1f3fc4",
+     "category": "작품",
+     "name": "The Tiger and Her Wings: The Movie"
+    }
+   ],
+   "summary": "드라마 주제가에 이어 요네즈 겐시가 새로 쓴 곡으로 정해졌고 이 곡이 흐르는 새 예고편과 포스터가 공개됨",
+   "why": null,
+   "how": "요네즈는 드라마 주제가 「さよーならまたいつか！」와 짝이 되는 곡이자 자기 장례식에서도 틀 수 있는 곡을 목표로 했다고 밝힘. 주연 이토 사이리는 인트로를 듣고 놀랐다고 함. 2027년 1월 15일 개봉",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Kenshi Yonezu",
+     "id": "2672f258-e2ee-4e32-9d7f-2c38695ba798"
+    },
+    {
+     "name": "Sairi Ito",
+     "id": "db899336-e62f-4aca-ab90-40104e3f66a3"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/65530ffa7964027d6a8fa07e7d223cd6a1ede3c4",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "181f53f9-69f6-446d-85b6-9ff43bc65ec2",
+   "title": "중간선거 D-1, 사전투표 5300만 명 넘어",
+   "type": "선거",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "사전투표가 중간선거 사상 최다인 5300만 명을 넘었고 NYT·시에나대 최종 조사에서 상원 경합 7곳 중 6곳이 민주당 우세",
+   "why": "트럼프 대통령 국정 긍정평가가 경합주에서 38%에 그치고 생활비 불만이 커짐",
+   "how": "텍사스·캔자스 같은 공화당 텃밭에서도 민주당 후보가 앞섰고 아이오와는 동률. 한 예측기관은 민주당의 하원 탈환 가능성을 83%, 상원을 62%로 봄. 선거일은 3일",
+   "content": null,
+   "places": [
+    {
+     "name": "Texas",
+     "id": null
+    },
+    {
+     "name": "Kansas",
+     "id": "40f77733-0159-46ba-acfc-8867c0a59100"
+    },
+    {
+     "name": "Iowa",
+     "id": null
+    },
+    {
+     "name": "Michigan",
+     "id": "fa4d8d75-4474-4c24-bf62-9d36ef545576"
+    },
+    {
+     "name": "Alaska",
+     "id": "7d5ebd59-1188-4c85-b0a7-d3f48c3ff7e8"
+    },
+    {
+     "name": "Maine",
+     "id": "679a0fb9-f42d-44c9-94d4-549b84f7c0da"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Donald Trump",
+     "id": null
+    },
+    {
+     "name": "The New York Times",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102122200009",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "2fa359c9-5607-42dd-b957-0ac58bb11744",
+   "title": "중증장애인 거주시설 재난 대응 협약",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "f937d7fe-510a-46ae-afd9-795025f10abf",
+     "category": "장소",
+     "name": "남원시"
+    }
+   ],
+   "summary": "남원소방서·의용소방대·장애인 거주시설 2곳과 협약을 맺고 소방시설 점검과 대피 훈련, 봉사 활동을 함께 하기로 함",
+   "why": "중증장애인 거주시설의 화재 등 재난 예방",
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "남원소방서",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701805",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "63e07ce9-7325-406d-8a20-3faa0a8a431e",
+   "title": "지예은 축가 논란에 「약속한 적 없다」",
+   "type": "논란",
+   "date": "2026-10-30",
+   "parent": [
+    {
+     "id": "75efad10-eeb5-4728-8468-151e6b848677",
+     "category": "인물",
+     "name": "로이킴"
+    }
+   ],
+   "summary": "SNS 라이브에서 지예은 결혼식 축가를 약속한 사람은 자신이 아니라 김종국이었다며 억울함을 털어놓음",
+   "why": "10월 22일 김종국 유튜브 '짐종국'에서 지예은이 전화로 로이킴이 축가를 해 주겠다고 했다고 말한 장면이 퍼지며 약속을 뒤집었다는 반응이 나옴",
+   "how": "로이킴은 가볍게 던지는 평가에 흔들릴 때가 있다며 누군가를 비판할 땐 조심해 달라고 당부함",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "김종국",
+     "id": "3bee9129-850a-47a1-9ae7-4acd11a97c7e"
+    },
+    {
+     "name": "지예은",
+     "id": "ff34855d-e964-4b1f-ab22-d5956a75a4e6"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134947360/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "e02fb647-e24d-4005-8fb3-f4585d6b6213",
+   "title": "첫 미니앨범 'Lovesick'으로 솔로 데뷔",
+   "type": "미니앨범",
+   "date": "2026-11-09",
+   "parent": [
+    {
+     "id": "df12ea88-820f-4aca-bad9-425a0874a6d4",
+     "category": "인물",
+     "name": "채령"
+    }
+   ],
+   "summary": "ITZY에서 예지·유나에 이어 세 번째로 솔로에 나서 11월 9일 첫 미니앨범 'Lovesick'을 냄",
+   "why": null,
+   "how": "11월 2일 타이틀곡 뮤직비디오 티저 공개. 'Moonlit Club'·'Scent'와 직접 작사한 'Favorite Reason'까지 4곡. 오후 6시 발매, 5시 카운트다운 라이브",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "있지",
+     "id": "9ce3e091-8357-4900-92e2-2f2ab03933c5"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261102/134947753/1",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c6a5c935-17c4-41a4-b7ff-3f6d665c83b0",
+   "title": "첫 일본 솔로 공연 'Lost&Found'",
+   "type": "콘서트",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "642b9259-ec36-47f7-8357-5b2b53aecdab",
+     "category": "인물",
+     "name": "효정"
+    }
+   ],
+   "summary": "도쿄 티아트 스카이 홀에서 첫 솔로 라이브를 열고 솔로 미니 1집 수록곡과 오마이걸 곡을 밴드 라이브로 부름",
+   "why": null,
+   "how": "유우리의 '베텔기우스'를 커버하고 '돌핀'·'한 발짝 두 발짝'·'비밀 정원'을 일본어로 부름. 진행도 일본어로 함",
+   "content": null,
+   "places": [
+    {
+     "name": "Tokyo",
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "오마이걸",
+     "id": "2fe79b83-d94a-46d2-b7bd-beeafad0d492"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/music/2026/11/02/MVTDONDGGJQWKMJQMYZDIMLFGA/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "d2345207-5bac-4bfa-9823-3d0e461028b4",
+   "title": "첫 주말 누적 7만 명, 흥행 3위",
+   "type": "흥행 기록",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "1c6be857-1ff3-43a6-9e99-329da0022dc8",
+     "category": "작품",
+     "name": "수능, 출제의 비밀"
+    }
+   ],
+   "summary": "개봉 첫 주말(10월 30일~11월 1일) 4만 4800명을 더해 누적 7만 1768명, 전체 3위·같은 시기 한국 영화 1위",
+   "why": null,
+   "how": "영화관입장권 통합전산망 기준. 수능 출제 본부에 얼떨결에 들어간 지방 국어 교사 이야기로 이용재 작가의 첫 연출작. 7일 2주 차 무대인사",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "이선빈",
+     "id": "3a2b62ff-2ca4-4be6-941c-52ddb232ebb0"
+    },
+    {
+     "name": "유재명",
+     "id": "9203f4c9-2621-4b87-9876-03104eb1c372"
+    },
+    {
+     "name": "김영민",
+     "id": "46e21e3c-54b3-4f43-893e-22f2e86ab5a9"
+    },
+    {
+     "name": "전석호",
+     "id": "2d41728a-67c6-417d-a775-4cc54f9a6139"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/movie/2026/11/02/MY3DOMBQGA3DKZRSMFTGIYJYMQ/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "19148bfe-2687-4464-a8db-58a32594ccea",
+   "title": "최종회 시청률 2.4%",
+   "type": "회차",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "a27c7c05-83d5-4e6d-9935-f1f364bfd4be",
+     "category": "작품",
+     "name": "너 말고 다른 연애"
+    }
+   ],
+   "summary": "최종회가 전국 2.4%(닐슨코리아)로 집계되며 14부작을 마침, 첫 회 2.6%로 시작해 방영 내내 1~2%대",
+   "why": null,
+   "how": "남궁호(서강준)와 이미도(안은진)가 처음 만난 강릉 바다로 마지막 여행을 떠난 뒤 웃으며 헤어지고, 각자 박수아(조아람)·한태승(이주안)과 새 사랑을 시작하는 결말",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "서강준",
+     "id": "8c7fc7cb-fa31-454e-802d-5995d28fbe3d"
+    },
+    {
+     "name": "안은진",
+     "id": "ddb80271-83bf-419b-a66e-b58f3fdbf412"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261102_0003850458",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "e476ff63-18ea-4d44-9cd9-9dc1680a889d",
+   "title": "출금 재개 반나절 만에 36억 달러 순유출",
+   "type": "뉴스",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "9a82e26e-8395-401f-9671-54dfec368412",
+     "category": "단체",
+     "name": "Binance"
+    }
+   ],
+   "summary": "해킹 뒤 막았던 출금을 한국시간 1일 오후 단계적으로 풀자 2일 새벽까지 약 36억 4천만 달러가 빠져나감",
+   "why": "10월 29일 북한 연계 조직에 63억 달러어치를 탈취당한 뒤 출금을 멈췄었음",
+   "how": "출금 46억 달러·입금 10억 달러로 총운용자산의 2.1% 규모. 탈취된 비트코인 1만 8천여 개는 테슬라 보유량보다 많음. 리처드 텅 공동 CEO는 손실을 회사가 떠안겠다고 함",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Richard Teng",
+     "id": null
+    },
+    {
+     "name": "Tesla",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102016900009",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "9e73fafc-035d-4bc5-9eb6-d7c6140bd186",
+   "title": "출시 72시간 만에 400만 장 판매",
+   "type": "흥행 기록",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "d7e05b85-1eca-45c1-baaa-b9017c182646",
+     "category": "게임",
+     "name": "Phantom Blade Zero"
+    }
+   ],
+   "summary": "중국 S-Game의 무협 액션 게임이 출시 사흘 만에 400만 장을 팔았고 스팀 동시 접속이 83만 명을 넘김",
+   "why": null,
+   "how": "첫날 스팀 판매 수익 1위. 출시 전 판매 100만 장 가운데 약 3분의 2가 중국·대만·홍콩. 출시 사흘 1천만 장을 판 '검은 신화: 오공'에는 못 미침. 견자단이 크리에이티브 컨설턴트로 참여",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "S-Game",
+     "id": "d0638481-0762-4129-9a1d-748d17082fbd"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.ign.com/articles/phantom-blade-zero-sells-4-million-copies-in-72-hours",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "d9ba34d0-f883-4e7e-88a4-0340a5c64614",
+   "title": "캐릭터 「부기」 2년 연속 대한민국 캐릭터 어워즈 대상",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d",
+     "category": "장소",
+     "name": "부산광역시"
+    }
+   ],
+   "summary": "부산시 소통 캐릭터 부기가 대한민국 캐릭터 어워즈 지자체 부문 대상을 2년 연속 받음",
+   "why": "지역 현안과 공공 메시지를 친근하게 알리고 지역 기업과 협업해 온 점을 평가받음",
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701273",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "fafbac76-f46b-4636-aafc-d0dc6b1aa800",
+   "title": "크레이토스 역 데이브 바티스타, 근육 20파운드 늘려",
+   "type": "뉴스",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "6886a3f4-1eb3-4538-99ba-35b0d73d7a05",
+     "category": "작품",
+     "name": "God of War"
+    }
+   ],
+   "summary": "프라임 비디오 실사 시리즈에서 크레이토스를 맡은 데이브 바티스타가 20파운드를 늘려 250파운드가 됐다고 알림",
+   "why": "8월 원래 배역 라이언 허스트가 촬영 중 이두근을 다쳐 수술이 필요해지자 교체됨",
+   "how": "허스트가 나온 장면은 바티스타로 모두 다시 찍음. 2월 밴쿠버에서 촬영을 시작했고 프라임 비디오가 두 시즌을 주문해 연달아 찍음. 게임 최근 두 편처럼 아들 아트레우스와 북유럽 신들과 싸우는 이야기",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Dave Bautista",
+     "id": "442d3c2c-c6f5-4fd3-ab30-0f7eb90047de"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://variety.com/2026/tv/news/dave-bautista-muscle-gain-kratos-god-of-war-1236937038/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "937003a4-a5b7-40ab-962c-dc7f00fccb83",
+   "title": "태권도, 북한 단독 유네스코 등재 유력",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "북한이 낸 「조선민주주의인민공화국의 전통무술-태권도」가 인류무형문화유산 등재 권고를 받을 것으로 보여 남북 공동 등재는 어려워짐",
+   "why": "북한은 2024년 3월 신청서를 냈고 한국은 공동 등재를 검토하다 올해 따로 신청함",
+   "how": "허민 국가유산청장은 남북 관계 여건상 공동 등재가 사실상 어렵다며 먼저 등재돼도 배타적 권리는 없다고 함. 한국 「한지 문화」도 올해 등재 권고가 예상됨",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "허민",
+     "id": null
+    },
+    {
+     "name": "국가유산청",
+     "id": null
+    },
+    {
+     "name": "UNESCO",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102092900005",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "dbc3911a-92e0-46fb-bb5b-22957c01187c",
+   "title": "테일러 스위프트 엔딩곡, 할리우드 뮤직 인 미디어 어워즈 후보",
+   "type": "수상",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "abdd7577-21ca-4a2f-b2ba-c2e7e98a686f",
+     "category": "작품",
+     "name": "Toy Story 5"
+    }
+   ],
+   "summary": "엔딩에 흐르는 테일러 스위프트의 'I Knew It, I Knew You'가 애니메이션 영화 부문 후보에 오름",
+   "why": null,
+   "how": "곡은 스위프트와 잭 앤터노프가 썼고 주인공 제시에게 맞춘 곡. 수상작은 11월 18일 할리우드 아발론에서 발표. 영화·TV·게임 음악을 시상하며 지난해 수상작 「Golden」과 「Sinners」 음악은 오스카도 받음",
+   "content": null,
+   "places": [
+    {
+     "name": "Avalon Hollywood",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Taylor Swift",
+     "id": "b910b5a3-99dd-4233-9b0f-3945c9555342"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://variety.com/2026/artisans/news/taylor-swift-la-bola-negra-nominees-hollywood-music-in-media-awards-1236936278/",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "42a4e5c8-f8fc-4505-8183-5e3ca0cc1324",
+   "title": "플로리다 주택가 도로에 제트기 추락, 9명 전원 사망",
+   "type": "뉴스",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "텍사스 오스틴에서 바하마로 가던 리어젯 60 전세기가 팜비치 카운티 주택가 옆 도로에 떨어져 탑승자 모두 숨짐",
+   "why": "추락 직전 1분 동안 약 8천 m를 급강하했고 몇 분 전 강한 뇌우 구간을 지남. 원인은 아직 확인되지 않음",
+   "how": "추락 직후 불길에 휩싸였고 연방항공청과 국가교통안전위원회가 조사함. 올해 미국 항공 사고 중 두 번째로 사망자가 많음",
+   "content": null,
+   "places": [
+    {
+     "name": "Palm Beach County",
+     "id": "78d6a6ce-f876-44d4-a0e4-444fb6cc7280"
+    },
+    {
+     "name": "West Palm Beach",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Federal Aviation Administration",
+     "id": null
+    },
+    {
+     "name": "National Transportation Safety Board",
+     "id": null
+    },
+    {
+     "name": "Sean Duffy",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261102013100009",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "575fb33f-c266-43ac-aba8-997bf8ed0fd7",
+   "title": "해군 1함대 군항 공개",
+   "type": "행사",
+   "date": "2026-11-07",
+   "parent": [
+    {
+     "id": "0f554398-0c28-4106-bdbf-0147eae57621",
+     "category": "장소",
+     "name": "동해시"
+    }
+   ],
+   "summary": "해군 창설 81주년 주간을 맞아 오후 1~4시 1함대 군항을 열고 양만춘함·포항함 견학과 군악대 공연을 마련함",
+   "why": null,
+   "how": "같은 날 송정동 삼지창 페스타에서 해군 사진전과 군 차량 전시도 함",
+   "content": null,
+   "places": [
+    {
+     "name": "송정동",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "대한민국 해군",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701782",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "0a4cdb28-9368-4672-9b14-8b89e2bd0943",
+   "title": "행안부, 인제 지방우대지수 재산정 검토",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "2eb38f5e-abe2-4bd9-ab9b-726276c4db46",
+     "category": "장소",
+     "name": "인제군"
+    }
+   ],
+   "summary": "80만 대도시와 같은 권역으로 묶인 데 반발이 이어지자 윤호중 행정안전부 장관이 지방우대지수를 다시 산정하겠다는 뜻을 밝힘",
+   "why": "서울과의 거리가 세종과 비슷하다는 이유로 같은 2권역이 돼 인구감소지역 지원에서 빠짐",
+   "how": "주민 상경집회와 군수·군의장 삭발이 있었음. 최상기 군수는 내년 3월쯤 재선정이 될 것으로 내다봄",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "행정안전부",
+     "id": null
+    },
+    {
+     "name": "윤호중",
+     "id": null
+    },
+    {
+     "name": "최상기",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701896",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "cf48f90c-6c9f-49f8-b01b-c5363eeb6e3e",
+   "title": "후평산단 복합문화공간 「공간 후」 개관",
+   "type": "뉴스",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589",
+     "category": "장소",
+     "name": "춘천시"
+    }
+   ],
+   "summary": "112억 원을 들여 지상 3층 연면적 1천800㎡ 규모로 후평일반산업단지에 복합문화센터를 염",
+   "why": null,
+   "how": "책 2천500권을 갖춘 북카페형 쉼터, 산단 역사전시관, 다목적홀이 들어섬",
+   "content": null,
+   "places": [
+    {
+     "name": "후평일반산업단지",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701998",
+   "source": "뉴스",
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  }
+ ],
+ "new_planets": [
+  {
+   "id": "e921afac-3e5f-4c1b-af48-a9700b8ba922",
+   "name": "A. J. Cook",
+   "category": "인물",
+   "alias": "A.J. Cook, AJ 쿡, A・J・クック",
+   "disambig": "캐나다의 배우",
+   "country_tags": [
+    "Canada"
+   ],
+   "fields": {
+    "birth_date": "1978-07-22",
+    "nationality": "캐나다",
+    "occupation": "배우",
+    "summary": "'Criminal Minds'에서 2005년부터 제니퍼 저로(JJ)를 연기한 캐나다 배우.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q18222",
+     "https://variety.com/2026/tv/news/criminal-minds-evolution-cancellation-reactions-1236936927/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q18222",
+   "links": [
+    {
+     "id": "3aecfbad-7739-4619-ad6f-636bbf409a57",
+     "category": "작품",
+     "name": "Criminal Minds: Evolution",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "hub_canada_entertainer_55158d",
+     "category": "허브",
+     "name": "Canada Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "f451143d-62d7-45ff-b1b8-1920079f1901",
+   "name": "Ae! group",
+   "category": "단체",
+   "alias": "Aぇ! group, 에에그룹",
+   "disambig": "일본의 아이돌 그룹",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "group_type": "아이돌 그룹",
+    "summary": "STARTO ENTERTAINMENT 소속 간사이 출신 그룹. 2026년 'KAMIGATA EXPO PARK FES 2026'에 출연.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q113098370",
+     "https://news.yahoo.co.jp/articles/e2f54d72dcdbd6d2d49b3aeabd24d67ae532217d"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q113098370",
+   "links": [
+    {
+     "id": "ea9ba2ee-8781-4076-9d7d-736040917f47",
+     "category": "허브",
+     "name": "Japan Singer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "063d5ae3-4eb3-40fe-a248-de993f718a66",
+   "name": "Anne Suzuki",
+   "category": "인물",
+   "alias": "鈴木杏, 스즈키 안",
+   "disambig": "일본의 배우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1987-04-27",
+    "nationality": "일본",
+    "occupation": "배우",
+    "summary": "일본 배우. 영화 '存在のすべてを'에서 피해 아동의 친모 역.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q1342880",
+     "https://news.yahoo.co.jp/articles/bfabca50c6c6b1a7d91c88a03022e9eaa21d1dda"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q1342880",
+   "links": [
+    {
+     "id": "a4092377-bea4-4bb3-9f71-c04d974005c2",
+     "category": "작품",
+     "name": "Sonzai no Subete o",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "52863376-9a69-4ef0-91d7-606126dd78d5",
+   "name": "Austin Abrams",
+   "category": "인물",
+   "alias": "오스틴 에이브럼스, オースティン・エイブラムス",
+   "disambig": "미국의 배우",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "birth_date": "1996-09-02",
+    "nationality": "미국",
+    "occupation": "배우",
+    "summary": "미국 배우. 2026년 영화 'Resident Evil'에서 라쿤 시티의 의료품 배달원 역.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q16156312",
+     "https://variety.com/2026/film/box-office/resident-evil-box-office-milestone-highest-grossing-zach-cregger-reboot-1236936847/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16156312",
+   "links": [
+    {
+     "id": "8a673776-b156-449c-b844-c726fc469d66",
+     "category": "작품",
+     "name": "Resident Evil",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "3aecfbad-7739-4619-ad6f-636bbf409a57",
+   "name": "Criminal Minds: Evolution",
+   "category": "작품",
+   "alias": "크리미널 마인드: 에볼루션, Criminal Minds",
+   "disambig": "파라마운트+ 범죄 수사 드라마 시리즈",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "medium": "드라마",
+    "genre": "범죄 수사",
+    "platform": "Paramount+",
+    "cast": "A. J. Cook, Paget Brewster, Kirsten Vangsness, Joe Mantegna, Aisha Tyler, Adam Rodriguez",
+    "summary": "2005년 CBS 'Criminal Minds'를 2022년 시즌 16부터 이어 간 시리즈. 2027년 방송할 시즌 20으로 끝남.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q113882038",
+     "https://variety.com/2026/tv/news/criminal-minds-evolution-cancellation-reactions-1236936927/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q113882038",
+   "links": [
+    {
+     "id": "db7a65aa-620f-4dcf-96e9-6b371b0e09d3",
+     "category": "허브",
+     "name": "United States Drama",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "daa66eec-4403-4d84-849c-051e29ff07e2",
+   "name": "Damian Lewis",
+   "category": "인물",
+   "alias": "데이미언 루이스, ダミアン・ルイス",
+   "disambig": "영국의 배우",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "birth_date": "1971-02-11",
+    "nationality": "영국",
+    "occupation": "배우",
+    "summary": "'Homeland' 등에 출연한 영국 배우. 조엘 코엔 감독 영화 'Jack of Spades'에 출연.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q342533",
+     "https://variety.com/2026/film/awards/netflix-joel-coen-jack-of-spades-josh-oconnor-2027-1236936906/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q342533",
+   "links": [
+    {
+     "id": "hub_united_kingdom_entertainer_1a9528",
+     "category": "허브",
+     "name": "United Kingdom Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "8f51beb0-8e19-441f-be89-9748607f34c0",
+     "category": "작품",
+     "name": "Jack of Spades",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "442d3c2c-c6f5-4fd3-ab30-0f7eb90047de",
+   "name": "Dave Bautista",
+   "category": "인물",
+   "alias": "데이브 바티스타, デビッド・バウティスタ",
+   "disambig": "미국의 배우, 전 프로레슬러",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "birth_date": "1969-01-18",
+    "nationality": "미국",
+    "occupation": "배우, 전 프로레슬러",
+    "summary": "'Guardians of the Galaxy'의 드랙스 역으로 알려진 미국 배우. 프라임 비디오 'God of War'의 크레이토스 역.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q44158",
+     "https://variety.com/2026/tv/news/dave-bautista-muscle-gain-kratos-god-of-war-1236937038/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q44158",
+   "links": [
+    {
+     "id": "6886a3f4-1eb3-4538-99ba-35b0d73d7a05",
+     "category": "작품",
+     "name": "God of War",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ae53f364-74e5-4fab-a08c-934ef945cb36",
+   "name": "Fumino Kimura",
+   "category": "인물",
+   "alias": "木村文乃, 기무라 후미노",
+   "disambig": "일본의 배우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1987-10-19",
+    "nationality": "일본",
+    "occupation": "배우",
+    "summary": "일본 배우. 영화 '存在のすべてを'에서 사실화가의 약혼자 역.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q13099808",
+     "https://news.yahoo.co.jp/articles/bfabca50c6c6b1a7d91c88a03022e9eaa21d1dda"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q13099808",
+   "links": [
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "a4092377-bea4-4bb3-9f71-c04d974005c2",
+     "category": "작품",
+     "name": "Sonzai no Subete o",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c1b3680d-9879-454e-ae8d-e141bbbe3050",
+   "name": "Genki Iwahashi",
+   "category": "인물",
+   "alias": "岩橋玄樹, 이와하시 겐키",
+   "disambig": "일본의 배우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1996-12-17",
+    "nationality": "일본",
+    "occupation": "배우",
+    "summary": "일본 배우. 2027년 영화 '声よ広がれ'에서 난독증을 가진 친구 역.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q16264377",
+     "https://news.yahoo.co.jp/articles/340c1e3976744a7540273a93558ad7adcb70bcee"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16264377",
+   "links": [
+    {
+     "id": "c9a7378d-d149-4caf-82d9-688d6ba20691",
+     "category": "작품",
+     "name": "Koe yo Hirogare",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "6886a3f4-1eb3-4538-99ba-35b0d73d7a05",
+   "name": "God of War",
+   "category": "작품",
+   "alias": "갓 오브 워, God of War TV series",
+   "disambig": "프라임 비디오 실사 드라마 시리즈",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "medium": "드라마",
+    "genre": "판타지 액션",
+    "platform": "Prime Video",
+    "cast": "Dave Bautista, Callum Vinson",
+    "summary": "게임 갓 오브 워 최근 두 편을 바탕으로 한 실사 시리즈. 프라임 비디오가 두 시즌을 주문했고 크레이토스 역은 데이브 바티스타.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q137261143",
+     "https://variety.com/2026/tv/news/dave-bautista-muscle-gain-kratos-god-of-war-1236937038/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q137261143",
+   "links": [
+    {
+     "id": "db7a65aa-620f-4dcf-96e9-6b371b0e09d3",
+     "category": "허브",
+     "name": "United States Drama",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "fc92cef3-022f-4ef8-b503-378db309301f",
+   "name": "Harry Styles",
+   "category": "인물",
+   "alias": "해리 스타일스, ハリー・スタイルズ",
+   "disambig": "영국의 가수",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "birth_date": "1994-02-01",
+    "nationality": "영국",
+    "occupation": "가수, 작곡가, 배우",
+    "summary": "원 디렉션 출신 영국 가수. 2026년 뉴욕 매디슨 스퀘어 가든에서 30회 레지던시를 마치고 'Together, Together' 투어 중.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q3626966",
+     "https://variety.com/2026/music/news/harry-styles-closes-madison-square-garden-harryween-1236936778/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q3626966",
+   "links": [
+    {
+     "id": "hub_united_kingdom_singer_037bfc",
+     "category": "허브",
+     "name": "United Kingdom Singer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c3e5da96-b68c-4a3b-b89a-2d52d931d580",
+   "name": "Hidetoshi Nishijima",
+   "category": "인물",
+   "alias": "西島秀俊, 니시지마 히데토시",
+   "disambig": "일본의 배우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1971-03-29",
+    "nationality": "일본",
+    "occupation": "배우",
+    "summary": "일본 배우. 영화 '存在のすべてを'에서 30년 전 사건을 쫓는 신문기자 역(주연).",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q1154206",
+     "https://news.yahoo.co.jp/articles/bfabca50c6c6b1a7d91c88a03022e9eaa21d1dda"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q1154206",
+   "links": [
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "a4092377-bea4-4bb3-9f71-c04d974005c2",
+     "category": "작품",
+     "name": "Sonzai no Subete o",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "410045d4-f240-45ac-9795-a618ed1fbc7e",
+   "name": "Issey Takahashi",
+   "category": "인물",
+   "alias": "高橋一生, 다카하시 잇세이",
+   "disambig": "일본의 배우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1980-12-09",
+    "nationality": "일본",
+    "occupation": "배우",
+    "summary": "일본 배우. 영화 '存在のすべてを'에서 행방불명된 사실화가 역.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q10856410",
+     "https://news.yahoo.co.jp/articles/bfabca50c6c6b1a7d91c88a03022e9eaa21d1dda"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q10856410",
+   "links": [
+    {
+     "id": "a4092377-bea4-4bb3-9f71-c04d974005c2",
+     "category": "작품",
+     "name": "Sonzai no Subete o",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "8f51beb0-8e19-441f-be89-9748607f34c0",
+   "name": "Jack of Spades",
+   "category": "작품",
+   "alias": "잭 오브 스페이드",
+   "disambig": "조엘 코엔 감독의 2027년 영화",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "medium": "영화",
+    "genre": "고딕 미스터리",
+    "director": "Joel Coen",
+    "cast": "Patsy Ferran, Josh O'Connor, Damian Lewis, Lesley Manville",
+    "summary": "1880년대 스코틀랜드 하일랜드가 배경인 조엘 코엔 감독 영화. 넷플릭스가 세계 판권을 사 2027년 가을 극장 개봉 예정.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q136379356",
+     "https://variety.com/2026/film/awards/netflix-joel-coen-jack-of-spades-josh-oconnor-2027-1236936906/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q136379356",
+   "links": [
+    {
+     "id": "3528df46-589d-4a05-9910-c4f66ec53ae8",
+     "category": "허브",
+     "name": "United States Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "02bb2d2d-c07d-4d42-94ca-a371885180ac",
+   "name": "Jesse Eisenberg",
+   "category": "인물",
+   "alias": "제시 아이젠버그, ジェシー・アイゼンバーグ",
+   "disambig": "미국의 배우, 영화감독",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "birth_date": "1983-10-05",
+    "nationality": "미국",
+    "occupation": "배우, 영화감독",
+    "summary": "미국 배우·감독. 연출작 'The Debut'가 2026년 마라케시 국제영화제 개막작.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q219512",
+     "https://variety.com/2026/film/festivals/the-debut-marrakech-film-festival-lineup-1236937291/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q219512",
+   "links": [
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "681f6829-afea-4a8c-b397-6d1e76a25b73",
+   "name": "Joel Coen",
+   "category": "인물",
+   "alias": "조엘 코엔, ジョエル・コーエン",
+   "disambig": "미국의 영화감독",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "birth_date": "1954-11-29",
+    "nationality": "미국",
+    "occupation": "영화감독, 각본가, 제작자",
+    "summary": "미국 영화감독. 코엔 형제의 형으로 2027년 영화 'Jack of Spades'를 연출.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q13595311",
+     "https://variety.com/2026/film/awards/netflix-joel-coen-jack-of-spades-josh-oconnor-2027-1236936906/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q13595311",
+   "links": [
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ccbf5205-9f69-4a4c-85f8-8fc8d230b39f",
+   "name": "Josh O'Connor",
+   "category": "인물",
+   "alias": "조시 오코너, ジョシュ・オコナー",
+   "disambig": "영국의 배우",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "birth_date": "1990-05-20",
+    "nationality": "영국",
+    "occupation": "배우",
+    "summary": "영국 배우. 'The Crown' 등에 출연했고 조엘 코엔 감독 영화 'Jack of Spades'에 출연.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q27898655",
+     "https://variety.com/2026/film/awards/netflix-joel-coen-jack-of-spades-josh-oconnor-2027-1236936906/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q27898655",
+   "links": [
+    {
+     "id": "8f51beb0-8e19-441f-be89-9748607f34c0",
+     "category": "작품",
+     "name": "Jack of Spades",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "hub_united_kingdom_entertainer_1a9528",
+     "category": "허브",
+     "name": "United Kingdom Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "fae67a68-08df-4db4-881b-88dfc2008e45",
+   "name": "Julianne Moore",
+   "category": "인물",
+   "alias": "줄리앤 무어, ジュリアン・ムーア",
+   "disambig": "미국의 배우",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "birth_date": "1960-12-03",
+    "nationality": "미국·영국",
+    "occupation": "배우, 작가",
+    "summary": "미국 배우. 제시 아이젠버그 감독 영화 'The Debut'의 주연.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q80405",
+     "https://variety.com/2026/film/festivals/the-debut-marrakech-film-festival-lineup-1236937291/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q80405",
+   "links": [
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "cea3d833-daaa-42ab-9413-6007747b5a4d",
+     "category": "작품",
+     "name": "The Debut",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "cc3a60f0-f108-4969-a903-21b2f1e43bc6",
+   "name": "KQ엔터테인먼트",
+   "category": "단체",
+   "alias": "KQ Entertainment, KQ 엔터테인먼트, KQ ENT",
+   "disambig": "대한민국의 연예 기획사",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "연예 기획·음반",
+    "formation_date": "2016",
+    "website": "http://kqent.com/",
+    "summary": "에이티즈·싸이커스가 소속된 대한민국의 연예 기획사",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q31179359",
+     "https://sports.donga.com/ent/article/all/20261102/134949602/1",
+     "https://sports.donga.com/ent/article/all/20261102/134947889/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q31179359",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "3cf922b9-2c37-4b37-b9f1-5d098dbed822",
+   "name": "Kirsten Vangsness",
+   "category": "인물",
+   "alias": "커스틴 방스네스, カーステン・ヴァングスネス",
+   "disambig": "미국의 배우",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "birth_date": "1972-07-07",
+    "nationality": "미국",
+    "occupation": "배우, 각본가",
+    "summary": "'Criminal Minds'에서 시즌 1부터 페넬로피 가르시아를 연기한 미국 배우.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q275920",
+     "https://variety.com/2026/tv/news/criminal-minds-evolution-cancellation-reactions-1236936927/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q275920",
+   "links": [
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "3aecfbad-7739-4619-ad6f-636bbf409a57",
+     "category": "작품",
+     "name": "Criminal Minds: Evolution",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c9a7378d-d149-4caf-82d9-688d6ba20691",
+   "name": "Koe yo Hirogare",
+   "category": "작품",
+   "alias": "声よ広がれ",
+   "disambig": "2027년 일본 영화",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "medium": "영화",
+    "release_date": "2027-02-12",
+    "director": "相馬雄太",
+    "cast": "相馬理, 最上もが, 岩橋玄樹",
+    "summary": "말더듬을 겪는 청년을 그린 일본 영화. 2027년 2월 12일 개봉.",
+    "sources": [
+     "https://news.yahoo.co.jp/articles/340c1e3976744a7540273a93558ad7adcb70bcee"
+    ]
+   },
+   "source_url": "https://news.yahoo.co.jp/articles/340c1e3976744a7540273a93558ad7adcb70bcee",
+   "links": [
+    {
+     "id": "71a67f1c-4870-42b1-aad5-1166b81824d2",
+     "category": "허브",
+     "name": "Japan Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "3619d830-f234-4269-9ddf-a1cfbd0376f0",
+   "name": "Koichi Sato",
+   "category": "인물",
+   "alias": "佐藤浩市, Kōichi Satō, 사토 고이치",
+   "disambig": "일본의 배우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1960-12-10",
+    "nationality": "일본",
+    "occupation": "배우",
+    "summary": "일본 배우. 영화 '存在のすべてを'에서 화랑 주인 역.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q748582",
+     "https://news.yahoo.co.jp/articles/bfabca50c6c6b1a7d91c88a03022e9eaa21d1dda"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q748582",
+   "links": [
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "a4092377-bea4-4bb3-9f71-c04d974005c2",
+     "category": "작품",
+     "name": "Sonzai no Subete o",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "fb7591da-5522-4563-a9a9-b77089fc5944",
+   "name": "Lesley Manville",
+   "category": "인물",
+   "alias": "레슬리 맨빌, レスリー・マンヴィル",
+   "disambig": "영국의 배우",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "birth_date": "1956-03-12",
+    "nationality": "영국",
+    "occupation": "배우",
+    "summary": "'Phantom Thread'로 오스카 후보에 오른 영국 배우. 조엘 코엔 감독 영화 'Jack of Spades'에 출연.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q444410",
+     "https://variety.com/2026/film/awards/netflix-joel-coen-jack-of-spades-josh-oconnor-2027-1236936906/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q444410",
+   "links": [
+    {
+     "id": "8f51beb0-8e19-441f-be89-9748607f34c0",
+     "category": "작품",
+     "name": "Jack of Spades",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "hub_united_kingdom_entertainer_1a9528",
+     "category": "허브",
+     "name": "United Kingdom Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "35b0fefe-982a-4195-bd2b-cea15acff302",
+   "name": "Moga Mogami",
+   "category": "인물",
+   "alias": "最上もが, 모가미 모가",
+   "disambig": "일본의 가수, 배우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1989-02-25",
+    "nationality": "일본",
+    "occupation": "가수, 배우",
+    "summary": "일본 가수. 2027년 영화 '声よ広がれ'에서 주인공의 연인 역.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q17218918",
+     "https://news.yahoo.co.jp/articles/340c1e3976744a7540273a93558ad7adcb70bcee"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q17218918",
+   "links": [
+    {
+     "id": "c9a7378d-d149-4caf-82d9-688d6ba20691",
+     "category": "작품",
+     "name": "Koe yo Hirogare",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "ea9ba2ee-8781-4076-9d7d-736040917f47",
+     "category": "허브",
+     "name": "Japan Singer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "168d3584-ca90-42aa-aab1-b445e15a91aa",
+   "name": "My Chemical Romance",
+   "category": "단체",
+   "alias": "마이 케미컬 로맨스, マイ・ケミカル・ロマンス, MCR",
+   "disambig": "미국의 록 밴드",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "group_type": "록 밴드",
+    "summary": "미국 록 밴드. 2006년 앨범 'The Black Parade'가 20주년 재발매로 2026년 11월 밴드 첫 빌보드 200 1위에 오름.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q483285",
+     "https://variety.com/2026/music/news/my-chemical-romance-scores-first-no-1-with-the-black-parade-1236936933/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q483285",
+   "links": [
+    {
+     "id": "7e2a1dff-7772-40ec-bb25-59e589a90584",
+     "category": "허브",
+     "name": "United States Singer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "d06b95a9-79bb-4ccd-a4e6-dc53daa70cc2",
+   "name": "Paget Brewster",
+   "category": "인물",
+   "alias": "패짓 브루스터, パジェット・ブリュースター",
+   "disambig": "미국의 배우",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "birth_date": "1969-03-10",
+    "nationality": "미국",
+    "occupation": "배우",
+    "summary": "'Criminal Minds'에서 시즌 2부터 에밀리 프렌티스를 연기한 미국 배우.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q236946",
+     "https://variety.com/2026/tv/news/criminal-minds-evolution-cancellation-reactions-1236936927/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q236946",
+   "links": [
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "3aecfbad-7739-4619-ad6f-636bbf409a57",
+     "category": "작품",
+     "name": "Criminal Minds: Evolution",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "076efdbd-75ac-48ac-98e5-72d445713224",
+   "name": "Patsy Ferran",
+   "category": "인물",
+   "alias": "패치 퍼랜, パッシー・フェラン",
+   "disambig": "스페인 출신 영국 배우",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "birth_date": "1989-11-25",
+    "nationality": "스페인·영국",
+    "occupation": "배우",
+    "summary": "올리비에상을 받은 배우. 조엘 코엔 감독 영화 'Jack of Spades'의 주연.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q60218128",
+     "https://variety.com/2026/film/awards/netflix-joel-coen-jack-of-spades-josh-oconnor-2027-1236936906/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q60218128",
+   "links": [
+    {
+     "id": "8f51beb0-8e19-441f-be89-9748607f34c0",
+     "category": "작품",
+     "name": "Jack of Spades",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "hub_united_kingdom_entertainer_1a9528",
+     "category": "허브",
+     "name": "United Kingdom Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "d7e05b85-1eca-45c1-baaa-b9017c182646",
+   "name": "Phantom Blade Zero",
+   "category": "게임",
+   "alias": "팬텀 블레이드 제로, 影之刃零",
+   "disambig": "2026년 중국 S-Game의 액션 게임",
+   "country_tags": [
+    "China"
+   ],
+   "fields": {
+    "genre": "무협 액션",
+    "developer": "S-Game",
+    "summary": "중국 S-Game이 만든 무협 액션 게임. 2026년 출시 72시간 만에 400만 장 판매.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q118645482",
+     "https://www.ign.com/articles/phantom-blade-zero-sells-4-million-copies-in-72-hours"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q118645482",
+   "links": [
+    {
+     "id": "a39a188e-1909-4f35-ad19-8b9ffe1a826c",
+     "category": "허브",
+     "name": "China Game",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "8a673776-b156-449c-b844-c726fc469d66",
+   "name": "Resident Evil",
+   "category": "작품",
+   "alias": "레지던트 이블, バイオハザード, Resident Evil 2026",
+   "disambig": "2026년 잭 크레거 감독 영화",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "medium": "영화",
+    "genre": "호러",
+    "director": "Zach Cregger",
+    "cast": "Austin Abrams",
+    "summary": "캡콤 게임을 다시 만든 소니 영화. 2026년 9월 개봉해 전 세계 4억 달러로 시리즈 최고 흥행.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q136565785",
+     "https://variety.com/2026/film/box-office/resident-evil-box-office-milestone-highest-grossing-zach-cregger-reboot-1236936847/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q136565785",
+   "links": [
+    {
+     "id": "3528df46-589d-4a05-9910-c4f66ec53ae8",
+     "category": "허브",
+     "name": "United States Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "45af813f-d5db-48d1-b77d-2c34636037f4",
+   "name": "Russell Brand",
+   "category": "인물",
+   "alias": "러셀 브랜드, ラッセル・ブランド",
+   "disambig": "영국의 코미디언, 배우",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "birth_date": "1975-06-04",
+    "nationality": "영국",
+    "occupation": "코미디언, 배우, 팟캐스터",
+    "summary": "영국 코미디언. 1999~2009년 일로 성범죄 혐의 재판을 받고 있으며 모두 무죄를 주장.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q296609",
+     "https://variety.com/2026/tv/global/russell-brand-defense-closing-arguments-trial-1236937304/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q296609",
+   "links": [
+    {
+     "id": "hub_united_kingdom_entertainer_1a9528",
+     "category": "허브",
+     "name": "United Kingdom Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "d0638481-0762-4129-9a1d-748d17082fbd",
+   "name": "S-Game",
+   "category": "단체",
+   "alias": "에스게임",
+   "disambig": "중국의 게임 개발사",
+   "country_tags": [
+    "China"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "summary": "중국 게임 개발사. 2026년 'Phantom Blade Zero'를 냄.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q126456578",
+     "https://www.ign.com/articles/phantom-blade-zero-sells-4-million-copies-in-72-hours"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q126456578",
+   "links": [
+    {
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300",
+     "category": "국가",
+     "name": "China",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "db899336-e62f-4aca-ab90-40104e3f66a3",
+   "name": "Sairi Ito",
+   "category": "인물",
+   "alias": "伊藤沙莉, Sairi Itō, 이토 사이리",
+   "disambig": "일본의 배우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1994-05-04",
+    "nationality": "일본",
+    "occupation": "배우",
+    "summary": "일본 배우. NHK 아침 드라마 '虎に翼'와 2027년 극장판에서 주인공 도모코 역.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q8973362",
+     "https://news.yahoo.co.jp/articles/65530ffa7964027d6a8fa07e7d223cd6a1ede3c4"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q8973362",
+   "links": [
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "445c08dc-5c51-413e-aefd-cca63e1f3fc4",
+     "category": "작품",
+     "name": "The Tiger and Her Wings: The Movie",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "e45611bb-109d-4f16-b8a5-df7dbbc06ba1",
+   "name": "Satoru Soma",
+   "category": "인물",
+   "alias": "相馬理, 소마 사토루",
+   "disambig": "일본의 배우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1996-10-23",
+    "nationality": "일본",
+    "occupation": "배우",
+    "summary": "일본 배우. 2027년 영화 '声よ広がれ'에서 말더듬을 겪는 주인공 역.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q96715057",
+     "https://news.yahoo.co.jp/articles/340c1e3976744a7540273a93558ad7adcb70bcee"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q96715057",
+   "links": [
+    {
+     "id": "c9a7378d-d149-4caf-82d9-688d6ba20691",
+     "category": "작품",
+     "name": "Koe yo Hirogare",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "a4092377-bea4-4bb3-9f71-c04d974005c2",
+   "name": "Sonzai no Subete o",
+   "category": "작품",
+   "alias": "存在のすべてを",
+   "disambig": "제제 다카히사 감독의 일본 영화",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "medium": "영화",
+    "genre": "미스터리",
+    "director": "瀬々敬久",
+    "cast": "西島秀俊, 佐藤浩市, 高橋一生, 木村文乃, 鈴木杏",
+    "summary": "시오타 다케시 소설이 원작인 미스터리 영화. 시효가 지난 두 아이 동시 유괴 사건 30년 뒤를 신문기자가 쫓음.",
+    "sources": [
+     "https://news.yahoo.co.jp/articles/bfabca50c6c6b1a7d91c88a03022e9eaa21d1dda"
+    ]
+   },
+   "source_url": "https://news.yahoo.co.jp/articles/bfabca50c6c6b1a7d91c88a03022e9eaa21d1dda",
+   "links": [
+    {
+     "id": "71a67f1c-4870-42b1-aad5-1166b81824d2",
+     "category": "허브",
+     "name": "Japan Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "59a73877-c578-4cb1-a82e-fe60a0496023",
+   "name": "Super Eight",
+   "category": "단체",
+   "alias": "SUPER EIGHT, 関ジャニ∞, Kanjani Eight, 간자니∞",
+   "disambig": "일본의 아이돌 그룹",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "group_type": "아이돌 그룹",
+    "summary": "STARTO ENTERTAINMENT 소속 간사이 출신 그룹. 2026년 'KAMIGATA EXPO PARK FES 2026'에 출연.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q1061446",
+     "https://news.yahoo.co.jp/articles/e2f54d72dcdbd6d2d49b3aeabd24d67ae532217d"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q1061446",
+   "links": [
+    {
+     "id": "ea9ba2ee-8781-4076-9d7d-736040917f47",
+     "category": "허브",
+     "name": "Japan Singer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "9d050e2f-f088-4e8d-8386-a3030865f85f",
+   "name": "Takahisa Zeze",
+   "category": "인물",
+   "alias": "瀬々敬久, 제제 다카히사",
+   "disambig": "일본의 영화감독",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1960-05-24",
+    "nationality": "일본",
+    "occupation": "영화감독",
+    "summary": "일본 영화감독. 영화 '存在のすべてを'를 연출.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q1055439",
+     "https://news.yahoo.co.jp/articles/bfabca50c6c6b1a7d91c88a03022e9eaa21d1dda"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q1055439",
+   "links": [
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "cea3d833-daaa-42ab-9413-6007747b5a4d",
+   "name": "The Debut",
+   "category": "작품",
+   "alias": "더 데뷔",
+   "disambig": "제시 아이젠버그 감독 영화",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "medium": "영화",
+    "director": "Jesse Eisenberg",
+    "cast": "Julianne Moore",
+    "summary": "지역 극단 뮤지컬에 캐스팅된 내성적인 주부가 메소드 배우로 변해 가는 이야기. 2026년 마라케시 국제영화제 개막작.",
+    "sources": [
+     "https://variety.com/2026/film/festivals/the-debut-marrakech-film-festival-lineup-1236937291/"
+    ]
+   },
+   "source_url": "https://variety.com/2026/film/festivals/the-debut-marrakech-film-festival-lineup-1236937291/",
+   "links": [
+    {
+     "id": "3528df46-589d-4a05-9910-c4f66ec53ae8",
+     "category": "허브",
+     "name": "United States Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "445c08dc-5c51-413e-aefd-cca63e1f3fc4",
+   "name": "The Tiger and Her Wings: The Movie",
+   "category": "작품",
+   "alias": "劇場版「虎に翼」, 극장판 호랑이에게 날개, Tora ni Tsubasa",
+   "disambig": "2027년 일본 영화(아침 드라마 '호랑이에게 날개' 극장판)",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "medium": "영화",
+    "release_date": "2027-01-15",
+    "director": "梛川善郎",
+    "cast": "伊藤沙莉",
+    "summary": "2024년 NHK 아침 드라마 '虎に翼'의 극장판. 주제가는 요네즈 겐시 「こんにちはごきげんよう！」.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q141596853",
+     "https://news.yahoo.co.jp/articles/65530ffa7964027d6a8fa07e7d223cd6a1ede3c4"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q141596853",
+   "links": [
+    {
+     "id": "71a67f1c-4870-42b1-aad5-1166b81824d2",
+     "category": "허브",
+     "name": "Japan Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "abdd7577-21ca-4a2f-b2ba-c2e7e98a686f",
+   "name": "Toy Story 5",
+   "category": "작품",
+   "alias": "토이 스토리 5, トイ・ストーリー5",
+   "disambig": "2026년 앤드루 스탠턴 감독 애니메이션 영화",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "medium": "영화",
+    "genre": "애니메이션",
+    "director": "Andrew Stanton",
+    "summary": "토이 스토리 시리즈 5편. 테일러 스위프트가 엔딩곡 'I Knew It, I Knew You'를 부름.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q113641997",
+     "https://variety.com/2026/artisans/news/taylor-swift-la-bola-negra-nominees-hollywood-music-in-media-awards-1236936278/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q113641997",
+   "links": [
+    {
+     "id": "4bcb6730-93ef-4eec-96a9-26d51861de26",
+     "category": "허브",
+     "name": "United States Animation",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "8639fde5-6c43-477a-a3f3-d6e6d36922c0",
+   "name": "Zach Cregger",
+   "category": "인물",
+   "alias": "잭 크레거, ザック・クレッガー",
+   "disambig": "미국의 영화감독, 배우",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "birth_date": "1981-03-01",
+    "nationality": "미국",
+    "occupation": "영화감독, 배우",
+    "summary": "'Barbarian', 'Weapons'를 만든 미국 감독. 2026년 'Resident Evil'이 전 세계 4억 달러를 벌어 그의 최고 흥행작이 됨.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q3574497",
+     "https://variety.com/2026/film/box-office/resident-evil-box-office-milestone-highest-grossing-zach-cregger-reboot-1236936847/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q3574497",
+   "links": [
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "8b6d7101-a750-4bde-a08e-487790976574",
+   "name": "강형철",
+   "category": "인물",
+   "alias": "Kang Hyeong-cheol, Kang Hyung-chul",
+   "disambig": "대한민국의 영화감독",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1974",
+    "gender": "남성",
+    "occupation": "영화감독, 각본가",
+    "notable_works": "「과속스캔들」, 「써니」, 「스윙키즈」, 「하이파이브」",
+    "summary": "「과속스캔들」·「써니」의 감독. 2026년 첫 로맨스 영화 「너와 함께라면」을 찍기 시작함.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q6362184",
+     "https://sports.donga.com/ent/article/all/20261102/134947647/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q6362184",
+   "links": [
+    {
+     "id": "7638582a-2f86-465d-9250-ea8d9548d896",
+     "category": "허브",
+     "name": "한국 작가",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "e48ad054-d382-42d2-bbe5-81361f446b64",
+   "name": "고려아연",
+   "category": "단체",
+   "alias": "Korea Zinc, Korea Zinc Co.",
+   "disambig": "대한민국의 비철금속 제련 기업",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "비철금속 제련",
+    "website": "http://www.koreazinc.co.kr/",
+    "summary": "아연·납 등을 제련하는 대한민국 기업으로 울산 울주군 온산읍에 온산제련소를 둠",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q16183878",
+     "https://www.yna.co.kr/view/AKR20261102102851057"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16183878",
+   "links": [
+    {
+     "id": "fcdd9286-75c2-487a-9274-58bab3fcc6d5",
+     "category": "장소",
+     "name": "강남구",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "a164b516-9e60-449c-982f-987f75719aa0",
+   "name": "국방드론본부",
+   "category": "단체",
+   "alias": "",
+   "disambig": "대한민국 국방부 직할 드론 부대",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "군 부대",
+    "industry": "국방",
+    "summary": "2026년 11월 2일 경기 포천에서 창설된 국방부 직할부대로 전군의 드론·대드론 전투발전과 전력·기술 혁신을 맡음",
+    "sources": [
+     "https://www.yna.co.kr/view/AKR20261101040400504"
+    ]
+   },
+   "source_url": "https://www.yna.co.kr/view/AKR20261101040400504",
+   "links": [
+    {
+     "id": "94e9d434-c6e6-407f-b38c-e6202ad96813",
+     "category": "장소",
+     "name": "포천시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "25b4b535-b461-49ec-a97a-86a911508b6c",
+   "name": "금융위원회",
+   "category": "단체",
+   "alias": "Financial Services Commission, FSC, 금융위, 대한민국 금융위원회",
+   "disambig": "대한민국의 금융 정책 기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "정부기관",
+    "industry": "금융 정책",
+    "website": "http://www.fsc.go.kr/",
+    "summary": "대한민국의 금융 정책과 금융 감독을 맡는 중앙행정기관",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q624674",
+     "https://www.yna.co.kr/view/AKR20261102134600002"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q624674",
+   "links": [
+    {
+     "id": "95ee6ece-db01-495d-b63c-37c504ff65d4",
+     "category": "장소",
+     "name": "종로구",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "356525e0-5e5a-4aed-845f-35941e7a292f",
+   "name": "금호타이어",
+   "category": "단체",
+   "alias": "Kumho Tire",
+   "disambig": "대한민국의 타이어 제조 기업",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "타이어",
+    "website": "http://www.kumhotire.com/",
+    "summary": "광주에 공장을 둔 대한민국의 타이어 제조 기업",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q493108",
+     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701412"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q493108",
+   "links": [
+    {
+     "id": "322e9157-ccf3-4912-9376-8bf9eb1ed624",
+     "category": "장소",
+     "name": "광산구",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "f9f38db6-6c1e-4edb-b5a7-4b46f21b40be",
+   "name": "김강우",
+   "category": "인물",
+   "alias": "Kim Kang-woo, キム・ガンウ",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1978-07-11",
+    "gender": "남성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. 2026년 KBS 대하드라마 「문무」에서 김춘추 역을 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q491323",
+     "https://sports.donga.com/ent/article/all/20261102/134947997/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q491323",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "9cd3ca27-1c1f-4e4d-a804-e6baba30e7a7",
+     "category": "작품",
+     "name": "문무",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "f80878b0-1b07-40ee-aa93-59ad2133f13e",
+   "name": "김다현",
+   "category": "인물",
+   "alias": "Kim Da-hyun",
+   "disambig": "대한민국의 트로트 가수(2009년생)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "2009-02-23",
+    "gender": "여성",
+    "occupation": "가수",
+    "summary": "트로트 가수이자 국악인.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q105704946",
+     "https://www.newsis.com/view/NISX20261102_0003850409"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q105704946",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ddc038e8-bf88-4176-9c6b-5e9c92e83e47",
+   "name": "김용빈",
+   "category": "인물",
+   "alias": "Kim Yong-bin, キム・ヨンビン",
+   "disambig": "대한민국의 트로트 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1992-09-18",
+    "birthplace": "대구광역시",
+    "gender": "남성",
+    "occupation": "가수",
+    "summary": "트로트 가수. TV조선 「미스터트롯3」 TOP7.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q105705142",
+     "https://sports.donga.com/ent/article/all/20261102/134951063/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q105705142",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    },
+    {
+     "id": "3100941a-3432-447e-98b3-471021749ce7",
+     "category": "작품",
+     "name": "미스터트롯3",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "6524f600-86c5-4f58-83c5-e93ea3d3160c",
+   "name": "김우빈",
+   "category": "인물",
+   "alias": "Kim Woo-bin, キム・ウビン, 김현중",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "real_name": "김현중",
+    "birth_date": "1989-07-16",
+    "birthplace": "서울특별시",
+    "gender": "남성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. tvN 「기프트」에서 고교 야구부 감독 정민용을 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q5356443",
+     "https://sports.donga.com/ent/article/all/20261102/134949842/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q5356443",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "704da44a-c36c-427c-adaa-6ccec6767311",
+     "category": "작품",
+     "name": "기프트",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "dbc2b10a-2832-4806-bcd8-6235b08f9c51",
+   "name": "김윤석",
+   "category": "인물",
+   "alias": "Kim Yun-seok, キム・ユンソク",
+   "disambig": "대한민국의 배우, 영화감독",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1968-01-21",
+    "birthplace": "부산광역시",
+    "gender": "남성",
+    "occupation": "배우, 영화감독",
+    "summary": "대한민국의 배우. 2026년 영화 「폭설」에서 역장 갑수를 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q4132779",
+     "https://sports.donga.com/ent/article/all/20261102/134947862/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q4132779",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "9b46c211-b740-46b0-b4f8-26b5957c58bb",
+     "category": "작품",
+     "name": "폭설",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "3bee9129-850a-47a1-9ae7-4acd11a97c7e",
+   "name": "김종국",
+   "category": "인물",
+   "alias": "Kim Jong-kook, キム・ジョングク",
+   "disambig": "대한민국의 가수(터보)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1976-04-25",
+    "birthplace": "경상남도 합천군",
+    "gender": "남성",
+    "occupation": "가수",
+    "group": "터보",
+    "summary": "터보 출신 가수. 유튜브 채널 '짐종국'을 운영함.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q483527",
+     "https://sports.donga.com/ent/article/all/20261102/134947360/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q483527",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "5f6d4c88-231e-423c-90b9-90da965698fd",
+   "name": "김혜윤",
+   "category": "인물",
+   "alias": "Kim Hye-yoon, キム・ヘユン",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1996-11-10",
+    "birthplace": "경기도 성남시",
+    "gender": "여성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. SBS 「굿파트너2」에서 경력직 변호사 강혜성을 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q60679665",
+     "https://sports.donga.com/ent/article/all/20261102/134948047/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q60679665",
+   "links": [
+    {
+     "id": "a9787ef0-8de3-4036-82ae-da6b16458b60",
+     "category": "작품",
+     "name": "굿파트너 2",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "e20ac158-248b-484f-905e-c9a3e34371af",
+   "name": "내 새끼의 연애",
+   "category": "작품",
+   "alias": "내 새끼의 연애3",
+   "disambig": "tvN STORY·E채널 연애 예능",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "예능",
+    "platform": "tvN STORY, E채널, 티빙",
+    "synopsis": "유명인의 자녀들이 합숙하며 연애하는 예능. 시즌3는 2026년 11월 11일 시작.",
+    "sources": [
+     "https://sports.donga.com/ent/article/all/20261102/134949343/1"
+    ]
+   },
+   "source_url": "https://sports.donga.com/ent/article/all/20261102/134949343/1",
+   "links": [
+    {
+     "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
+     "category": "허브",
+     "name": "한국 예능",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c783fa77-d7be-48eb-886a-b4b01c808025",
+   "name": "너와 함께라면",
+   "category": "작품",
+   "alias": "",
+   "disambig": "강형철 감독의 로맨틱 코미디 영화",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "영화",
+    "genre": "로맨틱 코미디, 판타지",
+    "director": "강형철",
+    "cast": "손석구, 박보영",
+    "synopsis": "하루 한 번 키스하지 않으면 다음 날을 맞지 못하는 부부가 크루즈 여행 중 헤어진 뒤 다시 만나려 애쓰는 타임루프 이야기. 2026년 10월 31일 촬영 시작.",
+    "sources": [
+     "https://sports.donga.com/ent/article/all/20261102/134947647/1"
+    ]
+   },
+   "source_url": "https://sports.donga.com/ent/article/all/20261102/134947647/1",
+   "links": [
+    {
+     "id": "18fea518-c6b2-4cb1-8f6d-06c0f5b1156e",
+     "category": "허브",
+     "name": "한국 영화",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ae830dce-8f99-4593-ab17-f02372455969",
+   "name": "루시",
+   "category": "단체",
+   "alias": "LUCY",
+   "disambig": "대한민국의 4인조 밴드",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "group_type": "밴드",
+    "name_en": "LUCY",
+    "members": "신예찬, 최상엽, 조원상, 신광일",
+    "formation_date": "2020",
+    "website": "http://www.mysticstory.net/artist/lucy",
+    "summary": "신예찬·최상엽·조원상·신광일로 이뤄진 4인조 밴드. 2026년 9번째 단독 콘서트 'ISLAND'로 서울·홍콩·싱가포르 앙코르 공연을 함.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q99202670",
+     "https://sports.donga.com/ent/article/all/20261102/134947827/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q99202670",
+   "links": [
+    {
+     "id": "e2f1b232-c336-4870-aaa8-d1155bf704ab",
+     "category": "단체",
+     "name": "미스틱스토리",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "3100941a-3432-447e-98b3-471021749ce7",
+   "name": "미스터트롯3",
+   "category": "작품",
+   "alias": "미스터트롯 3, Mr. Trot 3",
+   "disambig": "TV조선 트로트 경연 예능",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "예능",
+    "platform": "TV조선",
+    "synopsis": "남성 트로트 가수 경연 예능의 세 번째 시즌. TOP7은 김용빈·손빈아·천록담·춘길·최재명·남승민·추혁진.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q130597390",
+     "https://sports.donga.com/ent/article/all/20261102/134951063/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q130597390",
+   "links": [
+    {
+     "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
+     "category": "허브",
+     "name": "한국 예능",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c3bb8d94-d866-4da7-8031-caab8a9e524b",
+   "name": "민재",
+   "category": "인물",
+   "alias": "Minjae, 싸이커스 민재",
+   "disambig": "대한민국의 가수(싸이커스 리더)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "gender": "남성",
+    "occupation": "가수",
+    "group": "싸이커스(리더)",
+    "summary": "싸이커스 리더. 미니 8집 타이틀곡 '다이너마이트'의 작사·작곡·편곡을 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://sports.donga.com/ent/article/all/20261102/134947889/1"
+    ]
+   },
+   "source_url": "https://sports.donga.com/ent/article/all/20261102/134947889/1",
+   "links": [
+    {
+     "id": "40b4d6ab-f27b-4a0d-81d0-2b702308d60a",
+     "category": "단체",
+     "name": "싸이커스",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "1a0401dc-ab73-4bd8-afec-518fc51f86dc",
+   "name": "박보영",
+   "category": "인물",
+   "alias": "Park Bo-young, パク・ボヨン",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1990-02-12",
+    "birthplace": "충청북도 증평군",
+    "gender": "여성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. 강형철 감독 영화 「너와 함께라면」에서 아내 오성을 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q490918",
+     "https://sports.donga.com/ent/article/all/20261102/134947647/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q490918",
+   "links": [
+    {
+     "id": "c783fa77-d7be-48eb-886a-b4b01c808025",
+     "category": "작품",
+     "name": "너와 함께라면",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "a69bf4d9-22e3-4130-bfee-dd562963ab67",
+   "name": "박해진",
+   "category": "인물",
+   "alias": "Park Hae-jin, パク・ヘジン",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1983-05-01",
+    "birthplace": "부산광역시",
+    "gender": "남성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. SBS 「굿파트너2」에서 이혼 전문 변호사 박태수를 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q486429",
+     "https://sports.donga.com/ent/article/all/20261102/134948047/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q486429",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "a9787ef0-8de3-4036-82ae-da6b16458b60",
+     "category": "작품",
+     "name": "굿파트너 2",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "960784fe-1a1d-4a78-95e2-8fca2689b4b7",
+   "name": "빅뱅",
+   "category": "단체",
+   "alias": "BIGBANG, Big Bang, ビッグバン",
+   "disambig": "대한민국의 보이 그룹",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "name_en": "BIGBANG",
+    "formation_date": "2006",
+    "summary": "2006년 YG엔터테인먼트에서 데뷔한 보이 그룹. 2026~2027년 20주년 월드투어 'XX : COSMOS'를 19개 도시 39회 규모로 엶.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q282104",
+     "https://www.newsis.com/view/NISX20261102_0003851054"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q282104",
+   "links": [
+    {
+     "id": "58fa67e0-0896-4df4-a813-0caf371902e0",
+     "category": "단체",
+     "name": "YG엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "c522a7d0-423f-4efa-823c-9dd0d62d0045",
+   "name": "손빈아",
+   "category": "인물",
+   "alias": "Son Bin-a",
+   "disambig": "대한민국의 트로트 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1992-12-29",
+    "gender": "남성",
+    "occupation": "가수",
+    "summary": "트로트 가수. TV조선 「미스터트롯3」 준우승, 2026년 10월 첫 미니앨범 「나 그대를」을 냄.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q110115383",
+     "https://www.chosun.com/entertainments/enter_general/2026/11/02/MNRDCZJXG42DGNDDMM3DENDDME/",
+     "https://sports.donga.com/ent/article/all/20261102/134951063/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q110115383",
+   "links": [
+    {
+     "id": "3100941a-3432-447e-98b3-471021749ce7",
+     "category": "작품",
+     "name": "미스터트롯3",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "1c6be857-1ff3-43a6-9e99-329da0022dc8",
+   "name": "수능, 출제의 비밀",
+   "category": "작품",
+   "alias": "Ugly Duckling Ms. Maeng",
+   "disambig": "2026년 이용재 감독의 코미디 영화",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "영화",
+    "genre": "코미디",
+    "director": "이용재",
+    "production": "조이래빗",
+    "cast": "이선빈, 유재명, 김영민, 전석호",
+    "synopsis": "40일간 봉인되는 수능 출제 본부에 얼떨결에 합류한 지방 소도시 국어 교사의 좌충우돌.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q123354223",
+     "https://www.chosun.com/entertainments/movie/2026/11/02/MY3DOMBQGA3DKZRSMFTGIYJYMQ/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q123354223",
+   "links": [
+    {
+     "id": "18fea518-c6b2-4cb1-8f6d-06c0f5b1156e",
+     "category": "허브",
+     "name": "한국 영화",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "964988bf-caba-4498-8504-d3faf49c1ba7",
+   "name": "심수봉",
+   "category": "인물",
+   "alias": "Sim Soo-bong, シム・スボン, 심민경",
+   "disambig": "대한민국의 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "real_name": "심민경",
+    "birth_date": "1955-07-11",
+    "birthplace": "충청남도 서산시",
+    "gender": "여성",
+    "occupation": "가수",
+    "summary": "대한민국의 가수. 2026년 '더 심수봉 쇼' 콘서트를 이어 가고 있음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q625523",
+     "https://www.newsis.com/view/NISX20261102_0003850409"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q625523",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "40b4d6ab-f27b-4a0d-81d0-2b702308d60a",
+   "name": "싸이커스",
+   "category": "단체",
+   "alias": "xikers, XIKERS, サイカース",
+   "disambig": "대한민국의 보이 그룹(KQ엔터테인먼트)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "name_en": "xikers",
+    "summary": "KQ엔터테인먼트의 보이 그룹. 2026년 11월 리더 민재가 프로듀싱한 '다이너마이트'를 타이틀로 미니 8집을 냄.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q117191573",
+     "https://sports.donga.com/ent/article/all/20261102/134947889/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q117191573",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    },
+    {
+     "id": "cc3a60f0-f108-4969-a903-21b2f1e43bc6",
+     "category": "단체",
+     "name": "KQ엔터테인먼트",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "31f5f1c6-d9e5-4abe-8fd6-e8c7f71d7e8a",
+   "name": "에미레이트 항공",
+   "category": "단체",
+   "alias": "Emirates, Emirates Airline, 에미레이트항공",
+   "disambig": "아랍에미리트의 국적 항공사",
+   "country_tags": [
+    "United Arab Emirates"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "항공",
+    "website": "https://www.emirates.com/",
+    "summary": "두바이를 거점으로 세계 150여 개 도시를 잇는 아랍에미리트 항공사. 2026년 11월 부산지점을 엶",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q180432",
+     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701742"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q180432",
+   "links": [
+    {
+     "id": "677f1ed3-c897-427b-99c9-676ccd1065de",
+     "category": "장소",
+     "name": "Dubai",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "3a2b62ff-2ca4-4be6-941c-52ddb232ebb0",
+   "name": "이선빈",
+   "category": "인물",
+   "alias": "Lee Sun-bin, イ・ソンビン, 이진경",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "real_name": "이진경",
+    "birth_date": "1994-01-07",
+    "birthplace": "충청남도 천안시",
+    "gender": "여성",
+    "occupation": "배우, 가수",
+    "summary": "대한민국의 배우. 2026년 영화 「수능, 출제의 비밀」 주연.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q22974707",
+     "https://www.chosun.com/entertainments/movie/2026/11/02/MY3DOMBQGA3DKZRSMFTGIYJYMQ/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q22974707",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "1c6be857-1ff3-43a6-9e99-329da0022dc8",
+     "category": "작품",
+     "name": "수능, 출제의 비밀",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ff9b4a69-154a-4ed3-96bc-b0775518dec5",
+   "name": "이세영",
+   "category": "인물",
+   "alias": "Lee Se-young, イ・セヨン",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1992-12-20",
+    "birthplace": "경기도 부천시",
+    "gender": "여성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. 2026년 디즈니+ 「재혼 황후」에서 도망 노예 라스타를 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q623735",
+     "https://sports.donga.com/ent/article/all/20261102/134947683/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q623735",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "b0fb338b-d83a-42af-b3f6-8b5c8935d181",
+     "category": "작품",
+     "name": "재혼 황후",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "0de747f5-64c0-4b87-8123-b8d5322cce84",
+   "name": "이종석",
+   "category": "인물",
+   "alias": "Lee Jong-suk, イ・ジョンソク",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1989-09-14",
+    "birthplace": "경기도 수원시",
+    "gender": "남성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. 2026년 디즈니+ 「재혼 황후」에서 서왕국 왕자 하인리를 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q486582",
+     "https://sports.donga.com/ent/article/all/20261102/134947683/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q486582",
+   "links": [
+    {
+     "id": "b0fb338b-d83a-42af-b3f6-8b5c8935d181",
+     "category": "작품",
+     "name": "재혼 황후",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ae650ff5-b801-4777-bf00-347d33aa6e1d",
+   "name": "이현욱",
+   "category": "인물",
+   "alias": "Lee Hyun-wook, イ・ヒョヌク",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1985-06-17",
+    "gender": "남성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. 2026년 KBS 대하드라마 「문무」에서 김법민 역을 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q16745996",
+     "https://sports.donga.com/ent/article/all/20261102/134947997/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16745996",
+   "links": [
+    {
+     "id": "9cd3ca27-1c1f-4e4d-a804-e6baba30e7a7",
+     "category": "작품",
+     "name": "문무",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "b031c34e-00bf-4511-bafa-24b3d9c89870",
+   "name": "장나라",
+   "category": "인물",
+   "alias": "Jang Na-ra, チャン・ナラ",
+   "disambig": "대한민국의 배우, 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1981-03-18",
+    "birthplace": "서울특별시",
+    "gender": "여성",
+    "occupation": "배우, 가수",
+    "summary": "가수로 데뷔한 배우. 「굿파트너」 시리즈에서 이혼 전문 변호사 차은경을 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q494190",
+     "https://sports.donga.com/ent/article/all/20261102/134948047/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q494190",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "a9787ef0-8de3-4036-82ae-da6b16458b60",
+     "category": "작품",
+     "name": "굿파트너 2",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "80d723b0-8fc5-4959-831c-650b5a89f648",
+   "name": "장혁",
+   "category": "인물",
+   "alias": "Jang Hyuk, チャン・ヒョク, 정용준",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1976-12-20",
+    "gender": "남성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. 2026년 KBS 대하드라마 「문무」에서 연개소문 역을 맡음.",
+    "birthplace": "부산광역시",
+    "real_name": "정용준",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q482745",
+     "https://sports.donga.com/ent/article/all/20261102/134947997/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q482745",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "9cd3ca27-1c1f-4e4d-a804-e6baba30e7a7",
+     "category": "작품",
+     "name": "문무",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "b0fb338b-d83a-42af-b3f6-8b5c8935d181",
+   "name": "재혼 황후",
+   "category": "작품",
+   "alias": "The Remarried Empress",
+   "disambig": "2026년 디즈니+ 드라마",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "드라마",
+    "platform": "디즈니+",
+    "release_date": "2026-11-04",
+    "director": "조수원",
+    "cast": "신민아, 주지훈, 이종석, 이세영",
+    "synopsis": "황제 소비에슈에게 이혼을 통보받은 황후 나비에가 이를 받아들이는 조건으로 서왕국 왕자 하인리와의 재혼 승인을 요구하며 벌어지는 로맨스 판타지.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q135873455",
+     "https://sports.donga.com/ent/article/all/20261102/134947683/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q135873455",
+   "links": [
+    {
+     "id": "5bc503ce-8afc-4fd8-9473-a14f1f4104bc",
+     "category": "허브",
+     "name": "한국 드라마",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "7477351e-d7a7-4691-8c2b-907cb612a01e",
+   "name": "정답 없는 여행",
+   "category": "작품",
+   "alias": "도겸과 정한 <정답 없는 여행>",
+   "disambig": "세븐틴 정한·도겸의 위버스 여행 예능",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "예능",
+    "platform": "위버스",
+    "release_date": "2026-11-19",
+    "cast": "정한, 도겸",
+    "synopsis": "매 순간 주어지는 선택에 따라 여정이 바뀌는 정한·도겸의 제주도 여행 예능. 6부작, 매주 목요일 공개.",
+    "sources": [
+     "https://www.chosun.com/entertainments/music/2026/11/02/G5SWCZRSGNTDGNRSMVSDSMTBGE/"
+    ]
+   },
+   "source_url": "https://www.chosun.com/entertainments/music/2026/11/02/G5SWCZRSGNTDGNRSMVSDSMTBGE/",
+   "links": [
+    {
+     "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
+     "category": "허브",
+     "name": "한국 예능",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "7b078bdf-85f4-4794-a010-2a40b4f18b0e",
+   "name": "조이현",
+   "category": "인물",
+   "alias": "Cho Yi-hyun, チョ・イヒョン",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1999-12-08",
+    "birthplace": "경기도 광명시",
+    "gender": "여성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. 2026년 영화 「최종면접」에서 문혜인을 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q62089249",
+     "https://www.chosun.com/entertainments/movie/2026/11/02/HFQTANZUHEYGCYJWGI2WIODFHA/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q62089249",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "79ab26e6-9cd2-4936-a453-b9969ce31319",
+     "category": "작품",
+     "name": "최종면접",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "9ef7e36e-2d16-4e81-83f2-1f88164ed942",
+   "name": "주지훈",
+   "category": "인물",
+   "alias": "Ju Ji-hoon, チュ・ジフン",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1982-05-16",
+    "birthplace": "서울특별시",
+    "gender": "남성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. 2026년 디즈니+ 「재혼 황후」에서 황제 소비에슈를 맡음.",
+    "real_name": "주영훈",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q494734",
+     "https://sports.donga.com/ent/article/all/20261102/134947683/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q494734",
+   "links": [
+    {
+     "id": "b0fb338b-d83a-42af-b3f6-8b5c8935d181",
+     "category": "작품",
+     "name": "재혼 황후",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "ff34855d-e964-4b1f-ab22-d5956a75a4e6",
+   "name": "지예은",
+   "category": "인물",
+   "alias": "Ji Ye-eun, チ・イェウン",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1994-07-26",
+    "birthplace": "서울특별시",
+    "gender": "여성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q59382114",
+     "https://sports.donga.com/ent/article/all/20261102/134947360/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q59382114",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "79ab26e6-9cd2-4936-a453-b9969ce31319",
+   "name": "최종면접",
+   "category": "작품",
+   "alias": "",
+   "disambig": "2026년 김정훈 감독의 영화",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "영화",
+    "release_date": "2026-11-04",
+    "director": "김정훈",
+    "cast": "조이현",
+    "source_material": "아사쿠라 아키나리 소설 '여섯 명의 거짓말쟁이 대학생'",
+    "synopsis": "최종면접장에 모인 지원자 6명이 각자의 폭로가 담긴 의문의 봉투를 발견하며 서로를 의심하는 이야기.",
+    "sources": [
+     "https://www.chosun.com/entertainments/movie/2026/11/02/HFQTANZUHEYGCYJWGI2WIODFHA/"
+    ]
+   },
+   "source_url": "https://www.chosun.com/entertainments/movie/2026/11/02/HFQTANZUHEYGCYJWGI2WIODFHA/",
+   "links": [
+    {
+     "id": "18fea518-c6b2-4cb1-8f6d-06c0f5b1156e",
+     "category": "허브",
+     "name": "한국 영화",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "9b46c211-b740-46b0-b4f8-26b5957c58bb",
+   "name": "폭설",
+   "category": "작품",
+   "alias": "",
+   "disambig": "2026년 홍의정·박선우 감독의 미스터리 영화",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "영화",
+    "genre": "미스터리 드라마",
+    "release_date": "2026-11-18",
+    "director": "홍의정, 박선우",
+    "cast": "김윤석, 구교환, 박수영, 노윤서",
+    "synopsis": "폭설로 고립된 시골 기차역 설오역에서 퇴직을 앞둔 역장 갑수와 후임 현택 앞에 의문의 시신이 발견되며 벌어지는 이야기.",
+    "sources": [
+     "https://sports.donga.com/ent/article/all/20261102/134947862/1"
+    ]
+   },
+   "source_url": "https://sports.donga.com/ent/article/all/20261102/134947862/1",
+   "links": [
+    {
+     "id": "18fea518-c6b2-4cb1-8f6d-06c0f5b1156e",
+     "category": "허브",
+     "name": "한국 영화",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "dffe01fb-4b7a-479e-815a-f3cbe33e03e5",
+   "name": "플레이브",
+   "category": "단체",
+   "alias": "PLAVE, プレイブ",
+   "disambig": "대한민국의 버추얼 보이 그룹",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "group_type": "버추얼 아이돌",
+    "name_en": "PLAVE",
+    "summary": "대한민국의 5인조 버추얼 보이 그룹. 2026년 8월 유니세프 한국위원회와 사회공헌 협약을 맺음.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q119025962",
+     "https://sports.donga.com/ent/article/all/20261102/134947939/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q119025962",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "6580fc70-ffcf-4a90-900a-fe09ccf32080",
+   "name": "한국거래소",
+   "category": "단체",
+   "alias": "Korea Exchange, KRX, 한국증권거래소",
+   "disambig": "대한민국의 증권·파생상품 거래소",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "증권거래소",
+    "website": "https://eng.krx.co.kr",
+    "summary": "대한민국의 주식·파생상품 시장을 운영하는 거래소로 본사는 부산",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q495364",
+     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701877"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q495364",
+   "links": [
+    {
+     "id": "c0128ad3-e64f-4884-afa0-908070617a54",
+     "category": "장소",
+     "name": "남구",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:44:06.321731+00:00"
+  },
+  {
+   "id": "e0227e5f-193d-4de3-91de-e1d8b21fad5c",
+   "name": "Sam Altman",
+   "category": "인물",
+   "alias": "샘 올트먼, 샘 알트먼, Samuel Harris Altman, 새뮤얼 올트먼, サム・アルトマン",
+   "disambig": "OpenAI 최고경영자",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "birth_date": "1985-04-22",
+    "birthplace": "Chicago",
+    "gender": "남성",
+    "occupation": "기업가, 투자자",
+    "summary": "OpenAI 공동 설립자이자 최고경영자. 전 와이 콤비네이터 회장.",
+    "nationality": "미국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q7407093",
+     "https://ko.wikipedia.org/wiki/샘_올트먼"
+    ],
+    "real_name": "Samuel Harris Altman"
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q7407093",
+   "links": [
+    {
+     "id": "80c85ad8-69bf-4d16-ad97-46c83a45c0a4",
+     "category": "단체",
+     "name": "OpenAI",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-02T21:57:38.175766+00:00"
+  },
+  {
+   "id": "46e21e3c-54b3-4f43-893e-22f2e86ab5a9",
+   "name": "김영민",
+   "category": "인물",
+   "alias": "Kim Young-min, キム・ヨンミン",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1971-11-05",
+    "gender": "남성",
+    "occupation": "배우",
+    "summary": "연극 출신 배우. 영화 「수능, 출제의 비밀」에서 수능 검토위원장 박경태를 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q12588012",
+     "https://enews.imbc.com/M/Detail/522902"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12588012",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "1c6be857-1ff3-43a6-9e99-329da0022dc8",
+     "category": "작품",
+     "name": "수능, 출제의 비밀",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "e0183ef7-8244-4f52-9301-acfc258d44cc",
+     "category": "단체",
+     "name": "에이스팩토리",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-02T21:57:38.175766+00:00"
+  },
+  {
+   "id": "56d99c0d-75b4-4755-a931-197446a6d944",
+   "name": "남승민",
+   "category": "인물",
+   "alias": "Nam Seung-min, ナム・スンミン",
+   "disambig": "대한민국의 트로트 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "2002-03-20",
+    "birthplace": "경상남도 창원시 마산회원구",
+    "gender": "남성",
+    "occupation": "가수",
+    "summary": "아역 배우 출신 트로트 가수. TV조선 「미스터트롯3」 6위(TOP7).",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q97226166",
+     "https://ko.wikipedia.org/wiki/남승민_(2002년)",
+     "https://sports.donga.com/ent/article/all/20261102/134951063/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q97226166",
+   "links": [
+    {
+     "id": "3100941a-3432-447e-98b3-471021749ce7",
+     "category": "작품",
+     "name": "미스터트롯3",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:57:38.175766+00:00"
+  },
+  {
+   "id": "b86eae04-9c83-4ef7-8d91-c3faa976c367",
+   "name": "노윤서",
+   "category": "인물",
+   "alias": "Roh Yoon-seo, Noh Yoon-seo, ノ・ユンソ",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "2000-01-25",
+    "birthplace": "서울특별시 송파구",
+    "gender": "여성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. 영화 「폭설」에서 신입 양 순경을 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q111801829",
+     "https://tvreport.co.kr/movie/article/1081527/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q111801829",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "9b46c211-b740-46b0-b4f8-26b5957c58bb",
+     "category": "작품",
+     "name": "폭설",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:57:38.175766+00:00"
+  },
+  {
+   "id": "cf360bd5-3ba1-4c39-ba20-add81f231c65",
+   "name": "박수영",
+   "category": "인물",
+   "alias": "Park Soo-young, パク・スヨン",
+   "disambig": "1970년생 대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1970-03-15",
+    "gender": "남성",
+    "occupation": "배우",
+    "summary": "영화 「완득이」의 완득이 아빠 역으로 알려진 배우. 영화 「폭설」에서 설오 파출소 최 경위(최성복)를 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q18230197",
+     "https://namu.wiki/w/%ED%8F%AD%EC%84%A4(2026%EB%85%84%20%EC%98%81%ED%99%94)",
+     "https://tvreport.co.kr/movie/article/1081527/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q18230197",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "9b46c211-b740-46b0-b4f8-26b5957c58bb",
+     "category": "작품",
+     "name": "폭설",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:57:38.175766+00:00"
+  },
+  {
+   "id": "37cdb534-30c4-4583-9896-84df5ecc2a65",
+   "name": "서은수",
+   "category": "인물",
+   "alias": "Seo Eun-soo, ソ・ウンス, 이정민",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1994-03-02",
+    "birthplace": "부산광역시 해운대구",
+    "gender": "여성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. tvN 드라마 「기프트」에서 야구부장 윤서진을 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q28699123",
+     "https://sports.donga.com/ent/article/all/20261102/134949842/1"
+    ],
+    "real_name": "이정민"
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q28699123",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "704da44a-c36c-427c-adaa-6ccec6767311",
+     "category": "작품",
+     "name": "기프트",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:57:38.175766+00:00"
+  },
+  {
+   "id": "2d41728a-67c6-417d-a775-4cc54f9a6139",
+   "name": "전석호",
+   "category": "인물",
+   "alias": "Jun Suk-ho, Jeon Seok-ho, チョン・ソクホ",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1984-05-02",
+    "birthplace": "서울특별시 광진구",
+    "gender": "남성",
+    "occupation": "배우",
+    "summary": "대한민국의 배우. 영화 「수능, 출제의 비밀」에서 평가원 실무자 기준수를 맡음.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q18605727",
+     "https://www.tenasia.co.kr/article/2026101913234"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q18605727",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "1c6be857-1ff3-43a6-9e99-329da0022dc8",
+     "category": "작품",
+     "name": "수능, 출제의 비밀",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:57:38.175766+00:00"
+  },
+  {
+   "id": "8f9e4e91-6a43-4b2c-af26-2cade49f4a01",
+   "name": "천록담",
+   "category": "인물",
+   "alias": "이정, 이정희, Lee Jung, Cheon Rok-dam",
+   "disambig": "대한민국의 트로트 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1981-10-24",
+    "birthplace": "경기도 성남시",
+    "gender": "남성",
+    "occupation": "가수",
+    "summary": "7Dayz 출신 가수 이정이 트로트 가수로 쓰는 이름. TV조선 「미스터트롯3」 3위(TOP7).",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q625482",
+     "https://ko.wikipedia.org/wiki/이정_(가수)",
+     "https://sports.donga.com/ent/article/all/20261102/134951063/1"
+    ],
+    "real_name": "이정희"
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q625482",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    },
+    {
+     "id": "3100941a-3432-447e-98b3-471021749ce7",
+     "category": "작품",
+     "name": "미스터트롯3",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:57:38.175766+00:00"
+  },
+  {
+   "id": "169ce6fa-485e-4624-87b4-c8547d9ba2bc",
+   "name": "최재명",
+   "category": "인물",
+   "alias": "Choi Jae-myung",
+   "disambig": "대한민국의 트로트 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "2000-07-14",
+    "birthplace": "전북특별자치도 장수군",
+    "gender": "남성",
+    "occupation": "가수",
+    "summary": "국악(판소리 고수) 전공 트로트 가수. TV조선 「미스터트롯3」 5위(TOP7).",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q133826483",
+     "https://ko.wikipedia.org/wiki/최재명_(가수)",
+     "https://sports.donga.com/ent/article/all/20261102/134951063/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q133826483",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    },
+    {
+     "id": "3100941a-3432-447e-98b3-471021749ce7",
+     "category": "작품",
+     "name": "미스터트롯3",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:57:38.175766+00:00"
+  },
+  {
+   "id": "5bd7abdd-57a3-41af-971c-8f31dc2b455e",
+   "name": "추혁진",
+   "category": "인물",
+   "alias": "Chu Hyeok-jin, チュ・ヒョクジン",
+   "disambig": "대한민국의 트로트 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1992-02-28",
+    "gender": "남성",
+    "occupation": "가수",
+    "summary": "보이 그룹 에이션 출신 트로트 가수. TV조선 「미스터트롯3」 7위(TOP7).",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q97575718",
+     "https://ko.wikipedia.org/wiki/추혁진",
+     "https://sports.donga.com/ent/article/all/20261102/134951063/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q97575718",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    },
+    {
+     "id": "3100941a-3432-447e-98b3-471021749ce7",
+     "category": "작품",
+     "name": "미스터트롯3",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-02T21:57:38.175766+00:00"
+  },
+  {
+   "id": "e9d720ed-6d1a-43c6-9fe5-5a7366a36fa5",
+   "name": "춘길",
+   "category": "인물",
+   "alias": "모세, 김종범, MO SE, Chungil",
+   "disambig": "대한민국의 트로트 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1980-03-07",
+    "birthplace": "경기도 고양시",
+    "gender": "남성",
+    "occupation": "가수",
+    "summary": "발라드 가수 모세(본명 김종범)가 트로트 가수로 쓰는 이름. TV조선 「미스터트롯3」 4위(TOP7).",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q12595290",
+     "https://ko.wikipedia.org/wiki/모세_(가수)",
+     "https://sports.donga.com/ent/article/all/20261102/134951063/1"
+    ],
+    "real_name": "김종범"
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12595290",
+   "links": [
+    {
+     "id": "3100941a-3432-447e-98b3-471021749ce7",
+     "category": "작품",
+     "name": "미스터트롯3",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-02T21:57:38.175766+00:00"
+  },
+  {
+   "id": "4503e9f9-67b8-4a77-ad0a-0b325176c36a",
+   "name": "쿠라콘 시오콘부염장다시마",
+   "category": "제품",
+   "alias": "시오콘부, 염장 다시마, 소금 다시마, Kurakon Shiokombu",
+   "disambig": "코스트코 코리아 가공식품·간식",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "product_category": "식품",
+    "product_type": "가공식품·간식",
+    "price": "19,990원",
+    "specs": "130g x 2",
+    "item_no": "697542",
+    "summary": "2026-11-03 코스트코 양재점 매장 가격표에 붙은 가격입니다. 점포마다 다를 수 있습니다."
+   },
+   "source_url": "",
+   "links": [
+    {
+     "id": "73f43886-00e4-40d7-b448-4f0a33c7d849",
+     "category": "허브",
+     "name": "코스트코 식품",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-03T12:11:05.201193+00:00"
+  }
+ ],
+ "bulk_added": []
+}

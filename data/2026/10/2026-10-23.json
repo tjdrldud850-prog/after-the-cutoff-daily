@@ -1,0 +1,2237 @@
+{
+ "date": "2026-10-23",
+ "timezone": "Asia/Seoul",
+ "exported_at": "2026-11-03T23:50:28+00:00",
+ "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
+ "counts": {
+  "updates": 48,
+  "new_planets": 17,
+  "bulk_added": 0
+ },
+ "updates": [
+  {
+   "id": "3216e3c7-879d-4d9e-97c5-3a4f933687ee",
+   "title": "2026 고양동물교감 치유문화제",
+   "type": "행사",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "5d89e7cf-d8ed-4b76-83e4-a8bf59c98d35",
+     "category": "장소",
+     "name": "고양시"
+    }
+   ],
+   "summary": "10-24 일산호수공원 주제 광장, 댕댕 운동회 · 유기동물 입양캠페인",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "일산호수공원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022151300060",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "a780e5ca-d6a2-457f-ad72-041b2c29b9bb",
+   "title": "2026 남산둘레길 가을소풍",
+   "type": "행사",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "ca816910-7ab5-49d7-bd19-d8b6d44e2a39",
+     "category": "장소",
+     "name": "중구"
+    }
+   ],
+   "summary": "11월 한 달 남산공원 일대, 남산둘레길 갤러리 · 11-07~11-08 자연 · 역사 투어 · 11-14 석호정 전통활쏘기 대회",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "남산공원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022057400004",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "42538a24-a228-472a-b6a6-2835f8c4cd00",
+   "title": "2026 사천에어쇼",
+   "type": "축제",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "33f88fef-166f-44b9-846e-f479e6fdce00",
+     "category": "장소",
+     "name": "사천시"
+    }
+   ],
+   "summary": "10-22~10-25 사천비행장 일원, KF-21 시범비행 · 우주항공방위산업전",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "사천비행장",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.chosun.com/national/2026/10/22/BADTKKUQAZHSTFGRZMAHEVFTCQ/",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "bdeca202-d20c-42c2-80be-c472e09cfb5d",
+   "title": "2026 사하로프상 수상",
+   "type": "수상",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "76c76a24-d3d5-49b3-b83b-5346a186e258",
+     "category": "단체",
+     "name": "International Criminal Court"
+    }
+   ],
+   "summary": "유럽의회가 사상의 자유를 위한 사하로프상 2026년 수상자로 ICC를 선정",
+   "why": null,
+   "how": null,
+   "content": "제재와 압박 속에서도 국제 정의와 국제법을 지킨 공로",
+   "places": [],
+   "featuring": [
+    {
+     "name": "European Parliament",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.hrw.org/news/2026/10/22/icc-wins-eu-parliaments-sakharov-prize",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "eb371b7d-95db-4460-b5ad-d57d24d21313",
+   "title": "2026 성남동 커피 페스티벌",
+   "type": "축제",
+   "date": "2026-10-30",
+   "parent": [
+    {
+     "id": "8de74d58-f010-47b3-87c1-ed1e09dd5378",
+     "category": "장소",
+     "name": "성남동"
+    }
+   ],
+   "summary": "10-30~11-01 성남동 문화의거리 일원, 국내외 70개 업체, 브루잉 · 라테아트 대회",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "문화의거리",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022126500057",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "b38ea8b3-354f-460e-8aec-0c5230a7bb67",
+   "title": "2026 세대 통합 트레킹 대회",
+   "type": "행사",
+   "date": "2026-11-14",
+   "parent": [
+    {
+     "id": "6807b4a6-bdfa-4e1c-b795-106489d96195",
+     "category": "장소",
+     "name": "원주시"
+    }
+   ],
+   "summary": "11-14 중앙공원 둘레길 4km · 8km, 선착순 400명(11-11까지 신청)",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "중앙공원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022088900062",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "db77727c-a084-40db-8025-c6d0021ddd40",
+   "title": "2026 아리랑 기공 축제",
+   "type": "행사",
+   "date": "2026-10-25",
+   "parent": [
+    {
+     "id": "95ee6ece-db01-495d-b63c-37c504ff65d4",
+     "category": "장소",
+     "name": "종로구"
+    }
+   ],
+   "summary": "10-25 14시 광화문광장 육조마당, 대한국학기공협회 주최, 시민 1천 명",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "광화문광장",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022107300007",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "1842b093-e5cc-4e40-aa55-2ed558ee4846",
+   "title": "2026 양구 인문학 축제",
+   "type": "축제",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "9abc9329-aa7c-4d65-9daf-468507b6ddb5",
+     "category": "장소",
+     "name": "양구군"
+    }
+   ],
+   "summary": "10-24 양구인문학박물관 일원, 김형석 교수 강연 · 독후감 경진대회",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "양구인문학박물관",
+     "id": "ba6693c5-bd78-467a-9741-6dcf88ce27dd"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022138400062",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "0601eb00-9cde-44fe-bf12-c2e3dbf98018",
+   "title": "2026 이사부와 독도왔섬",
+   "type": "행사",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "1090b9f5-e66f-4964-b7db-9150fc7e9f20",
+     "category": "장소",
+     "name": "삼척시"
+    }
+   ],
+   "summary": "독도의 날 맞아 10-24~10-25 이사부독도기념관, 나이트 시네마 · 체험",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "이사부독도기념관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022059600062",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "f52967d8-0b37-433d-bca0-a1d136fa0731",
+   "title": "2026 제주마축제",
+   "type": "축제",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "1b00c06c-3776-40b3-85bc-fdfdafc5836d",
+     "category": "장소",
+     "name": "애월읍"
+    }
+   ],
+   "summary": "10-24~10-25 렛츠런파크 제주, 제21회, 도지사배 대상경주 · 레클리스 히어로 런",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "렛츠런파크 제주",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022136700056",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "659dd7b7-1c98-4dce-b713-c434d53253d8",
+   "title": "2026 충북직업교육종합축제",
+   "type": "축제",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "cfcdf3ed-9616-4557-8842-a21ba85bf34c",
+     "category": "장소",
+     "name": "동부창고"
+    }
+   ],
+   "summary": "충청북도교육청, 직업계고 학생 미래 직업 체험 · 창업 성과 공유",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newspim.com/news/view/20261022000158",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "6696e861-2f68-4eb1-b7a5-c37aac7a5d4d",
+   "title": "2026 탄소중립 흙 살리기 박람회",
+   "type": "행사",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "90cad15e-a462-486c-baec-9fb8da3ab03b",
+     "category": "장소",
+     "name": "구례군"
+    }
+   ],
+   "summary": "10-23~10-25 구례실내체육관 · 서시천체육공원 일원, 흙놀이 · 먹거리 장터",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "구례실내체육관",
+     "id": null
+    },
+    {
+     "name": "서시천체육공원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022177800054",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "35b1b5d2-89a9-4503-9062-05fce95d5ff7",
+   "title": "2026 하노이 한국 돌담길 문화축제",
+   "type": "뉴스",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "ac59f957-021a-4b7a-a73d-fa49c37bfa11",
+     "category": "국가",
+     "name": "Vietnam"
+    }
+   ],
+   "summary": "10-24~10-25 하노이, 주베트남 한국문화원 주최, QWER · 실리카겔 등 한국 · 베트남 밴드 공연",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Hanoi",
+     "id": "2be8a2c1-8d56-4ea9-a865-591ca5040d2d"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "QWER",
+     "id": "5504ee2e-1b09-4291-b5a5-aa7eb5086685"
+    },
+    {
+     "name": "실리카겔",
+     "id": "20f9e4bc-5789-45d8-8716-45cab3aae8ae"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022119100084",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "a3feeb37-e721-4ea9-b277-8e0834db1f26",
+   "title": "2026 하노이 한국 돌담길 문화축제 출연",
+   "type": "뉴스",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "5504ee2e-1b09-4291-b5a5-aa7eb5086685",
+     "category": "단체",
+     "name": "QWER"
+    }
+   ],
+   "summary": "10-24~10-25 하노이 한국 돌담길 문화축제 공연, 실리카겔 등과 함께",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Hanoi",
+     "id": null
+    },
+    {
+     "name": "Thanh pho Ha Noi",
+     "id": "2be8a2c1-8d56-4ea9-a865-591ca5040d2d"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "실리카겔",
+     "id": "20f9e4bc-5789-45d8-8716-45cab3aae8ae"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022119100084",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "0e78e08a-c118-47e1-b7f8-d51737d730ff",
+   "title": "2026 하노이 한국 돌담길 문화축제 출연",
+   "type": "뉴스",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "20f9e4bc-5789-45d8-8716-45cab3aae8ae",
+     "category": "단체",
+     "name": "실리카겔"
+    }
+   ],
+   "summary": "10-24~10-25 하노이 한국 돌담길 문화축제 공연, QWER 등과 함께",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Hanoi",
+     "id": null
+    },
+    {
+     "name": "Thanh pho Ha Noi",
+     "id": "2be8a2c1-8d56-4ea9-a865-591ca5040d2d"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "QWER",
+     "id": "5504ee2e-1b09-4291-b5a5-aa7eb5086685"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022119100084",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "edb47b65-adaa-4468-8225-59d47c685a35",
+   "title": "2026 하반기 IFS 프랜차이즈 창업 · 산업 박람회",
+   "type": "행사",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "717449f8-cd33-4560-be13-20821178bb8d",
+     "category": "장소",
+     "name": "코엑스"
+    }
+   ],
+   "summary": "10-22~10-24, 한국프랜차이즈산업협회 주최, 200여 개사 참여",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/amp/view/AKR20261022153800030",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "ab964eb1-42c9-44ad-ad90-412fd817baaf",
+   "title": "2028 FIFA 여자 클럽 월드컵 개최국 선정",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "FIFA가 처음 여는 여자 클럽 월드컵(2028)을 미국에서 연다고 발표",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.espn.com/soccer/story/_/id/50249418/usa-host-2028-inaugural-womens-club-world-cup",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "c7fb6e72-9aa0-4e92-bd4a-32a25d316532",
+   "title": "8년 만의 전국투어",
+   "type": "투어",
+   "date": "2026-12-05",
+   "parent": [
+    {
+     "id": "7661417a-3b7b-4517-8904-d9ebbf546955",
+     "category": "단체",
+     "name": "플라이투더스카이"
+    }
+   ],
+   "summary": "12-05~12-06 대구 경북대학교 대강당, 12-12~12-13 고양아람누리 아람극장 등, 새 앨범도 준비 중",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "경북대학교 대강당",
+     "id": null
+    },
+    {
+     "name": "고양아람누리 아람극장",
+     "id": null
+    },
+    {
+     "name": "대구광역시",
+     "id": "44215e3d-3c20-4168-929c-552fe86092d8"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022154200005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "2ec33382-5eaa-4896-8d7d-82f642dc0c48",
+   "title": "SUPERSTAR",
+   "type": "앨범",
+   "date": "2026-11-09",
+   "parent": [
+    {
+     "id": "2a5b8f75-33fc-4022-af95-96dbb2442f41",
+     "category": "단체",
+     "name": "A2O SOUL"
+    }
+   ],
+   "summary": "첫 앨범, 더블 타이틀 「슈퍼스타」 · 「댄싱 인 더 다크」 포함 5곡",
+   "why": null,
+   "how": null,
+   "content": "10-13 선공개곡 「슈퍼스타」로 데뷔한 지 한 달 만",
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022043300005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "c2750ed6-1c3e-4739-a8fd-d3938fcd9d5a",
+   "title": "TV조선 「자랑할 개」 MC",
+   "type": "출연 확정",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "35316486-9ff5-4f42-b730-1ba3f0dde517",
+     "category": "인물",
+     "name": "한혜진"
+    }
+   ],
+   "summary": "스타 견주들이 반려견을 자랑하는 TV조선 새 예능 「자랑할 개」 MC, 허경환과 함께",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "허경환",
+     "id": "8597191f-66b9-4a37-b3b7-80658ee566b8"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022101100005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "de4e04aa-26d3-4a4e-bf91-1a967f1d8c7f",
+   "title": "TV조선 「자랑할 개」 MC",
+   "type": "출연 확정",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "8597191f-66b9-4a37-b3b7-80658ee566b8",
+     "category": "인물",
+     "name": "허경환"
+    }
+   ],
+   "summary": "스타 견주들이 반려견을 자랑하는 TV조선 새 예능 「자랑할 개」 MC, 한혜진과 함께",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "한혜진",
+     "id": "35316486-9ff5-4f42-b730-1ba3f0dde517"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022101100005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "ff25b1f7-58c2-49b9-baa9-bcd37e6fab5a",
+   "title": "YG플러스와 음원 · 음반 유통 계약",
+   "type": "협업",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "9448ae0c-9508-4484-be10-38a6f868e297",
+     "category": "단체",
+     "name": "FNC엔터테인먼트"
+    }
+   ],
+   "summary": "YG플러스와 음원 · 음반 유통 계약 체결",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "YG플러스",
+     "id": "369327ca-c223-4658-9746-a73633ab8393"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022057900005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "fcd40619-c24c-4036-a00e-6ab6361cd012",
+   "title": "tvN 「언내추럴」 주연 확정",
+   "type": "출연 확정",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "3d9d63f4-a116-4d18-9fca-d87daae9bfcc",
+     "category": "인물",
+     "name": "윤아"
+    }
+   ],
+   "summary": "2027년 첫 방송 tvN 드라마 「언내추럴」(일본 TBS 2018 원작)에서 U.D.I 법의관 송도은 역, 이진욱과 함께",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "이진욱",
+     "id": "9a910480-9c4a-4ebe-8858-36b198aa9f94"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022054600005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "a8498fdc-7c7e-442c-9c38-f9abc0e7ffbe",
+   "title": "tvN 「언내추럴」 주연 확정",
+   "type": "출연 확정",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "9a910480-9c4a-4ebe-8858-36b198aa9f94",
+     "category": "인물",
+     "name": "이진욱"
+    }
+   ],
+   "summary": "2027년 첫 방송 tvN 드라마 「언내추럴」(일본 TBS 2018 원작)에서 U.D.I 법의관 구승혁 역, 윤아와 함께",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "윤아",
+     "id": "3d9d63f4-a116-4d18-9fca-d87daae9bfcc"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022054600005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "41893e4b-fb44-4a79-a3da-679f5a2db4c5",
+   "title": "가정법",
+   "type": "싱글",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "8c43d601-b7e9-4662-bf53-60d01c47a4ec",
+     "category": "인물",
+     "name": "버벌진트"
+    }
+   ],
+   "summary": "새 정규앨범 「10년동안의오독 II」 선공개곡 「가정법」 발표",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022096400005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "b43314db-fec3-48dc-96bc-f6e95cf51b3e",
+   "title": "경남수목원 단풍축제",
+   "type": "축제",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "f86e00e7-d97a-420c-be98-7ad2c02892c9",
+     "category": "장소",
+     "name": "진주시"
+    }
+   ],
+   "summary": "10-31~11-22 경남수목원(이반성면), 은행열매 브로치 · 낙엽 모빌 만들기",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "경남수목원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022113500052",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "e4a38b64-27b2-4990-bff7-e135123f53cb",
+   "title": "국립김해숲체원 운영 시작",
+   "type": "뉴스",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "bddea644-38eb-4b44-8ce3-ebfebaac5f42",
+     "category": "장소",
+     "name": "김해시"
+    }
+   ],
+   "summary": "11-01 본격 운영, 11-14 개원식. 상동면 대감리 국유림 178ha, 128명 숙박",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "국립김해숲체원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022124900052",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "ef79476e-7906-47e7-8303-0178ba1a3bed",
+   "title": "넷플릭스 「천천히 강렬하게」 12월 11일 공개",
+   "type": "출연 확정",
+   "date": "2026-12-11",
+   "parent": [
+    {
+     "id": "39fbe6ee-511e-45b1-be77-62774586aa7c",
+     "category": "인물",
+     "name": "송혜교"
+    }
+   ],
+   "summary": "노희경 극본 넷플릭스 시리즈, 1960~1980년대 한국 연예계 배경, 음반 사업에 뛰어드는 민자 역",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "공유",
+     "id": "50e7baeb-01a5-4dbf-8b71-3771332b3e82"
+    },
+    {
+     "name": "노희경",
+     "id": "5f8026c3-ab43-4c21-bedb-df6e0436692c"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022042200005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "5f91c621-2025-4465-a446-6ab26df0e232",
+   "title": "넷플릭스 「천천히 강렬하게」 12월 11일 공개",
+   "type": "출연 확정",
+   "date": "2026-12-11",
+   "parent": [
+    {
+     "id": "50e7baeb-01a5-4dbf-8b71-3771332b3e82",
+     "category": "인물",
+     "name": "공유"
+    }
+   ],
+   "summary": "노희경 극본 넷플릭스 시리즈, 1960~1980년대 한국 연예계 배경, 민자의 소꿉친구 동구 역",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "송혜교",
+     "id": "39fbe6ee-511e-45b1-be77-62774586aa7c"
+    },
+    {
+     "name": "노희경",
+     "id": "5f8026c3-ab43-4c21-bedb-df6e0436692c"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022042200005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "9f64ee65-919b-4534-af2f-1362a30251ce",
+   "title": "넷플릭스 「천천히 강렬하게」 12월 11일 공개",
+   "type": "뉴스",
+   "date": "2026-12-11",
+   "parent": [
+    {
+     "id": "5f8026c3-ab43-4c21-bedb-df6e0436692c",
+     "category": "인물",
+     "name": "노희경"
+    }
+   ],
+   "summary": "4년 6개월 만의 신작, 송혜교 · 공유 주연 넷플릭스 시리즈",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "송혜교",
+     "id": "39fbe6ee-511e-45b1-be77-62774586aa7c"
+    },
+    {
+     "name": "공유",
+     "id": "50e7baeb-01a5-4dbf-8b71-3771332b3e82"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022042200005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "bc5642b4-72ed-47e8-9c50-0cb57cb9e43d",
+   "title": "데뷔 6주년 팬미팅 「마이 보고 싶다 아이가」",
+   "type": "팬미팅",
+   "date": "2026-11-28",
+   "parent": [
+    {
+     "id": "57b442e5-3c43-46fa-978b-afc43acefc79",
+     "category": "단체",
+     "name": "aespa"
+    }
+   ],
+   "summary": "11-28~11-29 고려대 화정체육관, 2023년 이후 3년 만의 팬미팅",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "고려대학교 화정체육관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022076700005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "ae73d7f9-806a-47bd-911c-75f95a856eb3",
+   "title": "라나 누세이베 유엔 사무총장 출마",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "f789ac20-af9a-4e37-91d1-b88c0230fd86",
+     "category": "국가",
+     "name": "United Arab Emirates"
+    }
+   ],
+   "summary": "UAE 외교관 라나 누세이베가 차기 유엔 사무총장 선출에 출마 선언",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.reuters.com/world/senior-uae-diplomat-lana-nusseibeh-enters-race-un-chief-2026-10-21/",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "bc25ad42-7dcf-471b-82b5-4408cc5300c1",
+   "title": "모두가 아는 이야기",
+   "type": "앨범",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "1053a92c-80e6-4cbc-881f-f2a997c19fe3",
+     "category": "단체",
+     "name": "허클베리핀"
+    }
+   ],
+   "summary": "정규 8집, 9곡 · 타이틀 5곡(멜랑콜리아 · 모두가 아는 이야기 · 나선의 밤 · 황혼과 기수와 말 · 세계 끝)",
+   "why": null,
+   "how": null,
+   "content": "2022년 7집 「더 라이트 오브 레인」 이후 4년 만",
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022114700005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "0d96ba50-43c5-43c3-89fb-b9501b9e0981",
+   "title": "비 에이비 오",
+   "type": "앨범",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "543a82f1-8824-4b6a-bce0-1da716b0d5dc",
+     "category": "단체",
+     "name": "바보"
+    }
+   ],
+   "summary": "정규 2집, 더블 타이틀 「와」 · 「뷰티풀 마네킹」 포함 8곡. 11-01 강서호박나이트 첫 단독 공연",
+   "why": null,
+   "how": null,
+   "content": "2024년 12월 정규 1집 「비」 이후 약 2년 만",
+   "places": [
+    {
+     "name": "강서호박나이트",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022068200005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "1ff6c1e2-4060-4d7d-831f-ba474895136c",
+   "title": "샤몬다 바이러스 첫 사람 감염 보고",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "8fd447de-086d-4ad9-b287-af85b002c7c9",
+     "category": "국가",
+     "name": "France"
+    }
+   ],
+   "summary": "가축 바이러스인 샤몬다 바이러스의 첫 사람 감염 사례 보고, 다른 병으로 입원했다 숨진 환자",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "a7536c53-0392-4bef-a5a8-a3e1a3a8f128",
+   "title": "서초책있는거리 10월 북캠핑",
+   "type": "행사",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "08817f70-35f2-4eb8-b78a-797047cb2f7e",
+     "category": "장소",
+     "name": "서초구"
+    }
+   ],
+   "summary": "10-24 13~17시 국립중앙도서관~서래골공원 반포대로 510m, 책 5천 권 무료 나눔",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "국립중앙도서관",
+     "id": null
+    },
+    {
+     "name": "서래골공원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022087500004",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "ff63b5b8-d9b5-427b-ada8-62504d9db555",
+   "title": "시네마",
+   "type": "싱글",
+   "date": "2026-11-09",
+   "parent": [
+    {
+     "id": "8dbb9edf-2eb5-467c-93ec-a62737d8c4a9",
+     "category": "단체",
+     "name": "위댐보이즈"
+    }
+   ],
+   "summary": "팀 이름을 건 첫 싱글 「CINEMA」",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022096900005",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "64ced4ce-d67c-4091-800d-ff8c379a9eb2",
+   "title": "시짱(티베트) 나취 규모 7.0 지진",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300",
+     "category": "국가",
+     "name": "China"
+    }
+   ],
+   "summary": "시짱 나취를 진앙으로 규모 7.0 지진, 16명 사망 · 32명 부상",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Xizang",
+     "id": "aa125e79-6d64-4afc-bedc-caf4b95f3c22"
+    },
+    {
+     "name": "Nagqu",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "d9a60931-177b-47b5-a1a5-889d27405bf1",
+   "title": "영화 「구름이 구르미」 주연 확정",
+   "type": "출연 확정",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "79d3f482-3845-493b-9fba-a49944529f5c",
+     "category": "인물",
+     "name": "다현"
+    }
+   ],
+   "summary": "2027년 공개 예정 로맨스 영화 「구름이 구르미」 주연으로 출연 확정, 차우민과 함께",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "차우민",
+     "id": "9381e971-de35-43b3-98f7-08078e863bdf"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.bntnews.co.kr/article/view/bnt202610220106",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "e18ebf61-f5c2-4036-a53c-fda90f5c0a27",
+   "title": "영화 「구름이 구르미」 주연 확정",
+   "type": "출연 확정",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "9381e971-de35-43b3-98f7-08078e863bdf",
+     "category": "인물",
+     "name": "차우민"
+    }
+   ],
+   "summary": "2027년 공개 예정 로맨스 영화 「구름이 구르미」 주연, 트와이스 다현과 함께",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "다현",
+     "id": "79d3f482-3845-493b-9fba-a49944529f5c"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.bntnews.co.kr/article/view/bnt202610220106",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "384b629a-d89d-45d6-acaf-6255ff1edf57",
+   "title": "전국 법원 전산망 장애",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "오후 4시께부터 전국 법원 전산망 장애, 영장 업무를 포함한 사법 전산시스템 전체에 영향",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022178800053",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "a1def9c8-b8ca-422a-a180-a2f049eff5b8",
+   "title": "제11회 강서구 다문화 축제",
+   "type": "축제",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "03a97a88-3ad8-4e73-bbbe-eabe44bd94c0",
+     "category": "장소",
+     "name": "강서구"
+    }
+   ],
+   "summary": "10-24 마곡광장, 공연 · 체험 · 세계 음식 페스티벌 · 바자회",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "마곡광장",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022090900004",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "a331b5d5-0e64-48b8-8402-f0448525f5de",
+   "title": "제5회 연천율무축제",
+   "type": "축제",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "a94dfdcb-f89f-46fc-955c-5b14366f05d3",
+     "category": "장소",
+     "name": "연천군"
+    }
+   ],
+   "summary": "10-23~10-25 연천전곡리유적 일원, 제8회 연천국화축제와 함께",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "연천전곡리유적",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022077800060",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "038d0285-dd6d-496d-a66e-76442bd2d91f",
+   "title": "죽변해안스카이레일 차례로 재개장",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "5c6e565c-7bd4-407d-8291-5b874419f5d8",
+     "category": "장소",
+     "name": "울진군"
+    }
+   ],
+   "summary": "법적 분쟁 끝에 시설 확보, 2027-05 죽변~봉수항 · 2027-10 후정~봉수항 · 2028-05 전 구간 재개장 계획",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "죽변해안스카이레일",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022152700053",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "8aede8da-87ec-4213-aad2-8cf2f5ee49b5",
+   "title": "차티스가르 버스 사고",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "09167a79-0963-45de-8e26-123538f70b0d",
+     "category": "국가",
+     "name": "India"
+    }
+   ],
+   "summary": "차티스가르주 마넨드라가르-치르미리-바라트푸르 지구에서 버스가 나무와 부딪혀 최소 6명 사망 · 25명 부상",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Chhattisgarh",
+     "id": "b3383a51-499b-464c-b926-9d5622668ebb"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://english.news.cn/asiapacific/20261022/d3f0402fc54446f4a7e9b61bc33f97f2/c.html",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "c527fb93-cc96-427c-a93c-eb73d6ebccc0",
+   "title": "캐나다와 자유무역협정 협상 시작",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "04843d39-a5c3-4c73-9348-f711b8fe25a0",
+     "category": "국가",
+     "name": "Turkey"
+    }
+   ],
+   "summary": "마크 카니 캐나다 총리의 앙카라 방문 중 캐나다와 자유무역협정 협상 개시",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Ankara",
+     "id": "71d2ab23-03f7-494f-b0d9-e13af7be8557"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Canada",
+     "id": "e3935af8-59b6-4bb1-aaeb-d5189e33db32"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.france24.com/en/live-news/20261022-canada-opens-free-trade-talks-with-turkey",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "3615722c-0196-4527-92fd-df9353fe3695",
+   "title": "튀르키예와 자유무역협정 협상 시작",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "e3935af8-59b6-4bb1-aaeb-d5189e33db32",
+     "category": "국가",
+     "name": "Canada"
+    }
+   ],
+   "summary": "마크 카니 총리의 앙카라 방문 중 튀르키예와 자유무역협정 협상 개시",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Ankara",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Turkey",
+     "id": "04843d39-a5c3-4c73-9348-f711b8fe25a0"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.france24.com/en/live-news/20261022-canada-opens-free-trade-talks-with-turkey",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "f373b88a-c39f-4895-8507-687131c1bc06",
+   "title": "한탄강 물윗길 은하수교~송대소 임시 개방",
+   "type": "뉴스",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "ea38a4fe-cf24-4e1f-8fff-cf2d9e9cd4c7",
+     "category": "장소",
+     "name": "철원군"
+    }
+   ],
+   "summary": "10-31 무료 임시 개방, 점검 끝나는 대로 직탕폭포~순담 8.5km 전 구간 개방 예정",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "한탄강 물윗길",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261022131400062",
+   "source": "뉴스",
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  }
+ ],
+ "new_planets": [
+  {
+   "id": "8c43d601-b7e9-4662-bf53-60d01c47a4ec",
+   "name": "버벌진트",
+   "category": "인물",
+   "alias": "VJ, King of Flow",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "name_en": "Verbal Jint",
+    "real_name": "김진태",
+    "gender": "남성",
+    "activity": "솔로",
+    "nationality": "대한민국",
+    "birth_date": "1980-12-19",
+    "measurements": "177cm",
+    "organization": "아더사이드",
+    "debut_date": "1999",
+    "website": "http://www.brandnewmusic.co.kr/portfolio-item/verbal-jint/",
+    "sns": "https://twitter.com/freevj",
+    "blood_type": "A형",
+    "mbti": "INFP",
+    "birthplace": "서울특별시",
+    "weight": "75kg",
+    "education": "서울대학교 사회과학대학 경제학 (학사), 한양대학교 법학전문대학원 법학 (제적)",
+    "awards": "2009년 제6회 한국대중음악상 최우수 랩&힙합 음반상",
+    "summary": "한국어 힙합에 정교한 다음절 라임의 패러다임을 정립한 선구자이자, 작곡과 프로듀싱 능력까지 겸비하여 한국 힙합의 대중화를 이끈 래퍼 겸 싱어송라이터.",
+    "sources": [
+     "https://namu.wiki/w/%EB%B2%84%EB%B2%8C%EC%A7%84%ED%8A%B8",
+     "https://ko.wikipedia.org/wiki/%EB%B2%84%EB%B2%8C%EC%A7%84%ED%8A%B8",
+     "http://www.brandnewmusic.co.kr/portfolio-item/verbal-jint/"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://namu.wiki/w/%EB%B2%84%EB%B2%8C%EC%A7%84%ED%8A%B8",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-23T00:33:50.395249+00:00"
+  },
+  {
+   "id": "35316486-9ff5-4f42-b730-1ba3f0dde517",
+   "name": "한혜진",
+   "category": "인물",
+   "alias": "달심, 한달심, 논현동 서장훈",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Han Hye-jin",
+    "gender": "여성",
+    "occupation": "방송인, 모델",
+    "nationality": "대한민국",
+    "birth_date": "1983-03-23",
+    "measurements": "177cm",
+    "organization": "에스팀",
+    "debut_date": "1999",
+    "website": "http://www.esteement.co.kr/artist_view.php?idx=42",
+    "sns": "https://www.instagram.com/modelhanhyejin",
+    "blood_type": "B형",
+    "mbti": "ISTP",
+    "birthplace": "서울특별시",
+    "weight": "55kg",
+    "religion": "무종교",
+    "education": "경기대학교 평생교육원 연기학 (학사), 동덕여자대학교 미래전략융합대학원 모델학 (석사 수료)",
+    "awards": "2024년 SBS 연예대상 ESG상, 2021년 SBS 연예대상 쇼·스포츠부문 우수상, 2018년 MBC 방송연예대상 버라이어티부문 여자 최우수상",
+    "channel_url": "https://www.youtube.com/@modelhanhyejin",
+    "summary": "세계 4대 패션위크 무대를 휩쓸며 한국 모델의 위상을 높인 전설적인 톱모델이자, 솔직하고 털털한 입담으로 다양한 예능과 유튜브에서 활약 중인 방송인.",
+    "sources": [
+     "https://namu.wiki/w/%ED%95%9C%ED%98%9C%EC%A7%84(%EB%AA%A8%EB%8D%B8)",
+     "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%98%9C%EC%A7%84_(%EB%AA%A8%EB%8D%B8)",
+     "http://www.esteement.co.kr/artist_view.php?idx=42"
+    ],
+    "ai_model": "Gemini 4 Argon"
+   },
+   "source_url": "https://namu.wiki/w/%ED%95%9C%ED%98%9C%EC%A7%84(%EB%AA%A8%EB%8D%B8)",
+   "links": [
+    {
+     "id": "e0183ef7-8244-4f52-9301-acfc258d44cc",
+     "category": "단체",
+     "name": "에이스팩토리",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-23T00:33:51.071194+00:00"
+  },
+  {
+   "id": "8597191f-66b9-4a37-b3b7-80658ee566b8",
+   "name": "허경환",
+   "category": "인물",
+   "alias": "꽃거지, 허닭, 통영의 아들",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Heo Kyung-hwan",
+    "real_name": "허동원 (개명 전)",
+    "gender": "남성",
+    "occupation": "방송인",
+    "nationality": "대한민국",
+    "birth_date": "1981-02-16",
+    "measurements": "170.3cm",
+    "debut_date": "2007",
+    "sns": "https://www.instagram.com/heodak81",
+    "blood_type": "O형",
+    "mbti": "ISFJ",
+    "birthplace": "통영시",
+    "weight": "80kg",
+    "religion": "개신교",
+    "education": "마산대학교 피부미용학 (중퇴), 부산예술대학교 이벤트연출학 (전문학사)",
+    "awards": "2026년 올해의 브랜드 대상 개그맨 부문, 2025년 SBS 연예대상 올해의 도전상, 2024년 SBS 연예대상 굿파트너상, 2022년 SBS 연예대상 토크·리얼리티부문 우수상, 2016년 MBC 방송연예대상 버라이어티부문 남자 우수상, 2012년 KBS 연예대상 코미디부문 남자 우수상, 2009년 KBS 연예대상 코미디부문 남자 신인상",
+    "channel_url": "https://www.youtube.com/@허경환_curious",
+    "summary": "KBS 22기 공채 개그맨으로 데뷔해 〈개그콘서트〉에서 수많은 유행어를 탄생시키며 큰 사랑을 받았고, 닭가슴살 브랜드 '허닭' 창업가이자 다양한 예능 프로그램에서 활약 중인 코미디언 겸 방송인.",
+    "debut_work": "개그콘서트",
+    "notable_works": "개그콘서트",
+    "sources": [
+     "https://namu.wiki/w/%ED%97%88%EA%B2%BD%ED%99%98",
+     "https://ko.wikipedia.org/wiki/%ED%97%88%EA%B2%BD%ED%99%98",
+     "https://www.youtube.com/@%ED%97%88%EA%B2%BD%ED%99%98_curious"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://namu.wiki/w/%ED%97%88%EA%B2%BD%ED%99%98",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "736127d2-e09c-46b4-830f-54ede9b89ebe",
+     "category": "장소",
+     "name": "통영시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-23T00:33:51.702488+00:00"
+  },
+  {
+   "id": "9381e971-de35-43b3-98f7-08078e863bdf",
+   "name": "차우민",
+   "category": "인물",
+   "alias": "",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Cha Woo-min",
+    "real_name": "김민우",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "2000-10-24",
+    "measurements": "187cm",
+    "organization": "저스트엔터테인먼트",
+    "debut_date": "2021-09-24",
+    "debut_work": "플로리다 반점 (2021)",
+    "notable_works": "최애의 사원 (2026), 보물섬 (2025), 멜로무비 (2025), 스터디그룹 (2025), 밤이 되었습니다 (2023), 약한영웅 Class 1 (2022)",
+    "website": "https://www.justent.co.kr/management/artists_view/25",
+    "sns": "https://www.instagram.com/_imnnin",
+    "blood_type": "O형",
+    "mbti": "INTP",
+    "birthplace": "부산광역시",
+    "education": "서울예술대학교 연기과 (휴학)",
+    "awards": "2025년 SBS 연기대상 신인 연기상, 2025년 제13회 서울국제영화대상 남자신인상, 2025년 올해의 브랜드 대상 올해의 남자배우",
+    "summary": "웹드라마 〈플로리다 반점〉으로 데뷔해 〈약한영웅 Class 1〉, 〈밤이 되었습니다〉, 〈스터디그룹〉 등에서 강렬한 존재감과 탄탄한 연기력을 선보이며 주목받고 있는 대한민국의 배우.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%B0%A8%EC%9A%B0%EB%AF%BC",
+     "https://namu.wiki/w/%EC%B0%A8%EC%9A%B0%EB%AF%BC",
+     "https://www.justent.co.kr/management/artists_view/25"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EC%9A%B0%EB%AF%BC",
+   "links": [
+    {
+     "id": "bbe02242-17b8-4435-87c3-50ce2e0e6a16",
+     "category": "단체",
+     "name": "저스트엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d",
+     "category": "장소",
+     "name": "부산광역시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "961210ff-548c-4932-a11b-21986ca111ae",
+     "category": "작품",
+     "name": "최애의 사원",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "b32362c1-216d-4876-bdca-4d49c3b29c6e",
+     "category": "작품",
+     "name": "보물섬",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-23T00:33:52.361987+00:00"
+  },
+  {
+   "id": "5504ee2e-1b09-4291-b5a5-aa7eb5086685",
+   "name": "QWER",
+   "category": "단체",
+   "alias": "큐더블유이알, 큐떱",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "name_en": "QWER",
+    "group_type": "밴드",
+    "real_name": "QWER",
+    "formation_date": "2023-10-18",
+    "parent_company": "쓰리와이코프레이션",
+    "members": "쵸단, 마젠타, 히나, 시연",
+    "leader": "쵸단",
+    "fandom_name": "바위게 (BAWIGE)",
+    "sns": "https://www.instagram.com/qwerband_official, https://x.com/official_QWER, https://www.youtube.com/@QWER_Band_official, https://www.tiktok.com/@qwerband_official",
+    "awards": "2025년 제34회 서울가요대상 본상, 2025년 제1회 디 어워즈 올해의 트렌드, 2024년 멜론 뮤직 어워드 핫트렌드상, 2024년 MAMA AWARDS 베스트 밴드 퍼포먼스",
+    "summary": "크리에이터 김계란이 기획한 '최애의 아이들' 프로젝트를 통해 결성되어 〈Discord〉, 〈고민중독〉, 〈내 이름 맑음〉 등을 연달아 히트시키며 큰 사랑을 받고 있는 4인조 걸밴드.",
+    "sources": [
+     "https://namu.wiki/w/QWER",
+     "https://ko.wikipedia.org/wiki/QWER",
+     "https://www.youtube.com/@QWER_Band_official"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://namu.wiki/w/QWER",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-23T00:33:52.695651+00:00"
+  },
+  {
+   "id": "20f9e4bc-5789-45d8-8716-45cab3aae8ae",
+   "name": "실리카겔",
+   "category": "단체",
+   "alias": "실겔",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "name_en": "Silica Gel",
+    "group_type": "밴드",
+    "real_name": "실리카겔",
+    "formation_date": "2013",
+    "parent_company": "씨에이엠위더스",
+    "members": "김건재, 김춘추, 김한주, 최웅희",
+    "leader": "김건재",
+    "fandom_name": "자경단",
+    "website": "https://camwus.com/artist/254/",
+    "sns": "https://www.instagram.com/silicagel.official, https://x.com/SILICAGEL_kr, https://www.facebook.com/silicagel, https://www.youtube.com/@SilicaGel",
+    "former_members": "구경모, 강동화, 이대희, 김민영",
+    "awards": "2024년 제15회 대한민국 대중문화예술상 문화체육관광부장관 표창, 2024년 제21회 한국대중음악상 올해의 음악인, 2024년 제21회 한국대중음악상 최우수 모던록 음반상, 2024년 제21회 한국대중음악상 최우수 모던록 노래상, 2023년 제15회 멜론뮤직어워드 베스트 뮤직스타일상, 2023년 제20회 한국대중음악상 최우수 모던록 노래상, 2022년 제19회 한국대중음악상 최우수 모던록 노래상, 2017년 제14회 한국대중음악상 올해의 신인상",
+    "summary": "사이키델릭과 포스트 록, 일렉트로니카 등 다채로운 장르를 넘나드는 독창적이고 실험적인 사운드로 한국 인디 및 밴드 신을 이끄는 4인조 록 밴드.",
+    "sources": [
+     "https://namu.wiki/w/%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94(%EB%B0%B4%EB%93%9C)",
+     "https://ko.wikipedia.org/wiki/%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94_(%EB%B0%B4%EB%93%9C)",
+     "https://camwus.com/artist/254/"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://namu.wiki/w/%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94(%EB%B0%B4%EB%93%9C)",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-23T00:33:53.031136+00:00"
+  },
+  {
+   "id": "76c76a24-d3d5-49b3-b83b-5346a186e258",
+   "name": "International Criminal Court",
+   "category": "단체",
+   "alias": "ICC, CPI, 국제형사재판소, Cour pénale internationale",
+   "disambig": "",
+   "country_tags": [
+    "Netherlands"
+   ],
+   "fields": {
+    "name_en": "International Criminal Court",
+    "org_type": "공공기관",
+    "real_name": "International Criminal Court",
+    "formation_date": "2002-07-01",
+    "hq": "Oude Waalsdorperweg 10, 2597 AK, The Hague, The Netherlands",
+    "founder": "로마 규정 (1998)",
+    "website": "https://www.icc-cpi.int",
+    "sns": "https://www.instagram.com/internationalcriminalcourt, https://x.com/IntlCrimCourt, https://www.facebook.com/InternationalCriminalCourt, https://www.youtube.com/@IntlCriminalCourt",
+    "summary": "집단살해죄, 인도에 반한 죄, 전쟁범죄, 침략범죄 등 국제 사회 전체의 중대한 범죄를 저지른 개인을 기소하고 처벌하기 위해 로마 규정에 따라 설립된 세계 최초의 상설 국제형사재판소.",
+    "sources": [
+     "https://www.icc-cpi.int/",
+     "https://en.wikipedia.org/wiki/International_Criminal_Court",
+     "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C%ED%98%95%EC%82%AC%EC%9E%AC%ED%8C%90%EC%86%8C",
+     "https://namu.wiki/w/%EA%B5%AD%EC%A0%9C%ED%98%95%EC%82%AC%EC%9E%AC%ED%8C%90%EC%86%8C"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "NL.PV28"
+   },
+   "source_url": "https://www.icc-cpi.int/",
+   "links": [
+    {
+     "id": "15dfacaa-9ecb-4fdc-95ff-b1bc3faec803",
+     "category": "장소",
+     "name": "'s-Gravenhage",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-23T00:37:52.652998+00:00"
+  },
+  {
+   "id": "2a5b8f75-33fc-4022-af95-96dbb2442f41",
+   "name": "A2O SOUL",
+   "category": "단체",
+   "alias": "A2O 소울, 에이투오 소울, A20 SOUL",
+   "disambig": "한국의 보이그룹",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "name_en": "A2O SOUL",
+    "real_name": "에이투오 소울",
+    "group_type": "보이그룹",
+    "debut_date": "2026-10-13",
+    "parent_company": "A2O엔터테인먼트",
+    "members": "문, 소라, 서하, 가쿠, 테오, 준, 루시엔, 한성, 타이, 시원, 소노, 알루어, 자이, 에이든, 제트",
+    "sns": "https://x.com/A2O_SOUL, https://www.instagram.com/a2o.soul, https://www.youtube.com/@A2OSOUL, https://www.tiktok.com/@a2o.soul",
+    "website": "https://a2osoul.world",
+    "summary": "이수만이 키 프로듀서인 A2O엔터테인먼트의 15인조 다국적 보이그룹으로, 2026년 10월 13일 선공개곡 「슈퍼스타」로 데뷔했고 11월 9일 첫 앨범 「슈퍼스타」를 낸다.",
+    "sources": [
+     "https://namu.wiki/w/A2O%20SOUL",
+     "https://nocutnews.co.kr/news/6590259",
+     "https://www.stardailynews.co.kr/news/articleView.html?idxno=600309",
+     "https://www.xportsnews.com/article/2207962"
+    ]
+   },
+   "source_url": "https://namu.wiki/w/A2O%20SOUL",
+   "links": [
+    {
+     "id": "8ae37331-572f-43b2-b4a2-36f4ad396b56",
+     "category": "단체",
+     "name": "A2O엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "9448ae0c-9508-4484-be10-38a6f868e297",
+   "name": "FNC엔터테인먼트",
+   "category": "단체",
+   "alias": "FNC, 에프엔씨엔터테인먼트, FNC Entertainment",
+   "disambig": "한국의 연예기획사",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "FNC Entertainment",
+    "real_name": "주식회사 에프엔씨엔터테인먼트",
+    "industry": "연예 매니지먼트·음반 제작",
+    "formation_date": "2006-12-14",
+    "hq": "서울특별시 강남구 도산대로85길 46 (청담동)",
+    "founder": "한성호",
+    "ceo": "한성호, 김유식",
+    "website": "http://www.fncent.com",
+    "listed_on": "코스닥",
+    "subsidiaries": "FNC ENTERTAINMENT JAPAN, FNC아카데미, FNC스토리, FNC프로덕션",
+    "summary": "2006년 한성호가 「피쉬앤케이크뮤직」으로 세워 2012년 이름을 바꾼 연예기획사로, FT아일랜드·씨엔블루·SF9·P1Harmony 등이 속해 있고 2014년 코스닥에 상장했다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q12581039",
+     "https://namu.wiki/w/FNC%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+     "https://ko.wikipedia.org/wiki/FNC엔터테인먼트",
+     "https://thevc.kr/fncentertainment"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12581039",
+   "links": [
+    {
+     "id": "af8ae26d-a708-4b7a-9dbb-f37f95395238",
+     "category": "장소",
+     "name": "청담동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "50e7baeb-01a5-4dbf-8b71-3771332b3e82",
+   "name": "공유",
+   "category": "인물",
+   "alias": "공지철, Gong Yoo",
+   "disambig": "한국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Gong Yoo",
+    "real_name": "공지철",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1979-07-10",
+    "birthplace": "부산광역시",
+    "organization": "매니지먼트 숲",
+    "debut_date": "2001",
+    "debut_work": "학교 4 (2001)",
+    "notable_works": "천천히 강렬하게 (2026), 트렁크 (2024), 고요의 바다 (2021), 쓸쓸하고 찬란하神 - 도깨비 (2016), 부산행 (2016), 커피프린스 1호점 (2007)",
+    "education": "경희대학교 연극영화학과 (학사), 경희대학교 아트퓨전디자인대학원 퍼포밍아트학 (석사)",
+    "awards": "2017 백상예술대상 TV부문 남자 최우수연기상, 2011 청룡영화상 인기스타상, 2007 MBC 연기대상 우수상, 2006 MBC 연기대상 미니시리즈 연기상",
+    "website": "http://www.msoopent.com/page/page.html?acode=S67307161&mcd=02&langs=ko",
+    "sns": "https://www.instagram.com/gongyoo_official",
+    "summary": "부산 출신 배우로 본명은 공지철이며, 2001년 KBS 「학교 4」로 연기를 시작해 「커피프린스 1호점」·「부산행」·「도깨비」 등에 주연으로 출연했다.",
+    "measurements": "184cm",
+    "blood_type": "A형",
+    "religion": "가톨릭(세례명 요셉)",
+    "military_service": "현역",
+    "weight": "74kg",
+    "mbti": "INFJ",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q623436",
+     "https://www.msoopent.com/page/page.html?acode=S67307161&mcd=02&langs=ko",
+     "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%9C%A0_",
+     "http://www.msoopent.com/page/page.html?acode=S67307161&mcd=02&langs=ko",
+     "https://segye.com/newsView/20211201512141",
+     "https://namu.wiki/w/공유",
+     "https://ko.wikipedia.org/wiki/공유_",
+     "https://www.yna.co.kr/view/AKR20261022042200005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q623436",
+   "links": [
+    {
+     "id": "77ab2924-3b04-4e88-b396-b540852fa048",
+     "category": "작품",
+     "name": "천천히 강렬하게",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "b93918e1-515d-49de-a50f-af48fe2538f0",
+     "category": "단체",
+     "name": "매니지먼트 숲",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d",
+     "category": "장소",
+     "name": "부산광역시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "5f8026c3-ab43-4c21-bedb-df6e0436692c",
+   "name": "노희경",
+   "category": "인물",
+   "alias": "Noh Hee-kyung, Noh Hee-gyoung",
+   "disambig": "한국의 드라마 작가",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "작가",
+    "name_en": "Noh Hee-gyoung",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1966-03-21",
+    "birthplace": "경상남도",
+    "organization": "지티스트",
+    "debut_work": "엄마의 치자꽃 (1996)",
+    "notable_works": "천천히 강렬하게 (2026), 우리들의 블루스 (2022), 라이브 (2018), 디어 마이 프렌즈 (2016), 괜찮아, 사랑이야 (2014), 그 겨울, 바람이 분다 (2013)",
+    "education": "서울예술대학 문예창작과",
+    "awards": "2017 백상예술대상 TV부문 극본상, 2004 백상예술대상 TV부문 작품상, 1999 백상예술대상 TV부문 극본상, 1997 백상예술대상 TV부문 대상",
+    "summary": "경남 함양에서 태어난 텔레비전 드라마 작가로, MBC 베스트극장 단막극으로 시작해 「그들이 사는 세상」·「디어 마이 프렌즈」·「우리들의 블루스」 등의 극본을 썼다.",
+    "religion": "불교(법명 금강심)",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q7217619",
+     "https://www.netflix.com/gb/title/81987919",
+     "https://ko.wikipedia.org/wiki/%EB%85%B8%ED%9D%AC%EA%B2%BD",
+     "https://namu.wiki/w/%EB%85%B8%ED%9D%AC%EA%B2%BD",
+     "https://www.segye.com/newsView/20260122504986",
+     "https://ko.wikipedia.org/wiki/노희경",
+     "https://www.yna.co.kr/view/AKR20261022042200005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q7217619",
+   "links": [
+    {
+     "id": "77ab2924-3b04-4e88-b396-b540852fa048",
+     "category": "작품",
+     "name": "천천히 강렬하게",
+     "rel": "CREATED"
+    },
+    {
+     "id": "77ab2924-3b04-4e88-b396-b540852fa048",
+     "category": "작품",
+     "name": "천천히 강렬하게",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "be9cd81d-ced6-4424-868c-e3a1b1cd9192",
+     "category": "장소",
+     "name": "경상남도",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "7638582a-2f86-465d-9250-ea8d9548d896",
+     "category": "허브",
+     "name": "한국 작가",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "543a82f1-8824-4b6a-bce0-1da716b0d5dc",
+   "name": "바보",
+   "category": "단체",
+   "alias": "BABO",
+   "disambig": "한국의 가면 밴드",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "name_en": "BABO",
+    "real_name": "바보",
+    "group_type": "밴드",
+    "parent_company": "두루두루 아티스트 컴퍼니",
+    "members": "치킨, 도그, 불",
+    "summary": "멤버 셋이 가면을 쓰고 활동하는 신비주의 밴드로, 2024년 12월 정규 1집 「비」를 냈고 2026년 10월 22일 정규 2집 「비 에이비 오」를 발표했다.",
+    "sources": [
+     "https://korean-vibe.com/news/newsview.php?ncode=179545311629432",
+     "https://korean-vibe.com/news/newsview.php?ncode=179543404705872"
+    ]
+   },
+   "source_url": "https://korean-vibe.com/news/newsview.php?ncode=179545311629432",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "39fbe6ee-511e-45b1-be77-62774586aa7c",
+   "name": "송혜교",
+   "category": "인물",
+   "alias": "Song Hye-kyo",
+   "disambig": "한국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Song Hye-kyo",
+    "gender": "여성",
+    "nationality": "대한민국",
+    "birth_date": "1981-11-22",
+    "birthplace": "대구광역시",
+    "debut_date": "1996",
+    "notable_works": "천천히 강렬하게 (2026), 검은 수녀들 (2025), 더 글로리 (2022), 지금 헤어지는 중입니다 (2021), 태양의 후예 (2016), 그 겨울, 바람이 분다 (2013)",
+    "education": "세종대학교 영화예술학과 (중퇴)",
+    "awards": "2023 백상예술대상 TV부문 여자 최우수연기상, 2023 청룡시리즈어워즈 대상, 2016 KBS 연기대상 대상, 2013 에이판 스타 어워즈 대상",
+    "sns": "https://www.instagram.com/kyo1122",
+    "summary": "대구에서 태어나 1996년 교복 모델 선발대회 대상으로 연예계에 들어온 배우로, 「태양의 후예」·「더 글로리」 등에 주연으로 출연했다.",
+    "measurements": "161cm",
+    "blood_type": "A형",
+    "weight": "45kg",
+    "mbti": "INFJ",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q1080180",
+     "https://www.netflix.com/gb/title/81987919",
+     "https://ko.wikipedia.org/wiki/%EC%86%A1%ED%98%9C%EA%B5%90",
+     "https://namu.wiki/w/%EC%86%A1%ED%98%9C%EA%B5%90",
+     "https://www.segye.com/newsView/20260122504986",
+     "https://ko.wikipedia.org/wiki/%EC%86%A1%ED%98%9C%EA%B5%90%EC%9D%98_%EC%88%98%EC%83%81_%EB%B0%8F_%ED%9B%84%EB%B3%B4_%EB%AA%A9%EB%A1%9D",
+     "https://namu.wiki/w/송혜교",
+     "https://www.yna.co.kr/view/AKR20261022042200005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q1080180",
+   "links": [
+    {
+     "id": "77ab2924-3b04-4e88-b396-b540852fa048",
+     "category": "작품",
+     "name": "천천히 강렬하게",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "5e3d0a39-11ae-42c9-ac4b-509b5cd63184",
+     "category": "작품",
+     "name": "검은 수녀들",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "44215e3d-3c20-4168-929c-552fe86092d8",
+     "category": "장소",
+     "name": "대구광역시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "8dbb9edf-2eb5-467c-93ec-a62737d8c4a9",
+   "name": "위댐보이즈",
+   "category": "단체",
+   "alias": "WE DEM BOYZ, WDBZ",
+   "disambig": "한국의 퍼포먼스 크루",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "name_en": "WE DEM BOYZ",
+    "real_name": "위댐보이즈",
+    "group_type": "퍼포먼스 크루",
+    "parent_company": "에이라(ARA, Artistic Round Alliance)",
+    "members": "경남, 왕경식, 바타, 해성, 영빈, 도프한, 카멜, 인규, 노안, 호준, 아홉, 백두산, 지미",
+    "leader": "바타",
+    "sns": "https://www.instagram.com/team_wedemboyz, https://www.youtube.com/@TEAMWEDEMBOYZ, https://www.tiktok.com/@wedemboyz_official, https://x.com/WDBZ_officialx",
+    "awards": "2022 Mnet 스트릿 맨 파이터 준우승; 2025 Choreo Awards 베스트 K팝 안무상",
+    "summary": "Mnet 「스트릿 맨 파이터」 준우승 댄스 크루로, 지드래곤·제니 등의 안무를 맡아 왔고 2026년 11월 9일 첫 싱글 「시네마」를 낸다.",
+    "sources": [
+     "https://namu.wiki/w/위댐보이즈",
+     "https://korean-vibe.com/news/newsview.php?ncode=179550006104402",
+     "https://www.koreajoongangdaily.com/entertainment/kpop-dance-crew-we-dem-boyz-turns-to-music-with-debut-single-cinema/12933775",
+     "https://www.etoday.co.kr/news/view/2639016"
+    ]
+   },
+   "source_url": "https://namu.wiki/w/위댐보이즈",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "9a910480-9c4a-4ebe-8858-36b198aa9f94",
+   "name": "이진욱",
+   "category": "인물",
+   "alias": "Lee Jin-uk, Lee Jin-wook",
+   "disambig": "한국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "배우",
+    "name_en": "Lee Jin-uk",
+    "gender": "남성",
+    "nationality": "대한민국",
+    "birth_date": "1981-09-16",
+    "birthplace": "충청북도",
+    "organization": "BH엔터테인먼트",
+    "debut_date": "2003",
+    "notable_works": "언내추럴 (2027), 에스콰이어: 변호사를 꿈꾸는 변호사들 (2025), 오징어 게임 시즌 3 (2025), 검은 수녀들 (2025), 나의 해리에게 (2024), 스위트홈 (2020), 나인: 아홉 번의 시간여행 (2013)",
+    "education": "청주대학교 환경공학과 (중퇴)",
+    "awards": "2018 A-Awards Passion 부문, 2013 Mnet 20's Choice 핫 드라마 스타 남자 부문, 2006 SBS 연기대상 뉴스타상",
+    "sns": "https://www.instagram.com/jinuk0916",
+    "summary": "청주 출신 배우로 2003년 광고 모델로 연예계에 들어왔고, 「나인: 아홉 번의 시간여행」·「스위트홈」·「오징어 게임」 시즌 2·3 등에 출연했다.",
+    "measurements": "185cm",
+    "blood_type": "A형",
+    "religion": "가톨릭(세례명 천주의 성 요한)",
+    "military_service": "현역",
+    "weight": "71kg",
+    "mbti": "ENTP",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q484021",
+     "https://namu.wiki/w/%EC%9D%B4%EC%A7%84%EC%9A%B1",
+     "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84%EC%9A%B1",
+     "https://tvreport.co.kr/breaking/article/1061490/",
+     "https://namu.wiki/w/이진욱",
+     "https://ko.wikipedia.org/wiki/이진욱",
+     "https://www.yna.co.kr/view/AKR20261022054600005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q484021",
+   "links": [
+    {
+     "id": "5e3d0a39-11ae-42c9-ac4b-509b5cd63184",
+     "category": "작품",
+     "name": "검은 수녀들",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "8ebdcce2-d86a-40a1-92ae-0ab743d808e3",
+     "category": "장소",
+     "name": "충청북도",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "0939de3e-dbd9-4466-a351-f70fad87e927",
+     "category": "단체",
+     "name": "BH엔터테인먼트",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "7661417a-3b7b-4517-8904-d9ebbf546955",
+   "name": "플라이투더스카이",
+   "category": "단체",
+   "alias": "플라이 투 더 스카이, Fly to the Sky, 플투스",
+   "disambig": "한국의 R&B 듀오",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "name_en": "Fly to the Sky",
+    "real_name": "플라이 투 더 스카이",
+    "group_type": "듀오",
+    "debut_date": "1999-11-21",
+    "members": "환희, 브라이언",
+    "fandom_name": "플라이 하이",
+    "sns": "https://www.instagram.com/ftts_official/, https://www.facebook.com/FLYTOTHESKYofficial, https://www.youtube.com/@FLYTOTHESKYofficial",
+    "awards": "2000 SBS 가요대전 신인상; 2003 제9회 코리안 뮤직 어워드 R&B 부문(Missing You); 2007 제14회 대한민국 연예예술상 발라드 부문(No Limitations); 2014 제6회 멜론 뮤직 어워드 R&B/소울 부문(CONTINUUM)",
+    "summary": "1999년 SM엔터테인먼트에서 데뷔한 환희·브라이언의 남성 R&B 듀오로, 2026년 12월 대구·고양에서 8년 만의 단독 전국투어 「2026 FLY TO THE SKY TOUR : II」를 연다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q483756",
+     "https://ko.wikipedia.org/wiki/플라이_투_더_스카이",
+     "https://namu.wiki/w/플라이%20투%20더%20스카이",
+     "https://nocutnews.co.kr/news/6595607",
+     "https://www.topstarnews.net/news/articleView.html?idxno=16254377"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q483756",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  },
+  {
+   "id": "1053a92c-80e6-4cbc-881f-f2a997c19fe3",
+   "name": "허클베리핀",
+   "category": "단체",
+   "alias": "허클베리 핀, Huckleberry Finn",
+   "disambig": "한국의 록 밴드",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "name_en": "Huckleberry Finn",
+    "real_name": "허클베리핀",
+    "group_type": "밴드",
+    "formation_date": "1997",
+    "parent_company": "샤레이블",
+    "members": "이기용, 이소영, 성장규",
+    "leader": "이기용",
+    "sns": "https://www.instagram.com/band__huckleberryfinn/, https://www.facebook.com/HuckleberryFinn.Band/, https://www.youtube.com/user/shalabel/, https://www.linktr.ee/huckleberryfinn/",
+    "awards": "2008 한국대중음악상 최우수 모던록 음반(4집 「환상... 나의 환멸」); 2011 Daum 이매진 어워드 올해의 음반(5집 「까만 타이거」)",
+    "summary": "1997년 결성된 1세대 인디 록 밴드로, 2026년 10월 23일 7집 이후 약 4년 만의 정규 8집 「모두가 아는 이야기」를 냈다.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/허클베리_핀_",
+     "https://namu.wiki/w/허클베리핀",
+     "https://www.thedailypost.kr/news/articleView.html?idxno=116360"
+    ]
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/허클베리_핀_",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-23T01:43:26.022031+00:00"
+  }
+ ],
+ "bulk_added": []
+}

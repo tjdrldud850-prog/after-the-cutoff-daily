@@ -1,0 +1,3563 @@
+{
+ "date": "2026-10-24",
+ "timezone": "Asia/Seoul",
+ "exported_at": "2026-11-03T23:50:29+00:00",
+ "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
+ "counts": {
+  "updates": 106,
+  "new_planets": 14,
+  "bulk_added": 0
+ },
+ "updates": [
+  {
+   "id": "2af37780-003b-4806-ac40-51b8c895b32b",
+   "title": "10월 소비자심리 5개월 만에 최저",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "미시간대 10월 소비자심리지수 확정치 48.0",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023188500072",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "c135563b-c070-4f77-a4dc-7c3fcd7ae7a5",
+   "title": "13년 만의 방한",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "4283e897-951a-4e3a-ba8d-370c86215174",
+     "category": "인물",
+     "name": "Justin Bieber"
+    }
+   ],
+   "summary": "아내 헤일리 비버와 예고 없이 서울 방문, 성수동 패션 브랜드 스카이라크(SKYLRK) 팝업 스토어(10-22~10-25) 방문",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "스카이라크 성수동 팝업 스토어",
+     "id": null
+    },
+    {
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023130700005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "9e805fe5-ac9a-4af4-8ce2-8fc9b84eebc5",
+   "title": "2026 강원 펫메이커 페스타",
+   "type": "행사",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "f6147fd9-b6bc-49dd-8442-56a7a85e4225",
+     "category": "장소",
+     "name": "사천면"
+    }
+   ],
+   "summary": "10-23~24 강원도 반려동물지원센터, 반려동물 기업 17곳",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "강원도 반려동물지원센터",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023138400062",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "f8102658-9f3f-4545-8f34-dcc1881e9b77",
+   "title": "2026 독서 인문 주간",
+   "type": "행사",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "2fe09321-a0ad-46d6-91de-13af845996e5",
+     "category": "장소",
+     "name": "울산광역시"
+    }
+   ],
+   "summary": "10-24~10-30 울산교육청 · 울산어린이독서체험관, 명사 특강 · 낭독 대회",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "울산어린이독서체험관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023074700057",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "347d1aa1-a7eb-4866-90c8-7bd7c3b77d67",
+   "title": "2026 순천 국제포럼",
+   "type": "행사",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "dc57fd79-5a23-4e5c-a3b1-eff977691489",
+     "category": "장소",
+     "name": "순천시"
+    }
+   ],
+   "summary": "10-26~10-27 에코그라드호텔, 「순천: 자연에서 미래로」",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "에코그라드호텔",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023112300054",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "0974f18c-de43-445f-96f9-953e8fd5f864",
+   "title": "2026 입법 박람회",
+   "type": "행사",
+   "date": "2026-11-05",
+   "parent": [
+    {
+     "id": "73dc5064-aa36-43f3-8393-54fb4ce7b203",
+     "category": "장소",
+     "name": "여의도동"
+    }
+   ],
+   "summary": "11-05~11-06 국회 중앙잔디광장, 경제 · 문화 · 미래 · 입법존",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "국회 중앙잔디광장",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023109800001",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "d9adc9fa-9f45-4a4a-b8ee-63f2320d5c5d",
+   "title": "2026 창극 작가 프로젝트 시연회",
+   "type": "행사",
+   "date": "2026-11-07",
+   "parent": [
+    {
+     "id": "ca816910-7ab5-49d7-bd19-d8b6d44e2a39",
+     "category": "장소",
+     "name": "중구"
+    }
+   ],
+   "summary": "11-07~11-08 국립극장 하늘극장, 국립창극단 신진 작가 4인",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "국립극장",
+     "id": "d87d9765-c892-4236-aa2d-fbb562ec3cac"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023085800005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "e0d856a3-f0b1-42ae-a4ff-32aec3eafaec",
+   "title": "2027 동아시아 문화도시 선정",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "fd421bb1-1f6c-4bcc-9431-1b79e594aedb",
+     "category": "장소",
+     "name": "밀양시"
+    }
+   ],
+   "summary": "문체부 공모에서 2027년 동아시아 문화도시 한국 대표도시로 선정, 3년간 국비 10억5천만 원",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023149200052",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "d17e5027-7706-49b3-8b29-347a24139c89",
+   "title": "2027 제9회 세계인문학포럼 공동 개최지",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "94e9d434-c6e6-407f-b38c-e6202ad96813",
+     "category": "장소",
+     "name": "포천시"
+    }
+   ],
+   "summary": "성남시와 공동 개최지로 선정, 2027년 10월 말~11월 초",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023113000060",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "bf5e77e0-4994-4afc-9196-d74841b73f5f",
+   "title": "Circle",
+   "type": "싱글",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "ac72df10-6f00-44c4-a4fa-dd5c69c322fd",
+     "category": "인물",
+     "name": "김필"
+    }
+   ],
+   "summary": "정규 2집 「JOURNEY」 선공개곡, 작사 · 작곡 참여",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023068200005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "20adca06-d162-41a0-88ef-b8f1667c2fba",
+   "title": "Confessions of a Lonely Heart",
+   "type": "앨범",
+   "date": "2026-10-16",
+   "parent": [
+    {
+     "id": "3e61c98f-befe-48c0-86f9-032a5b835cfc",
+     "category": "인물",
+     "name": "에릭남"
+    }
+   ],
+   "summary": "3년 만의 정규 4집, 타이틀 「사이코」 포함 9곡",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023105100005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "de47eb38-6997-44d5-954e-7aa245bcc5df",
+   "title": "DESERVE",
+   "type": "싱글",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "1303de6b-3d26-4843-bb6f-d054464074fa",
+     "category": "단체",
+     "name": "베이비몬스터"
+    }
+   ],
+   "summary": "팝 발라드 디지털 싱글",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023047000005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "4ac31812-6eb0-46e3-8839-36340fcaeba8",
+   "title": "JOURNEY",
+   "type": "앨범",
+   "date": "2026-10-29",
+   "parent": [
+    {
+     "id": "ac72df10-6f00-44c4-a4fa-dd5c69c322fd",
+     "category": "인물",
+     "name": "김필"
+    }
+   ],
+   "summary": "정규 2집. 11-14~11-15 블루스퀘어 우리WON뱅킹홀 콘서트 「JOURNEY」",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "블루스퀘어",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023068200005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "7e4a92d4-f7ec-47a4-8f65-7c9574a9f44e",
+   "title": "KTX · SRT 통합 뒤 부사관 · 군무원 운임 할인 폐지",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "고속철도 통합 과정에서 SRT 가 주던 장교 · 부사관 · 군무원 5% 할인이 없어짐",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023181600063",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "c13fdf57-bdf1-4bf1-b37a-7dc06ec4956f",
+   "title": "Love Me Hard",
+   "type": "싱글",
+   "date": "2026-10-30",
+   "parent": [
+    {
+     "id": "129a72ca-8d29-42e8-bb02-610f9ba06da2",
+     "category": "인물",
+     "name": "폴킴"
+    }
+   ],
+   "summary": "첫 미국 싱글, 영어 팝",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023083000005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "1fbf0cc7-d8aa-4f79-a661-3e87d86b7974",
+   "title": "PRESS PLAY",
+   "type": "미니앨범",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "633e546d-827a-4e84-84a6-40f3236f14fb",
+     "category": "인물",
+     "name": "리사"
+    }
+   ],
+   "summary": "미니앨범, 타이틀 「타란티노」 · 선공개곡 「사와디카」 포함 6곡. 10-22 성수동 리스닝 파티",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023127300005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "1565fa7d-2bfa-4bbb-b0a9-ffa67dd4e03b",
+   "title": "SIDC 포스트 APEC 공연 「연경당 진작례」",
+   "type": "행사",
+   "date": "2026-10-29",
+   "parent": [
+    {
+     "id": "f22c280f-8e1b-4fc0-b277-e4b1b023f7f3",
+     "category": "장소",
+     "name": "광진구"
+    }
+   ],
+   "summary": "10-29 나루아트센터, 1828년 창덕궁 진작례 복원 공연",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "나루아트센터",
+     "id": "6f82a546-547d-465b-99de-4e1d243499e1"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023062300005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "669ca49e-afac-45d9-8336-545ac4f702ef",
+   "title": "WHO 사무총장과 헌혈 캠페인 면담",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "99efd09a-70b3-47f8-bfa6-9e05b088daed",
+     "category": "단체",
+     "name": "엔하이픈"
+    }
+   ],
+   "summary": "하이브 용산 사옥에서 테드로스 WHO 사무총장과 만나 헌혈 장려 활동 성과를 나눔",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "하이브 용산 사옥",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023048800005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "0ed794c5-841b-4cc4-af29-2c93d9a3a946",
+   "title": "「2.0」 뮤직비디오 2억 뷰",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "94266f27-5abe-4ee1-ad0b-703230ec364d",
+     "category": "단체",
+     "name": "방탄소년단"
+    }
+   ],
+   "summary": "정규 5집 「아리랑」 수록곡 「2.0」 뮤직비디오 유튜브 2억 뷰, 수록곡 중 가장 빠름",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023056300005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "0a1dc2d3-20b7-4610-bd49-e7584811a558",
+   "title": "「3D」 뮤직비디오 3억 뷰",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "875f2995-36e1-43e7-9b2b-caa5a57da3c3",
+     "category": "인물",
+     "name": "정국"
+    }
+   ],
+   "summary": "두 번째 솔로 싱글 「3D」 뮤직비디오 유튜브 3억 뷰 돌파, 「Seven」에 이어 솔로 두 번째",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023106500005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "5362ecb1-8874-4cdf-ae5e-cbb84d3023b4",
+   "title": "「춤이 말하다: 문소리x리아킴」",
+   "type": "기타",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "8b47a053-6f4c-4c9e-af00-b0f5a8034d17",
+     "category": "인물",
+     "name": "문소리"
+    }
+   ],
+   "summary": "10-24 울주문화예술회관 그린나래홀, 안무가 리아킴과 첫 협연 렉처 퍼포먼스",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "울주문화예술회관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023112700057",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "0ff2bc8c-a967-4456-9211-70b964a603a4",
+   "title": "「춤이 말하다: 문소리x리아킴」",
+   "type": "행사",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "40308d20-1fc3-4024-a200-37ba830f2ef4",
+     "category": "장소",
+     "name": "울주군"
+    }
+   ],
+   "summary": "10-24 17시 울주문화예술회관 그린나래홀",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "울주문화예술회관",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "문소리",
+     "id": "8b47a053-6f4c-4c9e-af00-b0f5a8034d17"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023112700057",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "13ccc1e7-8a2a-4fd9-908b-9f33f770a5c5",
+   "title": "가족뮤지컬 「푸른 사자 와니니」 실황 상영",
+   "type": "행사",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "482e1c92-a68a-49bb-885f-9ff7e3a144f1",
+     "category": "장소",
+     "name": "나주시"
+    }
+   ],
+   "summary": "10-31 15시 나주문화예술회관, 이현 동화 원작 창작뮤지컬 실황영상",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "나주문화예술회관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023080100054",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "f5d3ac01-2ecb-4b2b-ae33-be3004191113",
+   "title": "개봉",
+   "type": "개봉·방영",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "504d0be5-125c-44f5-8deb-707931f5f3a2",
+     "category": "작품",
+     "name": "메릴 스트립 프로젝트"
+    }
+   ],
+   "summary": "박효선 감독이 10년에 걸쳐 완성한 다큐멘터리 개봉",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023058100005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "f9402aa4-1ecb-4261-9877-d731f8477882",
+   "title": "개봉 · 박스오피스 2위",
+   "type": "개봉·방영",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "3716ccac-1edc-404e-b9f7-f6bfcaadac55",
+     "category": "작품",
+     "name": "실낙원"
+    }
+   ],
+   "summary": "10-21 개봉, 10-22 관객 1만4천여 명(12.6%)으로 2위",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023045100005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "99377518-5f74-4e07-9453-8ac68791744e",
+   "title": "건국대 비대면 중간고사 AI 부정행위 의혹 · 대면 재시험",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "f22c280f-8e1b-4fc0-b277-e4b1b023f7f3",
+     "category": "장소",
+     "name": "광진구"
+    }
+   ],
+   "summary": "교양과목 수강생 600여 명 대면 재시험",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "건국대학교",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023179800004",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "68859418-e3ea-48d2-8160-1f11dabbfcaa",
+   "title": "경기 버스노조 파업 가결",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "471e81e8-a77b-4a26-8bb2-d7ac246ee8b9",
+     "category": "장소",
+     "name": "경기도"
+    }
+   ],
+   "summary": "찬성 97.7%, 10-29 최종 조정 결렬 시 10-30 첫차부터 파업",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023136100061",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "245a6581-723c-4024-9904-48a133de316b",
+   "title": "경제회복지원금 1인 30만 원 조례 통과",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "9499fae1-fb4c-4d60-8c61-d54da4d73059",
+     "category": "장소",
+     "name": "당진시"
+    }
+   ],
+   "summary": "내년 설 전 지급 목표",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023160900063",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "379c13d1-90bc-4715-8c97-a88fc3ac7c5e",
+   "title": "골든 트레일 월드 시리즈(GTWS) 결승전 2026",
+   "type": "행사",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "620d0d38-ca45-403b-93e6-e0da913b6bc5",
+     "category": "장소",
+     "name": "무주군"
+    }
+   ],
+   "summary": "10-24~10-25 덕유산 일대, 한국 첫 개최 · 30개국 3천여 명",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "덕유산",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023072200055",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "e7bb2538-e944-424c-9fdb-bef65689a7cd",
+   "title": "공원 8곳 새 이름 공모",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "b9a00705-8762-4249-a8ed-b6fd07736c64",
+     "category": "장소",
+     "name": "동작구"
+    }
+   ],
+   "summary": "사육신공원 머슬파크 · 흑석3구역 근린공원 등 8곳, 11-01 18시까지 접수 · 11-18 발표",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023125100004",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "df3ccb20-f72b-4bf0-a7e5-19fe6434277a",
+   "title": "광원리 은행나무숲 단풍 절정",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "acb87e13-8d2a-4e8c-9707-13f34e7fa872",
+     "category": "장소",
+     "name": "내면"
+    }
+   ],
+   "summary": "은행나무 2천여 그루, 매년 10월 무료 개방",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "은행나무숲",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023076400062",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "5e1fd808-6697-40c5-ae28-1f2da71dd989",
+   "title": "국가안전국 「중국 선거 개입 사건 약 100건」",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "4e0100e1-255f-4c79-99fe-44a4302ffcdc",
+     "category": "국가",
+     "name": "Taiwan"
+    }
+   ],
+   "summary": "11-28 지방선거 앞두고 불법 자금 · 관광 접대 · 허위정보 등 6가지 수법",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "China",
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023117900009",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "0703cbe9-f898-400a-9936-3d0d32faaf8c",
+   "title": "국가유산청장 「종묘 세계유산 지위 상실 두렵다」",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "95ee6ece-db01-495d-b63c-37c504ff65d4",
+     "category": "장소",
+     "name": "종로구"
+    }
+   ],
+   "summary": "국정감사에서 종묘 앞 세운4구역 재개발이 세계유산 지위에 영향 줄 수 있다고 우려",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "종묘",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023176800005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "5155b8dd-e8ec-4c02-a026-901557749906",
+   "title": "군산시간여행축제 피너클 어워드 은상",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "d7e2ece8-ecf4-4f19-8bc2-1592b94e5128",
+     "category": "장소",
+     "name": "군산시"
+    }
+   ],
+   "summary": "세계축제협회 2026 피너클 어워드 모바일 앱 · 반응형 웹사이트 부문 은상",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023112000055",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "3201f3f9-5fcb-42e5-b3b1-f3af5eaea04d",
+   "title": "궁궐 호위군 사열 의식 「첩종」",
+   "type": "행사",
+   "date": "2026-10-30",
+   "parent": [
+    {
+     "id": "eaf46a17-96a2-4ab6-9146-7d5c9e70866b",
+     "category": "장소",
+     "name": "세종로"
+    }
+   ],
+   "summary": "10-30~11-01 경복궁 흥례문 광장",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "경복궁",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023057100005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "525b29a1-7e9f-48de-a631-8804b3cad617",
+   "title": "널",
+   "type": "OST",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "b5c85a44-338f-4f48-9850-fba53a97e90d",
+     "category": "인물",
+     "name": "이소라"
+    }
+   ],
+   "summary": "tvN 토일 드라마 「100일의 거짓말」 OST, 클래식 발라드",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023064300005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "682b4bce-b9a0-421d-8f28-7a4c1ac6beb2",
+   "title": "다시, 육거리 리크로싱 2.0",
+   "type": "행사",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "36898709-c1ac-4c04-867b-6d9f9f4f8685",
+     "category": "장소",
+     "name": "북구"
+    }
+   ],
+   "summary": "10-24~11-15 포항 원도심 중앙상가 · 육거리 빈 상가에서 50개 팀 전시 · 체험, 한동대 주최",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "중앙상가",
+     "id": null
+    },
+    {
+     "name": "육거리",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023144800053",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "af3d94c7-6997-4808-a28a-438105131310",
+   "title": "대전의료원 건립 내년 착공",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "99ba224e-eb65-4c4e-988f-51f774adcc27",
+     "category": "장소",
+     "name": "동구"
+    }
+   ],
+   "summary": "용운동 선량지구, 319병상 · 지하 2층 지상 7층",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023098000063",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "36be6121-cf0d-4440-ad66-0d2e80fdc6cd",
+   "title": "던스트 글로벌 앰배서더",
+   "type": "협업",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "6fe2cbb7-c980-4d2a-9843-f6c460ca3d32",
+     "category": "인물",
+     "name": "설윤"
+    }
+   ],
+   "summary": "LF 자회사 씨티닷츠의 패션 브랜드 던스트 글로벌 앰배서더, 2026 겨울 컬렉션 캠페인",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023056000030",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "f124773f-7798-495e-b1ed-0a187beabfb9",
+   "title": "딴짓축제",
+   "type": "축제",
+   "date": "2026-11-07",
+   "parent": [
+    {
+     "id": "ea909808-d38c-4ae2-ade7-965cde437e5c",
+     "category": "장소",
+     "name": "가덕면"
+    }
+   ],
+   "summary": "11-07 충북문화예술복합시설(옛 자치연수원) 일원, 충북도 · 충북문화재단",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "충북문화예술복합시설",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023156100064",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "0eabfb8a-0f9f-4db2-94a3-d1502830180b",
+   "title": "러시아산 경유 첫 미국행",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "fcf45173-26eb-468e-a18b-3c98124376a5",
+     "category": "국가",
+     "name": "Russia"
+    }
+   ],
+   "summary": "미국 대러 석유수출 제재 완화 뒤 프리모르스크항에서 경유 4만 t 선적, 11-07 뉴욕 도착 예정",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "United States",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023169451109",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "831e7e41-6059-4b2f-bf7e-dcb511def9eb",
+   "title": "록히드마틴 F-35 850대 10년 공급 합의",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "미 국방부와 10년간 F-35 850대 이상 공급 합의(의회 승인 필요)",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023125200009",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "f16e95bd-76ce-49a0-b5fc-ece810466cf3",
+   "title": "릴레이 골목축제",
+   "type": "축제",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "a953b0b6-debe-4200-ab14-65e8da833b8f",
+     "category": "장소",
+     "name": "남구"
+    }
+   ],
+   "summary": "10-23~24 삼호동 궁거랑 낭만축제부터 무거동 · 팔등로 · 달동먹자골목(11-07) · 장생포(11-14~)까지",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "궁거랑",
+     "id": null
+    },
+    {
+     "name": "달동먹자골목",
+     "id": null
+    },
+    {
+     "name": "장생포 고래문화특구",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023140300057",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "c5da2dd7-14ad-4342-bb99-3b99f76a4916",
+   "title": "마당극 「마방진」",
+   "type": "행사",
+   "date": "2026-10-29",
+   "parent": [
+    {
+     "id": "a360cbf2-412c-464f-8cea-a84768f32db8",
+     "category": "장소",
+     "name": "진천군"
+    }
+   ],
+   "summary": "10-29 진천예술의전당 진아트홀, 조선 수학자 최석정 소재",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "진천예술의전당",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023070000064",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "f74c7ee0-c0dd-4339-88ca-859b0fb9ec55",
+   "title": "마산가고파국화축제 시티투어 특별노선",
+   "type": "뉴스",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "6cc78e43-34d6-4ab3-82db-e09508c43ec1",
+     "category": "장소",
+     "name": "창원시"
+    }
+   ],
+   "summary": "제26회 마산가고파국화축제(10-31~11-08) 기간 하루 1회, 마산역~3·15해양누리공원~로봇랜드~저도 콰이강의 다리",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "3·15해양누리공원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023135400052",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "9607363c-5cfc-492d-8658-dea746809f77",
+   "title": "매각 우선협상대상자에 다우키움그룹",
+   "type": "인수합병",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "4c1c69e0-ead5-4f26-8a8a-842096f72d16",
+     "category": "단체",
+     "name": "문학동네"
+    }
+   ],
+   "summary": "최대주주 강병선 창립자가 인수의향서 4곳 중 다우키움그룹을 우선협상대상자로 선정, 매각까지 수개월",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {
+    "counterpart": [
+     {
+      "name": "다우키움그룹",
+      "id": "9a219d29-4fe8-4de7-b09f-89750956de03"
+     }
+    ]
+   },
+   "url": "https://www.yna.co.kr/view/AKR20261023174800005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "9985e7de-ae7b-4b7f-83df-d65ff1c130be",
+   "title": "문학동네 인수 우선협상대상자 선정",
+   "type": "인수합병",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "9a219d29-4fe8-4de7-b09f-89750956de03",
+     "category": "단체",
+     "name": "다우키움그룹"
+    }
+   ],
+   "summary": "중앙일보 경영권 인수 우선협상대상자에 이어 출판사 문학동네 우선협상대상자로",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {
+    "counterpart": [
+     {
+      "name": "문학동네",
+      "id": "4c1c69e0-ead5-4f26-8a8a-842096f72d16"
+     }
+    ]
+   },
+   "url": "https://www.yna.co.kr/view/AKR20261023174800005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "75e60e6d-d762-4f95-939f-6a8494fc73e3",
+   "title": "반크 「글로벌 독도 AI 홍보대사」 캠페인",
+   "type": "뉴스",
+   "date": "2026-10-25",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "독도의 날 맞아 생성형 AI 의 독도 답변을 점검 · 시정하는 캠페인 시작",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023141800371",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "db562bef-cd94-4883-9a56-cf146f7caacc",
+   "title": "별세",
+   "type": "뉴스",
+   "date": "2026-10-17",
+   "parent": [
+    {
+     "id": "377b94fc-9150-4708-8f6e-da376dd2106a",
+     "category": "인물",
+     "name": "Ryu Murakami"
+    }
+   ],
+   "summary": "향년 74세, 가족장. 교도통신 · NHK 가 10-23 보도",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023093351073",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "278aec62-3ec1-4eff-b3c8-b3b10c83d1d2",
+   "title": "별세",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "7d940416-29c0-4552-944c-a11d523594cf",
+     "category": "인물",
+     "name": "Tom Skerritt"
+    }
+   ],
+   "summary": "향년 93세, 자연사(유족). 「탑건」 · 「에일리언」",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023048600009",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "88288e8b-7153-4271-bf37-4a21f6e9e97b",
+   "title": "볼보, 2,500명 추가 감원",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "8485e4d2-24f2-4a94-8184-e0a4b241e518",
+     "category": "국가",
+     "name": "Sweden"
+    }
+   ],
+   "summary": "중국 판매 급감 · 미국 관세로 3분기 순손실 57억 크로나, 스웨덴 2천 명 등 인력 6% 감축",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023162100098",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "54b12ff9-f948-4c5c-ac42-f933faf5cd86",
+   "title": "북한 IT 위장취업 관련 2명 · 2개사 제재",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "c4bff90c-cf18-4fcc-bf8f-2a4b9ef5fa2c",
+     "category": "국가",
+     "name": "Australia"
+    }
+   ],
+   "summary": "북한 무기 개발 자금을 대는 해외 IT 위장취업을 도운 북한인 2명 금융제재 · 입국금지, 회사 2곳 제재",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.rfi.fr/en/international-news/20261023-australia-sanctions-north-koreans-over-fraudulent-it-work-cybercrime",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "fac23007-13d7-40d8-8028-65452cd94853",
+   "title": "북한 대남 확성기 방송 재개 예고에 비상 대응",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "775eff07-2820-45cd-b391-ccee287f2ea8",
+     "category": "장소",
+     "name": "김포시"
+    }
+   ],
+   "summary": "월곶면 · 하성면 등 접경지 중심 비상 대응체계",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023148200065",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "5be3d10f-a5b2-45fb-8aa4-b720f17a28c0",
+   "title": "북항 상어 「부캉이」 · 앞바다 기름유출",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "020b3ca3-53a1-4876-92f1-2ebdd8f52169",
+     "category": "장소",
+     "name": "동구"
+    }
+   ],
+   "summary": "북항 친수공원 인공 수로 주변 상어 부캉이가 장시간 보이지 않고, 북항 앞바다 기름유출",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "북항 친수공원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023093451051",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "26c33968-45e7-4516-a6e9-27d36934f115",
+   "title": "산림유전자원보호구역 10선",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "산림청 첫 선정 — 점봉산 곰배령 · 발왕산 · 무릉계곡 · 성인봉 · 소광리 · 안면도 · 불회사 · 천관산 · 진도 죽림 해송림 등",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "점봉산 곰배령",
+     "id": null
+    },
+    {
+     "name": "발왕산",
+     "id": null
+    },
+    {
+     "name": "무릉계곡",
+     "id": null
+    },
+    {
+     "name": "성인봉",
+     "id": null
+    },
+    {
+     "name": "소광리",
+     "id": null
+    },
+    {
+     "name": "안면도",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023080000063",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "aeb72ccf-b33b-47a2-b9c4-a0d8edb0846a",
+   "title": "상동광산 32년 만에 재가동",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "9917363f-d450-42cb-ba15-6bf6ea3676e4",
+     "category": "장소",
+     "name": "영월군"
+    }
+   ],
+   "summary": "옛 대한중석 상동광산, 2016년 재개발 뒤 새 갱도 5.1km — 핵심광물 공급망 거점",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "상동광산",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023161100062",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "cfac1818-0f68-46e5-b841-5fc981881dfc",
+   "title": "서울 웰니스 관광 100선에 강남 26곳",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "fcdd9286-75c2-487a-9274-58bab3fcc6d5",
+     "category": "장소",
+     "name": "강남구"
+    }
+   ],
+   "summary": "강남메디컬투어센터 · 봉은사 · 선정릉 · 양재천수변문화쉼터 · 코리아나화장박물관 등 26곳 선정",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "강남메디컬투어센터",
+     "id": null
+    },
+    {
+     "name": "봉은사",
+     "id": null
+    },
+    {
+     "name": "선정릉",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023075000004",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "c81c20ee-08e6-4a85-83d9-53bccd84610b",
+   "title": "서울아레나 공정률 81%",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "6f833149-a10e-43d9-9b8e-f2205c9aacb4",
+     "category": "장소",
+     "name": "창동"
+    }
+   ],
+   "summary": "최대 2만8천 명 아레나, 2027-05 준공 · 2027-06 개관 목표",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "서울아레나",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023058200004",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "6212a9dd-33af-443e-87f2-860cc3c991ce",
+   "title": "송지호 바다 하늘길 누적 방문객 20만",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "f7aa0f8e-d8c1-43bf-a99f-81b02be0f033",
+     "category": "장소",
+     "name": "고성군"
+    }
+   ],
+   "summary": "9-05 정식 개장 뒤 20만 명 돌파",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "송지호 바다 하늘길",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023064500062",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "450ff25d-ee88-4e91-823a-204b7e5f4237",
+   "title": "순라견 합동순찰",
+   "type": "행사",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "95ee6ece-db01-495d-b63c-37c504ff65d4",
+     "category": "장소",
+     "name": "종로구"
+    }
+   ],
+   "summary": "10-24 10시 종묘외대문~서순라길~율곡로 1.1km, 서울시 반려견 순찰대 12팀",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "서순라길",
+     "id": "f183188d-4e63-4d3c-abea-ce975e95817f"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023039300004",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "25af4e15-ff8d-423f-b220-096849b69a16",
+   "title": "슈타인마이어 대통령 중국 국빈 방문",
+   "type": "뉴스",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "85e69498-75fc-451f-b868-62e85b3bab0a",
+     "category": "국가",
+     "name": "Germany"
+    }
+   ],
+   "summary": "10-27~10-31, 시진핑 · 리창 · 자오러지 회담, 안후이 방문",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "China",
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023148000083",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "4c742827-3694-49fa-b02d-1d36bf9a4523",
+   "title": "안보리 의장에 「북한 정전협정 위반」 서한",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "DMZ 지뢰 폭발 등과 관련해 주유엔대사가 안보리 의장에게 서한, 이사국 회람",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023004551072",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "818fc486-59bf-4011-966f-42cdd329d963",
+   "title": "양주대모산성 16차 발굴 현장 공개",
+   "type": "행사",
+   "date": "2026-11-05",
+   "parent": [
+    {
+     "id": "f964a6b1-93f3-4e3f-bf17-b2967fe2e938",
+     "category": "장소",
+     "name": "양주시"
+    }
+   ],
+   "summary": "11-05 동문지 일대 조사 성과 · 출토 유물 공개",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "양주대모산성",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023118200060",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "9f610050-1e7d-409c-9030-084a5821f148",
+   "title": "에너지 국부펀드 신설",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "860abe36-6554-419a-9021-7be14c191ffa",
+     "category": "국가",
+     "name": "United Kingdom"
+    }
+   ],
+   "summary": "초기 20억 파운드, 북해 석유 · 가스 세수를 재생 · 저탄소 에너지에 투자. 잭도 가스전 개발 승인",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023172000085",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "dc823804-a5bb-4a8d-89b2-6e963c0d09e3",
+   "title": "여객선 운임 반값 11개 섬으로 확대",
+   "type": "뉴스",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "311d2382-e759-4a34-bb90-a1ae25fb1217",
+     "category": "장소",
+     "name": "신안군"
+    }
+   ],
+   "summary": "10-27부터 홍도 · 흑산도 등 흑산권 11개 섬, 주말 · 공휴일 포함 연중",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023073500054",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "2a320dfa-4acf-4319-9c6d-e8fb06a83060",
+   "title": "연말 콘서트 「미드나이트 익스프레스 2026-2027」",
+   "type": "투어",
+   "date": "2026-12-18",
+   "parent": [
+    {
+     "id": "d03c772e-e880-4ff4-9ebc-16a32c749ff5",
+     "category": "단체",
+     "name": "자우림"
+    }
+   ],
+   "summary": "12-18~12-20 서울 올림픽공원 올림픽홀, 12-25 부산 벡스코 오디토리움, 2027-01-02 대전 충남대 정심화홀, 01-09 대구 엑스코 오디토리움",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "올림픽홀",
+     "id": null
+    },
+    {
+     "name": "벡스코",
+     "id": null
+    },
+    {
+     "name": "충남대학교 정심화홀",
+     "id": null
+    },
+    {
+     "name": "엑스코",
+     "id": null
+    },
+    {
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
+    },
+    {
+     "name": "부산광역시",
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d"
+    },
+    {
+     "name": "대전광역시",
+     "id": "128cb9fc-75dd-4f2f-941b-f0357e5c88d6"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023083200005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "d4f5b55e-0ca8-4d0d-8e09-de6a824dd613",
+   "title": "영암군립하정웅미술관 공립미술관 평가인증",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "38f05b99-2fd2-4ecd-b62e-b63175c8c33b",
+     "category": "장소",
+     "name": "영암군"
+    }
+   ],
+   "summary": "문체부 2026 공립미술관 평가인증, 3회 연속",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "영암군립하정웅미술관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023113500054",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "f64ffdca-1bbc-4eab-acb3-a20b7c42713c",
+   "title": "올레시키 교전 중단 합의",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "fcf45173-26eb-468e-a18b-3c98124376a5",
+     "category": "국가",
+     "name": "Russia"
+    }
+   ],
+   "summary": "백악관 발표 — 멜라니아 트럼프 중재로 10-29부터 헤르손주 올레시키에서 교전 중단, 인도적 지원 · 민간인 대피",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "United States",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023188000071",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "1d3a4df6-5c24-405f-80cb-5858ccc10850",
+   "title": "용담1 · 2동 4천여 가구 단수",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "e8f06af8-3dca-4795-83d5-ca6bfb093ed3",
+     "category": "장소",
+     "name": "제주시"
+    }
+   ],
+   "summary": "용담수원지 가압 펌프 고장으로 15시께부터 단수, 23시부터 급수 재개",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023169552056",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "dae92c09-b2bf-4230-8277-2a6275502e0f",
+   "title": "용호리 전망대 · 정암해변 몽돌소리길 정비",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "45427065-ab3e-402f-ae62-894b55e148c2",
+     "category": "장소",
+     "name": "양양군"
+    }
+   ],
+   "summary": "해안 산책로 · 전망대 노후 시설 정비 완료",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "용호리 전망대",
+     "id": null
+    },
+    {
+     "name": "정암해변 몽돌소리길",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023065500062",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "3975be44-5c18-4861-9234-7ff4f7f43b14",
+   "title": "장욱진미술관 명예관장에 정영목 서울대 명예교수",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "f964a6b1-93f3-4e3f-bf17-b2967fe2e938",
+     "category": "장소",
+     "name": "양주시"
+    }
+   ],
+   "summary": "양주시립장욱진미술관 명예관장 위촉",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "양주시립장욱진미술관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023108900060",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "90c87056-ef97-4d8e-8d64-1803d2238df8",
+   "title": "재무부, 대중국 민감기술 투자 규제안",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "AI · 첨단 반도체 · 극초음속 · 생명공학 등 대중국 투자 제한 강화 시행 규정안",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "China",
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023125400009",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "89577141-472d-4d1c-b3cb-fb7512e335de",
+   "title": "제14회 서울미디어시티비엔날레 예술감독 선정",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "ca816910-7ab5-49d7-bd19-d8b6d44e2a39",
+     "category": "장소",
+     "name": "중구"
+    }
+   ],
+   "summary": "서울시립미술관, 2027년 8월 비엔날레 예술감독에 그리스 출신 이리니 파파디미트리우",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "서울시립미술관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023046500004",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "6ade9752-6887-482b-be66-65aaac6a51c2",
+   "title": "제21회 문화다양성축제 맘프(MAMF) 2026",
+   "type": "축제",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "5c9fd1ae-14e4-45f5-99c0-797934a6c0cf",
+     "category": "장소",
+     "name": "성산구"
+    }
+   ],
+   "summary": "10-23~10-25 용지문화공원 · 성산아트홀 · 창원 중앙대로, 주빈국 우즈베키스탄",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "용지문화공원",
+     "id": null
+    },
+    {
+     "name": "성산아트홀",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023120300052",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "63e89c82-29ae-49bd-a66a-37e625a1de22",
+   "title": "제23회 익산 천만송이 국화축제",
+   "type": "축제",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "d20d1919-6914-4f78-9930-20e01c8ac6dd",
+     "category": "장소",
+     "name": "익산시"
+    }
+   ],
+   "summary": "10-23~11-01 중앙체육공원 · 신흥공원 · 익산역 일원",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "중앙체육공원",
+     "id": null
+    },
+    {
+     "name": "신흥공원",
+     "id": null
+    },
+    {
+     "name": "익산역",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023105300055",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "caa235d9-a42d-44d9-8007-eb6b99d4850f",
+   "title": "제2회 양평국제학술심포지엄",
+   "type": "행사",
+   "date": "2026-10-29",
+   "parent": [
+    {
+     "id": "45fdc192-d497-4e3f-8856-7340ae2c60d5",
+     "category": "장소",
+     "name": "양평군"
+    }
+   ],
+   "summary": "10-29 코바코 연수원, 한불수교 140주년 · 지평리 전투",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "코바코 연수원",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "France",
+     "id": "8fd447de-086d-4ad9-b287-af85b002c7c9"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023111200061",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "79a6d789-1bdd-4242-9972-454a29522cd1",
+   "title": "제31회 강원민속예술축제",
+   "type": "축제",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589",
+     "category": "장소",
+     "name": "춘천시"
+    }
+   ],
+   "summary": "10-28~10-29 송암스포츠타운, 17개 시 · 군 민속단 850여 명",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "송암스포츠타운",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023107000062",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "3f24a095-9ac7-4c02-af57-c52771eb363f",
+   "title": "제31회 남도음식문화큰잔치",
+   "type": "축제",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "482e1c92-a68a-49bb-885f-9ff7e3a144f1",
+     "category": "장소",
+     "name": "나주시"
+    }
+   ],
+   "summary": "10-23~10-25 나주 영산강정원, 스페셜 디너쇼(안유성 · 정관 스님 · 천상현)",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "영산강정원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023140700054",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "e9028843-df83-456a-bbc2-1db58c5109b0",
+   "title": "제46주년 10·27 법난 추념문화제",
+   "type": "행사",
+   "date": "2026-10-27",
+   "parent": [
+    {
+     "id": "fcdd9286-75c2-487a-9274-58bab3fcc6d5",
+     "category": "장소",
+     "name": "강남구"
+    }
+   ],
+   "summary": "10-27 봉은사 미륵광장, 대한불교조계종",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "봉은사",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023113700005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "9e7b3a54-91f0-493c-b3ad-8246e8b6cc0c",
+   "title": "조세이 탄광 유골 DNA 감정, 신원 특정 못 해",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan"
+    }
+   ],
+   "summary": "1942년 조선인 노동자 136명 등이 숨진 수몰 사고 현장 유골 2구, 한일 공동 감정 실패",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Korea",
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023083951073",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "bd2ad92b-028d-4a89-b8e9-7f2be8063ff0",
+   "title": "주남저수지 · 우포늪 겨울철새 도착",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "6cc78e43-34d6-4ab3-82db-e09508c43ec1",
+     "category": "장소",
+     "name": "창원시"
+    }
+   ],
+   "summary": "주남저수지에 10-16 재두루미 첫 관찰, 고니 · 큰고니 등",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "주남저수지",
+     "id": null
+    },
+    {
+     "name": "우포늪",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023033451052",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "67c2df2c-16bb-4d1d-8834-a5987b4991ff",
+   "title": "주말 시위에 경찰 7만 명 투입",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "8fd447de-086d-4ad9-b287-af85b002c7c9",
+     "category": "국가",
+     "name": "France"
+    }
+   ],
+   "summary": "내무장관 발표, 장갑차 · 대테러 특수팀 동원",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023185000085",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "0c5dadfb-6705-426b-b266-172a42c238a3",
+   "title": "지관서가 가을 북 페스티벌 「지관_하다」",
+   "type": "행사",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "b6c6844b-c377-48bb-9322-a4f29b7bbc80",
+     "category": "장소",
+     "name": "수원시"
+    }
+   ],
+   "summary": "10-24 10~20시 수원시평생학습관 지관서가, 기시미 이치로 북토크",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "지관서가",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023053500061",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "6eeb0821-8ee4-4836-8a3d-c54aa08158d6",
+   "title": "지난해 자살자 역대 최소, 학생은 역대 최다",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan"
+    }
+   ],
+   "summary": "2026년판 자살대책백서 — 1만9,188명으로 1978년 집계 뒤 처음 2만 명 아래",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023108000009",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "225af109-78aa-421b-9668-e0c6abf7ae43",
+   "title": "지역 국립의대 신설 대학 11월 초 발표",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "교육부 장관 국정감사 답변, 국립 의대 신설 대상 대학을 11월 초까지 발표",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023185400054",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "a467a6c8-f8e1-4b37-9c6a-923d6ddb8e66",
+   "title": "차지(CHAGEE) 롯데몰 청량리점 개점",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "e4c4305f-f104-4f34-9aa5-6d26355bf912",
+     "category": "장소",
+     "name": "전농동"
+    }
+   ],
+   "summary": "중국 밀크티 브랜드 차지의 국내 11번째 · 서울 동북권 첫 매장, 롯데몰 청량리점 1층",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "롯데몰 청량리점",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023107800030",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "a0890390-ea00-4c19-8c1b-73905dbfc6ae",
+   "title": "첫 법정기념일 「한식의 날」 기념식",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "한식의 날(10-24) 법정기념일 지정 뒤 첫 기념식, 국립중앙박물관에서 농식품부 · 외교부 주최",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "국립중앙박물관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023096000030",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "c62756b8-2275-4e6d-a0c7-9bf1fc39479c",
+   "title": "첫 아르헨티나 단독 공연",
+   "type": "콘서트",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "94266f27-5abe-4ee1-ad0b-703230ec364d",
+     "category": "단체",
+     "name": "방탄소년단"
+    }
+   ],
+   "summary": "라플라타 우니코 디에고 아르만도 마라도나 경기장, 첫 아르헨티나 단독 공연",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "우니코 디에고 아르만도 마라도나 경기장",
+     "id": null
+    },
+    {
+     "name": "Argentina",
+     "id": "19104e02-9da0-47ab-b922-163fc699d936"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023001100009",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "5d1d4568-d185-47b6-92c3-db11c352f4c4",
+   "title": "첫 에볼라 확진자 감염 경로 조사",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "0eae0863-60df-4bf9-96c0-5c844d7201b1",
+     "category": "국가",
+     "name": "Nigeria"
+    }
+   ],
+   "summary": "케냐 첫 확진자와 함께 10-03 우간다 엔테베 공항을 경유, 공항 접촉 여부 조사",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023170500099",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "3ccbbf98-75c1-4c1f-b54d-c0f94795dc85",
+   "title": "태풍 참피 1명 사망 · 163명 부상",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "4e0100e1-255f-4c79-99fe-44a4302ffcdc",
+     "category": "국가",
+     "name": "Taiwan"
+    }
+   ],
+   "summary": "산간 지역 주민 2,639명 대피",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.france24.com/en/live-news/20261023-taiwan-shuts-down-as-typhoon-champi-approaches",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "5628d21a-2bfe-4b12-acf2-4b8e982b4e97",
+   "title": "태풍 참피, 20개 지자체 휴무 · 휴교",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "4e0100e1-255f-4c79-99fe-44a4302ffcdc",
+     "category": "국가",
+     "name": "Taiwan"
+    }
+   ],
+   "summary": "제30호 태풍 참피 접근에 타이베이 · 신주 · 가오슝 등 휴무 · 휴교령, 이어 일본으로",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Japan",
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023090952009",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "210fdf48-f688-463f-bc4f-de6db63bd2d5",
+   "title": "특수폭행 혐의 부인",
+   "type": "논란",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "fab4f937-821a-4b3c-bd50-219c2366da99",
+     "category": "인물",
+     "name": "승리"
+    }
+   ],
+   "summary": "8-08 서울 식당 일로 특수폭행 혐의 입건 — 법률대리인 입장문 「소주병을 집은 적은 있으나 휘두르거나 때린 적 없다」",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023184900005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "67b9e7b8-34e7-4358-90bc-b01c5558e441",
+   "title": "파리 근교 총격, 테러로 수사",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "8fd447de-086d-4ad9-b287-af85b002c7c9",
+     "category": "국가",
+     "name": "France"
+    }
+   ],
+   "summary": "트라프 · 라베리에르에서 차량 총격으로 1명 사망 · 4명 부상, 용의자 체포",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023180451085",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "449a90e9-9dcc-41da-b994-aabe500b843f",
+   "title": "평생학습축제 「함성소리」",
+   "type": "축제",
+   "date": "2026-10-31",
+   "parent": [
+    {
+     "id": "d8253a12-cdca-4362-9ffb-d7e5fed374da",
+     "category": "장소",
+     "name": "영등포구"
+    }
+   ],
+   "summary": "10-31 당산근린공원",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "당산근린공원",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023051800004",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "95c42ffe-b53f-4dce-947a-588b74857ca1",
+   "title": "프랑스와 첫 공중 핵전력 합동 훈련",
+   "type": "뉴스",
+   "date": "2026-10-20",
+   "parent": [
+    {
+     "id": "860abe36-6554-419a-9021-7be14c191ffa",
+     "category": "국가",
+     "name": "United Kingdom"
+    }
+   ],
+   "summary": "타이푼 · 라팔 전투기, 지중해 상공 모의 핵 타격 훈련 「러미」",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "France",
+     "id": "8fd447de-086d-4ad9-b287-af85b002c7c9"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023182200085",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "7798728f-de95-40f3-904e-0ecbfec3f267",
+   "title": "한국 박스오피스 4주째 1위 · 누적 192만",
+   "type": "흥행 기록",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "a4a93a89-d991-4891-b425-a02dcad9fa3a",
+     "category": "작품",
+     "name": "Chiikawa the Movie: The Secret of the Mermaid Island"
+    }
+   ],
+   "summary": "9-30 한국 개봉, 10-22 2만3천여 명(22.5%)으로 1위 · 누적 192만7천여 명. 10-24~10-25 CGV 37곳 4DX 특별 상영",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023045100005",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "21485e84-3f58-475c-a604-d180ce542141",
+   "title": "한국 진출 10년",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
+     "category": "단체",
+     "name": "Netflix"
+    }
+   ],
+   "summary": "2016~2025년 국내 제작사 80곳 이상과 한국 작품 200편 이상 제작, 세계 회원 약 80%가 한국 콘텐츠 시청. 특별 웹사이트 공개",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023042400017",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "6582116a-708a-445c-bc92-49237e3a2629",
+   "title": "해남미남축제",
+   "type": "축제",
+   "date": "2026-10-30",
+   "parent": [
+    {
+     "id": "04a59a62-298e-4880-868c-1b3760911fed",
+     "category": "장소",
+     "name": "삼산면"
+    }
+   ],
+   "summary": "10-30~11-01 두륜산 도립공원 일원, 올해 주제 농산물 해남 쌀",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "두륜산도립공원",
+     "id": "5f78174a-7d3f-4642-906f-1472c26d9f44"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023120600054",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "40f47f65-8975-4740-be08-44ffced23980",
+   "title": "해외 바이어 초청 수출상담회",
+   "type": "행사",
+   "date": "2026-10-28",
+   "parent": [
+    {
+     "id": "071e202e-9d8e-47b8-aa1f-e3504ec89fce",
+     "category": "장소",
+     "name": "유성구"
+    }
+   ],
+   "summary": "10-28 호텔ICC, 이토요카도 · 팬퍼시픽인터내셔널홀딩스(돈키호테) 등 해외 바이어 55곳",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "호텔ICC",
+     "id": "052b6be5-7c4b-40ab-9255-907e31920b18"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023142400063",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "8ef9f89c-b735-44b1-aad5-450b723a6185",
+   "title": "해외투자 사전보고 제도",
+   "type": "뉴스",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300",
+     "category": "국가",
+     "name": "China"
+    }
+   ],
+   "summary": "국가발전개혁위 「대외투자 관리방법」 — 1억 달러 이상 · 주요국 투자 사전 보고, 12-01 시행",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023085900083",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "29865b30-4aa9-457b-819f-79d39181ed85",
+   "title": "호찌민 투티엠 복합단지 사업 재시동",
+   "type": "사업 진출",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "f8df21ea-fe67-4cbf-909e-a7e2996ec4a2",
+     "category": "단체",
+     "name": "롯데그룹"
+    }
+   ],
+   "summary": "롯데 에코스마트시티 투티엠 공사 현장 안전기원제, 현지 투자사 팟닷과 협력 논의",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Ho Chi Minh City",
+     "id": null
+    },
+    {
+     "name": "Thanh pho Ho Chi Minh",
+     "id": "ae2da21a-9535-4fc6-8a7d-27eb53557d8e"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Vietnam",
+     "id": "ac59f957-021a-4b7a-a73d-fa49c37bfa11"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023179500084",
+   "source": "뉴스",
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "397ad1cd-d9c6-4cfe-a34a-aa2fec8ca7b9",
+   "title": "2026 성남테크아트페스티벌",
+   "type": "축제",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "f8acf017-09e5-417f-90db-d442e5ed1553",
+     "category": "장소",
+     "name": "분당구"
+    }
+   ],
+   "summary": "10-23 판교역 광장에서 개막, 성남시 주최 · 성남문화재단 주관 — 컨퍼런스 SN26 · 탄천 미디어캔버스 · 테크놀이터",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "판교역 광장",
+     "id": null
+    },
+    {
+     "name": "탄천",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.kgmail.kr/news/articleView.html?idxno=655562",
+   "source": "뉴스",
+   "added_at": "2026-10-24T10:32:33.276946+00:00"
+  },
+  {
+   "id": "68d66354-1a99-4865-ab5d-f6f414debb99",
+   "title": "2026 흥해라 신라난전",
+   "type": "축제",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "f06d3152-bf8c-43bd-a51e-d9aed60804b4",
+     "category": "장소",
+     "name": "경주시"
+    }
+   ],
+   "summary": "10-23~10-24 봉황대 일원, 경상북도 주최 — 만물 · 미식 · 문화 · 예술난전, 드론쇼",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "봉황대",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "http://m.kbnews.kr/view.php?idx=225622",
+   "source": "뉴스",
+   "added_at": "2026-10-24T10:32:33.276946+00:00"
+  },
+  {
+   "id": "0c452dfd-5ca3-4ac7-b210-7ba2b707f36b",
+   "title": "국방부, MDL 상호 확인 · 군 통신선 복원 군사회담 북한에 제의",
+   "type": "뉴스",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "DMZ 군사분계선 불일치 해소 · 군 통신선 복원 등 남북 군사당국 회담 제안(지난해 11월에 이어 다시), 필요하면 유엔사 포함 3자 회담",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023106700504",
+   "source": "뉴스",
+   "added_at": "2026-10-24T10:32:33.276946+00:00"
+  },
+  {
+   "id": "50a3f84c-7349-4ace-962d-800301629433",
+   "title": "미국 펜실베이니아 첫 매장 · 엘킨스 파크점",
+   "type": "사업 진출",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "0c8fb3c3-60ab-456e-a08f-c22beb0aeea7",
+     "category": "단체",
+     "name": "bhc"
+    }
+   ],
+   "summary": "미국 11호 매장, 펜실베이니아주 첫 진출 — 뿌링클 등 대표 메뉴와 한식 · 현지 맞춤 메뉴. 올해 미국에서 7곳 새로 열음",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "bhc 엘킨스 파크점",
+     "id": null
+    },
+    {
+     "name": "United States",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
+    },
+    {
+     "name": "Pennsylvania",
+     "id": "81aaf406-e497-44aa-9326-ab41ec87adb0"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "United States",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261023050700030",
+   "source": "뉴스",
+   "added_at": "2026-10-24T10:32:33.276946+00:00"
+  },
+  {
+   "id": "b1b458ff-9145-46fb-a15c-a35bdeebc985",
+   "title": "저스틴 비버 브랜드 스카이라크(SKYLRK) 첫 한국 팝업 스토어",
+   "type": "행사",
+   "date": "2026-10-22",
+   "parent": [
+    {
+     "id": "49df52dc-4df6-4967-8d83-51b0b671933c",
+     "category": "장소",
+     "name": "성동구"
+    }
+   ],
+   "summary": "10-22~10-25 성수동 일대, 저스틴 비버의 패션 브랜드 스카이라크 첫 한국 팝업. 비버가 10-23 아내와 방문",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "스카이라크 성수 팝업 스토어",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Justin Bieber",
+     "id": "4283e897-951a-4e3a-ba8d-370c86215174"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.vogue.co.kr/2026/10/20/%ec%a0%80%ec%8a%a4%ed%8b%b4-%eb%b9%84%eb%b2%84-%eb%b8%8c%eb%9e%9c%eb%93%9c-skylrk-%ec%84%9c%ec%9a%b8-%ed%8c%9d%ec%97%85-%ec%97%b0%eb%8b%a4/",
+   "source": "뉴스",
+   "added_at": "2026-10-24T13:39:42.702429+00:00"
+  }
+ ],
+ "new_planets": [
+  {
+   "id": "a4a93a89-d991-4891-b425-a02dcad9fa3a",
+   "name": "Chiikawa the Movie: The Secret of the Mermaid Island",
+   "category": "작품",
+   "alias": "극장판 치이카와: 인어 섬의 비밀, 치이카와 극장판, 映画ちいかわ 人魚の島のひみつ, 치이카와",
+   "disambig": "2026년 일본 애니메이션 영화",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "name_ko": "극장판 치이카와: 인어 섬의 비밀",
+    "name_en": "Chiikawa the Movie: The Secret of the Mermaid Island",
+    "medium": "애니메이션 영화",
+    "release_date": "2026-09-30",
+    "director": "오이카와 케이 (及川啓)",
+    "creator": "나가노 (원작 · 각본)",
+    "cast": "아오키 하루카 (치이카와), 다나카 마코토 (하치와레), 오자와 아리 (우사기), 이구치 유카 (모몽가), 아사이 다카유키 (쿠리만쥬), 우치다 유마 (랏코), 스즈키 미노리 (세이렌)",
+    "production": "サイピク (CygamesPictures)",
+    "distributor": "CJ ENM",
+    "source_material": "나가노의 만화 「치이카와」",
+    "length": "99분",
+    "box_office": "국내 누적 1,828,919명 (2026-10-19 보도, 영진위 집계)",
+    "synopsis": "평소 노동 급여의 100배라는 보수에 끌린 치이카와와 친구들이 낯선 섬으로 떠나고, 주민들의 환대 뒤에 숨은 섬의 수상한 비밀과 마주한다.",
+    "website": "https://chiikawa.toho-movie.jp/",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q136977451",
+     "https://tvreport.co.kr/breaking/article/1074618/",
+     "https://news.mtn.co.kr/news-detail/2026101209112879155",
+     "https://ja.wikipedia.org/wiki/映画ちいかわ_人魚の島のひみつ",
+     "https://isplus.com/article/view/isp202610190015",
+     "https://www.yna.co.kr/view/AKR20261023045100005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q136977451",
+   "links": [
+    {
+     "id": "65c07ebb-6edc-4aae-8c1b-f6bf39657fa8",
+     "category": "허브",
+     "name": "Japan Animation",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "377b94fc-9150-4708-8f6e-da376dd2106a",
+   "name": "Ryu Murakami",
+   "category": "인물",
+   "alias": "무라카미 류, Ryū Murakami, 村上龍",
+   "disambig": "일본의 소설가",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "occupation": "소설가 · 영화감독 · 각본가",
+    "name_en": "Ryū Murakami",
+    "real_name": "村上龍之助 (무라카미 류노스케)",
+    "gender": "남성",
+    "nationality": "Japan",
+    "birth_date": "1952-02-19",
+    "death_date": "2026-10-17",
+    "birthplace": "Sasebo",
+    "notable_works": "한없이 투명에 가까운 블루 (1976), 코인로커 베이비스 (1980), 愛と幻想のファシズム (1987), 69 (1987), 토파즈 (1988), 5분 후의 세계 (1994), 인 더 미소수프 (1997), 오디션 (1997), 半島を出よ (2005)",
+    "awards": "군조 신인문학상 (1976), 아쿠타가와상 (1976), 노마 문예 신인상 (1980), 히라바야시 다이코 문학상 (1996), 요미우리 문학상, 다니자키 준이치로상 (2000), 마이니치 출판문화상 · 노마 문예상 (2005), 마이니치 예술상 (2011)",
+    "summary": "미군 기지 도시 사세보 출신으로, 1976년 데뷔작 『한없이 투명에 가까운 블루』로 아쿠타가와상을 받으며 등장한 일본 소설가다. 소설과 함께 영화 연출 · 각본도 했고, 2026년 10월 17일 74세로 세상을 떠났다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q380265",
+     "https://ja.wikipedia.org/wiki/村上龍",
+     "https://www.wikidata.org/wiki/Q380265",
+     "https://en.wikipedia.org/wiki/Ry%C5%AB_Murakami",
+     "https://www.yna.co.kr/view/AKR20261023093351073"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q380265",
+   "links": [
+    {
+     "id": "f3e0962e-6881-45e4-863d-7189e15026e0",
+     "category": "장소",
+     "name": "Sasebo",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "d003c430-8c3d-4e0d-b196-1e54e5dcf542",
+     "category": "허브",
+     "name": "Japan Writer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "7d940416-29c0-4552-944c-a11d523594cf",
+   "name": "Tom Skerritt",
+   "category": "인물",
+   "alias": "톰 스커릿, Thomas Roy Skerritt",
+   "disambig": "미국의 배우",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "occupation": "배우 · 감독",
+    "name_en": "Tom Skerritt",
+    "real_name": "Thomas Roy Skerritt",
+    "gender": "남성",
+    "nationality": "United States",
+    "birth_date": "1933-08-25",
+    "death_date": "2026-10-21",
+    "birthplace": "Detroit",
+    "notable_works": "M*A*S*H (1970), The Turning Point (1977), Alien (1979), The Dead Zone (1983), Top Gun (1986), Steel Magnolias (1989), A River Runs Through It (1992), Picket Fences (1992–1996), Brothers & Sisters (2006–2008)",
+    "awards": "프라임타임 에미상 드라마 부문 남우주연상 — Picket Fences (1993), 전미 비평가 위원회상 남우조연상 — The Turning Point (1977), 새턴상 TV 게스트 연기상 — Leverage (2012)",
+    "summary": "미국 디트로이트 출신 배우로, 『매시』 · 『에일리언』 · 『탑건』 등으로 알려졌다. 드라마 『피켓 펜스』로 에미상 주연상을 받았고, 2026년 10월 21일 시애틀 자택에서 93세로 별세했다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q320093",
+     "https://en.wikipedia.org/wiki/Tom_Skerritt",
+     "https://www.wikidata.org/wiki/Q320093",
+     "https://www.yna.co.kr/view/AKR20261023048600009"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q320093",
+   "links": [
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "120798b6-aac5-44dd-a48a-c9bc99d1396e",
+     "category": "장소",
+     "name": "Detroit",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "ac72df10-6f00-44c4-a4fa-dd5c69c322fd",
+   "name": "김필",
+   "category": "인물",
+   "alias": "Kim Feel",
+   "disambig": "한국의 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "name_en": "Kim Feel",
+    "gender": "남성",
+    "activity": "솔로",
+    "nationality": "대한민국",
+    "birth_date": "1986-08-27",
+    "birthplace": "서울특별시",
+    "organization": "웨이크원",
+    "debut_date": "2011-08-30",
+    "debut_work": "싱글 「Take#1 - Vol.1」 (〈바보같이 또 울어요〉)",
+    "education": "사천고등학교 졸업, 경상대학교 지역시스템공학 중퇴, 명지전문대학 실용음악학 전문학사, 호원대학교 실용음악학 휴학",
+    "sns": "https://instagram.com/sincerelyfeel, https://x.com/KIMFEELofficial, https://youtube.com/c/KIMFEELofficial, https://facebook.com/kimfeel",
+    "measurements": "180cm",
+    "weight": "73kg",
+    "blood_type": "A형",
+    "mbti": "INFJ",
+    "religion": "기독교",
+    "military_service": "사회복무요원 소집해제 (2017-01-31 ~ 2019-01-25)",
+    "summary": "2014년 「슈퍼스타K 6」 준우승으로 이름을 알린 발라드 가수로, 짙은 음색의 리메이크와 OST로 사랑받았다. 2026년 10월 약 7년 만의 정규 2집 「JOURNEY」를 낸다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q18604948",
+     "https://www.wikidata.org/wiki/Q18604948",
+     "https://www.koreajoongangdaily.com/entertainment/singer-kim-feel-to-release-second-fulllength-album-in-october/12856156",
+     "https://ko.wikipedia.org/wiki/김필_",
+     "https://namu.wiki/w/김필",
+     "https://www.yna.co.kr/view/AKR20261023068200005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q18604948",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "00849b6f-eca3-4e90-9d00-c81d36ba9d32",
+     "category": "단체",
+     "name": "웨이크원",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "9a219d29-4fe8-4de7-b09f-89750956de03",
+   "name": "다우키움그룹",
+   "category": "단체",
+   "alias": "DaouKiwoom Group, 다우키움",
+   "disambig": "한국의 기업집단",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "DaouKiwoom Group",
+    "industry": "IT · 금융 · 콘텐츠",
+    "formation_date": "1986-01-09",
+    "hq": "경기도 성남시 수정구 금토로 69, 다우디지털스퀘어",
+    "founder": "김익래",
+    "parent_company": "다우데이타 (지주회사)",
+    "subsidiaries": "다우데이타, 다우기술, 한국정보인증, 키움증권, 키움투자자산운용, 키움저축은행, 키움YES저축은행, 키움인베스트먼트, 키움에셋플래너, 키움프라이빗에쿼티, 키움캐피탈, 키움에프앤아이, 이머니, 사람인, 키다리스튜디오, 레진엔터테인먼트",
+    "summary": "1986년 김익래가 세운 다우기술에서 출발해 키움증권 등 온라인 금융과 사람인 같은 콘텐츠·서비스로 넓힌 기업집단이다. 다우데이타가 지주 역할을 한다.",
+    "sources": [
+     "https://namu.wiki/w/다우키움그룹",
+     "https://ko.wikipedia.org/wiki/다우키움그룹",
+     "https://www.daou.co.kr/",
+     "https://www.daou.co.kr/images/sub/company/data_down/DaouProfile_ko_202502.pdf",
+     "https://www.yna.co.kr/view/AKR20261023174800005"
+    ]
+   },
+   "source_url": "https://namu.wiki/w/다우키움그룹",
+   "links": [
+    {
+     "id": "e0580f61-cfaf-467b-abbb-aa887add5c97",
+     "category": "장소",
+     "name": "금토동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "504d0be5-125c-44f5-8deb-707931f5f3a2",
+   "name": "메릴 스트립 프로젝트",
+   "category": "작품",
+   "alias": "The Meryl Streep Project",
+   "disambig": "2026년 한국 다큐멘터리 영화",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "The Meryl Streep Project",
+    "medium": "다큐멘터리 영화",
+    "genre": "다큐멘터리",
+    "release_date": "2026-10-28",
+    "director": "박효선",
+    "cast": "박효선, 문소리, 임예진",
+    "production": "TaT (공동제작 ㈜미닝오브)",
+    "distributor": "㈜삼백상회",
+    "rating": "12세이상관람가",
+    "length": "103분",
+    "synopsis": "중학생 때 메릴 스트립을 보고 그의 영화를 연출하겠다고 마음먹은 박효선 감독이 팬 활동에서 실제 연출에 이르기까지 10년을 스스로 찍은 기록이다. 우상을 향한 여정이 동시대 여성 영화인들의 연대 이야기로 넓어진다.",
+    "sources": [
+     "https://cine21.com/movie/info/?movie_id=60610",
+     "https://www.topstarnews.net/news/articleView.html?idxno=16241409",
+     "https://www.yna.co.kr/view/AKR20261023058100005"
+    ]
+   },
+   "source_url": "https://cine21.com/movie/info/?movie_id=60610",
+   "links": [
+    {
+     "id": "18fea518-c6b2-4cb1-8f6d-06c0f5b1156e",
+     "category": "허브",
+     "name": "한국 영화",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "4c1c69e0-ead5-4f26-8a8a-842096f72d16",
+   "name": "문학동네",
+   "category": "단체",
+   "alias": "Munhakdongne, 주식회사 문학동네",
+   "disambig": "한국의 출판사",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "Munhakdongne",
+    "real_name": "주식회사 문학동네",
+    "industry": "출판업",
+    "formation_date": "1993-12-03",
+    "hq": "경기도 파주시 회동길 210",
+    "founder": "강병선",
+    "website": "https://www.munhak.com",
+    "subsidiaries": "문학동네어린이, 아트북스, 이콘, 글항아리, 달, 앨리스, 에쎄, 이봄, 엘릭시르, 포레, 싱긋, 난다, 나무의마음, 이야기장수, 호호당북스, 콜라주, 테이스트북스, 빗금, 카페꼼마",
+    "summary": "파주출판단지에 본사를 둔 문학 중심 단행본 출판사로, 국내 단행본 매출 1위로 꼽힌다. 2026년 10월 창업자 강병선 전 대표의 지분 41.5% 매각 추진이 보도됐다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q12595839",
+     "https://www.wikidata.org/wiki/Q12595839",
+     "https://namu.wiki/w/문학동네",
+     "https://ko.wikipedia.org/wiki/문학동네",
+     "https://weekly.khan.co.kr/article/202610120600001",
+     "https://www.yna.co.kr/view/AKR20261023174800005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12595839",
+   "links": [
+    {
+     "id": "06b9ce7d-ce12-4e79-9184-cc5665c734a9",
+     "category": "장소",
+     "name": "문발동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "fab4f937-821a-4b3c-bd50-219c2366da99",
+   "name": "승리",
+   "category": "인물",
+   "alias": "Seungri, 이승현",
+   "disambig": "한국의 가수, 빅뱅 전 멤버",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "name_en": "Seungri",
+    "real_name": "이승현",
+    "gender": "남성",
+    "activity": "솔로",
+    "nationality": "대한민국",
+    "birth_date": "1990-12-12",
+    "birthplace": "전남광주통합특별시",
+    "debut_date": "2006-08-19",
+    "debut_work": "빅뱅 싱글 1집 「BIGBANG」",
+    "education": "숭의고등학교 중퇴 (고졸 검정고시), 중앙대학교 공연영상창작학부 연극전공 중퇴, 국제사이버대학교 방송연예학과",
+    "awards": "2009 제3회 더 뮤지컬 어워즈 인기상, 2018 SBS 연예대상 씬스틸러상",
+    "sns": "https://www.weibo.com/seungriasia",
+    "measurements": "177cm",
+    "blood_type": "A형",
+    "religion": "무종교",
+    "military_service": "2020-03-09 입대, 2022-06-09 전역 (불명예 전역 후 전시근로역 편입)",
+    "summary": "빅뱅 막내로 2006년 데뷔했으나 2019년 버닝썬 사건으로 은퇴했고, 성매매 알선 등으로 징역형을 살고 2023년 출소했다. 2026년 강남 식당 폭행 건으로 또 고소당해 경찰 수사를 받고 있다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q428490",
+     "https://www.wikidata.org/wiki/Q428490",
+     "https://ko.wikipedia.org/wiki/승리_",
+     "https://namu.wiki/w/승리",
+     "https://www.yna.co.kr/view/AKR20261023184900005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q428490",
+   "links": [
+    {
+     "id": "b8dc39d2-e5a5-46a6-8622-512fc5c216af",
+     "category": "장소",
+     "name": "전남광주통합특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "3716ccac-1edc-404e-b9f7-f6bfcaadac55",
+   "name": "실낙원",
+   "category": "작품",
+   "alias": "Paradise Lost",
+   "disambig": "2026년 한국 영화",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Paradise Lost",
+    "medium": "영화",
+    "genre": "심리 스릴러",
+    "release_date": "2026-10-21",
+    "director": "연상호",
+    "creator": "연상호, 류용재 (각본)",
+    "cast": "김현주 (류소영), 배현성 (류선우), 이현균 (오경원), 김종태 (천혁일)",
+    "production": "와우포인트",
+    "distributor": "CJ ENM",
+    "source_material": "오성은의 소설 『블랙 인페르노』 (연상호 · 류용재 원안)",
+    "length": "101분",
+    "synopsis": "9년 전 캠핑스쿨 버스 실종 사건으로 아들을 잃은 엄마 앞에 죽은 줄 알았던 아들이 돌아오며 벌어지는 심리 스릴러다. 제작비 5억 원의 저예산 작품으로 토론토국제영화제에서 처음 공개됐다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q140936452",
+     "https://www.wikidata.org/wiki/Q140936452",
+     "https://ko.wikipedia.org/wiki/실낙원_",
+     "https://enews.imbc.com/News/ViewAmp/521800",
+     "https://www.yna.co.kr/view/AKR20261023045100005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q140936452",
+   "links": [
+    {
+     "id": "18fea518-c6b2-4cb1-8f6d-06c0f5b1156e",
+     "category": "허브",
+     "name": "한국 영화",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "3e61c98f-befe-48c0-86f9-032a5b835cfc",
+   "name": "에릭남",
+   "category": "인물",
+   "alias": "Eric Nam, 남윤도",
+   "disambig": "한국계 미국인 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "name_en": "Eric Nam",
+    "real_name": "에릭 윤도 남 (Eric Yoondo Nam, 한국 이름 남윤도)",
+    "gender": "남성",
+    "activity": "솔로",
+    "nationality": "미국",
+    "birth_date": "1988-11-17",
+    "birthplace": "United States",
+    "organization": "올마이애닉도츠 (all my anecdotes)",
+    "debut_date": "2013-01-23",
+    "debut_work": "미니 1집 「Cloud 9」",
+    "education": "The Lovett School 졸업, 보스턴 칼리지 국제관계학 학사",
+    "awards": "2016 MBC 방송연예대상 베스트 커플상, 2018 KBS 연예대상 버라이어티 부문 남자 신인상",
+    "website": "https://www.ericnam.com/",
+    "sns": "https://x.com/ericnamofficial, https://www.instagram.com/realericnam",
+    "measurements": "175cm",
+    "blood_type": "O형",
+    "mbti": "INFP",
+    "religion": "개신교",
+    "summary": "미국 애틀랜타 출신의 한국계 미국인 가수로, 2013년 한국에서 데뷔해 발라드·팝을 영어와 한국어로 부르며 방송 진행도 해 왔다. 2026년 10월 정규 4집을 냈다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q12606686",
+     "https://www.wikidata.org/wiki/Q12606686",
+     "https://namu.wiki/w/에릭남",
+     "https://isplus.com/article/view/isp202610050127",
+     "https://ko.wikipedia.org/wiki/에릭_남",
+     "https://www.yna.co.kr/view/AKR20261023105100005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12606686",
+   "links": [
+    {
+     "id": "086de111-8f5f-4b95-99ad-cb6c837bce1a",
+     "category": "단체",
+     "name": "올마이애닉도츠",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "b5c85a44-338f-4f48-9850-fba53a97e90d",
+   "name": "이소라",
+   "category": "인물",
+   "alias": "Lee So-ra",
+   "disambig": "한국의 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "name_en": "Lee So-ra",
+    "real_name": "이소라(李素羅)",
+    "gender": "여성",
+    "activity": "솔로",
+    "nationality": "대한민국",
+    "birth_date": "1969-12-29",
+    "birthplace": "경상남도",
+    "organization": "마레힘 엔터테인먼트",
+    "education": "동명여자고등학교 졸업, 인천대학교 산업디자인과",
+    "awards": "2005 한국대중음악상 올해의 음악인(여자) — 6집 「눈썹달」, 2019 엠넷 아시안 뮤직 어워즈 베스트 컬래버레이션 (feat. 슈가)",
+    "sns": "https://www.instagram.com/official.esora",
+    "measurements": "164cm",
+    "blood_type": "AB형",
+    "mbti": "INFP",
+    "religion": "무종교",
+    "summary": "1990년대 「난 행복해」로 이름을 알린 발라드 가수이자 작사가로, 음악 토크쇼 「이소라의 프로포즈」를 오래 진행했다. 2026년 7년 만의 신곡에 이어 드라마 「100일의 거짓말」 OST를 불렀다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q625435",
+     "https://www.wikidata.org/wiki/Q625435",
+     "https://ko.wikipedia.org/wiki/이소라_",
+     "https://isplus.com/article/view/isp202606290047",
+     "https://namu.wiki/w/이소라",
+     "https://www.yna.co.kr/view/AKR20261023064300005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q625435",
+   "links": [
+    {
+     "id": "be9cd81d-ced6-4424-868c-e3a1b1cd9192",
+     "category": "장소",
+     "name": "경상남도",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "d03c772e-e880-4ff4-9ebc-16a32c749ff5",
+   "name": "자우림",
+   "category": "단체",
+   "alias": "Jaurim, 紫雨林",
+   "disambig": "한국의 록 밴드",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "name_en": "Jaurim",
+    "real_name": "자우림(紫雨林)",
+    "group_type": "밴드",
+    "formation_date": "1997",
+    "debut_date": "1997-07-19",
+    "parent_company": "인터파크엔터테인먼트",
+    "members": "김윤아, 이선규, 김진만",
+    "leader": "이선규",
+    "fandom_name": "러브공작단",
+    "sns": "https://x.com/JaurimOfficial, https://instagram.com/jaurim_official, https://www.facebook.com/bandJAURIM",
+    "website": "http://www.interparkenter.com/jaurim/Main",
+    "awards": "2022 지니 뮤직 어워드 베스트 락 아티스트상, 2022 엠넷 아시안 뮤직 어워즈 인스파이어링 어치브먼트상, 엠넷 아시안 뮤직 어워드 베스트 밴드 퍼포먼스상",
+    "summary": "1997년 영화 사운드트랙으로 데뷔해 30년 가까이 활동 중인 혼성 3인조 록 밴드. 김윤아의 보컬과 모던 록·얼터너티브 사운드로 알려져 있다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q494321",
+     "https://www.wikidata.org/wiki/Q494321",
+     "https://ko.wikipedia.org/wiki/자우림",
+     "https://namu.wiki/w/자우림",
+     "https://www.sidae.com/article/2025021313130159239",
+     "https://www.yna.co.kr/view/AKR20261023083200005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q494321",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "129a72ca-8d29-42e8-bb02-610f9ba06da2",
+   "name": "폴킴",
+   "category": "인물",
+   "alias": "Paul Kim, 김태형",
+   "disambig": "한국의 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "name_en": "Paul Kim",
+    "real_name": "김태형",
+    "gender": "남성",
+    "activity": "솔로",
+    "nationality": "대한민국",
+    "birth_date": "1988-02-11",
+    "birthplace": "전남광주통합특별시",
+    "organization": "와이예스엔터테인먼트",
+    "debut_date": "2014-01-21",
+    "debut_work": "싱글 「커피 한 잔 할래요」",
+    "education": "St Bede's College, 리쓰메이칸 아시아 태평양 대학 국제경영 중퇴",
+    "awards": "2018 제10회 멜론 뮤직 어워드 OST부문 뮤직스타일상, 2019 제33회 골든디스크 어워즈 베스트 OST상, 2020 제34회 골든디스크 디지털음원 부문 본상, 2020 제9회 가온차트 뮤직 어워드 올해의 롱런 음원상, 2020 제29회 하이원 서울가요대상 본상",
+    "website": "https://paulkim.co.kr",
+    "sns": "https://www.instagram.com/pkalbum, https://x.com/paulkim_twt, https://www.youtube.com/channel/UCU1dlpByUcGnVxlpaZglbVQ, https://www.tiktok.com/@paulkim.official",
+    "measurements": "172cm",
+    "blood_type": "O형",
+    "mbti": "INFJ",
+    "religion": "천주교",
+    "military_service": "대한민국 육군 병장 만기전역",
+    "summary": "2014년 「커피 한 잔 할래요」로 데뷔한 발라드 싱어송라이터로, 「모든 날, 모든 순간」 같은 드라마 OST로 크게 알려졌다. 2026년엔 일본·미국 싱글로 해외 활동을 넓히고 있다.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q43089370",
+     "https://ko.wikipedia.org/wiki/폴_킴_",
+     "https://www.wikidata.org/wiki/Q43089370",
+     "https://isplus.com/article/view/isp202605200137",
+     "https://namu.wiki/w/폴킴",
+     "https://www.yna.co.kr/view/AKR20261023083000005"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q43089370",
+   "links": [
+    {
+     "id": "b8dc39d2-e5a5-46a6-8622-512fc5c216af",
+     "category": "장소",
+     "name": "전남광주통합특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-24T02:18:12.944750+00:00"
+  },
+  {
+   "id": "0c8fb3c3-60ab-456e-a08f-c22beb0aeea7",
+   "name": "bhc",
+   "category": "단체",
+   "alias": "BHC, bhc치킨, 비에이치씨",
+   "disambig": "한국의 치킨 프랜차이즈",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "bhc",
+    "industry": "치킨 프랜차이즈",
+    "parent_company": "다이닝브랜즈그룹",
+    "sources": [
+     "https://www.yna.co.kr/view/AKR20261023050700030"
+    ],
+    "region_code": "1100000000"
+   },
+   "source_url": "https://www.yna.co.kr/view/AKR20261023050700030",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-24T10:32:33.276946+00:00"
+  }
+ ],
+ "bulk_added": []
+}

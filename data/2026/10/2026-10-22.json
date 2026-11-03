@@ -1,0 +1,1084 @@
+{
+ "date": "2026-10-22",
+ "timezone": "Asia/Seoul",
+ "exported_at": "2026-11-03T23:50:27+00:00",
+ "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
+ "counts": {
+  "updates": 25,
+  "new_planets": 8,
+  "bulk_added": 0
+ },
+ "updates": [
+  {
+   "id": "8e950312-a885-4388-bb10-bdec8acab033",
+   "title": "정형돈, 성수동에 돈가스 가게 도니도니까스까스 1호점",
+   "type": "뉴스",
+   "date": "2026-10-15",
+   "parent": [
+    {
+     "id": "ed0adcf5-638e-477c-97ca-8e8a5662c4de",
+     "category": "인물",
+     "name": "정형돈"
+    }
+   ],
+   "summary": "정형돈이 성수동에 돈가스 가게 「도니도니까스까스」 1호점을 열었다(10-12 지인 오픈식, 10-15 정식 오픈)",
+   "why": "2026년 4월 13년 만에 돈가스 사업을 다시 하겠다고 밝힌 뒤 첫 매장",
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "도니도니까스까스",
+     "id": "a7c8ce1a-dc72-4657-b6ab-93d8ef511bc6"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.heraldk.com/article/2026101305332426073",
+   "source": "뉴스",
+   "added_at": "2026-10-22T01:19:13.097786+00:00"
+  },
+  {
+   "id": "6de3a661-a794-42d0-8812-33892914dae7",
+   "title": "2026 광희로드 페스타",
+   "type": "축제",
+   "date": "2026-10-24",
+   "parent": [
+    {
+     "id": "ae7380db-f972-4b39-8212-8f2e14a69418",
+     "category": "장소",
+     "name": "광희동1가"
+    }
+   ],
+   "summary": "10-24 광희동 중앙아시아거리 일대, 5개국 음식",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "중앙아시아거리",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/amp/view/AKR20261020146300004",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "a1898fad-760c-4143-9966-629e7062eb77",
+   "title": "2026 원주 만두 축제",
+   "type": "축제",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "6807b4a6-bdfa-4e1c-b795-106489d96195",
+     "category": "장소",
+     "name": "원주시"
+    }
+   ],
+   "summary": "10-23~10-25 원주천 새벽시장 · 문화의 거리 일원",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "원주천 새벽시장",
+     "id": null
+    },
+    {
+     "name": "문화의 거리",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261021057500062",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "4fd7ad71-a23b-4413-ade3-10566fbcf4ae",
+   "title": "B",
+   "type": "EP",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "5687225d-d030-4889-84b2-fd2435da9a5a",
+     "category": "단체",
+     "name": "유어즈"
+    }
+   ],
+   "summary": "첫 EP 「B」 발매, 타이틀곡 「B.B.B.」",
+   "why": null,
+   "how": null,
+   "content": "데뷔 약 5개월 만의 컴백",
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.news1.kr/entertain/music/6327033",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "c65dd618-9aef-48e5-aeb4-0dcf20cc365d",
+   "title": "Blue",
+   "type": "싱글",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "5552fdd1-b36d-4f36-989a-d47c95701991",
+     "category": "인물",
+     "name": "강다니엘"
+    }
+   ],
+   "summary": "새 싱글 「Blue(블루)」 발매",
+   "why": null,
+   "how": null,
+   "content": "육군 현역 입대 전 직접 작사 · 작곡에 참여한 곡",
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261021068800005",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "3aa86684-b3ab-4b6f-899b-6cdbf4057018",
+   "title": "i love you to the moon and back",
+   "type": "미니앨범",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "4bdeffe2-a421-4fa6-b638-fb4ea2d8b759",
+     "category": "인물",
+     "name": "민니"
+    }
+   ],
+   "summary": "첫 태국어 디지털 미니앨범, 전곡 작곡 · 태국어 작사 참여(생일에 맞춰 발매)",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261021068800005",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "56bd0dab-d8b2-4bf7-836e-1f61e62b8701",
+   "title": "꿈의 정원",
+   "type": "EP",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "64847ea0-0428-4f90-a375-4223c90d4aed",
+     "category": "인물",
+     "name": "이은상"
+    }
+   ],
+   "summary": "첫 솔로 EP 「꿈의 정원」 발매, 전곡 작사 · 작곡 참여",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newspim.com/news/view/20261021000066",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "7ca58195-36e4-43b8-b69e-2187a8049f46",
+   "title": "미국 · 우크라이나와 3자 종전 협상 재개 합의",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "fcf45173-26eb-468e-a18b-3c98124376a5",
+     "category": "국가",
+     "name": "Russia"
+    }
+   ],
+   "summary": "위트코프 미국 특사와 푸틴 대통령 회동 뒤 11월 3자 종전 협상 재개에 합의, 미국인 수감자 석방",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Saint Petersburg",
+     "id": "0e191047-e37d-4803-8c78-7f58d2083004"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Vladimir Putin",
+     "id": null
+    },
+    {
+     "name": "Steve Witkoff",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.ksat.com/news/world/2026/10/21/trump-envoy-witkoff-to-meet-putin-in-st-petersburg-for-ukraine-war-talks/",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "b68f0106-db31-4354-be13-472e67c0cbda",
+   "title": "미니 5집 BREAK EVEN 발매 기념 팝업 스토어",
+   "type": "뉴스",
+   "date": "2026-10-26",
+   "parent": [
+    {
+     "id": "d3d08386-5a28-4a4d-96a1-644a41658282",
+     "category": "단체",
+     "name": "아일릿"
+    }
+   ],
+   "summary": "10-26~10-31 미니 5집 「BREAK EVEN」 발매 기념 팝업 스토어",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "하이브 용산 사옥 1층",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.breaknews.com/1244615",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "167c412b-4fba-4f27-9c2a-057958cfcf36",
+   "title": "삐그덕",
+   "type": "싱글",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "51255d02-9796-4146-88ce-f693a60199d6",
+     "category": "인물",
+     "name": "크러쉬"
+    }
+   ],
+   "summary": "크러쉬 신곡 「삐그덕」 발매, 아이유가 피처링과 뮤직비디오에 참여",
+   "why": null,
+   "how": null,
+   "content": "약 1년 2개월 만의 신곡",
+   "places": [],
+   "featuring": [
+    {
+     "name": "아이유",
+     "id": "017e8273-2bab-4860-92d0-eb1eb4e2a471"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261021087100005",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "ff60e436-6eb1-46a6-95af-680a484c9eac",
+   "title": "사우디 · 파키스탄 메카 방위협정 비준안 의회 제출",
+   "type": "뉴스",
+   "date": "2026-10-20",
+   "parent": [
+    {
+     "id": "04843d39-a5c3-4c73-9348-f711b8fe25a0",
+     "category": "국가",
+     "name": "Turkey"
+    }
+   ],
+   "summary": "사우디아라비아 · 파키스탄과 맺은 10년 기한 3국 상호방위협정(메카 협정) 비준안을 의회에 제출",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://apnews.com/article/turkey-saudi-pakistan-mecca-defense-agreement-explainer-b96277475d9332672104d223a91eb3db",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "fdc87b38-6d59-4451-8818-c85e39823504",
+   "title": "제18회 강릉커피축제",
+   "type": "축제",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "64985b93-1f47-4d72-9361-ca37a2264f57",
+     "category": "장소",
+     "name": "강릉시"
+    }
+   ],
+   "summary": "10-21~10-25 안목해변 강릉커피거리 일원, 관광공사 북트립 등 연계 행사",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "강릉커피거리",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261021027400030",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "4ae4fb02-d0ab-4368-bf89-c64c93e807a2",
+   "title": "제9회 양재 말죽거리 축제",
+   "type": "축제",
+   "date": "2026-10-23",
+   "parent": [
+    {
+     "id": "682e70f0-1e33-4be3-9be3-f26973e54e46",
+     "category": "장소",
+     "name": "양재동"
+    }
+   ],
+   "summary": "10-23 양재역사거리 말죽거리 일원, 야간 음식문화축제 포함",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "말죽거리",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261021017900004",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "dd253e1d-886c-4f83-9d05-2f6f8fc39739",
+   "title": "크러쉬 「삐그덕」 피처링 · 뮤직비디오 출연",
+   "type": "협업",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "017e8273-2bab-4860-92d0-eb1eb4e2a471",
+     "category": "인물",
+     "name": "아이유"
+    }
+   ],
+   "summary": "크러쉬 신곡 「삐그덕」에 피처링으로 참여하고 뮤직비디오에 출연",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "크러쉬",
+     "id": "51255d02-9796-4146-88ce-f693a60199d6"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261021087100005",
+   "source": "뉴스",
+   "added_at": "2026-10-22T02:50:05.224283+00:00"
+  },
+  {
+   "id": "fb17c51f-b56e-43e4-8c4a-f3d02568814f",
+   "title": "반중 코미디언 상해 모의 5명 기소",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "4e0100e1-255f-4c79-99fe-44a4302ffcdc",
+     "category": "국가",
+     "name": "Taiwan"
+    }
+   ],
+   "summary": "검찰이 돈을 받고 신베이시에서 반중국공산당 코미디언을 해치려 한 혐의로 5명을 기소",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "New Taipei",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://apnews.com/article/taiwan-china-xi-jinping-comedian-huang-attacked-5de1ede690a3881d79f74624e81acf0c",
+   "source": "뉴스",
+   "added_at": "2026-10-22T03:16:59.612007+00:00"
+  },
+  {
+   "id": "c4521522-7718-4fbc-9c25-45b9ee8b42cf",
+   "title": "북해 잭도 가스전 생산 승인",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "860abe36-6554-419a-9021-7be14c191ffa",
+     "category": "국가",
+     "name": "United Kingdom"
+    }
+   ],
+   "summary": "북해전환청(NSTA)이 에너지 장관 승인에 따라 잭도 가스전 생산을 허가, 운영사 Adura 가 10월 말부터 공급",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Jackdaw gas field",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.upi.com/Top_News/World-News/2026/10/21/Jackdaw-gasfield-production-greenlighted/2721792570621/",
+   "source": "뉴스",
+   "added_at": "2026-10-22T03:16:59.612007+00:00"
+  },
+  {
+   "id": "b103a176-aebb-47a7-b825-f062572d8010",
+   "title": "서안지구에서 브래드 랜더 등 80여 명 억류",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "이스라엘 점령 서안지구에서 미국 하원 후보 브래드 랜더를 포함한 미국 · 영국 · 이스라엘인 80여 명이 정착민에게 억류됨",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "West Bank",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Brad Lander",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
+   "source": "뉴스",
+   "added_at": "2026-10-22T03:16:59.612007+00:00"
+  },
+  {
+   "id": "7221c183-7a93-436c-874e-298779f882f6",
+   "title": "연료세 인하(11-4~12-1)",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "3f344b6e-d948-4867-a80f-19743b6e7f1b",
+     "category": "국가",
+     "name": "South Africa"
+    }
+   ],
+   "summary": "연료값이 최고치에 이르자 11-4~12-1 경유 L당 3랜드, 휘발유 L당 1.5랜드 연료세 인하",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.afp.com/en/south-africa-eases-fuel-pain-growth-slows",
+   "source": "뉴스",
+   "added_at": "2026-10-22T03:16:59.612007+00:00"
+  },
+  {
+   "id": "c4ff4670-9d09-4e09-8e2f-efb0d2ed6cfa",
+   "title": "전 치와와주 검찰총장 반역 수사",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "77a48719-f983-4758-95b3-4837a7db74a1",
+     "category": "국가",
+     "name": "Mexico"
+    }
+   ],
+   "summary": "정부가 올해 치와와주 마약 단속 작전에 미국 CIA 요원이 참여하도록 허용한 세사르 하우레기 로블레스 전 검찰총장을 반역 혐의로 수사",
+   "why": "멕시코 법상 외국 요원의 작전 참여는 연방 정부 승인이 필요",
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Chihuahua",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid",
+   "source": "뉴스",
+   "added_at": "2026-10-22T03:16:59.612007+00:00"
+  },
+  {
+   "id": "d9807143-6ad9-43ba-8131-ceb49afc764c",
+   "title": "주사우디 대사관 비필수 인력 철수 명령",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "국무부가 후티 공격이 거세지자 리야드 대사관 비필수 직원에게 사우디아라비아를 떠나라고 명령",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Riyadh",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat",
+   "source": "뉴스",
+   "added_at": "2026-10-22T03:16:59.612007+00:00"
+  },
+  {
+   "id": "62bb7ce5-0cb3-40f5-a18c-33f85b88262b",
+   "title": "카타르 · 파키스탄 · 인도네시아와 바드르 양해각서 서명",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "04843d39-a5c3-4c73-9348-f711b8fe25a0",
+     "category": "국가",
+     "name": "Turkey"
+    }
+   ],
+   "summary": "카타르 · 터키 · 파키스탄 · 인도네시아가 방위산업 협력 「바드르 양해각서」에 서명(공동 생산 · 기술 훈련 · 연구개발)",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Qatar",
+     "id": null
+    },
+    {
+     "name": "Pakistan",
+     "id": null
+    },
+    {
+     "name": "Indonesia",
+     "id": "79081771-0acd-4f5a-b7d4-82112ed3268e"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.reuters.com/world/asia-pacific/turkey-qatar-pakistan-indonesia-sign-defence-cooperation-accord-ankara-says-2026-10-21/",
+   "source": "뉴스",
+   "added_at": "2026-10-22T03:16:59.612007+00:00"
+  },
+  {
+   "id": "43e59890-cdd4-49d4-bff2-df9fafc28ae1",
+   "title": "폴 생피에르 플라몽동, 퀘벡 주총리 취임",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "e3935af8-59b6-4bb1-aaeb-d5189e33db32",
+     "category": "국가",
+     "name": "Canada"
+    }
+   ],
+   "summary": "퀘벡당(PQ)의 총선 승리에 따라 폴 생피에르 플라몽동이 제34대 퀘벡 주총리로 취임",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Quebec",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Paul St-Pierre Plamondon",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.theglobeandmail.com/canada/article-paul-st-pierre-plamondon-quebec-premier-cabinet-independence-minister/",
+   "source": "뉴스",
+   "added_at": "2026-10-22T03:16:59.612007+00:00"
+  },
+  {
+   "id": "f1392d40-7e86-44fa-96f6-115e985071b7",
+   "title": "550억 달러 인수 완료 · 나스닥 상장폐지",
+   "type": "인수합병",
+   "date": "2026-08-04",
+   "parent": [
+    {
+     "id": "c526b691-903a-4aa4-af55-9a2e4bf013b0",
+     "category": "단체",
+     "name": "Electronic Arts"
+    }
+   ],
+   "summary": "사우디 국부펀드(PIF)·실버레이크·어피니티 파트너스 컨소시엄의 약 550억 달러 인수가 끝나 비상장 회사가 됨",
+   "why": null,
+   "how": "주당 210달러 현금, PIF 지분 약 93%. 2025-12-22 주주 승인, 2026-07-30 규제 승인 완료",
+   "content": "사우디 국부펀드(PIF) · 실버레이크 · 어피니티 파트너스 컨소시엄의 약 550억 달러 인수가 끝나 비상장 회사가 되고 나스닥에서 빠짐(주당 210달러 현금, PIF 지분 약 93%)\n\n2025-12-22 주주 승인, 2026-07-30 규제 승인 완료",
+   "places": [],
+   "featuring": [],
+   "other_fields": {
+    "counterpart": [
+     {
+      "name": "Public Investment Fund",
+      "id": null
+     },
+     {
+      "name": "Silver Lake",
+      "id": null
+     },
+     {
+      "name": "Affinity Partners",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.pocketgamer.biz/eas-55bn-buyout-complete-in-deal-led-by-saudi-arabias-pif/",
+   "source": "뉴스",
+   "added_at": "2026-10-22T03:45:03.153423+00:00"
+  },
+  {
+   "id": "d5798deb-8cb1-4fc6-8174-cf3681f6a1d5",
+   "title": "뉴멕시코 법원, 250억 달러 지급 명령",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "0785a5f3-706f-474c-a209-65380428f973",
+     "category": "단체",
+     "name": "Meta Platforms"
+    }
+   ],
+   "summary": "배심원이 페이스북 이용자에게 개인정보 접근을 속였다고 판단한 뒤 뉴멕시코 연방지방법원이 메타에 250억 달러 지급을 명령(메타 사상 최대)",
+   "why": null,
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "New Mexico",
+     "id": "6ae656ea-d926-4063-8e87-f88a8a7c7819"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations",
+   "source": "뉴스",
+   "added_at": "2026-10-22T03:45:03.153423+00:00"
+  },
+  {
+   "id": "3f5c938f-aad4-4fa1-aaa9-8e0dffe96469",
+   "title": "바이오웨어 폐쇄 · 차기 매스 이펙트 취소",
+   "type": "뉴스",
+   "date": "2026-10-21",
+   "parent": [
+    {
+     "id": "c526b691-903a-4aa4-af55-9a2e4bf013b0",
+     "category": "단체",
+     "name": "Electronic Arts"
+    }
+   ],
+   "summary": "캐나다 스튜디오 바이오웨어를 닫고 차기 「매스 이펙트」 개발을 취소, 약 400명 감원",
+   "why": "2026년 8월 사우디 국부펀드(PIF) 주도 컨소시엄 인수(비상장 전환) 뒤",
+   "how": null,
+   "content": null,
+   "places": [
+    {
+     "name": "Edmonton",
+     "id": null
+    },
+    {
+     "name": "Canada",
+     "id": "e3935af8-59b6-4bb1-aaeb-d5189e33db32"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "BioWare",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://kotaku.com/ea-to-shut-down-bioware-and-cancel-the-next-mass-effect-game-2000748374",
+   "source": "뉴스",
+   "added_at": "2026-10-22T03:45:03.153423+00:00"
+  }
+ ],
+ "new_planets": [
+  {
+   "id": "a7c8ce1a-dc72-4657-b6ab-93d8ef511bc6",
+   "name": "도니도니까스까스",
+   "category": "장소",
+   "alias": "도니도니 돈까스, 도니도니돈까스",
+   "disambig": "성수동1가의 음식점",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "cuisine": "일식 카레/돈가스/덮밥",
+    "address": "서울특별시 성동구 상원6길 9, 1층",
+    "hours": "10:30~20:30",
+    "menu": "도니도니까스까스, 블랙도니도니까스, 치즈돈가스",
+    "opened_date": "2026-10-15",
+    "sources": [
+     "https://www.heraldk.com/article/2026101305332426073",
+     "https://tvreport.co.kr/entertainment/article/1082595/",
+     "https://www.instagram.com/yonghwanshim/"
+    ]
+   },
+   "source_url": "https://www.heraldk.com/article/2026101305332426073",
+   "links": [
+    {
+     "id": "ee1ea6c9-968f-488b-9ee8-7d059e88864f",
+     "category": "장소",
+     "name": "성수동1가",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-22T01:19:13.097786+00:00"
+  },
+  {
+   "id": "ed0adcf5-638e-477c-97ca-8e8a5662c4de",
+   "name": "정형돈",
+   "category": "인물",
+   "alias": "Jeong Hyeong-don",
+   "disambig": "한국의 방송인",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1978-02-07",
+    "birthplace": "부산광역시",
+    "nationality": "Korea",
+    "gender": "남성",
+    "occupation": "방송인, 코미디언",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q483429"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q483429",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-22T01:19:13.097786+00:00"
+  },
+  {
+   "id": "51255d02-9796-4146-88ce-f693a60199d6",
+   "name": "크러쉬",
+   "category": "인물",
+   "alias": "크롱",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "name_en": "Crush",
+    "real_name": "신효섭",
+    "gender": "남성",
+    "activity": "솔로",
+    "nationality": "대한민국",
+    "birth_date": "1992-05-03",
+    "measurements": "175cm",
+    "organization": "피네이션",
+    "debut_date": "2012-05-17",
+    "website": "https://pnation.com/artists/5",
+    "sns": "https://www.instagram.com/crush9244, https://twitter.com/crush9244, https://www.tiktok.com/@crush9244",
+    "blood_type": "O형",
+    "mbti": "INFP",
+    "birthplace": "서울특별시",
+    "education": "호서대학교 실용음악학 (제적)",
+    "awards": "2025년 제39회 골든디스크어워즈 베스트 OST상, 2024년 MAMA AWARDS 베스트 OST상, 2020년 제17회 한국대중음악상 최우수 알앤비&소울 음반상",
+    "fandom_name": "크러쉬밤 (CrushBomb)",
+    "channel_url": "https://www.youtube.com/@crushofficial",
+    "summary": "독보적인 음색과 트렌디한 그루브, 뛰어난 프로듀싱 능력을 겸비해 한국 힙합·R&B 및 대중음악계를 대표하는 싱어송라이터.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/크러쉬_(음악가)",
+     "https://namu.wiki/w/Crush(가수)",
+     "https://pnation.com/artists/5"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/크러쉬_(음악가)",
+   "links": [
+    {
+     "id": "ab71a867-4380-4168-87fe-d3774987ae95",
+     "category": "단체",
+     "name": "피네이션",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-22T02:33:15.228607+00:00"
+  },
+  {
+   "id": "5552fdd1-b36d-4f36-989a-d47c95701991",
+   "name": "강다니엘",
+   "category": "인물",
+   "alias": "녤, 코룽이, 녤깅",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "name_en": "KANG DANIEL",
+    "real_name": "강의건",
+    "gender": "남성",
+    "activity": "솔로",
+    "nationality": "대한민국",
+    "birth_date": "1996-12-10",
+    "measurements": "181.5cm",
+    "organization": "에이라",
+    "debut_date": "2017-08-07",
+    "sns": "https://www.instagram.com/daniel.k.here",
+    "blood_type": "A형",
+    "mbti": "ENFJ",
+    "birthplace": "부산광역시",
+    "weight": "67kg",
+    "education": "경희사이버대학교 실용음악학 (학사)",
+    "awards": "2023년 제32회 서울가요대상 본상, 2022년 제4회 더팩트 뮤직 어워즈 올해의 아티스트상, 2021년 제30회 서울가요대상 본상",
+    "fandom_name": "다니티 (DANITY)",
+    "channel_url": "https://www.youtube.com/@KANGDANIELofficial",
+    "summary": "Mnet 〈프로듀스 101 시즌2〉 1위로 프로젝트 그룹 Wanna One의 센터로 데뷔한 뒤, 탄탄한 댄스 실력과 무대 장악력을 바탕으로 성공적인 솔로 행보를 이어가고 있는 대한민국의 가수.",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/강다니엘",
+     "https://namu.wiki/w/강다니엘"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/강다니엘",
+   "links": [
+    {
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d",
+     "category": "장소",
+     "name": "부산광역시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-22T02:33:16.104454+00:00"
+  },
+  {
+   "id": "64847ea0-0428-4f90-a375-4223c90d4aed",
+   "name": "이은상",
+   "category": "인물",
+   "alias": "체리, 능금, 초코칩",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "occupation": "가수",
+    "name_en": "Lee Eun-sang",
+    "gender": "남성",
+    "activity": "솔로",
+    "nationality": "대한민국",
+    "birth_date": "2002-10-26",
+    "measurements": "184cm",
+    "organization": "브랜뉴뮤직",
+    "debut_date": "2019-08-27",
+    "website": "http://www.brandnewmusic.co.kr/portfolio-item/leeeunsang/",
+    "sns": "https://www.instagram.com/2eunsang_official, https://twitter.com/LES_BNM",
+    "blood_type": "A형",
+    "mbti": "INFJ",
+    "birthplace": "제주특별자치도",
+    "weight": "63kg",
+    "religion": "불교",
+    "education": "서울공연예술고등학교 실용음악과 (졸업)",
+    "fandom_name": "이음 (E-Eum)",
+    "summary": "Mnet 〈프로듀스 X 101〉을 통해 프로젝트 그룹 X1으로 데뷔한 후, 그룹 YOUNITE 리더를 거쳐 감미로운 음색과 무대 장악력을 입증하고 있는 브랜뉴뮤직 소속 솔로 아티스트.",
+    "sources": [
+     "http://www.brandnewmusic.co.kr/portfolio-item/leeeunsang/",
+     "https://namu.wiki/w/이은상(2002)"
+    ],
+    "ai_model": "Gemini"
+   },
+   "source_url": "http://www.brandnewmusic.co.kr/portfolio-item/leeeunsang/",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    },
+    {
+     "id": "7250e6ab-33cc-4cbc-9dbe-7a3d960305d3",
+     "category": "장소",
+     "name": "제주특별자치도",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-10-22T02:33:17.236438+00:00"
+  },
+  {
+   "id": "5687225d-d030-4889-84b2-fd2435da9a5a",
+   "name": "유어즈",
+   "category": "단체",
+   "alias": "유어즈, YUHZ",
+   "disambig": "",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "name_en": "YUHZ",
+    "group_type": "보이그룹",
+    "real_name": "YUHZ",
+    "formation_date": "2026-05-07",
+    "parent_company": "피나클엔터테인먼트",
+    "members": "보현, 효, 하루토, 준성, 재일, 카이, 연태, 세찬",
+    "leader": "효",
+    "fandom_name": "DEARZ (디어즈)",
+    "summary": "SBS 오디션 프로그램 B:MY BOYZ를 통해 결성되어 2026년 5월 첫 싱글 '오렌지 레코드(Orange Record)'로 데뷔한 피나클엔터테인먼트 소속의 8인조 다국적 보이그룹.",
+    "ai_model": "Gemini"
+   },
+   "source_url": "https://www.news1.kr/entertain/music/6327033",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-10-22T02:33:17.769185+00:00"
+  },
+  {
+   "id": "0785a5f3-706f-474c-a209-65380428f973",
+   "name": "Meta Platforms",
+   "category": "단체",
+   "alias": "Meta, 메타, 메타 플랫폼스, 메타 플랫폼즈, Facebook, 페이스북",
+   "disambig": "",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "Meta Platforms",
+    "industry": "IT서비스",
+    "real_name": "Meta Platforms, Inc.",
+    "formation_date": "2004-02-04",
+    "hq": "Menlo Park, California",
+    "founder": "마크 저커버그, 에두아르두 사베린, 더스틴 모스코비츠, 앤드루 매컬럼, 크리스 휴스",
+    "ceo": "마크 저커버그",
+    "website": "https://www.meta.com",
+    "sns": "https://www.instagram.com/meta, https://twitter.com/Meta, https://www.facebook.com/Meta, https://www.youtube.com/@Meta, https://www.threads.net/@meta",
+    "listed_on": "해외상장",
+    "subsidiaries": "Instagram, WhatsApp, Reality Labs, Mapillary, Meta Superintelligence Labs",
+    "headcount": "78,865명 (2025년 12월 기준)",
+    "summary": "페이스북, 인스타그램, 왓츠앱, 스레드 등 세계적인 소셜 미디어 플랫폼을 운영하며 인공지능(Llama)과 가상·증강현실(메타 퀘스트) 기술을 선도하는 미국의 다국적 빅테크 기업.",
+    "sources": [
+     "https://about.meta.com/",
+     "https://en.wikipedia.org/wiki/Meta_Platforms",
+     "https://namu.wiki/w/메타%20플랫폼즈"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "US.06"
+   },
+   "source_url": "https://about.meta.com/",
+   "links": [
+    {
+     "id": "7af1a331-392a-4cc3-9e43-d4359d65ae5c",
+     "category": "장소",
+     "name": "California",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-22T03:29:57.004319+00:00"
+  },
+  {
+   "id": "c526b691-903a-4aa4-af55-9a2e4bf013b0",
+   "name": "Electronic Arts",
+   "category": "단체",
+   "alias": "EA, 일렉트로닉 아츠, 이에이",
+   "disambig": "",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "name_en": "Electronic Arts",
+    "industry": "게임엔터테인먼트",
+    "real_name": "Electronic Arts Inc.",
+    "formation_date": "1982-05-27",
+    "parent_company": "Public Investment Fund",
+    "hq": "Redwood City, California",
+    "founder": "트립 호킨스",
+    "ceo": "앤드루 윌슨",
+    "website": "https://www.ea.com",
+    "sns": "https://www.instagram.com/ea, https://twitter.com/EA, https://www.facebook.com/EA, https://www.youtube.com/@EA, https://www.tiktok.com/@ea",
+    "listed_on": "비상장",
+    "subsidiaries": "DICE, Respawn Entertainment, Maxis, Criterion Games, Motive Studio, Ripple Effect Studios, Codemasters, EA Tiburon, EA Vancouver, EA Korea Studio",
+    "headcount": "14,600명 (2026년 3월 기준)",
+    "summary": "EA SPORTS FC, 심즈, 배틀필드, 에이펙스 레전드 등 세계적인 프랜차이즈를 보유한 미국의 대형 비디오 게임 개발 및 배급사.",
+    "sources": [
+     "https://www.ea.com",
+     "https://en.wikipedia.org/wiki/Electronic_Arts",
+     "https://namu.wiki/w/%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C%EB%8B%89%20%EC%95%84%EC%B8%A0"
+    ],
+    "ai_model": "Gemini",
+    "region_code": "US.06"
+   },
+   "source_url": "https://www.ea.com",
+   "links": [
+    {
+     "id": "7af1a331-392a-4cc3-9e43-d4359d65ae5c",
+     "category": "장소",
+     "name": "California",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-10-22T03:29:57.591441+00:00"
+  }
+ ],
+ "bulk_added": []
+}
