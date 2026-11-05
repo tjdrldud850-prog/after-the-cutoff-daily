@@ -1,11 +1,11 @@
 {
  "date": "2026-11-05",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-05T00:51:47+00:00",
+ "exported_at": "2026-11-05T01:02:52+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
-  "updates": 113,
-  "new_planets": 65,
+  "updates": 114,
+  "new_planets": 66,
   "bulk_added": 0
  },
  "updates": [
@@ -4851,6 +4851,34 @@
    "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/society/hiroshima-atomic-victim-remains/",
    "source": "뉴스",
    "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "154fcc3b-0b2b-4dc2-bc99-3d31161e873f",
+   "title": "박진영, 종교 모임 「첫열매들」 이단·사이비 의혹에 직접 입장",
+   "type": "논란",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "a14917dd-8646-4b07-ae9b-53cd4d90a49b",
+     "category": "인물",
+     "name": "박진영"
+    }
+   ],
+   "summary": "박진영이 자신이 이끄는 종교 모임 「첫열매들」을 둘러싼 이단·사이비 의혹에 유튜브 강연에서 직접 입장을 밝힘",
+   "why": "박진영이 이끄는 종교 모임 「첫열매들」이 이단·사이비라는 의혹이 나옴. 2018년에도 비슷한 논란이 있었고 박진영은 당시 SNS에 「성경공부 모임은 구원파 조직과 아무 상관이 없다」고 밝힘",
+   "how": "박진영은 3일 유튜브 채널 「첫열매들」 강연에서 「이단·사이비 소리를 듣고 핍박을 많이 받기 시작했다」며 「그 해결도 다 하나님이 하시는 것」이라고 말함",
+   "content": "박진영은 3일 공개된 유튜브 채널 「첫열매들」 강연 영상에서 「우리가 이제 이단·사이비 소리를 듣고 핍박을 본격적으로 많이 받기 시작했다」고 말했다. 박진영은 「교리적으로 따지거나 조직적으로 댓글을 다는 식의 사람의 노력으로 피하는 것이 아니라 적당한 순간에 하나님이 해결하실 일」이라고 말했다. 이날 강연 주제는 「잘못된 자신감 대 올바른 자신감」이었고, 박진영은 마흔 살 무렵 자신의 힘으로 해결할 수 없는 한계를 마주해 신앙을 갖게 됐다고 말했다. 뉴시스에 따르면 성경 스터디에서 출발한 「첫열매들」은 서울, 부산, 미국 로스앤젤레스 등 국내외 8개 지역에서 모임을 여는 교회 형태로 확장됐고, 박진영은 앞서 이 모임이 웨슬리안 감리교와 미국 독립침례교 등의 영향을 받은 독자적 교리를 갖췄다고 설명한 바 있다. 같은 보도에 따르면 대한예수교장로회(예장) 통합총회는 박진영과 「첫열매들」의 가르침에 교리적 이단성이 있는지 확인하기 위해 교단 차원의 연구 조사를 진행하고 있다.",
+   "places": [],
+   "featuring": [
+    {
+     "name": "제이와이피엔터테인먼트",
+     "id": "1aeb981f-4786-4058-b502-23b5a981944b"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104071800005",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:58:41.449267+00:00"
   }
  ],
  "new_planets": [
@@ -6311,6 +6339,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q656710",
    "links": [
     {
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
+     "category": "장소",
+     "name": "Los Angeles",
+     "rel": "LOCATED_IN"
+    },
+    {
      "id": "89d825fc-f879-4146-b93d-cf8a2ab680bc",
      "category": "단체",
      "name": "Sony Interactive Entertainment",
@@ -6674,7 +6708,14 @@
     ]
    },
    "source_url": "https://www.wikidata.org/wiki/Q187854",
-   "links": [],
+   "links": [
+    {
+     "id": "8bbbc2c7-617e-41ab-9567-e8d371c29f3c",
+     "category": "장소",
+     "name": "Solna",
+     "rel": "LOCATED_IN"
+    }
+   ],
    "added_at": "2026-11-05T00:49:20.214401+00:00"
   },
   {
@@ -6857,6 +6898,47 @@
     }
    ],
    "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "a14917dd-8646-4b07-ae9b-53cd4d90a49b",
+   "name": "박진영",
+   "category": "인물",
+   "alias": "JYP 박진영, 박진영 JYP, J.Y. Park, Park Jin-young, Jin-young Park, 朴軫永",
+   "disambig": "대한민국의 가수·프로듀서, JYP엔터테인먼트 CCO",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1971-12-13",
+    "birthplace": "서울",
+    "gender": "남성",
+    "occupation": "가수",
+    "activity": "솔로",
+    "organization": "JYP엔터테인먼트",
+    "nationality": "대한민국",
+    "website": "http://jyp.jype.com/",
+    "summary": "가수 겸 프로듀서. JYP엔터테인먼트 CCO를 맡고 있으며 종교 모임 「첫열매들」을 이끎.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q483283",
+     "https://www.newsis.com/view/NISX20261103_0003853384"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q483283",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    },
+    {
+     "id": "1aeb981f-4786-4058-b502-23b5a981944b",
+     "category": "단체",
+     "name": "제이와이피엔터테인먼트",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-05T00:58:41.449267+00:00"
   }
  ],
  "bulk_added": []
