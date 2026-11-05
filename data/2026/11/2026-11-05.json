@@ -1,0 +1,6863 @@
+{
+ "date": "2026-11-05",
+ "timezone": "Asia/Seoul",
+ "exported_at": "2026-11-05T00:51:47+00:00",
+ "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
+ "counts": {
+  "updates": 113,
+  "new_planets": 65,
+  "bulk_added": 0
+ },
+ "updates": [
+  {
+   "id": "8ad6d82c-76d6-4ac9-8e1d-4fac81d66787",
+   "title": "10월 말 외환보유액 4431억6천만달러",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "a54373ce-e4bc-48b4-8059-3023d6e74f99",
+     "category": "단체",
+     "name": "한국은행"
+    }
+   ],
+   "summary": "10월 말 외환보유액이 4431억6천만달러로 9월보다 26억달러 늘었고 나라별 순위는 두 단계 올라 9위가 됨",
+   "why": "외화자산 운용수익과 금융기관 외화예수금이 늘었고, 순위 상승에는 금값 하락이 영향을 줬음",
+   "how": "예치금이 63억2천만달러 늘어난 반면 유가증권은 35억9천만달러 줄어 3824억3천만달러가 됨",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261103169200002",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "b1cf181c-3dfb-44ba-9782-95b81b2f0d2e",
+   "title": "11월 22일 비연예인과 결혼",
+   "type": "결혼",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "0011fe72-6edb-4a60-a736-0d0c30ef28c3",
+     "category": "인물",
+     "name": "전지윤"
+    }
+   ],
+   "summary": "포미닛 출신 가수 겸 웹소설 작가가 11월 22일 서울에서 비연예인 예비 신랑과 비공개로 결혼한다고 직접 알림",
+   "why": null,
+   "how": "양가 가족과 가까운 지인만 초대하는 비공개 예식. 포미닛 멤버 중 현아(2024년 10월 결혼)에 이어 두 번째 기혼",
+   "content": null,
+   "places": [
+    {
+     "name": "서울",
+     "id": null
+    },
+    {
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261104_0003854645",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "155111ae-68fa-4607-b8a9-e448025c636f",
+   "title": "12월 24·25일 창원 크리스마스 스페셜 콘서트",
+   "type": "콘서트",
+   "date": "2026-12-24",
+   "parent": [
+    {
+     "id": "7661417a-3b7b-4517-8904-d9ebbf546955",
+     "category": "단체",
+     "name": "플라이투더스카이"
+    }
+   ],
+   "summary": "12월 24일 오후 7시와 25일 오후 5시 KBS창원홀에서 크리스마스 스페셜 콘서트를 엶",
+   "why": "8년 만의 단독 전국투어와는 별도로 마련한 연말 공연",
+   "how": "크리스마스 분위기의 무대 구성과 대표곡 중심의 공연으로 소개됨. 환희와 브라이언 두 사람이 출연",
+   "content": null,
+   "places": [
+    {
+     "name": "KBS창원홀",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "환희",
+     "id": "46caa18d-8043-4da9-b465-8e2fae1cbc6b"
+    },
+    {
+     "name": "브라이언",
+     "id": "e0cf9c5b-759c-47c9-8ab8-72a01485a03e"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261104/134961865/1",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "2b57e52e-0ad2-4088-bda6-333ffab09716",
+   "title": "12월 26일 재혼, 교회에서 소규모 예식",
+   "type": "결혼",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "13b728ad-c3d9-48dd-a8c6-1c78c91a3eec",
+     "category": "인물",
+     "name": "서인영"
+    }
+   ],
+   "summary": "쥬얼리 출신 가수가 12월 26일 교회에서 가까운 지인만 초대한 소규모 결혼식을 올린다고 유튜브 영상에서 밝힘",
+   "why": "2023년 2월 결혼했다가 이듬해 헤어진 뒤 재혼으로, 허례허식 없이 잘 사는 것이 중요하다고 말함",
+   "how": "축가와 화려한 꽃장식을 모두 뺐고 하객은 쥬얼리 멤버와 소수 지인. 상대는 6세 연상 콘텐츠 기업 대표",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261104_0003855308",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "9c7eb9c7-fbfa-4ac6-8b77-b2044fb27ea1",
+   "title": "12일 여덟 번째 디지털 싱글 「다시!」 발매",
+   "type": "싱글",
+   "date": "2026-11-12",
+   "parent": [
+    {
+     "id": "ae830dce-8f99-4593-ab17-f02372455969",
+     "category": "단체",
+     "name": "루시"
+    }
+   ],
+   "summary": "12일 오후 6시 여덟 번째 디지털 싱글 「다시!」를 내고 컴백함",
+   "why": null,
+   "how": "4월 정규 2집 「Childish」 이후 약 7개월 만의 신보. 공연에서 먼저 선보인 뒤 음원을 내는 방식으로 알려짐",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/music/2026/11/04/G42WMNZQMI4DINRUGA2TMNRWMI/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "78a83d7f-c565-4084-961d-5332e64a151a",
+   "title": "2026 여수세계섬박람회 폐막",
+   "type": "폐장",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "7683a0ce-7eac-47cf-abd0-2004dcd6a97f",
+     "category": "장소",
+     "name": "여수시"
+    }
+   ],
+   "summary": "2026 여수세계섬박람회가 61일간의 일정을 마치고 폐막함",
+   "why": null,
+   "how": "관람객은 250만 명을 넘겼지만 준비 부족과 부실한 전시 콘텐츠 논란이 이어졌고 상인들은 특수 효과가 없었다고 말함. 시의회는 투입 예산 대비 성과를 따짐",
+   "content": null,
+   "places": [
+    {
+     "name": "돌산도",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704224",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "3a6f5c62-04a3-4455-aaa0-6a16e8894876",
+   "title": "3M, PFAS 지하수 오염 소송 최대 73.5억 달러에 합의",
+   "type": "경과",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "3M이 영구 화학물질로 불리는 PFAS의 지하수 오염 소송을 최대 73억 5천만 달러를 내고 합의하기로 함",
+   "why": null,
+   "how": "ABC뉴스(AP)가 보도한 합의로 지하수 오염 청구가 대상",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "3M",
+     "id": "2da6e404-5675-4eba-ba92-3ac82e40317a"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://abcnews.com/US/wireStory/3m-agrees-pay-7-billion-settle-forever-chemical-137859426",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "b64e59a0-29dd-4178-a62e-f3ccb1fc76be",
+   "title": "3분기 공연 티켓 판매액 51% 감소",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "2fe09321-a0ad-46d6-91de-13af845996e5",
+     "category": "장소",
+     "name": "울산광역시"
+    }
+   ],
+   "summary": "올해 3분기 울산 공연 티켓 판매액이 12억9천만원으로 1년 전보다 51% 줄었음",
+   "why": null,
+   "how": "입장권은 3만4천여 장으로 47%, 공연 횟수는 177회로 38% 줄었고 연극 티켓 판매액만 94% 늘었음",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "예술경영지원센터",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8703428&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "20d4e44b-30df-4bd3-b98b-ef73c829631b",
+   "title": "DL케미칼, 카리플렉스 글랜우드PE 매각 MOU",
+   "type": "인수합병",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "de179775-1523-4bb1-a33d-6cc5d62b6a59",
+     "category": "단체",
+     "name": "DL케미칼"
+    }
+   ],
+   "summary": "DL케미칼이 의료용 라텍스 자회사 카리플렉스를 글랜우드PE에 팔기 위한 구속력 있는 양해각서를 체결함",
+   "why": null,
+   "how": "2020년 미국 크레이튼에서 6200억원에 인수한 회사이며 거래 가격은 정해지지 않았고 시장은 1조원대 중후반으로 봄",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "카리플렉스",
+     "id": null
+    },
+    {
+     "name": "글랜우드PE",
+     "id": null
+    },
+    {
+     "name": "DL",
+     "id": "6d1068a0-efa4-442f-985c-62ffc2330e44"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104169400003",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "f155236a-6d90-4e12-9780-8b2cef49018a",
+   "title": "NHS, 잉글랜드 GP 200곳에서 다종 암 혈액검사 시험",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "860abe36-6554-419a-9021-7be14c191ffa",
+     "category": "국가",
+     "name": "United Kingdom"
+    }
+   ],
+   "summary": "잉글랜드 GP 병원 약 200곳에서 간·난소·췌장 등 복부 암을 한 번에 찾는 혈액검사를 시험함",
+   "why": "복부 암은 증상이 모호해 퍼진 뒤에야 발견되는 경우가 많아서",
+   "how": "45세 이상 2만 명 넘는 환자가 대상이며 버밍엄대가 정부 지원 시험을 이끔. 별도의 갈레리 검사는 후기 암 감소 목표를 이루지 못함",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "1d6da94f-2179-4b65-8905-2fac1cd58490",
+   "title": "TV 애니 출연진과 스태프 공개, 1월 방영",
+   "type": "개봉·방영",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "ec1e368a-6c1a-41b5-80f5-4c430ae009ce",
+     "category": "작품",
+     "name": "Pero Pero Sparkles"
+    }
+   ],
+   "summary": "세키야 유리에의 캐릭터 원작 TV 애니가 출연진과 스태프를 공개하고 2027년 1월 TV도쿄에서 시작",
+   "why": null,
+   "how": "감독 미야시타 마오, 시리즈 구성 우모토 유지, 제작 우사기오. 메로 역 사카키하라 유키, 큥 역 칸노 마이, 루 역 아이 파이루즈",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Yuki Sakakihara",
+     "id": "2e45e102-a74e-429f-bb22-872bfbd662fa"
+    },
+    {
+     "name": "Mai Kanno",
+     "id": "710e3766-613e-46cd-88ce-84372843f27e"
+    },
+    {
+     "name": "Ai Fairouz",
+     "id": "60546092-119d-4150-9f49-78e8cb79d927"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "6b027108-c781-4657-bfc7-fe0dce5399a6",
+   "title": "「Bills」 스포티파이 1억 돌파, 통산 21번째 억대 곡",
+   "type": "흥행 기록",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "99efd09a-70b3-47f8-bfa6-9e05b088daed",
+     "category": "단체",
+     "name": "엔하이픈"
+    }
+   ],
+   "summary": "미니 4집 「DARK BLOOD」 수록곡 「Bills」가 2일 기준 스포티파이 누적 1억 재생을 넘김",
+   "why": null,
+   "how": "누적 재생 수 1억 4만 555회로 팀 통산 스포티파이 억대 스트리밍 곡 21번째. 소속사 빌리프랩이 4일 밝힘",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "빌리프랩",
+     "id": "8c39d89c-5297-47ea-96d7-073157b36270"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/music/2026/11/04/MFRWCOJVMNTDENJVGI2DANDCMY/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "7e03cb4b-f101-45df-a08b-e45cf2eb5aca",
+   "title": "「DESERVE」 뮤직비디오 11일 만에 1억 뷰",
+   "type": "흥행 기록",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "1303de6b-3d26-4843-bb6f-d054464074fa",
+     "category": "단체",
+     "name": "베이비몬스터"
+    }
+   ],
+   "summary": "싱글 「DESERVE」 뮤직비디오가 4일 오전 유튜브 조회수 1억 회를 넘어 올해 발매곡 중 가장 빠름",
+   "why": null,
+   "how": "10월 23일 공개 뒤 약 11일 반나절 만으로 「춤(CHOOM)」의 14일 기록을 2일가량 앞당김. 퍼포먼스 중심에서 보컬을 앞세운 곡",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "YG엔터테인먼트",
+     "id": "58fa67e0-0896-4df4-a813-0caf371902e0"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261104/134962233/1",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "1a61c2e4-f679-4553-9615-9f948dbe0286",
+   "title": "「Dracula」 핫 100 5위로 반등, 리사 앨범은 빌보드 200 35위",
+   "type": "흥행 기록",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "f991faac-1d44-432c-a2a5-5f14f8317b61",
+     "category": "인물",
+     "name": "제니"
+    }
+   ],
+   "summary": "테임 임팔라와의 협업곡 「Dracula」가 빌보드 핫 100에서 8위에서 5위로 올라 자체 최고 순위와 같음",
+   "why": null,
+   "how": "11월 7일 자 차트 예고 기준. 같은 차트에서 블랙핑크 리사의 앨범은 빌보드 200 35위",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Tame Impala",
+     "id": "3ab4702b-56fb-4147-b8a1-be0009d978be"
+    },
+    {
+     "name": "리사",
+     "id": "633e546d-827a-4e84-84a6-40f3236f14fb"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261104_0003853622",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "0e14d2f0-ad3b-4041-9863-6638f25c8df4",
+   "title": "「ETA」 스포티파이 5억 스트리밍 돌파",
+   "type": "흥행 기록",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "abf98133-872c-431b-8459-fdec0ea09854",
+     "category": "단체",
+     "name": "NewJeans"
+    }
+   ],
+   "summary": "두 번째 EP 「Get Up」의 트리플 타이틀곡 「ETA」가 2일 기준 스포티파이 누적 5억 재생을 넘김",
+   "why": null,
+   "how": "누적 재생 수는 5억 8만 6236회. 스포티파이가 4일 밝힘",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/music/2026/11/04/GEZTONZWMM3DKNBRHE2DMMTDGE/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "290f717b-0281-4049-9224-81de4c562653",
+   "title": "「French Kissing」으로 음악방송 첫 1위",
+   "type": "수상",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "22eb788e-e56f-4c8e-b616-593fed9eeb6a",
+     "category": "단체",
+     "name": "앤더블"
+    }
+   ],
+   "summary": "미니 2집 타이틀곡 「French Kissing」으로 SBS Life 「더쇼」에서 1위 격인 더쇼 초이스를 받음",
+   "why": null,
+   "how": "음악방송 첫 1위. 멤버들은 팬덤 앤클로에게 공을 돌림",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "SBS Life 더쇼",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261104/134963966/1",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "0330fbf0-b391-483a-be1b-2b474183281f",
+   "title": "「Lemon」 뮤직비디오 일본어 곡 최초 10억 회 재생",
+   "type": "흥행 기록",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "2672f258-e2ee-4e32-9d7f-2c38695ba798",
+     "category": "인물",
+     "name": "Kenshi Yonezu"
+    }
+   ],
+   "summary": "「Lemon」 뮤직비디오가 일본어 가사 곡으로는 처음 유튜브 10억 회 재생을 넘음",
+   "why": null,
+   "how": "드라마 「언내추럴」 주제가로 쓴 곡. 2018년 2월 27일 공개 뒤 8년 만에 도달. 이시하라 사토미 등 드라마 팀이 축하 글을 올리고 도쿄돔 공연 영상 공개 예정",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Satomi Ishihara",
+     "id": "7184d791-333f-4f91-a820-f1b2ac5dd12d"
+    },
+    {
+     "name": "Unnatural",
+     "id": "b0e7520b-9dc0-4bd0-8485-6873686a32b7"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/b5abbe61fd8a2bcd94e8d97177bfd4484ed1e9a0",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "a0e5f629-5f40-455e-8397-73996ef4290b",
+   "title": "「Lips Together」 뮤직비디오 공개, 미연과 협업",
+   "type": "협업",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "f990cd95-0a49-4b44-a4c3-35dfeca2f2ba",
+     "category": "인물",
+     "name": "티파니 영"
+    }
+   ],
+   "summary": "8월 낸 첫 솔로 정규 앨범 더블 타이틀곡 「Lips Together」의 뮤직비디오를 아이들 미연과 함께 공개함",
+   "why": null,
+   "how": "상처받은 마음을 사랑으로 치유받고 싶은 감정을 담은 곡",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "미연",
+     "id": "7171b0b0-cd91-4cd3-8273-e18fc1c2dbef"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829287",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "a9f84520-7ab8-498d-87cb-1b08ad9eb5f2",
+   "title": "「기후와 원주 한지」 기획 전시",
+   "type": "전시",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "6807b4a6-bdfa-4e1c-b795-106489d96195",
+     "category": "장소",
+     "name": "원주시"
+    }
+   ],
+   "summary": "원주기후변화홍보관이 11월부터 내년 1월까지 '기후와 원주 한지' 전시회를 엶",
+   "why": null,
+   "how": "원주 한지로 만든 기후 위기 현상과 생활 변화상 작품 20여 점을 무료로 전시함. 홍보관은 한 해 6만 명이 찾음",
+   "content": null,
+   "places": [
+    {
+     "name": "원주기후변화홍보관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8704280&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "1671f6f2-273c-4299-a30f-72788cd1c540",
+   "title": "「체포하겠어」 스포티파이 톱 송 데뷔 글로벌 1위",
+   "type": "흥행 기록",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "d3d08386-5a28-4a4d-96a1-644a41658282",
+     "category": "단체",
+     "name": "아일릿"
+    }
+   ],
+   "summary": "미니 5집 「BREAK EVEN」 타이틀곡 「체포하겠어」가 스포티파이 최신 톱 송 데뷔 차트 글로벌 1위, 미국 3위에 오름",
+   "why": null,
+   "how": "집계 기간은 10월 30일~11월 1일. 소속사 빌리프랩이 4일 밝힘",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "빌리프랩",
+     "id": "8c39d89c-5297-47ea-96d7-073157b36270"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/music/2026/11/04/MQZTGMRQGQYWKYZRGUYGIMDDMI/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "d10688cb-2d45-4b8f-9329-ea671b22d48d",
+   "title": "가상자산 소득 과세 유예 정부에 공식 제안",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2",
+     "category": "단체",
+     "name": "더불어민주당"
+    }
+   ],
+   "summary": "김민석 대표가 최고위원회의에서 가상자산 소득 과세를 유예하자고 정부에 공식 제안함",
+   "why": "디지털자산기본법을 먼저 제정해 전체 틀을 세우고 기업과 투자자가 적응할 기간을 두는 것이 바람직하다는 뜻을 모았음",
+   "how": "과거에도 과세가 미뤄진 점을 고려해 이번에는 유예 기간을 분명히 정하고, 해외 거래 정보 활용·전산 검증·납세 안내 준비를 철저히 하겠다고 함",
+   "content": null,
+   "places": [
+    {
+     "name": "국회",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "김민석",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703498",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "5ab6cd8a-8476-4d6b-924d-aafcbc92dbac",
+   "title": "가세연 영상 삭제 가처분 심문, 법원 「범위 특정·축소하라」",
+   "type": "논란",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "03761514-16a1-4995-a3b9-0813af84620d",
+     "category": "인물",
+     "name": "김수현"
+    }
+   ],
+   "summary": "유튜브 가세연 영상 45개의 삭제·게재금지 가처분 심문에서 재판부가 신청 범위를 줄이라고 요구하고 심문을 종결함",
+   "why": "김수현 측은 김세의 씨가 올린 허위 영상으로 명예와 인격권이 침해된다고 주장함",
+   "how": "재판부는 전체 삭제가 가능한지 의문이라며 12월 11일까지 최종 자료를 내라고 함. 김세의 씨는 명예훼손 혐의로 구속 기소돼 형사재판 중으로 법원은 허위 여부 판단도 신중히 보겠다고 함",
+   "content": null,
+   "places": [
+    {
+     "name": "서울중앙지방법원",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "김세의",
+     "id": null
+    },
+    {
+     "name": "가로세로연구소",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261104_0003854461",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "2973f83c-126d-407f-bd55-0557f7fc44dc",
+   "title": "가짜 채용 면접으로 63억 달러 해킹 수법 공개",
+   "type": "경과",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "9a82e26e-8395-401f-9671-54dfec368412",
+     "category": "단체",
+     "name": "Binance"
+    }
+   ],
+   "summary": "바이낸스가 엔지니어를 가짜 면접에 불러 악성 프로그램을 내려받게 한 수법으로 직원 컴퓨터가 뚫렸다고 밝힘",
+   "why": "구직 플랫폼을 통해 접근한 가짜 회사 담당자가 과제로 위장한 악성코드를 받게 했고 내부 AI 도구도 장악당함",
+   "how": "바이낸스는 다단계의 정교한 작전이라며 사과. 미국 정부 기관과 분석가들은 북한을 배후로 지목하고 북한은 부인",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "North Korea",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "d05b0173-1634-457f-a20f-d345468e2a73",
+   "title": "갑천 4블럭 청년주택 기공식",
+   "type": "행사",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "071e202e-9d8e-47b8-aa1f-e3504ec89fce",
+     "category": "장소",
+     "name": "유성구"
+    }
+   ],
+   "summary": "대전 도안동 갑천 4블럭에 짓는 청년주택 951가구의 기공식이 열림",
+   "why": "청년과 신혼부부의 주거 부담을 줄이려는 사업임",
+   "how": "2029년 5월 준공이 목표이며 대전도시공사가 민간사업자와 추진하고 951가구를 청년과 신혼부부에게 우선 공급함. 대전시는 청년주택 5천호 공급 시책을 이어 감",
+   "content": null,
+   "places": [
+    {
+     "name": "도안동",
+     "id": "3eb21820-e798-4de2-b27d-c28a0571f8a4"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8704151&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "257741d1-43af-466d-8f54-4beb8615cd25",
+   "title": "강릉시립미술관, 공립미술관 인증 통과",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "64985b93-1f47-4d72-9361-ca37a2264f57",
+     "category": "장소",
+     "name": "강릉시"
+    }
+   ],
+   "summary": "강릉시립미술관이 문체부가 3년마다 하는 공립미술관 평가 인증을 최종 통과함",
+   "why": null,
+   "how": "2020년과 2023년에는 인증을 받지 못했으나 조직 체계 정비와 학예 전문성 강화로 통과했고 전시와 교육 프로그램 분야에서 좋은 평가를 받았음",
+   "content": null,
+   "places": [
+    {
+     "name": "강릉시립미술관",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8704215&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "bfe92e58-9fa5-41bc-aeca-36d675ba8abb",
+   "title": "개교 80주년 특별전, 국보·보물 50여 점 공개",
+   "type": "전시",
+   "date": "2026-11-05",
+   "parent": [
+    {
+     "id": "50527af4-ca70-4f73-a438-6d11615e34fe",
+     "category": "장소",
+     "name": "부산대학교 박물관"
+    }
+   ],
+   "summary": "부산대 박물관이 개교 80주년을 맞아 5일부터 12월 26일까지 국보·보물 등 50여 점을 선보이는 특별전을 엶",
+   "why": null,
+   "how": "국보 금동미륵반가사유상과 보물 백자철화매죽문호 등 국내 기관 소장품으로 고미술과 근현대 미술의 흐름을 보여 줌",
+   "content": null,
+   "places": [
+    {
+     "name": "부산대학교 박물관",
+     "id": "50527af4-ca70-4f73-a438-6d11615e34fe"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "부산대학교",
+     "id": "9c2f4330-16cc-494e-a19b-9fa6788fc131"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703437",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "5d233ff2-c8c7-42ea-9dc0-79a13ff21d64",
+   "title": "개봉 첫날 흥행 9.1억 엔, 실사 영화 첫날 역대 1위",
+   "type": "흥행 기록",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "e66587fc-1912-4fd8-a5c8-05de24033bd8",
+     "category": "작품",
+     "name": "Godzilla Minus Zero"
+    }
+   ],
+   "summary": "첫날 흥행 수입 9.1억 엔에 관객 59만 명으로 일본 실사 영화의 하루 최고 기록을 세움",
+   "why": null,
+   "how": null,
+   "content": [
+    "Toho"
+   ],
+   "places": [
+    {
+     "name": "h",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "p",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": ":",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "w",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": ".",
+     "id": null
+    },
+    {
+     "name": "y",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "h",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": ".",
+     "id": null
+    },
+    {
+     "name": "c",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": ".",
+     "id": null
+    },
+    {
+     "name": "j",
+     "id": null
+    },
+    {
+     "name": "p",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "r",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "c",
+     "id": null
+    },
+    {
+     "name": "l",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "b",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "1",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "f",
+     "id": null
+    },
+    {
+     "name": "d",
+     "id": null
+    },
+    {
+     "name": "9",
+     "id": null
+    },
+    {
+     "name": "9",
+     "id": null
+    },
+    {
+     "name": "c",
+     "id": null
+    },
+    {
+     "name": "6",
+     "id": null
+    },
+    {
+     "name": "3",
+     "id": null
+    },
+    {
+     "name": "7",
+     "id": null
+    },
+    {
+     "name": "8",
+     "id": null
+    },
+    {
+     "name": "f",
+     "id": null
+    },
+    {
+     "name": "7",
+     "id": null
+    },
+    {
+     "name": "f",
+     "id": null
+    },
+    {
+     "name": "9",
+     "id": null
+    },
+    {
+     "name": "6",
+     "id": null
+    },
+    {
+     "name": "f",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "d",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "4",
+     "id": null
+    },
+    {
+     "name": "1",
+     "id": null
+    },
+    {
+     "name": "c",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "9",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "0",
+     "id": null
+    },
+    {
+     "name": "3",
+     "id": null
+    },
+    {
+     "name": "6",
+     "id": null
+    },
+    {
+     "name": "8",
+     "id": null
+    },
+    {
+     "name": "b",
+     "id": null
+    },
+    {
+     "name": "9",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "d",
+     "id": null
+    },
+    {
+     "name": "b",
+     "id": null
+    },
+    {
+     "name": "9",
+     "id": null
+    },
+    {
+     "name": "Japan",
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Tokyo",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "전작 「고질라 -1.0」 첫날의 201% 이상. 흥행통신사 집계로 일본 실사 영화 첫날 역대 1위이며 11월 6일 북미 개봉에 이어 세계 100곳에서 개봉 예정. 도호는 시리즈 첫 100억 엔 돌파를 노릴 수 있는 수준이라 봄",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "e362371f-600a-4f73-aa47-24c6f3d9b00d",
+   "title": "경주 누들패스 출시",
+   "type": "신제품 출시",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "f06d3152-bf8c-43bd-a51e-d9aed60804b4",
+     "category": "장소",
+     "name": "경주시"
+    }
+   ],
+   "summary": "경북문화관광공사가 경주 면 요리 전문점 5곳 메뉴와 동궁과 월지 입장권을 묶은 '경주 누들패스'를 출시함",
+   "why": null,
+   "how": "정상가보다 최대 37% 할인된 가격으로 이달 30일까지 온라인에서 판매함",
+   "content": null,
+   "places": [
+    {
+     "name": "동궁과 월지",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "경북문화관광공사",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703647",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "f4ec4356-ffd8-4f2c-829b-d5fd9da93372",
+   "title": "경찰, 강호동 농협중앙회장 구속영장 신청",
+   "type": "논란",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "e39101fa-066e-4665-9d42-9c179bd7c4da",
+     "category": "단체",
+     "name": "농협중앙회"
+    }
+   ],
+   "summary": "서울경찰청이 강호동 농협중앙회장의 금품 수수 혐의로 서울중앙지방공소청에 구속영장을 신청함",
+   "why": "선거철인 2024년 1월 전후 계열사와 거래하는 용역업체 대표에게서 1억원이 넘는 금품을 받은 혐의임",
+   "how": "수사를 본격화한 지 1년여 만임. 공소청은 아직 법원에 영장을 청구하지 않았고 경찰은 내부 공금 유용 의혹도 수사해 왔음",
+   "content": null,
+   "places": [
+    {
+     "name": "서울경찰청",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "강호동",
+     "id": "a92ad0d7-fdef-46fb-a461-ea51732a1f7f"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104167151004",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "37560ac9-eca1-460a-82ae-95c8be0e3d2c",
+   "title": "금융청, 소니생명 금전 사취 문제로 소니FG 현장 검사",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "085a38d7-642a-4cd6-8751-b575ca1d3686",
+     "category": "단체",
+     "name": "Sony Financial Group"
+    }
+   ],
+   "summary": "금융청이 소니생명 불상사의 지배구조를 살피려 모회사 소니파이낸셜그룹에 현장 검사를 시작함",
+   "why": "소니생명에서 금전 사취 등 여러 금전 불상사가 드러났기 때문",
+   "how": "자회사 관리 체제에 문제가 있는지 보고, 문제가 나오면 업무개선명령 등 행정처분을 검토할 것으로 보임",
+   "content": null,
+   "places": [
+    {
+     "name": "Tokyo",
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/pickup/6601346",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "cbeb8a2c-a2f8-4362-8516-8ad760eb6427",
+   "title": "나영석 새 예능, 이서진·한지민 등 세 쌍 출연",
+   "type": "개봉·방영",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "fb5d42e4-12f3-4784-a756-1cb24c64c1a2",
+     "category": "작품",
+     "name": "그냥사람친구"
+    }
+   ],
+   "summary": "tvN 새 예능이 11월 27일 저녁 8시 35분 첫 방송되고 이서진·한지민, 김용건·박정수, 주헌·정연이 출연함",
+   "why": "오랜 우정을 이어 온 남녀 친구 세 쌍이 함께 여행하며 이야기를 나누는 프로그램",
+   "how": "세 쌍의 우정 기간을 합치면 85년. 4일 첫 포스터와 티저 영상이 공개됨. 나영석 PD의 새 예능",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "이서진",
+     "id": "8d0a96a1-6687-4f83-a9b9-6a3a2e2b7c86"
+    },
+    {
+     "name": "한지민",
+     "id": "a97428eb-4558-4413-bfaa-2a95552f9df8"
+    },
+    {
+     "name": "김용건",
+     "id": "4f1a166d-d9a9-4177-91ed-f0f4840ab913"
+    },
+    {
+     "name": "박정수",
+     "id": "8f8c9415-02cf-4edb-bc5e-1407ce12ccb5"
+    },
+    {
+     "name": "주헌",
+     "id": "3aa3d969-d65c-417d-9ca3-f47cb236dae1"
+    },
+    {
+     "name": "정연",
+     "id": "c56cda34-fc17-4ba6-8d7f-fa0f82998aa3"
+    },
+    {
+     "name": "나영석",
+     "id": "c3470a95-2659-4625-816f-a102f41bfeb2"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261104/134963334/1",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "26ebe1b3-ecf1-48a6-b5a7-84e36a428a3b",
+   "title": "남극해양생물자원보존위, 한국 제안 규범 2건 채택",
+   "type": "뉴스",
+   "date": "2026-10-30",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "남극해양생물자원보존위원회 연례회의에서 한국이 제안한 남극해 생태계 보호 규범 2건이 채택되고 28년 막힌 어장이 열림",
+   "why": "국내 연구진과 원양업계가 10년간 과학 조사를 벌인 성과임",
+   "how": "금지된 자망으로 잡은 메로는 2030년부터 국제시장 판매가 막히고 어선의 폭죽·폭발물 사용도 금지됨. 제안 17건 중 3건만 채택됐고 88.3 해구 조업 길이 열림",
+   "content": null,
+   "places": [
+    {
+     "name": "호주 호바트",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "해양수산부",
+     "id": null
+    },
+    {
+     "name": "국립수산과학원",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104050400051",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "19501997-903f-4120-b85c-d1a17aaa1f72",
+   "title": "뉴욕 증시 선거 뒤 올해 8월 이후 최대 상승",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "중간선거에서 민주당이 압승한 뒤 미국 증시가 8월 이후 최고의 하루를 보냄",
+   "why": "AI 거품 우려 속 대형 클라우드 업체는 오르고 반도체주는 내려 승자와 패자를 가름",
+   "how": "다우지수는 한때 1500달러 넘게 올랐고 유가는 중동 분쟁 종식 기대에 배럴당 100달러 밑으로 떨어짐(FT·아사히)",
+   "content": null,
+   "places": [
+    {
+     "name": "New York",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "d0abe599-d56e-4bd5-a775-97113b0b61de",
+   "title": "닛케이평균 한때 4.8% 하락, 반도체·AI주 급락",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan"
+    }
+   ],
+   "summary": "미 중간선거 결과로 기술주가 흔들려 닛케이 225가 한때 4.8% 내렸고 반도체·AI 관련주는 13% 넘게 빠짐",
+   "why": null,
+   "how": "재팬타임스 보도. 미국 증시는 같은 날 반대로 크게 올랐음",
+   "content": null,
+   "places": [
+    {
+     "name": "Tokyo",
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.japantimes.co.jp/business/2026/11/04/markets/japan-stocks-sink/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "942dc971-9964-4568-9d5b-588d2c2b5055",
+   "title": "다우·CJ컨소시엄, 중앙일보 5200억원 신주인수계약",
+   "type": "인수합병",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "76d2eeff-f4d4-4069-9d36-f5ab88400267",
+     "category": "단체",
+     "name": "중앙일보"
+    }
+   ],
+   "summary": "중앙일보가 다우·CJ컨소시엄과 5200억원 규모의 제3자 배정 유상증자 신주인수계약을 5일 체결한다고 밝힘",
+   "why": "투입 자금으로 재무 건전성을 높이고 채무 리스크를 해소하려 함",
+   "how": "인수자가 중앙일보 신주를 인수하는 방식으로 진행됨",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "다우기술",
+     "id": "cbafe178-abb5-4259-bdbc-55a571dd5ceb"
+    },
+    {
+     "name": "CJ",
+     "id": "063be8ee-c571-4c27-820f-02bbab8505fc"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8704191&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "ec954a51-f5d6-46ee-867b-5b199386ead1",
+   "title": "다카이치 총리, COP31 정상급 회의 3년 연속 불참 전망",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan"
+    }
+   ],
+   "summary": "다카이치 총리가 이달 중순 튀르키예 COP31 정상급 회의에 작년에 이어 불참할 전망",
+   "why": null,
+   "how": "정부 관계자 취재로 알려졌고 일본 총리 불참은 3년 연속. 지구온난화 대책에서 일본의 존재감이 더 떨어질 것이라는 지적(교도통신)",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Sanae Takaichi",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/pickup/6601349",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "7b4e7c3b-d1c8-4b66-8ec0-344ae5374d94",
+   "title": "대법원, 팔레스타인 액션 금지 조치 심리 시작",
+   "type": "논란",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "860abe36-6554-419a-9021-7be14c191ffa",
+     "category": "국가",
+     "name": "United Kingdom"
+    }
+   ],
+   "summary": "공동 창립자 후다 암모리가 테러 단체 지정에 맞선 소송에서 대법원이 첫 심리를 열었음",
+   "why": null,
+   "how": "변호인단은 금지 조치가 대테러법 신뢰를 흔들었다고 주장. BBC가 본 내무부 자료로는 지지 팻말을 든 4천 건 넘는 체포가 있었고 대법원 앞에서도 27명이 체포됨",
+   "content": null,
+   "places": [
+    {
+     "name": "London",
+     "id": "debbabbe-a63a-4fa0-8641-89063a6f3f2a"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Huda Ammori",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.bbc.co.uk/news/articles/cmr4yvel29keo",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "79f31b7a-a8cf-4a1b-99eb-fff4ef9bc57a",
+   "title": "대형 금융그룹계 은행 최초로 캐시카드 없이 운영",
+   "type": "사업 진출",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "d691817e-81c7-43c3-8969-5425640cd99a",
+     "category": "단체",
+     "name": "MUFG Emut Bank"
+    }
+   ],
+   "summary": "MUFG 계열 새 은행 MUFG 에무트는 대형 금융그룹 소속 은행 가운데 처음으로 캐시카드를 발급하지 않음",
+   "why": null,
+   "how": "재팬타임스 보도. 카드 없이 운영하는 첫 사례",
+   "content": null,
+   "places": [
+    {
+     "name": "Tokyo",
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.japantimes.co.jp/business/2026/11/04/mufg-emut-cash-cards/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "8c6426ef-7184-499d-a8ef-0f08c7b3e50a",
+   "title": "데뷔 첫 전석 스탠딩 단독 콘서트와 연말 투어",
+   "type": "콘서트",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "ee8f37f2-c371-4b54-88af-915194283246",
+     "category": "인물",
+     "name": "권진아"
+    }
+   ],
+   "summary": "6~8일 서울 명화라이브홀에서 데뷔 이래 처음으로 전석 스탠딩 단독 콘서트를 열고 연말 대구·부산 공연도 이어감",
+   "why": "7월 낸 신보 「세이브 미」의 록 사운드를 중심으로 무대와 객석의 거리를 좁히려는 기획",
+   "how": "12월 12~13일 대구 엑스코 오디토리움, 25~26일 부산 KBS부산홀에서 연말 공연 「디스 윈터」. 서울은 밴드 사운드, 지방은 겨울 감성으로 세트리스트가 다름",
+   "content": null,
+   "places": [
+    {
+     "name": "명화라이브홀",
+     "id": null
+    },
+    {
+     "name": "대구 엑스코",
+     "id": null
+    },
+    {
+     "name": "KBS부산홀",
+     "id": null
+    },
+    {
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
+    },
+    {
+     "name": "대구광역시",
+     "id": "44215e3d-3c20-4168-929c-552fe86092d8"
+    },
+    {
+     "name": "부산광역시",
+     "id": "f8eed448-441e-49b6-98bc-00dd4d3cfd6d"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "어나더레이블",
+     "id": "df49ca1d-2786-4025-8451-a63ca27f2739"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261104_0003854501",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "9b0349b3-9880-4a13-9447-948ac9865bc7",
+   "title": "도산서원 기탁 금속활자본 4종 97책 보물 지정 예고",
+   "type": "기타",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "0f9d6a19-e1ff-4580-afa2-382e8b4a1f5d",
+     "category": "장소",
+     "name": "한국국학진흥원"
+    }
+   ],
+   "summary": "도산서원이 기탁한 조선 전기 금속활자본 4종 97책이 국가 지정 보물로 지정 예고됨",
+   "why": "모두 국내에서 유일하게 전체 분량이 온전히 남은 판본이라는 점이 평가됨",
+   "how": "궐리지·의례경전통해·대명일통지·소학언해가 대상이며 2003년 한국국학진흥원에 기탁됨. 의례경전통해는 1570년 퇴계 이황에게 하사된 자료임",
+   "content": null,
+   "places": [
+    {
+     "name": "도산서원",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "도산서원",
+     "id": null
+    },
+    {
+     "name": "퇴계 이황",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703975",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "a35d9050-cb07-4de9-8eb5-a74c893c696f",
+   "title": "도심 마라톤 관리 협의체 구성",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시"
+    }
+   ],
+   "summary": "서울시가 서울경찰청 등과 도심 마라톤 관리 협의체를 꾸려 내년 대회의 일정·코스·교통 우회를 검토하기로 함",
+   "why": "중앙정부 후원 마라톤이 지난해 1개에서 올해 23개로 늘며 교통 통제가 30차례를 넘어 시민 불편이 커졌음",
+   "how": "지난 주말 대회로 시내버스 190개 노선이 우회했음. 1천명 이상 체육행사 주최자가 안전관리계획을 미리 알리게 한 국민체육진흥법 개정안이 내년 4월 시행됨",
+   "content": null,
+   "places": [
+    {
+     "name": "광화문",
+     "id": null
+    },
+    {
+     "name": "올림픽공원",
+     "id": null
+    },
+    {
+     "name": "상암",
+     "id": "ecafb906-7943-4d77-8bff-760105d1f3d6"
+    },
+    {
+     "name": "여의도",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "서울경찰청",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104061900004",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "d7bdf70f-3f04-4b5e-9403-1735b4f6d979",
+   "title": "도쿄국제영화제 그랑프리에 「Sister Brother Manhole Cover」",
+   "type": "행사",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan"
+    }
+   ],
+   "summary": "밀초 만체프스키 감독의 「Sister Brother Manhole Cover」가 경쟁 부문 15편 가운데 도쿄 그랑프리를 받음",
+   "why": null,
+   "how": "재팬타임스가 폐막식 결과로 보도",
+   "content": null,
+   "places": [
+    {
+     "name": "Tokyo",
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Milcho Manchevski",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.japantimes.co.jp/culture/2026/11/04/entertainment-news/tiff-closing-film-tokyo/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "b272383e-9775-4aee-b665-b57c58e27b2c",
+   "title": "디즈니 「헥스: 마녀왕국」 엔딩크레딧 곡 참여",
+   "type": "협업",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "24fd11b0-5180-470f-816a-f56bddacc5ce",
+     "category": "단체",
+     "name": "리센느 RESCENE"
+    }
+   ],
+   "summary": "「With」가 25일 개봉하는 디즈니 애니 「헥스: 마녀왕국」 엔딩크레딧에 실리며 국내 걸그룹으로는 처음",
+   "why": "디즈니가 5명의 국내 아티스트와 진행하는 음악 협업의 하나로 리센느가 스페셜 뮤직 콜라보 아티스트가 됨",
+   "how": "자막판과 더빙판 모두 같은 곡이 실리는 것도 처음. 멤버들이 영화 속 마녀 빌리로 변신한 영상이 공개됐고 스페셜 뮤직비디오도 공개 예정",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Hexed",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261104/134962867/1",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "029feb64-bb9d-476c-8dfb-1c29c5e36712",
+   "title": "라이스 크리스피스·코코팝스 레시피 변경 논란",
+   "type": "논란",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "3cb2cc20-43e3-4754-8c9b-5661aceb52b7",
+     "category": "단체",
+     "name": "Kellogg's"
+    }
+   ],
+   "summary": "켈로그가 라이스 크리스피스와 코코팝스를 통쌀 대신 옥수수 가루와 쌀가루로 바꾸자 맛과 소리가 달라졌다는 반발이 나옴",
+   "why": "기상 변화로 일부 곡물 공급이 흔들려서",
+   "how": "켈로그는 「톡톡 소리」가 이전보다 작고 느릴 수 있다고 BBC에 인정. 아이가 안 먹는다는 소비자 불만이 틱톡에 올라옴",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "4c0aa2b0-604e-4be5-8636-21d5dfb6c0e8",
+   "title": "리창 총리, WIPO 사무총장 만나 지식재산 협력 강화",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300",
+     "category": "국가",
+     "name": "China"
+    }
+   ],
+   "summary": "리창 총리가 베이징에서 다렌 탕 WIPO 사무총장을 만나 지식재산 국제 협력과 AI 논의 참여를 밝힘",
+   "why": null,
+   "how": "신화통신 보도. 탕 총장은 중국이 글로벌혁신지수 10위권에 들고 세계 100대 혁신 클러스터가 가장 많다고 평가했다고 보도",
+   "content": null,
+   "places": [
+    {
+     "name": "Beijing",
+     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Li Qiang",
+     "id": null
+    },
+    {
+     "name": "Daren Tang",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.news.cn/politics/20261104/ef71f15cc358424f804451da0e4b8a5e/c.html",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "3fd10b90-fd3c-4694-be53-d1da50fd2c17",
+   "title": "마도해역서 고려난파선 마도 5호 발굴",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "88e720ea-bdaf-49bc-835f-0031905098be",
+     "category": "장소",
+     "name": "태안군"
+    }
+   ],
+   "summary": "태안 마도해역에서 고려 난파선 '마도 5호'가 추가 발굴되고 '마도 6호'의 매장 흔적도 처음 확인됨",
+   "why": null,
+   "how": "유물 54점이 나왔고 목간이 26점이며 '정묘년' 표기와 연대 측정으로 마도 1호와 1207년 화물을 모아 이듬해 봄 출발한 같은 선단으로 추정함. 마도 6호는 경상도 출항으로 추정됨",
+   "content": null,
+   "places": [
+    {
+     "name": "마도해역",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704034",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "abb2b2ce-0253-4087-a56f-f80b901a92a6",
+   "title": "마쓰이증권 지분 20% 취득, 자본업무제휴",
+   "type": "인수합병",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "1ec3ebfc-4817-4f53-a55c-37470ad5a256",
+     "category": "단체",
+     "name": "Japan Post Bank"
+    }
+   ],
+   "summary": "유초은행이 마쓰이증권 창업가 자산관리회사에서 지분을 사 의결권 약 20%를 보유한다고 발표함",
+   "why": "증권 기능을 들여와 상품을 늘리려는 목적",
+   "how": "마쓰이증권은 지분법 적용 관계회사가 됨. 우체국에서 증권 계좌 개설을 안내할 예정",
+   "content": null,
+   "places": [
+    {
+     "name": "Tokyo",
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Matsui Securities",
+     "id": "ca66b03c-e4b6-40e9-a5b4-7a699336001e"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/pickup/6601352",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "3f835416-1198-4346-8c4b-fef11036f81f",
+   "title": "마이크 존슨 하원의장, 다음 의회에서 공화당 지도부 안 맡기로",
+   "type": "퇴임",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "중간선거 패배 뒤 존슨 하원의장이 내년 1월부터 소수당 하원 대표를 맡지 않기로 함",
+   "why": "공화당이 중간선거에서 크게 졌기 때문",
+   "how": "소식통을 인용한 보도로 본인의 공식 발표는 아님. 공화당은 11월 10일 지도부 선거를 치름. 존슨은 맥카시 축출 뒤 의장에 올라 두 임기를 지냄",
+   "content": null,
+   "places": [
+    {
+     "name": "Washington",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Mike Johnson",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "2b4936f7-ec8e-4e05-a189-c6056bb02128",
+   "title": "만화 TV 애니메이션 제작 발표",
+   "type": "영상화",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "b6cc9354-8f4a-461f-a7c6-4b3928c0be04",
+     "category": "작품",
+     "name": "Otaku Vampire's Love Bite"
+    }
+   ],
+   "summary": "스즈키 쥴리에타의 흡혈귀 로맨틱 코미디 만화가 TV 애니메이션으로 만들어짐",
+   "why": null,
+   "how": "티저 영상과 키 비주얼 공개. 하쿠센샤 「하나토유메」에 2022년 11월부터 연재 중이며 일본어판 11권이 11월 20일 나옴. 제작사와 방영 시기는 미공개",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Julietta Suzuki",
+     "id": "3f348e7b-783d-4cd0-8ff6-9580f2d8ef28"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://crunchyroll.com/news/latest/2026/11/3/otaku-vampires-love-bite-anime-adaptation-announced",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "51c221fe-c749-4897-978e-f227a1c50c9b",
+   "title": "머스크 선거 지출 5억 달러 육박, 공화당 승리로 이어지지 못함",
+   "type": "선거",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "일론 머스크가 중간선거에 5억 달러 가까이 써 개인 선거 지출 최고 기록을 세웠지만 공화당 승리로 이어지지 못함",
+   "why": null,
+   "how": "BBC는 기록적인 지출에도 공화당이 패배했다고 보도. 민주당이 선거 뒤 머스크의 정부 영향력과 계약을 조사할 것으로 전해짐(NPR)",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Elon Musk",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "784d0818-7b08-4f9c-ae00-1eb84acdf5de",
+   "title": "멜라니아 여사, 러시아·우크라이나 대표단 백악관에서 만남",
+   "type": "행사",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "멜라니아 트럼프 여사가 오레시키 부분 휴전을 이끈 공으로 우크라이나 최고 훈장을 받고 양국 대표단을 백악관에서 만날 예정",
+   "why": "오레시키 지역 휴전이 성사됨",
+   "how": "젤렌스키 대통령이 훈장을 수여했고 러시아·우크라이나 대표단이 목요일 백악관에서 멜라니아 여사를 만난다고 BBC가 보도",
+   "content": null,
+   "places": [
+    {
+     "name": "Washington",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Melania Trump",
+     "id": null
+    },
+    {
+     "name": "Volodymyr Zelensky",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "b3828aa0-b62f-4e71-936b-169185f8d810",
+   "title": "멤버 메간 건강 문제로 미국 공연 당일 연기",
+   "type": "투어",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "3be85fda-50e3-47df-8503-57b70dc42d88",
+     "category": "단체",
+     "name": "KATSEYE"
+    }
+   ],
+   "summary": "리틀 시저스 아레나 공연을 당일에 연기한다고 공식 계정으로 알림",
+   "why": "멤버 메간의 몸이 좋지 않아 이날 밤 공연을 할 수 없게 됨",
+   "how": "멤버가 쉬며 회복할 시간을 주겠다고 밝히고 먼 길을 온 팬들에게 사과함",
+   "content": null,
+   "places": [
+    {
+     "name": "리틀 시저스 아레나",
+     "id": null
+    },
+    {
+     "name": "United States",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/enter_general/2026/11/04/MJRWGOJUGRRDKMZWHFRDGNLEMU/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "556f87db-8aef-4c0d-8083-47163d8b8e2d",
+   "title": "미·중 국방 당국, 위기 소통 실무그룹 첫 회의",
+   "type": "행사",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300",
+     "category": "국가",
+     "name": "China"
+    }
+   ],
+   "summary": "미국과 중국 국방 당국자가 워싱턴에서 위기 소통·예방 실무그룹 첫 회의를 열고 위험을 줄이는 소통을 강화하기로 함",
+   "why": "9월 양국 정상이 발표한 합의로 실무그룹이 만들어짐",
+   "how": "SCMP 보도",
+   "content": null,
+   "places": [
+    {
+     "name": "Washington",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3373321/china-us-defence-officials-agree-improve-communication-reduce-risks",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "328af780-710a-40c2-9614-c08a134ae211",
+   "title": "미니 2집 「GREENGREEN」 빌보드 200 90위로 재진입",
+   "type": "흥행 기록",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "d19fa69a-47a0-4fd4-ac57-2d11f0b68f39",
+     "category": "단체",
+     "name": "코르티스"
+    }
+   ],
+   "summary": "미니 2집 「GREENGREEN」이 빌보드 200 90위로 다시 올라 통산 19주 차트인을 기록함",
+   "why": null,
+   "how": "빌보드가 3일(현지시간) 발표한 11월 7일 자 차트 기준. 데뷔 1년 만의 기록",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/music/2026/11/04/GM4DAMTGGVSDKNTEGBTGIZLFME/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "da0153de-ea75-4920-8f76-05824c62a684",
+   "title": "미니 4집 「PULSE」 발매, 「With」 음원 차트 1위",
+   "type": "미니앨범",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "24fd11b0-5180-470f-816a-f56bddacc5ce",
+     "category": "단체",
+     "name": "리센느 RESCENE"
+    }
+   ],
+   "summary": "3일 오후 6시 발매한 미니 4집 「PULSE」 타이틀곡 「With」가 2시간 만에 멜론 TOP100과 HOT100 1위에 오름",
+   "why": null,
+   "how": "수록곡 전곡이 차트 상위권에 들었고 컴백 직후 가파르게 올라선 것이 기사에서 강조됨",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "원이",
+     "id": "46a65bd1-79a8-4a1c-b3d5-4f4091e3f26b"
+    },
+    {
+     "name": "리브",
+     "id": "abd9bcb7-d51b-4287-a3c8-9d9f4182e656"
+    },
+    {
+     "name": "미나미",
+     "id": "2fad1ff9-d155-4db2-9b1d-af6dd061171e"
+    },
+    {
+     "name": "메이",
+     "id": "43904cbd-297a-44b5-b718-67f4f5ff2375"
+    },
+    {
+     "name": "제나",
+     "id": "4a7d6082-f302-4b53-bc54-4add69176768"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261104/134961852/1",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "28005b61-8a2a-4597-a363-a147a54d1c23",
+   "title": "민주당이 하원·상원 모두 가져가 의회 장악",
+   "type": "선거",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "중간선거에서 민주당이 하원과 상원을 모두 차지해 트럼프 대통령 임기 후반 의회를 장악하게 됨",
+   "why": "물가 불만과 트럼프 대통령에 대한 피로감, 이란 전쟁 비판이 겹친 것으로 분석됨",
+   "how": "민주당 상원 의석은 무소속 2명 포함 54석. 아이오와·오하이오·사우스캐롤라이나·텍사스 등 트럼프가 이긴 주에서 의석을 뒤집었고 캔자스는 94년 만에 민주당 상원의원을 냄. 알래스카·미시시피는 미확정. 슈머 대표는 생활비 인하와 이란 전쟁 종식, 백악관 조사를 약속",
+   "content": null,
+   "places": [
+    {
+     "name": "Washington",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Chuck Schumer",
+     "id": null
+    },
+    {
+     "name": "Adam Hamilton",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "871f82d1-f2c2-4322-a9bc-2d9b7c73c4b8",
+   "title": "바이낸스 초기 조사 보고서, 북한 해커 5개월 다단계 공격",
+   "type": "경과",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "9a82e26e-8395-401f-9671-54dfec368412",
+     "category": "단체",
+     "name": "Binance"
+    }
+   ],
+   "summary": "바이낸스가 초기 조사 보고서에서 북한 해커가 6월부터 5개월간 가짜 채용 면접 등 다단계 공격을 벌였다고 밝힘",
+   "why": "지갑 개발·운영을 맡은 엔지니어를 노려 해킹에 필요한 접근 권한을 얻으려 했음",
+   "how": "6월 변조된 개발 도구로 공급망 공격을 벌였고, 9월 구직 플랫폼으로 접근해 가짜 면접관이 나오는 화상 면접으로 사회공학 공격을 했음. 내부 AI 도구 해킹도 동원됨",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "북한",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104002300091",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "79e6e07d-ce95-4ee4-849a-a5bc484bba69",
+   "title": "법사위, 조작기소 특검법 의결",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2",
+     "category": "단체",
+     "name": "더불어민주당"
+    }
+   ],
+   "summary": "국회 법사위가 여당 주도로 검찰·국정원·감사원의 조작수사·조작기소 의혹을 수사할 특별검사 임명 법안을 의결하고 국민의힘은 퇴장함",
+   "why": "윤석열 정부 출범 뒤 검찰 등이 당시 야당과 정적을 표적 수사했다는 의혹의 진상규명이 목적임",
+   "how": "앞서 법안심사1소위도 국민의힘 퇴장 속에 통과했음. 민주당은 5일 본회의 상정을 추진하고 국민의힘은 대통령 죄 지우기 법안이라며 무제한 토론으로 맞설 전망임",
+   "content": null,
+   "places": [
+    {
+     "name": "국회 법제사법위원회",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "국민의힘",
+     "id": "73223290-920b-403e-be26-e5107d0b30b4"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261104_0003855273",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "307af5ce-189e-4b17-876c-c8afd0044562",
+   "title": "벤츠코리아에 배터리 안내 허위, 1인당 400만원 배상 결정",
+   "type": "논란",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "bf3d8f4a-18e1-4bae-9582-d30214bc5ac0",
+     "category": "단체",
+     "name": "메르세데스-벤츠 코리아"
+    }
+   ],
+   "summary": "소비자분쟁조정위가 배터리 제조사를 잘못 안내한 벤츠코리아에 EQE·EQS 구매자 142명에게 1인당 400만원 배상을 결정함",
+   "why": "EQE·EQS 5개 차종에 중국 파라시스 배터리 셀이 탑재됐는데 판매 지침에는 CATL 배터리만 쓰인 것처럼 안내했음",
+   "how": "소비자들이 지난 5월 집단분쟁조정을 신청했고, 위원회는 잘못된 판매 지침을 딜러사에 배포하고 직원 교육에 활용한 점을 지적함",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "한국소비자원",
+     "id": null
+    },
+    {
+     "name": "파라시스",
+     "id": null
+    },
+    {
+     "name": "CATL",
+     "id": "36cef8f2-a11e-4522-b54c-c40fc673fa11"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104112400030",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "3454c360-0c11-4cc8-a894-a7725e46b8a5",
+   "title": "부산기장촬영소 시범 운영 작품 2편 선정",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "e70a4cd7-12e6-4c8b-8e25-808d58067aa2",
+     "category": "장소",
+     "name": "기장군"
+    }
+   ],
+   "summary": "영화진흥위원회가 내년 문을 열 부산기장촬영소의 시범 운영 작품으로 '살생부'와 '투피스'를 선정함",
+   "why": null,
+   "how": "공모 4편 중 2편을 골라 촬영 시설 사용료를 전액 면제하고, 시설·장비·운영 체계 점검을 거쳐 내년 상반기 정식 개소함",
+   "content": null,
+   "places": [
+    {
+     "name": "부산기장촬영소",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "영화진흥위원회",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8703560&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "b996a696-65b0-486f-8ced-d55c6d5827f1",
+   "title": "사람인, 중앙일보 지분 12.9% 취득 공시",
+   "type": "인수합병",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "76d2eeff-f4d4-4069-9d36-f5ab88400267",
+     "category": "단체",
+     "name": "중앙일보"
+    }
+   ],
+   "summary": "채용사이트 사람인이 중앙일보 주식 1428만7991주를 약 714억원에 취득한다고 공시해 지분율이 12.9%가 됨",
+   "why": "취득 목적은 사업다각화 및 시너지 창출이라고 밝힘",
+   "how": "주식 취득 예정일은 12월 23일임",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "사람인",
+     "id": "98988abf-146a-4721-99ae-c34a9768ae1b"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104161600008",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "d9407690-1e54-419b-b328-151138abb3f9",
+   "title": "사무기술직 노조 사흘 파업",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "1d1a20d1-8099-49ef-b2c4-d4dc78f6a6d1",
+     "category": "단체",
+     "name": "효성중공업"
+    }
+   ],
+   "summary": "효성중공업 사무기술직 노조가 4일부터 사흘간 파업에 들어갔고 사측은 창원공장 가동 중단은 없다고 밝힘",
+   "why": "사상 최대 실적에도 경영진이 정당한 보상을 외면하고 노조 간부의 근로시간 면제를 박탈한 데 대한 경고라고 노조가 밝힘",
+   "how": "사측은 현장 기능직 근로자 등은 파업 대상이 아니라 창원공장 전체 가동 중단으로 이어지지 않는다고 설명함",
+   "content": null,
+   "places": [
+    {
+     "name": "창원공장",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8703422&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "0ec46081-1a83-47a1-b642-ac06b968929d",
+   "title": "사전 내려받기 11월 10일 시작, 용량 최대 212GB",
+   "type": "출시",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "b6d5ce83-226b-427a-83b5-1c39bc82e467",
+     "category": "게임",
+     "name": "Grand Theft Auto VI"
+    }
+   ],
+   "summary": "록스타가 콘솔 사전 내려받기를 11월 10일에 열고 용량이 최대 212GB라고 밝힘",
+   "why": null,
+   "how": "당초 11월 12일에서 앞당김. 패키지 판은 내려받기 코드만 담기고 코드는 11월 12일부터 열림. 정식 출시는 11월 19일",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Rockstar Games",
+     "id": "cbcf6bdd-8f2e-4626-812e-7201af457cc0"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.videogameschronicle.com/news/rockstar-details-grand-theft-auto-6-pre-load-date-and-time-and-file-size/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "21ea3798-b80e-4edf-a9e5-ee6e97ff89ae",
+   "title": "상동리 석불좌상 불두 37년 만에 귀환",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "fca95845-5fb5-4f21-a245-1fbbc3ccb711",
+     "category": "장소",
+     "name": "횡성군"
+    }
+   ],
+   "summary": "도난당했던 강원도 유형유산 횡성 상동리 석불좌상의 불두가 37년 만에 제자리로 돌아옴",
+   "why": null,
+   "how": "통일신라시대 석조 불상으로 1971년 유형유산에 지정됐고 1989년 불두를 도난당했으며, 주민 제보를 계기로 돌아옴",
+   "content": null,
+   "places": [
+    {
+     "name": "상동리",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8704283&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "139e885c-f932-434a-aeaf-2c517af94711",
+   "title": "서예지 주연 캐스팅, 11월 중순 촬영 시작",
+   "type": "출연 확정",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "012f6a6d-d60b-428f-ae4f-3373cf0309e5",
+     "category": "작품",
+     "name": "금월도"
+    }
+   ],
+   "summary": "조선왕조실록의 식인 기록에서 출발한 한국형 뱀파이어 호러에 서예지가 주인공 김지후 역으로 캐스팅됨",
+   "why": "외딴섬과 폐쇄적인 공동체를 배경으로 한국형 뱀파이어라는 새 장르를 시도하는 작품",
+   "how": "백동훈 감독이 연출하고 11월 중순 촬영을 시작해 2027년 극장 개봉이 목표. 김지후는 엄마의 메시지로 섬을 찾아 사건을 파헤치는 인물",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "서예지",
+     "id": "b6ea74b2-dbb9-46b0-8f75-f0b35422b380"
+    },
+    {
+     "name": "백동훈",
+     "id": "5f090369-2cd1-4100-8100-a278c1a117d9"
+    },
+    {
+     "name": "비웨이브 엔터테인먼트",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261104/134961927/1",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "ba60bcc1-af62-48b2-9a55-34ffd92e36c3",
+   "title": "서울식물원 전시온실 야간 개장 열흘간",
+   "type": "행사",
+   "date": "2026-11-13",
+   "parent": [
+    {
+     "id": "03a97a88-3ad8-4e73-bbbe-eabe44bd94c0",
+     "category": "장소",
+     "name": "강서구"
+    }
+   ],
+   "summary": "서울식물원 전시온실이 11월 13일부터 12월 27일까지 열흘 동안 저녁 8시 반까지 야간 개장함",
+   "why": null,
+   "how": "회차마다 300명을 사전 예약으로 받고, 재즈·클래식 공연과 영화 감상, 식물탐험 프로그램이 함께 열림",
+   "content": null,
+   "places": [
+    {
+     "name": "서울식물원",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "서울특별시",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8703628&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "12904e45-f1bf-4828-88ae-60db0bc2730b",
+   "title": "수의계약 총량제 6일 시행",
+   "type": "뉴스",
+   "date": "2026-11-06",
+   "parent": [
+    {
+     "id": "2fe09321-a0ad-46d6-91de-13af845996e5",
+     "category": "장소",
+     "name": "울산광역시"
+    }
+   ],
+   "summary": "울산시가 6일부터 같은 업체와의 수의계약을 연 7회 이내 또는 3억원 이하로 제한하는 총량제를 시행함",
+   "why": "수의계약이 특정 업체에 집중되지 않게 하려는 것임",
+   "how": "임금체불로 명단이 공개된 업체는 공개 후 1년간 수의계약에서 제외하고, 내년 1월부터 부서별 자체 지출 한도를 500만원에서 1천만원으로 높임",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8704205&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "c39a04a8-e5bf-471a-87c1-fa070a6011ce",
+   "title": "순천대·경국대에 지역의대 신설, 정원 60명·40명",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "교육부와 복지부가 전남광주 국립순천대와 경북 국립경국대를 지역의대 신설 대학으로 선정하고 정원을 60명, 40명으로 배정함",
+   "why": "의대가 없는 지역에 의대를 세워 지역·필수·공공의료를 강화하는 것을 국정과제로 추진해 왔음",
+   "how": "2030년 신입생 입학이 목표이며 2032년 이후 추가 정원은 2029년 의사인력 수급 추계와 연계해 논의함. 순천대 추천 과정은 외부 법률 자문에서 하자가 없다고 판단함",
+   "content": null,
+   "places": [
+    {
+     "name": "순천시",
+     "id": "dc57fd79-5a23-4e5c-a3b1-eff977691489"
+    },
+    {
+     "name": "안동시",
+     "id": "7fb9f9b8-3427-4264-ad97-ea5b55cdee5d"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "국립순천대학교",
+     "id": "ad9de0c3-5415-4326-8cbd-588cb24bcfef"
+    },
+    {
+     "name": "국립경국대학교",
+     "id": "f6ee98b3-54ea-4e73-985e-20ed81cf2315"
+    },
+    {
+     "name": "교육부",
+     "id": null
+    },
+    {
+     "name": "보건복지부",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261104_0003853794",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "d2f9c333-a43b-4af1-b547-e7a48a54d923",
+   "title": "순천사업장 우주발사체 단조립장 준공",
+   "type": "개장",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "c6cec6de-7217-482f-ac31-3885fdff8f45",
+     "category": "단체",
+     "name": "한화에어로스페이스"
+    }
+   ],
+   "summary": "한화에어로스페이스가 순천사업장에서 우주발사체 단조립장 준공식을 열고 가동을 시작함",
+   "why": null,
+   "how": "국내 최대 규모의 민간 우주발사체 생산 시설로 내년 하반기 누리호 6차 발사체 조립이 첫 임무임. 만든 단은 율촌 부두로 고흥 나로우주센터에 옮겨 총조립하며 직원은 30명에서 최대 100명으로 늘 전망임",
+   "content": null,
+   "places": [
+    {
+     "name": "고흥 나로우주센터",
+     "id": null
+    },
+    {
+     "name": "순천시",
+     "id": "dc57fd79-5a23-4e5c-a3b1-eff977691489"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704011",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "7354ec7b-ff27-428b-be64-022e66b93ee5",
+   "title": "슈퍼마켓 냉동고 해킹, 영국 식육업계도 피해",
+   "type": "논란",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "860abe36-6554-419a-9021-7be14c191ffa",
+     "category": "국가",
+     "name": "United Kingdom"
+    }
+   ],
+   "summary": "유럽 슈퍼마켓 냉장·냉동 설비 해킹으로 영국 식품 공급망 업체 일부가 피해를 입음",
+   "why": null,
+   "how": "국가사이버보안센터는 취약 기술이 악용된 사례가 두어 건 있다고 밝힘. 독립 육류 공급업체 협회 회원 2곳 냉장고가 녹기 시작했고 한 곳은 온도가 100도까지 올랐으나 설비가 비어 있어 손실은 없었음",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "d89d0825-16b6-44bf-b056-91387468c90e",
+   "title": "스기사키 하나 주연 후지TV 드라마 속편 결정",
+   "type": "시즌 공개",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "5b43e4f1-66eb-4d00-87a0-c7002cd4abc4",
+     "category": "작품",
+     "name": "Unmet"
+    }
+   ],
+   "summary": "스기사키 하나 주연의 의학 드라마 「언멧」 속편이 2027년 1월 월요일 밤 10시 방송으로 결정",
+   "why": null,
+   "how": "전작 마지막 장면에서 이어지는 이야기. 와카바 류야도 다시 출연하고 새 출연자도 나옴. 각본 시노자키 에리코, 연출 사이토 유키는 전작 그대로",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Hana Sugisaki",
+     "id": "646e38ee-9061-4ea5-b60f-2fc2db0cb339"
+    },
+    {
+     "name": "Ryuya Wakaba",
+     "id": "0f70486e-b32a-45fb-b3e7-2dd78364f40f"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/68a5a48fca87ee12a69dfcc6ccc8ef20ec35f34c",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "82570f74-0a02-4cef-927e-0410d80a5241",
+   "title": "스페인 교통장관, 고속철 참사 엿새 만에 사임 의사",
+   "type": "퇴임",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "42091f3e-92cd-4a3a-8452-a46e96b84f30",
+     "category": "국가",
+     "name": "Spain"
+    }
+   ],
+   "summary": "오스카르 푸엔테 교통장관이 69명이 숨진 열차 추돌 참사 엿새 만에 의회에서 사임 의사를 밝힘",
+   "why": "지난 1월 같은 노선에서 46명이 숨진 사고 9개월 만에 비슷한 참사가 또 발생해 책임을 통감함",
+   "how": "철도 안전 대책을 의회에 보고한 뒤 사임을 밝히며 조기 총선 후보 명단에서도 이름을 빼겠다고 함",
+   "content": null,
+   "places": [
+    {
+     "name": "마드리드",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "오스카르 푸엔테",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104075000009",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "bf0ae108-6067-4bd1-8020-0a43aa165075",
+   "title": "스페인 영화 역대 흥행 3위, 스페인 극장가 상승",
+   "type": "흥행 기록",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "7fee50c1-ee96-4ef6-838c-0a84aa57fa58",
+     "category": "작품",
+     "name": "La Bola Negra"
+    }
+   ],
+   "summary": "영화 「La Bola Negra」가 스페인 영화 역대 흥행 3위에 올랐고 관객 약 540만 명",
+   "why": null,
+   "how": "스페인 극장 시장은 코로나 이전(2017~2019) 평균보다 8% 높고 올해 40% 성장. 배급 엘라스티카",
+   "content": [
+    "Movistar Plus"
+   ],
+   "places": [
+    {
+     "name": "h",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "p",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": ":",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "v",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "r",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "y",
+     "id": null
+    },
+    {
+     "name": ".",
+     "id": null
+    },
+    {
+     "name": "c",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "m",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "0",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "6",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "f",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "l",
+     "id": null
+    },
+    {
+     "name": "m",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "g",
+     "id": null
+    },
+    {
+     "name": "l",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "b",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "l",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "l",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "b",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "l",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "g",
+     "id": null
+    },
+    {
+     "name": "r",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": "p",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "0",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "6",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "b",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "x",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "f",
+     "id": null
+    },
+    {
+     "name": "f",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "c",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": "u",
+     "id": null
+    },
+    {
+     "name": "r",
+     "id": null
+    },
+    {
+     "name": "g",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "1",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "3",
+     "id": null
+    },
+    {
+     "name": "6",
+     "id": null
+    },
+    {
+     "name": "9",
+     "id": null
+    },
+    {
+     "name": "3",
+     "id": null
+    },
+    {
+     "name": "6",
+     "id": null
+    },
+    {
+     "name": "6",
+     "id": null
+    },
+    {
+     "name": "4",
+     "id": null
+    },
+    {
+     "name": "0",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "Spain",
+     "id": "42091f3e-92cd-4a3a-8452-a46e96b84f30"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "c39bc1e2-6d7b-4d1c-971f-25f84c1c719c",
+   "title": "시즌2 2027년 1월 19일 넷플릭스 공개",
+   "type": "시즌 공개",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "592d7d41-be6c-42c1-8ad6-f3d78402f014",
+     "category": "작품",
+     "name": "Blue Eye Samurai"
+    }
+   ],
+   "summary": "넷플릭스가 성인용 애니메이션 시즌2를 2027년 1월 19일 6부작 전편으로 공개한다고 발표",
+   "why": null,
+   "how": "티저 영상과 첫 이미지를 함께 공개. 지난 8월 시즌3(최종)까지 갱신돼 시즌3는 2028년 예정",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Netflix",
+     "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.whats-on-netflix.com/news/blue-eye-samurai-season-2-netflix-release-date-january-2027/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "e86a38eb-8482-45ea-8792-519091e3a1f0",
+   "title": "식료품 소비세 2년간 1%로 낮추는 법안, 6일 중의원 통과 전망",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan"
+    }
+   ],
+   "summary": "자민당이 식료품 세율을 2년간 1%로 낮추는 소비세 감세 법안을 6일 중의원에서 표결하자고 제안함",
+   "why": null,
+   "how": "여당이 중의원 과반을 확보해 6일 재무금융위 표결 뒤 본회의 통과 예정. 국민민주당 다마키 대표는 현재 형태로는 반대하고 여당이 대안을 받아들이는지에 따라 입장을 정하겠다고 함",
+   "content": null,
+   "places": [
+    {
+     "name": "Tokyo",
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Yuichiro Tamaki",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/pickup/6601376",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "bac08655-c951-47e1-9360-5e807fe5f4b2",
+   "title": "신천지 의혹 사과 뒤에도 당내 책임론 계속",
+   "type": "논란",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2",
+     "category": "단체",
+     "name": "더불어민주당"
+    }
+   ],
+   "summary": "김민석 대표가 신천지 교인 집단 입당 의혹 제기에 의원총회에서 사과했으나 정청래 전 대표 등 친청계가 책임을 계속 요구함",
+   "why": "김 대표가 신천지 교인의 집단 입당 의혹을 제기한 것을 두고 당내 사과 요구가 나왔음",
+   "how": "정청래 전 대표는 사과는 가해자의 의무라는 글을 올렸고, 최고위원회의에서 친청계 이성윤·한민수 최고위원이 공세를 폈음. 친명계 주류는 사과로 일단락될 것으로 봄",
+   "content": null,
+   "places": [
+    {
+     "name": "국회",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "김민석",
+     "id": null
+    },
+    {
+     "name": "정청래",
+     "id": null
+    },
+    {
+     "name": "이성윤",
+     "id": null
+    },
+    {
+     "name": "한민수",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104075651001",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "ad1f48fe-8efc-49d0-ba55-9975c60544b5",
+   "title": "실사 영화 2027년 3월 19일 개봉 결정",
+   "type": "개봉·방영",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "6ce65f6a-4044-49ad-bf64-ef8d98f0ef49",
+     "category": "작품",
+     "name": "Mashle: Magic and Muscles Live-Action Film"
+    }
+   ],
+   "summary": "고모토 하지메의 「마슈르」 실사 영화가 2027년 3월 19일 개봉으로 정해지고 주인공 배역은 11월 5일 공개 예고",
+   "why": null,
+   "how": "도호 배급, 워너 브라더스 영화와 후지텔레비전이 제작 간사, 제작 프로덕션은 CREDEUS. 원작은 주간 소년 점프 연재작",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Toho",
+     "id": "66d98d16-3fc3-4e04-ac84-3dc44654b397"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/articles/863cfd42f9a81a59373d9b2ec093b2297a52cb8c",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "ca1e3ac5-da16-4454-9f5c-83ad0c964076",
+   "title": "애니 「앵그리버드 3」용 신곡 「Sun Showers」 공동 작사",
+   "type": "싱글",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "4af5b6b6-65a8-46e7-9c35-0cfa09834050",
+     "category": "인물",
+     "name": "지수"
+    }
+   ],
+   "summary": "영화 「앵그리버드 무비 3」에 쓸 오리지널 곡 「Sun Showers」를 공동 작사해 발표",
+   "why": null,
+   "how": "표지에는 지수가 중학생 때 그린 먼지덩이 캐릭터가 쓰임. 곡 발매일은 미정이며 영화 예고편에 먼저 나올 예정. 앞서 솔로 싱글 「Click」「Addicted」 발표",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "The Angry Birds Movie 3",
+     "id": "e0a68e7b-7ba5-46ce-9cf6-95e580a98985"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.billboard.com/culture/tv-film/jisoo-sun-showers-angry-birds-movie-3-song-1236373617/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "9b7f18a5-1dbd-41e4-820d-9661c0ffa390",
+   "title": "월성 2호기 설계수명 만료, 계속운전 허가 신청",
+   "type": "경과",
+   "date": "2026-11-01",
+   "parent": [
+    {
+     "id": "1beec75a-0c6b-476c-9cd5-4b49a3cfcd38",
+     "category": "단체",
+     "name": "한국수력원자력"
+    }
+   ],
+   "summary": "월성 2호기가 설계수명 30년을 채웠고 한수원이 월성 2·3·4호기의 10년 계속운전 허가를 신청함",
+   "why": "정부가 AI·반도체 산업 확대로 전력 수요가 급증할 것으로 내다봄",
+   "how": "한수원은 지난달 29일 원자력안전위원회에 신청했고 3·4호기는 각각 내년과 2029년 설계수명이 끝남. 노후 원전의 안전성과 경제성을 둘러싼 지역 논의가 본격화함",
+   "content": null,
+   "places": [
+    {
+     "name": "월성원전",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "원자력안전위원회",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703954",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "0c220265-1e3e-40f3-b9ef-940d5a7a789b",
+   "title": "유럽 상공 여객기 7대 폭발물 신고, 폴란드 LOT기 착륙",
+   "type": "뉴스",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "f9b773fc-0ff0-43bc-923f-ec47f07a7435",
+     "category": "국가",
+     "name": "Poland"
+    }
+   ],
+   "summary": "유럽 상공을 나는 여객기 7대에 폭발물 신고가 잇따라 런던발 바르샤바행 LOT 폴란드항공 여객기가 모들린 공항에 착륙함",
+   "why": null,
+   "how": "폭발물은 발견되지 않았고 LOT기 승객 181명은 버스로 쇼팽 공항에 이동함. 로마행 여객기는 이탈리아 공군 전투기 호위를 받음",
+   "content": null,
+   "places": [
+    {
+     "name": "모들린 공항",
+     "id": null
+    },
+    {
+     "name": "쇼팽 공항",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "LOT 폴란드항공",
+     "id": "21d11156-ee77-40b6-9eaa-c4155bf6026f"
+    },
+    {
+     "name": "스칸디나비아항공",
+     "id": "c63bb48b-8e08-4c78-bcae-92ada93184f0"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261103180352082",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "0c76389e-41e3-41ee-96b8-07520856f85f",
+   "title": "윤석열 전 대통령 선거법 2심도 징역형 집행유예",
+   "type": "경과",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "73223290-920b-403e-be26-e5107d0b30b4",
+     "category": "단체",
+     "name": "국민의힘"
+    }
+   ],
+   "summary": "서울고법이 대선후보 시절 허위사실 공표 혐의에 1심과 같이 징역 1년 6개월, 집행유예 3년을 선고함",
+   "why": "관훈클럽 토론회에서 윤우진 전 용산세무서장에게 변호사를 소개한 사실이 없다고 한 발언 등을 허위사실 공표로 인정함",
+   "how": "형이 확정되면 국민의힘은 대선 때 보전받은 선거비용 397억원을 반환해야 하며, 윤 전 대통령 측은 상고 의사를 밝혀 대법원이 최종 판단함",
+   "content": null,
+   "places": [
+    {
+     "name": "서울고등법원",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "윤석열",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104128652004",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "3cf784d7-dcdc-4563-bd5d-bb6ab1e5f156",
+   "title": "이 대통령, 장위동 재개발 현장 찾아 사랑제일교회 엄정 대응 주문",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "이재명 대통령이 성북구 장위동 공공재개발 현장을 찾아 강제집행이 불발된 사랑제일교회에 엄정 대응을 주문함",
+   "why": "교회가 재개발에 반대하며 강제집행을 막아 사업 계획을 바꿔 교회 부지를 빼준 것이 말이 안 된다고 지적함",
+   "how": "법을 어겨도 버티면 된다는 건 세상에 없다며 이승로 성북구청장에게 앞으로 철저히 집행하라고 당부함",
+   "content": null,
+   "places": [
+    {
+     "name": "성북구 장위동",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "이재명",
+     "id": null
+    },
+    {
+     "name": "이승로",
+     "id": null
+    },
+    {
+     "name": "사랑제일교회",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104177451001",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "9c8d556b-80d6-4b15-a317-cc61e071ea35",
+   "title": "잉글랜드·웨일스 약물 사망, 코카인이 헤로인 추월",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "860abe36-6554-419a-9021-7be14c191ffa",
+     "category": "국가",
+     "name": "United Kingdom"
+    }
+   ],
+   "summary": "2025년 등록된 약물 중독 사망 5,519건 가운데 코카인이 1,233건으로 헤로인·모르핀의 1,210건을 넘어섬",
+   "why": "코카인의 순도와 구하기 쉬운 환경을 자선단체가 지적",
+   "how": "통계청(ONS)에 따르면 10년 새 코카인 관련 사망은 거의 4배, 케타민 관련은 사상 최다 115건. 전체 사망률은 2012년 이후 처음 감소",
+   "content": null,
+   "places": [
+    {
+     "name": "England",
+     "id": "fb7f1628-0e9f-4d21-a9e5-bf84e033e19a"
+    },
+    {
+     "name": "Wales",
+     "id": "c4d28d39-07b9-48ca-b434-f382ec03fe1a"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "43c413ef-de53-454c-bca2-068bfbd0349b",
+   "title": "정규 5집 「아리랑」 이탈리아 플래티넘, K팝 최초",
+   "type": "흥행 기록",
+   "date": "2026-11-02",
+   "parent": [
+    {
+     "id": "94266f27-5abe-4ee1-ad0b-703230ec364d",
+     "category": "단체",
+     "name": "방탄소년단"
+    }
+   ],
+   "summary": "정규 5집 「아리랑」이 이탈리아 음악산업협회(FIMI) 플래티넘 인증을 받아 K팝 가수 앨범으로는 처음임",
+   "why": null,
+   "how": "FIMI 플래티넘은 실물·다운로드·스트리밍을 환산한 누적 5만 유닛 달성 기준. 소속사 빅히트 뮤직이 3일 발표",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "빅히트 뮤직",
+     "id": "f0870011-8c4a-4665-8679-5c7b7158d701"
+    },
+    {
+     "name": "FIMI",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261104/134961860/1",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "bb91b392-6e29-4f0e-a5f7-361a44edffd6",
+   "title": "정부, 관민 합동 「사이버 구원대」 만든다",
+   "type": "뉴스",
+   "date": "2026-11-05",
+   "parent": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan"
+    }
+   ],
+   "summary": "잇따르는 개인정보 유출에 정부가 관민 전문가로 꾸린 사이버 구원대를 필요한 기업에 보내는 긴급 대책안을 마련",
+   "why": null,
+   "how": "정부는 6일 긴급 대책 패키지를 공개할 예정(요미우리·아사히)",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.yahoo.co.jp/pickup/6601372",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "0cf31e94-2e10-4f93-8bf3-905ee6c588f2",
+   "title": "정부, 북해 신규 석유·가스 면허 금지 법안 발의",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "860abe36-6554-419a-9021-7be14c191ffa",
+     "category": "국가",
+     "name": "United Kingdom"
+    }
+   ],
+   "summary": "노동당 정부가 신규 석유·가스 탐사 면허 발급을 막는 에너지 독립법안을 제출함",
+   "why": "2024년 총선 공약 이행과 기후 목표",
+   "how": "로즈뱅크 유전 승인 여부에는 영향 없음. 기존 유전 인근 증산을 허용하는 전환 에너지 증명서를 도입해 약 6천만 배럴 증산 전망. 보수당은 위험하다고 비판, SNP는 스코틀랜드 에너지를 이용하는 법이라고 반발",
+   "content": null,
+   "places": [
+    {
+     "name": "Westminster",
+     "id": "5b2033ad-5394-4deb-9e23-fbc380b8979a"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.bbc.co.uk/news/articles/cqn734d24l0go",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "541d4322-a125-468b-abce-e31db5b7fa85",
+   "title": "제1회 로컬창업 페스타 인 제주 개막",
+   "type": "행사",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "7250e6ab-33cc-4cbc-9dbe-7a3d960305d3",
+     "category": "장소",
+     "name": "제주특별자치도"
+    }
+   ],
+   "summary": "중기부와 제주도가 여는 '제1회 로컬창업 페스타 인 제주'가 쉐라톤호텔에서 개막함",
+   "why": "지역기업이 경쟁력 있는 브랜드로 성장해 투자 유치와 판로 확보로 세계시장에 도약하는 길을 보여 주려는 행사임",
+   "how": "전국 지역기업 140곳과 국내 투자사 8곳, 해외 투자사 3곳이 참여함",
+   "content": null,
+   "places": [
+    {
+     "name": "쉐라톤호텔",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "중소벤처기업부",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8704208&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "db94b5d1-50f7-4efa-bfa3-af5b8055b6ec",
+   "title": "제9회 평창고랭지김장축제 개막",
+   "type": "축제",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "deb82cec-7b02-4cc6-9df5-e00c467040b2",
+     "category": "장소",
+     "name": "평창군"
+    }
+   ],
+   "summary": "제9회 평창고랭지김장축제가 개막함",
+   "why": null,
+   "how": "해발 700미터에서 키운 평창 농가의 절임배추와 100% 국내산 양념을 쓰고, 방문객이 담근 김장김치는 택배로 바로 보냄. 먹거리 터에서 수육과 만둣국도 팖",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704004",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "2af0efe6-afc2-4ce2-a106-541885c943a7",
+   "title": "제천시·보은군, 법무부에 교정시설 유치 제안서 제출",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "8ebdcce2-d86a-40a1-92ae-0ab743d808e3",
+     "category": "장소",
+     "name": "충청북도"
+    }
+   ],
+   "summary": "제천시와 보은군이 법무부에 신규 교정시설 유치 제안서를 냄",
+   "why": null,
+   "how": "제천시는 여론조사와 공청회를 거쳐 후보지 3곳을, 보은군은 군민 2만6천여 명의 유치 서명부와 함께 후보지 3곳을 제출했음",
+   "content": null,
+   "places": [
+    {
+     "name": "제천시",
+     "id": "85d7380c-d066-4ab5-a82c-daa876fd2a11"
+    },
+    {
+     "name": "보은군",
+     "id": "a1c44dc4-2aa9-403c-bdee-33bbbde246c0"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "법무부",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704192",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "d3dca7b0-0ac5-434f-b04a-36eed2adf623",
+   "title": "주민투표 146건, 낙태권 보호 3개 주 통과",
+   "type": "선거",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States"
+    }
+   ],
+   "summary": "39개 주 등에서 146건의 주민투표가 치러졌고 낙태 관련 4건 중 3건이 낙태권 보호로 결론남",
+   "why": "대법원이 2022년 로 대 웨이드 판결을 뒤집어 낙태 허용 여부가 주 별로 넘어간 상태",
+   "how": "미주리는 공화당 주도의 낙태 금지 개헌안을 부결, 네바다는 태아 생존 가능 시점까지 낙태를 헌법에 명시, 버지니아는 생식 자유권을 헌법에 넣음. 아이다호는 2022년 금지법 유지. 네바다·노스캐롤라이나·오하이오는 유권자 신분증 강화안 통과",
+   "content": null,
+   "places": [
+    {
+     "name": "Missouri",
+     "id": "43b49014-6faa-45c9-8a38-8f522cd48f68"
+    },
+    {
+     "name": "Nevada",
+     "id": null
+    },
+    {
+     "name": "Virginia",
+     "id": "1843a3f4-b1fd-4e89-897d-6e60f5020183"
+    },
+    {
+     "name": "Idaho",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "f609a365-6f59-487a-87b5-8db04be84bf0",
+   "title": "중국 외교부, 미 중간선거에 「정상 합의 지키겠다」",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300",
+     "category": "국가",
+     "name": "China"
+    }
+   ],
+   "summary": "마오닝 대변인이 중간선거는 미국 내정이라며 양국 정상의 합의를 이어 지키겠다고 밝힘",
+   "why": null,
+   "how": "신화통신 보도. 소통을 강화하고 이견을 관리하며 협력을 넓혀 「존중·공평·대등에 기초한 건설적 전략적 안정 관계」를 만들겠다는 입장",
+   "content": null,
+   "places": [
+    {
+     "name": "Beijing",
+     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "http://www.news.cn/politics/20261104/b03f66a479fc4f14a0abb5eb6869b492/c.html",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "af3049d4-c583-4692-8da0-7bcb2ea701c9",
+   "title": "지분적립형 공공분양주택 12월 고양창릉서 첫 공급",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5",
+     "category": "단체",
+     "name": "국토교통부"
+    }
+   ],
+   "summary": "국토부가 분양가의 25%만 내고 입주하는 LH 지분적립형 공공분양주택을 다음 달 고양창릉에서 처음 공급한다고 발표함",
+   "why": "초기 자금 부담을 낮춰 청년층 등 실수요자의 내 집 마련을 돕기 위함임",
+   "how": "고양창릉 1057가구 중 284가구가 대상이며 입주 뒤 4년간 5회에 걸쳐 15%씩 나머지 지분을 취득함. 수도권 평균 기준 초기 지분 비용은 1억2800만원임",
+   "content": null,
+   "places": [
+    {
+     "name": "고양창릉",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "한국토지주택공사",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8703629&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "6161617d-0a53-425c-a9ca-06cc72a946ce",
+   "title": "진실화해위, 영천 민간인 희생 12건 진실규명",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "e29ed36f-5499-441c-b039-020b0b377fd4",
+     "category": "장소",
+     "name": "영천시"
+    }
+   ],
+   "summary": "진실화해위원회가 한국전쟁 전후 영천 일대 민간인 희생 사건 12건을 군경에 의한 불법 희생으로 진실규명함",
+   "why": null,
+   "how": "주민 11명이 1949년 2월부터 이듬해 9월까지 국군과 영천경찰서 경찰에게 적법 절차 없이 살해됐다고 밝혔고, 국가의 공식 사과와 피해 회복, 유족 추모 사업 지원을 권고함",
+   "content": null,
+   "places": [
+    {
+     "name": "영천시",
+     "id": "e29ed36f-5499-441c-b039-020b0b377fd4"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "진실화해위원회",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8704274&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "138c35b6-17a3-44c4-af55-4a8ab2318a5c",
+   "title": "첫 고척돔 콘서트, 팬클럽 선예매만으로 2회 전석 매진",
+   "type": "콘서트",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "50dacf9d-bfad-4951-81f5-6390cac6f865",
+     "category": "단체",
+     "name": "NCT WISH"
+    }
+   ],
+   "summary": "두 번째 콘서트 투어의 서울 고척돔 공연이 팬클럽 선예매만으로 2회 모두 전석 매진됨",
+   "why": null,
+   "how": "고척돔은 이 그룹의 첫 입성. 투어 이름은 「INTO THE WISH : Face Our WISH」",
+   "content": null,
+   "places": [
+    {
+     "name": "고척스카이돔",
+     "id": null
+    },
+    {
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.chosun.com/entertainments/music/2026/11/04/GBQWGZRVGFSDGN3EHE3WMZBZGU/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "f7149c63-d29c-4f89-82ab-4c48b7f8b1b5",
+   "title": "청년 인턴제 내년 도입, 100명 이상 모집",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "128cb9fc-75dd-4f2f-941b-f0357e5c88d6",
+     "category": "장소",
+     "name": "대전광역시"
+    }
+   ],
+   "summary": "허태정 대전시장이 내년부터 시와 산하 공공기관, 의회가 참여하는 청년 인턴제를 도입해 100명 이상을 모집하겠다고 밝힘",
+   "why": "청년의 취업 경험과 경력 형성을 지원하려는 것임",
+   "how": "내년 1월 모집 공고 뒤 3월부터 운영하며 데이터 분석과 홍보 콘텐츠 기획 분야 등에서 실무 경험을 제공함",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "허태정",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703375",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "9db01869-dc7f-4278-a3de-c994fa730bb2",
+   "title": "청와대, 유튜브 프로그램 「대통령의 Y」 5일 공개",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
+    }
+   ],
+   "summary": "청와대가 이재명 대통령이 출연하는 유튜브 프로그램 '대통령의 Y'를 5일 오후 9시 공개한다고 밝힘",
+   "why": "뉴미디어 플랫폼인 유튜브로 국민의 궁금증에 답하고 정책을 설명하기 위해 마련함",
+   "how": "이 대통령이 첫 녹화를 마쳤고 사회는 손정은 전 MBC 아나운서가 맡음. 이름에는 엑스에 이은 유튜브(Y)와 영어 Why의 뜻을 담음",
+   "content": null,
+   "places": [
+    {
+     "name": "청와대",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "이재명",
+     "id": null
+    },
+    {
+     "name": "손정은",
+     "id": "23a0f36a-53c0-4547-b675-061fcbab68c9"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104126751001",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "605916a1-bb15-49dc-a61c-146be805443d",
+   "title": "출시일 2027년 5월 20일로 석 달 연기",
+   "type": "출시",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "4bb177a6-81d8-4975-ac4a-e3af94da2b76",
+     "category": "게임",
+     "name": "God of War Laufey"
+    }
+   ],
+   "summary": "PS5 독점 신작의 출시일이 2027년 2월 16일에서 5월 20일로 석 달 미뤄짐",
+   "why": "개발사 산타모니카 스튜디오가 마무리 작업에 시간이 더 필요하다고 밝힘",
+   "how": "개발사가 X에서 직접 알림. 같은 달 몰린 다른 대작과의 겹침을 피하게 됐다는 해석도 나옴",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Santa Monica Studio",
+     "id": "7785827c-00a3-4b7d-9c9a-aa05b1086de3"
+    },
+    {
+     "name": "Sony",
+     "id": "db50c479-49f3-4954-8d12-618d0bf4d19b"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://gameinformer.com/2026/11/04/god-of-war-laufey-delayed-to-may",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "a857108b-fa4b-4fe2-8ca0-f1ef04696e9b",
+   "title": "콩고민주공화국서 에볼라 감염된 영국인, 영국으로 이송",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "860abe36-6554-419a-9021-7be14c191ffa",
+     "category": "국가",
+     "name": "United Kingdom"
+    }
+   ],
+   "summary": "콩고민주공화국에서 에볼라에 걸린 영국인 의료진이 영국으로 이송됨",
+   "why": null,
+   "how": "이번 유행은 5월 시작해 확진 1만 명 넘고 사망 5천 명 넘는 콩고 최악. 영국인 감염은 처음이며 정부는 일반 위험은 낮다고 함. 가디언은 환자가 안정적이며 전문 시설로 옮겨진다고 보도",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "cc865643-0d57-46f3-baa1-bc934b12c18d",
+   "title": "쿠팡Inc 3분기 영업손실 6423억원, 3분기 연속 적자",
+   "type": "실적 발표",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "3634c276-ff20-4b9f-b29b-53e3bdc9d81d",
+     "category": "단체",
+     "name": "쿠팡"
+    }
+   ],
+   "summary": "쿠팡Inc가 올해 3분기 영업손실 6423억원으로 적자 전환했고 매출은 14조2209억원으로 11% 늘었다고 공시함",
+   "why": "지난해 개인정보 유출 사태 뒤 올해 1분기부터 적자가 이어지고 있음",
+   "how": "당기순손실은 7151억원으로 3분기 연속 적자임. 개인정보 유출 과징금이 반영된 2분기 영업손실 8350억원이 역대 최대였음",
+   "content": null,
+   "places": [
+    {
+     "name": "미국 뉴욕증시",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104009151030",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "19ba8c0b-4327-41dd-823d-5a7e91bb47f7",
+   "title": "타이완 「중국 함정 100척 넘게 서태평양 이동」",
+   "type": "뉴스",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300",
+     "category": "국가",
+     "name": "China"
+    }
+   ],
+   "summary": "타이완 당국이 해군 함정과 해경선 100척 넘게 랴오닝 항모 전단 등과 서태평양을 오간다며 우려를 표함",
+   "why": null,
+   "how": "타이완 측 주장을 인용한 SCMP 보도. 항공기 출격도 늘었다고 함",
+   "content": null,
+   "places": [
+    {
+     "name": "Taiwan Strait",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.scmp.com/news/china/military/article/3373249/taiwan-flags-massive-pla-naval-mobilisation-spike-air-sorties",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "b2714898-c359-4de3-99c0-931ddc3b3101",
+   "title": "토니 콜렛 주연 애플 TV 코미디 드라마 제작",
+   "type": "출연 확정",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "cb198ab9-76bc-4dfe-a89c-a8b258e48a33",
+     "category": "작품",
+     "name": "Lenni"
+    }
+   ],
+   "summary": "노르웨이 시리즈 「Pernille」를 원작으로 한 영어 코미디 드라마에서 토니 콜렛이 주연을 맡음",
+   "why": null,
+   "how": "이혼한 두 아이 엄마 사회복지사 역. 시드니에서 촬영 중이며 연출 디어블라 월시, 각색 세라 셸러. 공개일은 미정",
+   "content": null,
+   "places": [
+    {
+     "name": "Sydney",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Toni Collette",
+     "id": "9b6fd542-cd95-40f4-9f75-b0c7d14bee72"
+    },
+    {
+     "name": "Apple TV",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.apple.com/tv-pr/news/2026/11/apple-tv-announces-heartwarming-new-comedy-drama-lenni-starring-academy-award-nominee-toni-collette/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "dd8387a7-c314-45c4-98b0-bf686382c1fe",
+   "title": "특이민원 전담인력 내년 1월 배치",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "09717372-08d9-4d15-bd31-70f274f85ce1",
+     "category": "장소",
+     "name": "청주시"
+    }
+   ],
+   "summary": "청주시가 폭언·폭행 등 특이민원에 대응할 전담 공무원 1명을 뽑아 내년 1월 민원과에 배치함",
+   "why": "민원 응대에서 피해를 본 공무원이 직접 고소하는 일까지 생겼고 순환보직으로는 대응 경험이 쌓이기 어려움",
+   "how": "특이민원은 2024년 16건, 지난해 49건, 올해 1~10월 24건으로 최근 3년간 89건임. 상담·조사·중재 등 현장 대응을 맡음",
+   "content": null,
+   "places": [
+    {
+     "name": "청주시",
+     "id": "09717372-08d9-4d15-bd31-70f274f85ce1"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261103153500064",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "49311101-89b4-4184-bddf-ec6d61c0d16e",
+   "title": "파운드랜드 폐업 위기, 소유주 고든브러더스 장관 면담",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "a17caccc-3b98-4901-9c88-9aa3a5d8f8cb",
+     "category": "단체",
+     "name": "Poundland"
+    }
+   ],
+   "summary": "정부 장관이 파운드랜드 소유주를 만나 일자리 12,000개를 지킬 방안을 요구함",
+   "why": "인플레이션과 인건비 상승, 심한 절도가 원인이라고 소유주가 설명",
+   "how": "미국 투자사 고든브러더스는 작년 6월 1파운드에 인수한 뒤 인수 제안을 거절했고 이날 일자리 보호 입찰을 우선하겠다고 약속. 의회는 11일 소유주를 불러 조사",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Gordon Brothers",
+     "id": "76b2680f-0125-4f5f-8474-f3515b397761"
+    },
+    {
+     "name": "Jonathan Reynolds",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "a54dd14e-dad5-445e-b7f6-4a6b5077be77",
+   "title": "파운드화, 브렉시트 국민투표 이후 최고 수준",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "860abe36-6554-419a-9021-7be14c191ffa",
+     "category": "국가",
+     "name": "United Kingdom"
+    }
+   ],
+   "summary": "파운드가 18개 통화 바스켓 대비 2016년 브렉시트 국민투표 이후 가장 높은 수준에 올라 86.4를 기록함",
+   "why": "정치적 안정과 견실한 성장, EU와의 관계 회복이 영국을 다르게 보게 했다는 트레이더들의 평가",
+   "how": "영란은행은 목요일 금리 결정에서 3.75%에서 4%로 3년 만의 인상이 널리 예상됨. 영란은행이 목요일 수치를 공식 확인",
+   "content": null,
+   "places": [
+    {
+     "name": "London",
+     "id": "debbabbe-a63a-4fa0-8641-89063a6f3f2a"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "ca7ea593-1eb5-4dd7-b5f6-eee5b435c282",
+   "title": "포항 국제전시컨벤션센터 포엑스 행사 유치 예약률 90%",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "3cddc8bb-4dc5-4a93-a83a-6082fce696ba",
+     "category": "장소",
+     "name": "포항시"
+    }
+   ],
+   "summary": "내년 5월 준공 목표인 포항 국제전시컨벤션센터 포엑스의 개관 전 행사 유치 예약률이 90% 수준임",
+   "why": null,
+   "how": "지상 5층, 연면적 6만2109㎡ 규모로 짓고 있으며 특급·비즈니스호텔 등 숙박 인프라 확충과 인접한 동부초등학교 이전·통학 안전 확보가 과제임",
+   "content": null,
+   "places": [
+    {
+     "name": "포엑스",
+     "id": "55e668b9-046b-4cec-bfb8-3955a5cc2104"
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703985",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "819689de-2455-4062-965d-8a567c3be598",
+   "title": "프랑스 개봉 오프닝 80만 달러, 올해 한국영화 1위",
+   "type": "흥행 기록",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "7e3c71a6-3a95-4e66-ba0b-a10083f01311",
+     "category": "작품",
+     "name": "호프"
+    }
+   ],
+   "summary": "프랑스 192개 스크린에서 개봉해 약 80만 달러를 벌어 올해 현지 개봉 한국영화 오프닝 최고를 기록함",
+   "why": null,
+   "how": "개봉 주말인 10월 31일 파리 박스오피스 2위. 벨기에는 38개 스크린에서 약 6만 4000달러로 「헤어질 결심」·「버닝」 오프닝을 웃돎",
+   "content": null,
+   "places": [
+    {
+     "name": "프랑스",
+     "id": null
+    },
+    {
+     "name": "파리",
+     "id": null
+    },
+    {
+     "name": "벨기에",
+     "id": null
+    },
+    {
+     "name": "France",
+     "id": "8fd447de-086d-4ad9-b287-af85b002c7c9"
+    },
+    {
+     "name": "Paris",
+     "id": "d4148993-96c8-44d5-bdfe-482a77f7d753"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "나홍진",
+     "id": "70b4a027-85d2-4f32-8ca8-0a4a81f9e09b"
+    },
+    {
+     "name": "황정민",
+     "id": "e2b0cf2c-7c1b-4451-9e42-2ce3627e8a97"
+    },
+    {
+     "name": "조인성",
+     "id": "3f5a7427-5f6d-4f0c-b77d-3317beabc043"
+    },
+    {
+     "name": "정호연",
+     "id": "d50afe4a-d5b3-4a49-aac0-38aabe5a46f3"
+    },
+    {
+     "name": "음문석",
+     "id": "2badbed0-7e50-40ee-93e2-ac1c03cca7fc"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261104/134962256/1",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "aa1c5f71-fb95-4516-84b0-225de4883f8c",
+   "title": "학폭 의혹 소속사 재차 부인, 허위사실 유포에 법적 대응 예고",
+   "type": "논란",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "f5cef004-d646-4f66-8f64-1f2cd3acce56",
+     "category": "인물",
+     "name": "차예련"
+    }
+   ],
+   "summary": "소속사 HB엔터테인먼트가 학교폭력 의혹을 다시 사실무근이라 밝히고 악의적 허위사실 유포에 법적 대응을 예고함",
+   "why": "지난달 29일 온라인 커뮤니티에 1985년생 여배우에게 중학교 때 괴롭힘을 당했다는 글이 올라오며 차예련이 지목됨",
+   "how": "소속사는 익명 주장과 추측이 반복되고 가족에게까지 비난이 향한다며 자료를 확보해 법률 검토 뒤 대응하겠다고 함. 의혹 내용은 작성자의 주장이며 확인된 사실이 아님",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "HB엔터테인먼트",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://sports.donga.com/ent/article/all/20261104/134964352/1",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "41000911-4d35-429e-9dc7-1f7ed6066e78",
+   "title": "할리우드 뮤직 인 미디어 어워즈 애니 스코어 부문 후보",
+   "type": "수상",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "f9fd1fdc-1ee8-4c49-92a2-b5da0e03afe4",
+     "category": "작품",
+     "name": "The Super Mario Galaxy Movie"
+    }
+   ],
+   "summary": "브라이언 타일러의 음악이 애니메이션 영화 스코어 부문 후보에 오르고 시상식은 11월 18일",
+   "why": null,
+   "how": "같은 시상식에서 실사 「바이오하자드」 영화는 공포·스릴러 스코어, 「몬스터 헌터 아웃랜더스」는 모바일 게임 부문 후보. 장소는 로스앤젤레스 아발론 할리우드",
+   "content": [
+    "Resident Evil",
+    "Brian Tyler"
+   ],
+   "places": [
+    {
+     "name": "h",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "p",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": ":",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "w",
+     "id": null
+    },
+    {
+     "name": "w",
+     "id": null
+    },
+    {
+     "name": "w",
+     "id": null
+    },
+    {
+     "name": ".",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "m",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "w",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "w",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "r",
+     "id": null
+    },
+    {
+     "name": "k",
+     "id": null
+    },
+    {
+     "name": ".",
+     "id": null
+    },
+    {
+     "name": "c",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "m",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "w",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "0",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "6",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "1",
+     "id": null
+    },
+    {
+     "name": "1",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "0",
+     "id": null
+    },
+    {
+     "name": "3",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "h",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": "u",
+     "id": null
+    },
+    {
+     "name": "p",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "r",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "m",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "r",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "g",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "l",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "x",
+     "id": null
+    },
+    {
+     "name": "y",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "m",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "v",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "r",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "d",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "v",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "l",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "r",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "b",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "f",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "l",
+     "id": null
+    },
+    {
+     "name": "m",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "e",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "r",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "m",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "a",
+     "id": null
+    },
+    {
+     "name": "t",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "f",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "r",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "h",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "l",
+     "id": null
+    },
+    {
+     "name": "l",
+     "id": null
+    },
+    {
+     "name": "y",
+     "id": null
+    },
+    {
+     "name": "w",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "o",
+     "id": null
+    },
+    {
+     "name": "d",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "m",
+     "id": null
+    },
+    {
+     "name": "u",
+     "id": null
+    },
+    {
+     "name": "s",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "c",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "i",
+     "id": null
+    },
+    {
+     "name": "n",
+     "id": null
+    },
+    {
+     "name": "-",
+     "id": null
+    },
+    {
+     "name": "/",
+     "id": null
+    },
+    {
+     "name": ".",
+     "id": null
+    },
+    {
+     "name": "2",
+     "id": null
+    },
+    {
+     "name": "4",
+     "id": null
+    },
+    {
+     "name": "3",
+     "id": null
+    },
+    {
+     "name": "4",
+     "id": null
+    },
+    {
+     "name": "8",
+     "id": null
+    },
+    {
+     "name": "4",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Los Angeles",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "같은 시상식에서 실사 「바이오하자드」 영화는 공포·스릴러 스코어 부문, 「몬스터 헌터 아웃랜더스」는 모바일 게임 부문 후보. 장소는 로스앤젤레스 아발론 할리우드",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "8e4d8d2c-3da7-4cc9-b536-736f516b092a",
+   "title": "현대차 10월 판매 6.3% 감소, 13개월 연속",
+   "type": "실적 발표",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "ed73cd15-31b9-444f-ad00-a9b1857baaf0",
+     "category": "단체",
+     "name": "현대자동차"
+    }
+   ],
+   "summary": "현대차의 10월 국내외 판매량이 32만9천여 대로 1년 전보다 6.3% 줄어 13개월 연속 감소함",
+   "why": null,
+   "how": "국내 판매는 4만여 대로 8.9%, 해외 판매는 28만여 대로 5.9% 줄었음",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8703325&ref=DA",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "63e6bf0d-a2af-425c-b413-00e6789f8e03",
+   "title": "현대차·기아 10월 미국 판매 역대 최대",
+   "type": "실적 발표",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "ed73cd15-31b9-444f-ad00-a9b1857baaf0",
+     "category": "단체",
+     "name": "현대자동차"
+    }
+   ],
+   "summary": "현대차 미국법인의 10월 판매가 7만3452대로 10월 기준 역대 최대를 기록했고 기아와 합산 15만3460대임",
+   "why": "산타페 52%, 코나·아이오닉5 21%, 엘란트라 17% 등 모델별 판매가 늘었음",
+   "how": "하이브리드 판매는 1년 새 20% 늘었고 현대차는 앨라배마 공장에 4억5천만달러를 투자하기로 함. 기아는 북미에서 16% 늘어난 8만8대를 팔았음",
+   "content": null,
+   "places": [
+    {
+     "name": "미국",
+     "id": null
+    },
+    {
+     "name": "United States",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "기아",
+     "id": "892c07c9-f12d-4883-8660-f90a7403f440"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.yna.co.kr/view/AKR20261104036100075",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "445ddfd1-0392-4433-bf13-bb8bd2b117c1",
+   "title": "호반, 한진칼 최대주주에 올라",
+   "type": "경과",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "c77ead13-b157-401c-a749-799770938113",
+     "category": "단체",
+     "name": "한진칼"
+    }
+   ],
+   "summary": "호반그룹이 장내매수로 한진칼 지분 20.69%를 확보해 조원태 회장 측 20.58%를 제치고 최대주주에 오름",
+   "why": "호반 측은 지분 취득 목적을 단순투자로 공시함",
+   "how": "조 회장은 12월 3일부터 내년 1월 1일까지 시간외대량매매로 32만5000주(0.49%포인트)를 추가 매입할 예정이라 최대주주 자리를 되찾을 전망임",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "호반건설",
+     "id": "8bc53c8a-9323-42d4-9853-16adfec7ad49"
+    },
+    {
+     "name": "조원태",
+     "id": null
+    },
+    {
+     "name": "대한항공",
+     "id": "911f29ca-970e-49df-9639-b8f74d471a4d"
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261104_0003855230",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "94941915-b766-4968-8caa-97237046da8c",
+   "title": "홍콩 H지수 ELS 판매 금융사 과징금 확정",
+   "type": "뉴스",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "25b4b535-b461-49ec-a97a-86a911508b6c",
+     "category": "단체",
+     "name": "금융위원회"
+    }
+   ],
+   "summary": "금융위원회가 홍콩 H지수 ELS를 판매한 은행·증권사에 과징금 약 3712억원을 확정함",
+   "why": null,
+   "how": "3년 만에 제재 결론이 났음",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.newsis.com/view/NISX20261104_0003854733",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "b2b2c54a-9d01-4c92-8259-66ee19f334bc",
+   "title": "히로시마, 명부에 이름이 잘못 적힌 원폭 희생자 유골 81년 만에 유족에게",
+   "type": "행사",
+   "date": "2026-11-04",
+   "parent": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan"
+    }
+   ],
+   "summary": "히로시마시가 명부에 이름이 틀리게 적혀 있던 원폭 희생자의 유골을 사망 81년 만에 가족에게 돌려줌",
+   "why": null,
+   "how": "이름 오기가 확인된 희생자 유골을 시가 돌려준 첫 사례(재팬타임스)",
+   "content": null,
+   "places": [
+    {
+     "name": "Hiroshima",
+     "id": null
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/society/hiroshima-atomic-victim-remains/",
+   "source": "뉴스",
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  }
+ ],
+ "new_planets": [
+  {
+   "id": "2da6e404-5675-4eba-ba92-3ac82e40317a",
+   "name": "3M",
+   "category": "단체",
+   "alias": "쓰리엠, Minnesota Mining and Manufacturing",
+   "disambig": "미국의 제조 기업",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "summary": "미국 제조 기업. 2026년 11월 PFAS 지하수 오염 소송을 최대 73억 5천만 달러에 합의하기로 함",
+    "sources": [
+     "https://abcnews.com/US/wireStory/3m-agrees-pay-7-billion-settle-forever-chemical-137859426"
+    ]
+   },
+   "source_url": "https://abcnews.com/US/wireStory/3m-agrees-pay-7-billion-settle-forever-chemical-137859426",
+   "links": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "592d7d41-be6c-42c1-8ad6-f3d78402f014",
+   "name": "Blue Eye Samurai",
+   "category": "작품",
+   "alias": "블루 아이 사무라이",
+   "disambig": "넷플릭스 성인용 애니메이션",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "medium": "애니메이션",
+    "genre": "액션",
+    "platform": "Netflix",
+    "release_date": "2027-01-19",
+    "summary": "넷플릭스 성인용 사무라이 복수극 애니메이션. 시즌2는 6부작이며 시즌3(최종)이 갱신됨",
+    "sources": [
+     "https://www.whats-on-netflix.com/news/blue-eye-samurai-season-2-netflix-release-date-january-2027/"
+    ]
+   },
+   "source_url": "https://www.whats-on-netflix.com/news/blue-eye-samurai-season-2-netflix-release-date-january-2027/",
+   "links": [
+    {
+     "id": "4bcb6730-93ef-4eec-96a9-26d51861de26",
+     "category": "허브",
+     "name": "United States Animation",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "de179775-1523-4bb1-a33d-6cc5d62b6a59",
+   "name": "DL케미칼",
+   "category": "단체",
+   "alias": "DL Chemical, 디엘케미칼",
+   "disambig": "DL그룹의 석유화학 기업",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "석유화학",
+    "summary": "DL그룹의 석유화학 회사로 2020년 인수한 의료용 라텍스 자회사 카리플렉스를 글랜우드PE에 매각하기로 함",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q109460764",
+     "https://www.yna.co.kr/view/AKR20261104169400003"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q109460764",
+   "links": [
+    {
+     "id": "6d1068a0-efa4-442f-985c-62ffc2330e44",
+     "category": "단체",
+     "name": "DL",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "4bb177a6-81d8-4975-ac4a-e3af94da2b76",
+   "name": "God of War Laufey",
+   "category": "게임",
+   "alias": "갓 오브 워 라우페이, 갓 오브 워 로페이",
+   "disambig": "산타모니카 스튜디오 PS5 신작",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "medium": "게임",
+    "genre": "액션 어드벤처",
+    "platform": "PS5",
+    "developer": "Santa Monica Studio",
+    "release_date": "2027-05-20",
+    "summary": "북유럽 신화를 배경으로 한 갓 오브 워 시리즈 신작. 2027년 2월 16일에서 5월 20일로 연기",
+    "sources": [
+     "https://gameinformer.com/2026/11/04/god-of-war-laufey-delayed-to-may"
+    ]
+   },
+   "source_url": "https://gameinformer.com/2026/11/04/god-of-war-laufey-delayed-to-may",
+   "links": [
+    {
+     "id": "c9379af8-303d-4e30-8e92-0411e45389f5",
+     "category": "허브",
+     "name": "United States Game",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "76b2680f-0125-4f5f-8474-f3515b397761",
+   "name": "Gordon Brothers",
+   "category": "단체",
+   "alias": "고든 브러더스",
+   "disambig": "미국의 투자 회사",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "summary": "미국에 기반을 둔 투자사. 영국 할인 소매업체 파운드랜드의 소유주",
+    "sources": [
+     "https://www.bbc.co.uk/news/articles/ck240mm3e42do"
+    ]
+   },
+   "source_url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+   "links": [
+    {
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
+     "category": "국가",
+     "name": "United States",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "646e38ee-9061-4ea5-b60f-2fc2db0cb339",
+   "name": "Hana Sugisaki",
+   "category": "인물",
+   "alias": "스기사키 하나, 杉咲花",
+   "disambig": "일본의 배우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "nationality": "일본",
+    "occupation": "배우",
+    "summary": "일본 배우. 드라마 「언멧」 주연이며 속편이 결정됨",
+    "sources": [
+     "https://news.yahoo.co.jp/articles/68a5a48fca87ee12a69dfcc6ccc8ef20ec35f34c"
+    ]
+   },
+   "source_url": "https://news.yahoo.co.jp/articles/68a5a48fca87ee12a69dfcc6ccc8ef20ec35f34c",
+   "links": [
+    {
+     "id": "5b43e4f1-66eb-4d00-87a0-c7002cd4abc4",
+     "category": "작품",
+     "name": "Unmet",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "1ec3ebfc-4817-4f53-a55c-37470ad5a256",
+   "name": "Japan Post Bank",
+   "category": "단체",
+   "alias": "ゆうちょ銀行, 유초은행",
+   "disambig": "일본의 은행",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "summary": "일본우정 계열 은행. 2026년 11월 마쓰이증권 지분 약 20% 취득을 발표",
+    "sources": [
+     "https://news.yahoo.co.jp/pickup/6601352"
+    ]
+   },
+   "source_url": "https://news.yahoo.co.jp/pickup/6601352",
+   "links": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "3cb2cc20-43e3-4754-8c9b-5661aceb52b7",
+   "name": "Kellogg's",
+   "category": "단체",
+   "alias": "켈로그",
+   "disambig": "시리얼 제조사",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "summary": "라이스 크리스피스와 코코팝스를 만드는 시리얼 회사",
+    "sources": [
+     "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo"
+    ]
+   },
+   "source_url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
+   "links": [],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "7fee50c1-ee96-4ef6-838c-0a84aa57fa58",
+   "name": "La Bola Negra",
+   "category": "작품",
+   "alias": "라 볼라 네그라, The Black Ball",
+   "disambig": "2026년 스페인 영화",
+   "country_tags": [
+    "Spain"
+   ],
+   "fields": {
+    "medium": "영화",
+    "summary": "2026년 스페인 영화. 스페인 영화 역대 흥행 3위, 관객 약 540만 명",
+    "sources": [
+     "https://variety.com/2026/film/global/la-bola-negra-spain-2026-box-office-surge-1236936640/"
+    ]
+   },
+   "source_url": "https://variety.com/2026/film/global/la-bola-negra-spain-2026-box-office-surge-1236936640/",
+   "links": [
+    {
+     "id": "d8b9c986-dd53-40ce-a139-439e169db446",
+     "category": "허브",
+     "name": "Spain Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "cb198ab9-76bc-4dfe-a89c-a8b258e48a33",
+   "name": "Lenni",
+   "category": "작품",
+   "alias": "렌니",
+   "disambig": "애플 TV 코미디 드라마",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "medium": "드라마",
+    "genre": "코미디 드라마",
+    "platform": "Apple TV",
+    "director": "Dearbhla Walsh",
+    "cast": "Toni Collette, Ciarán Hinds",
+    "summary": "노르웨이 시리즈 「Pernille」 원작. 이혼한 사회복지사가 가족의 비극 뒤 주변 사람을 지키려는 이야기",
+    "sources": [
+     "https://www.apple.com/tv-pr/news/2026/11/apple-tv-announces-heartwarming-new-comedy-drama-lenni-starring-academy-award-nominee-toni-collette/"
+    ]
+   },
+   "source_url": "https://www.apple.com/tv-pr/news/2026/11/apple-tv-announces-heartwarming-new-comedy-drama-lenni-starring-academy-award-nominee-toni-collette/",
+   "links": [
+    {
+     "id": "db7a65aa-620f-4dcf-96e9-6b371b0e09d3",
+     "category": "허브",
+     "name": "United States Drama",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "d691817e-81c7-43c3-8969-5425640cd99a",
+   "name": "MUFG Emut Bank",
+   "category": "단체",
+   "alias": "MUFGエムット銀行, UFJ新銀行",
+   "disambig": "일본의 은행",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "summary": "MUFG 계열 은행으로 캐시카드를 발급하지 않고 운영",
+    "sources": [
+     "https://www.japantimes.co.jp/business/2026/11/04/mufg-emut-cash-cards/"
+    ]
+   },
+   "source_url": "https://www.japantimes.co.jp/business/2026/11/04/mufg-emut-cash-cards/",
+   "links": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "6ce65f6a-4044-49ad-bf64-ef8d98f0ef49",
+   "name": "Mashle: Magic and Muscles Live-Action Film",
+   "category": "작품",
+   "alias": "마슈르 실사 영화, マッシュル 実写映画",
+   "disambig": "2027년 일본 실사 영화",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "medium": "영화",
+    "genre": "판타지",
+    "release_date": "2027-03-19",
+    "summary": "고모토 하지메 원작 「마슈르」 실사 영화. 도호 배급, 주인공 배역은 11월 5일 발표 예정",
+    "sources": [
+     "https://news.yahoo.co.jp/articles/863cfd42f9a81a59373d9b2ec093b2297a52cb8c"
+    ]
+   },
+   "source_url": "https://news.yahoo.co.jp/articles/863cfd42f9a81a59373d9b2ec093b2297a52cb8c",
+   "links": [
+    {
+     "id": "71a67f1c-4870-42b1-aad5-1166b81824d2",
+     "category": "허브",
+     "name": "Japan Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "ca66b03c-e4b6-40e9-a5b4-7a699336001e",
+   "name": "Matsui Securities",
+   "category": "단체",
+   "alias": "松井証券, 마쓰이증권",
+   "disambig": "일본의 온라인 증권사",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "summary": "일본 증권사. 유초은행이 지분 약 20%를 취득",
+    "sources": [
+     "https://news.yahoo.co.jp/pickup/6601352"
+    ]
+   },
+   "source_url": "https://news.yahoo.co.jp/pickup/6601352",
+   "links": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "b6cc9354-8f4a-461f-a7c6-4b3928c0be04",
+   "name": "Otaku Vampire's Love Bite",
+   "category": "작품",
+   "alias": "오시니 아마가미, 推しに甘噛み",
+   "disambig": "스즈키 쥴리에타 원작 TV 애니메이션",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "medium": "애니메이션",
+    "genre": "로맨틱 코미디",
+    "summary": "스즈키 쥴리에타 원작 흡혈귀 로맨틱 코미디 만화(하쿠센샤). TV 애니메이션 제작이 발표됨",
+    "sources": [
+     "https://www.animenewsnetwork.com/news/2026-11-03/otaku-vampire-love-bite-manga-gets-tv-anime/.243498"
+    ]
+   },
+   "source_url": "https://www.animenewsnetwork.com/news/2026-11-03/otaku-vampire-love-bite-manga-gets-tv-anime/.243498",
+   "links": [
+    {
+     "id": "65c07ebb-6edc-4aae-8c1b-f6bf39657fa8",
+     "category": "허브",
+     "name": "Japan Animation",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "ec1e368a-6c1a-41b5-80f5-4c430ae009ce",
+   "name": "Pero Pero Sparkles",
+   "category": "작품",
+   "alias": "ぺろぺろ★スパークルズ, 페로페로 스파클즈",
+   "disambig": "TV도쿄 2027년 1월 애니메이션",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "medium": "애니메이션",
+    "platform": "TV도쿄",
+    "release_date": "2027-01",
+    "director": "Mao Miyashita",
+    "cast": "Yuki Sakakihara, Mai Kanno, Ai Fairouz",
+    "summary": "세키야 유리에가 2013년 만든 캐릭터 원작 TV 애니메이션. 제작 우사기오",
+    "sources": [
+     "https://www.animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506"
+    ]
+   },
+   "source_url": "https://www.animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506",
+   "links": [
+    {
+     "id": "65c07ebb-6edc-4aae-8c1b-f6bf39657fa8",
+     "category": "허브",
+     "name": "Japan Animation",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "a17caccc-3b98-4901-9c88-9aa3a5d8f8cb",
+   "name": "Poundland",
+   "category": "단체",
+   "alias": "파운드랜드",
+   "disambig": "영국의 할인 소매업체",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "summary": "영국 할인 소매업체. 2025년 6월 미국 투자사 고든브러더스가 1파운드에 인수했고 2026년 11월 폐업 위기",
+    "sources": [
+     "https://www.bbc.co.uk/news/articles/ck240mm3e42do"
+    ]
+   },
+   "source_url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+   "links": [
+    {
+     "id": "860abe36-6554-419a-9021-7be14c191ffa",
+     "category": "국가",
+     "name": "United Kingdom",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "0f70486e-b32a-45fb-b3e7-2dd78364f40f",
+   "name": "Ryuya Wakaba",
+   "category": "인물",
+   "alias": "와카바 류야, 若葉竜也",
+   "disambig": "일본의 배우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "nationality": "일본",
+    "occupation": "배우",
+    "summary": "일본 배우. 드라마 「언멧」에서 산페이 역으로 출연",
+    "sources": [
+     "https://news.yahoo.co.jp/articles/68a5a48fca87ee12a69dfcc6ccc8ef20ec35f34c"
+    ]
+   },
+   "source_url": "https://news.yahoo.co.jp/articles/68a5a48fca87ee12a69dfcc6ccc8ef20ec35f34c",
+   "links": [
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "5b43e4f1-66eb-4d00-87a0-c7002cd4abc4",
+     "category": "작품",
+     "name": "Unmet",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "7184d791-333f-4f91-a820-f1b2ac5dd12d",
+   "name": "Satomi Ishihara",
+   "category": "인물",
+   "alias": "이시하라 사토미, 石原さとみ",
+   "disambig": "일본의 배우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "nationality": "일본",
+    "occupation": "배우",
+    "summary": "일본 배우. 드라마 「언내추럴」 주연",
+    "sources": [
+     "https://news.yahoo.co.jp/articles/b5abbe61fd8a2bcd94e8d97177bfd4484ed1e9a0"
+    ]
+   },
+   "source_url": "https://news.yahoo.co.jp/articles/b5abbe61fd8a2bcd94e8d97177bfd4484ed1e9a0",
+   "links": [
+    {
+     "id": "b0e7520b-9dc0-4bd0-8485-6873686a32b7",
+     "category": "작품",
+     "name": "Unnatural",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "085a38d7-642a-4cd6-8751-b575ca1d3686",
+   "name": "Sony Financial Group",
+   "category": "단체",
+   "alias": "ソニーフィナンシャルグループ, 소니파이낸셜그룹, Sony FG",
+   "disambig": "일본의 금융 지주회사",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "summary": "소니생명보험의 모회사인 금융 지주회사",
+    "sources": [
+     "https://news.yahoo.co.jp/pickup/6601346"
+    ]
+   },
+   "source_url": "https://news.yahoo.co.jp/pickup/6601346",
+   "links": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "294d9c38-4fda-466c-af8f-9bae99628c1e",
+     "category": "단체",
+     "name": "Sony Group",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "e0a68e7b-7ba5-46ce-9cf6-95e580a98985",
+   "name": "The Angry Birds Movie 3",
+   "category": "작품",
+   "alias": "앵그리버드 무비 3, 앵그리버드 3",
+   "disambig": "앵그리버드 시리즈 세 번째 영화",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "medium": "영화",
+    "genre": "애니메이션",
+    "summary": "앵그리버드 시리즈 세 번째 극장 영화. 지수가 오리지널 곡 「Sun Showers」를 공동 작사",
+    "sources": [
+     "https://www.billboard.com/culture/tv-film/jisoo-sun-showers-angry-birds-movie-3-song-1236373617/"
+    ]
+   },
+   "source_url": "https://www.billboard.com/culture/tv-film/jisoo-sun-showers-angry-birds-movie-3-song-1236373617/",
+   "links": [
+    {
+     "id": "3528df46-589d-4a05-9910-c4f66ec53ae8",
+     "category": "허브",
+     "name": "United States Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "f9fd1fdc-1ee8-4c49-92a2-b5da0e03afe4",
+   "name": "The Super Mario Galaxy Movie",
+   "category": "작품",
+   "alias": "슈퍼 마리오 갤럭시 무비",
+   "disambig": "슈퍼 마리오 시리즈 애니메이션 영화",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "medium": "영화",
+    "genre": "애니메이션",
+    "summary": "슈퍼 마리오 시리즈 애니메이션 영화. 음악 브라이언 타일러가 할리우드 뮤직 인 미디어 어워즈 후보",
+    "sources": [
+     "https://www.animenewsnetwork.com/news/2026-11-03/the-super-mario-galaxy-movie-resident-evil-reboot-film-earn-nominations-for-hollywood-music-in-/.243484"
+    ]
+   },
+   "source_url": "https://www.animenewsnetwork.com/news/2026-11-03/the-super-mario-galaxy-movie-resident-evil-reboot-film-earn-nominations-for-hollywood-music-in-/.243484",
+   "links": [
+    {
+     "id": "4bcb6730-93ef-4eec-96a9-26d51861de26",
+     "category": "허브",
+     "name": "United States Animation",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "9b6fd542-cd95-40f4-9f75-b0c7d14bee72",
+   "name": "Toni Collette",
+   "category": "인물",
+   "alias": "토니 콜렛, 토니 콜레트",
+   "disambig": "호주의 배우",
+   "country_tags": [
+    "Australia"
+   ],
+   "fields": {
+    "nationality": "호주",
+    "occupation": "배우",
+    "summary": "호주 배우이자 아카데미 후보. 애플 TV 「Lenni」에서 주연",
+    "sources": [
+     "https://www.apple.com/tv-pr/news/2026/11/apple-tv-announces-heartwarming-new-comedy-drama-lenni-starring-academy-award-nominee-toni-collette/"
+    ]
+   },
+   "source_url": "https://www.apple.com/tv-pr/news/2026/11/apple-tv-announces-heartwarming-new-comedy-drama-lenni-starring-academy-award-nominee-toni-collette/",
+   "links": [
+    {
+     "id": "cb198ab9-76bc-4dfe-a89c-a8b258e48a33",
+     "category": "작품",
+     "name": "Lenni",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "hub_australia_entertainer_1d9cc6",
+     "category": "허브",
+     "name": "Australia Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "5b43e4f1-66eb-4d00-87a0-c7002cd4abc4",
+   "name": "Unmet",
+   "category": "작품",
+   "alias": "언멧, アンメット",
+   "disambig": "후지TV 의학 드라마",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "medium": "드라마",
+    "genre": "의학",
+    "platform": "후지TV(칸사이TV)",
+    "release_date": "2027-01",
+    "writer": "Eriko Shinozaki",
+    "cast": "Hana Sugisaki, Ryuya Wakaba",
+    "summary": "같은 이름의 만화가 원작인 의학 드라마. 속편이 2027년 1월 월요일 밤 10시에 방송됨",
+    "sources": [
+     "https://news.yahoo.co.jp/articles/68a5a48fca87ee12a69dfcc6ccc8ef20ec35f34c"
+    ]
+   },
+   "source_url": "https://news.yahoo.co.jp/articles/68a5a48fca87ee12a69dfcc6ccc8ef20ec35f34c",
+   "links": [
+    {
+     "id": "8bffbfb1-e40d-4a24-aa8b-8687a513562f",
+     "category": "허브",
+     "name": "Japan Drama",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "b0e7520b-9dc0-4bd0-8485-6873686a32b7",
+   "name": "Unnatural",
+   "category": "작품",
+   "alias": "언내추럴, アンナチュラル",
+   "disambig": "TBS 2018년 드라마",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "medium": "드라마",
+    "genre": "미스터리",
+    "platform": "TBS",
+    "release_date": "2018",
+    "director": "Ayuko Tsukahara",
+    "writer": "Ako Nogi",
+    "cast": "Satomi Ishihara",
+    "summary": "TBS 금요 드라마. 요네즈 켄시의 「Lemon」이 주제가",
+    "sources": [
+     "https://news.yahoo.co.jp/articles/b5abbe61fd8a2bcd94e8d97177bfd4484ed1e9a0"
+    ]
+   },
+   "source_url": "https://news.yahoo.co.jp/articles/b5abbe61fd8a2bcd94e8d97177bfd4484ed1e9a0",
+   "links": [
+    {
+     "id": "8bffbfb1-e40d-4a24-aa8b-8687a513562f",
+     "category": "허브",
+     "name": "Japan Drama",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "f6ee98b3-54ea-4e73-985e-20ed81cf2315",
+   "name": "국립경국대학교",
+   "category": "단체",
+   "alias": "경국대, Gyeongguk National University",
+   "disambig": "대한민국 경상북도의 국립 종합대학",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "대학교",
+    "industry": "교육",
+    "summary": "경상북도 안동시에 있는 국립대학으로 2030년 개교를 목표로 의과대학(정원 40명)을 신설하기로 선정됨",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q494638",
+     "https://www.newsis.com/view/NISX20261104_0003853794"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q494638",
+   "links": [
+    {
+     "id": "7fb9f9b8-3427-4264-ad97-ea5b55cdee5d",
+     "category": "장소",
+     "name": "안동시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "ad9de0c3-5415-4326-8cbd-588cb24bcfef",
+   "name": "국립순천대학교",
+   "category": "단체",
+   "alias": "순천대, Sunchon National University",
+   "disambig": "대한민국 전남광주의 국립 종합대학",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "대학교",
+    "industry": "교육",
+    "summary": "전남광주 순천시에 있는 국립대학으로 2030년 개교를 목표로 의과대학(정원 60명)을 신설하기로 선정됨",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q482952",
+     "https://www.newsis.com/view/NISX20261104_0003853794"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q482952",
+   "links": [
+    {
+     "id": "dc57fd79-5a23-4e5c-a3b1-eff977691489",
+     "category": "장소",
+     "name": "순천시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "fb5d42e4-12f3-4784-a756-1cb24c64c1a2",
+   "name": "그냥사람친구",
+   "category": "작품",
+   "alias": "그사친, Just Friends",
+   "disambig": "2026년 tvN 우정 여행 예능",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "예능",
+    "platform": "tvN",
+    "release_date": "2026-11-27",
+    "director": "나영석",
+    "cast": "이서진, 한지민, 김용건, 박정수, 주헌, 정연",
+    "synopsis": "연예계에서 오래 우정을 이어 온 남녀 친구 세 쌍(20년·55년·10년, 합계 85년)이 함께 여행하며 이야기를 나누는 예능.",
+    "sources": [
+     "https://sports.donga.com/ent/article/all/20261104/134963334/1"
+    ]
+   },
+   "source_url": "https://sports.donga.com/ent/article/all/20261104/134963334/1",
+   "links": [
+    {
+     "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
+     "category": "허브",
+     "name": "한국 예능",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "012f6a6d-d60b-428f-ae4f-3373cf0309e5",
+   "name": "금월도",
+   "category": "작품",
+   "alias": "Geumwoldo",
+   "disambig": "조선왕조실록 식인 기록에서 출발한 한국형 뱀파이어 호러 영화",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "영화",
+    "genre": "호러, 미스터리",
+    "release_date": "2027",
+    "director": "백동훈",
+    "cast": "서예지",
+    "synopsis": "엄마의 메시지를 받고 외딴섬 금월도를 찾은 김지후가 섬에서 벌어지는 사건을 파헤치는 한국형 뱀파이어 호러. 조선왕조실록의 식인 기록에서 출발함.",
+    "sources": [
+     "https://sports.donga.com/ent/article/all/20261104/134961927/1"
+    ]
+   },
+   "source_url": "https://sports.donga.com/ent/article/all/20261104/134961927/1",
+   "links": [
+    {
+     "id": "18fea518-c6b2-4cb1-8f6d-06c0f5b1156e",
+     "category": "허브",
+     "name": "한국 영화",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "03761514-16a1-4995-a3b9-0813af84620d",
+   "name": "김수현",
+   "category": "인물",
+   "alias": "Kim Soo-hyun",
+   "disambig": "배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "gender": "남성",
+    "occupation": "배우",
+    "summary": "유튜브 채널 가로세로연구소를 상대로 영상 삭제·게재금지 가처분을 신청한 배우.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.newsis.com/view/NISX20261104_0003854461"
+    ]
+   },
+   "source_url": "https://www.newsis.com/view/NISX20261104_0003854461",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "4f1a166d-d9a9-4177-91ed-f0f4840ab913",
+   "name": "김용건",
+   "category": "인물",
+   "alias": "Kim Yong-gun",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "gender": "남성",
+    "occupation": "배우",
+    "summary": "2026년 tvN 예능 「그냥사람친구」에 55년 지기 박정수와 출연.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://sports.donga.com/ent/article/all/20261104/134963334/1"
+    ]
+   },
+   "source_url": "https://sports.donga.com/ent/article/all/20261104/134963334/1",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "fb5d42e4-12f3-4784-a756-1cb24c64c1a2",
+     "category": "작품",
+     "name": "그냥사람친구",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "e39101fa-066e-4665-9d42-9c179bd7c4da",
+   "name": "농협중앙회",
+   "category": "단체",
+   "alias": "농협, NongHyup, National Agricultural Cooperative Federation",
+   "disambig": "대한민국의 농업협동조합 중앙조직",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "협동조합",
+    "industry": "농업·금융",
+    "summary": "1958년 농민 지원을 위해 설립된 농업 관련 협동조합이며 강호동 회장이 금품 수수 혐의로 구속영장이 신청됨",
+    "sources": [
+     "https://www.yna.co.kr/view/AKR20261104167151004",
+     "https://ko.wikipedia.org/wiki/농업협동조합"
+    ]
+   },
+   "source_url": "https://www.yna.co.kr/view/AKR20261104167151004",
+   "links": [],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "bf3d8f4a-18e1-4bae-9582-d30214bc5ac0",
+   "name": "메르세데스-벤츠 코리아",
+   "category": "단체",
+   "alias": "벤츠코리아, 한국메르세데스-벤츠, Mercedes-Benz Korea",
+   "disambig": "메르세데스-벤츠의 한국 법인",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "자동차 수입·판매",
+    "summary": "메르세데스-벤츠 승용차를 국내에 수입·판매하는 한국 법인",
+    "sources": [
+     "https://www.yna.co.kr/view/AKR20261104112400030"
+    ]
+   },
+   "source_url": "https://www.yna.co.kr/view/AKR20261104112400030",
+   "links": [],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "8f8c9415-02cf-4edb-bc5e-1407ce12ccb5",
+   "name": "박정수",
+   "category": "인물",
+   "alias": "Park Jeong-su",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "gender": "여성",
+    "occupation": "배우",
+    "summary": "2026년 tvN 예능 「그냥사람친구」에 55년 지기 김용건과 출연.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://sports.donga.com/ent/article/all/20261104/134963334/1"
+    ]
+   },
+   "source_url": "https://sports.donga.com/ent/article/all/20261104/134963334/1",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "fb5d42e4-12f3-4784-a756-1cb24c64c1a2",
+     "category": "작품",
+     "name": "그냥사람친구",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "b6ea74b2-dbb9-46b0-8f75-f0b35422b380",
+   "name": "서예지",
+   "category": "인물",
+   "alias": "Seo Ye-ji",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "gender": "여성",
+    "occupation": "배우",
+    "summary": "스크린과 드라마를 오가며 활동하는 배우. 최근 연극 「사의 찬미」로 첫 연극 무대에 섬. 2026년 영화 「금월도」에 캐스팅됨.",
+    "nationality": "대한민국",
+    "agency": "비웨이브 엔터테인먼트",
+    "sources": [
+     "https://sports.donga.com/ent/article/all/20261104/134961927/1"
+    ]
+   },
+   "source_url": "https://sports.donga.com/ent/article/all/20261104/134961927/1",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "012f6a6d-d60b-428f-ae4f-3373cf0309e5",
+     "category": "작품",
+     "name": "금월도",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "13b728ad-c3d9-48dd-a8c6-1c78c91a3eec",
+   "name": "서인영",
+   "category": "인물",
+   "alias": "Seo In-young, 쥬얼리 서인영",
+   "disambig": "대한민국의 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "gender": "여성",
+    "occupation": "가수",
+    "summary": "쥬얼리 출신 가수. 유튜브 채널 「개과천선 서인영」을 운영함.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.newsis.com/view/NISX20261104_0003855308"
+    ]
+   },
+   "source_url": "https://www.newsis.com/view/NISX20261104_0003855308",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "0011fe72-6edb-4a60-a736-0d0c30ef28c3",
+   "name": "전지윤",
+   "category": "인물",
+   "alias": "Jeon Ji-yoon, Jiyoon, 포미닛 지윤",
+   "disambig": "대한민국의 가수, 웹소설 작가",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "gender": "여성",
+    "occupation": "가수, 웹소설 작가",
+    "summary": "2009년 포미닛 데뷔곡 「핫이슈」로 데뷔한 가수. 2016년 팀 해체 뒤 솔로와 밴드 활동을 하고 최근 웹소설 작가로도 활동함.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://www.newsis.com/view/NISX20261104_0003854645"
+    ]
+   },
+   "source_url": "https://www.newsis.com/view/NISX20261104_0003854645",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "3aa3d969-d65c-417d-9ca3-f47cb236dae1",
+   "name": "주헌",
+   "category": "인물",
+   "alias": "Joohoney, 이주헌, Lee Joo-heon",
+   "disambig": "대한민국의 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "gender": "남성",
+    "occupation": "가수",
+    "summary": "몬스타엑스 멤버. 2026년 tvN 예능 「그냥사람친구」에 10년 지기 트와이스 정연과 출연.",
+    "nationality": "대한민국",
+    "sources": [
+     "https://sports.donga.com/ent/article/all/20261104/134963334/1"
+    ]
+   },
+   "source_url": "https://sports.donga.com/ent/article/all/20261104/134963334/1",
+   "links": [
+    {
+     "id": "538f0595-078a-450f-bf27-be36fd5b1486",
+     "category": "단체",
+     "name": "몬스타엑스",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    },
+    {
+     "id": "fb5d42e4-12f3-4784-a756-1cb24c64c1a2",
+     "category": "작품",
+     "name": "그냥사람친구",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "76d2eeff-f4d4-4069-9d36-f5ab88400267",
+   "name": "중앙일보",
+   "category": "단체",
+   "alias": "중앙일보사, JoongAng Ilbo",
+   "disambig": "대한민국의 민간 일간 신문사",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "언론사",
+    "industry": "신문",
+    "summary": "신문 제조·판매 사업을 하는 대한민국의 일간지로 다우·CJ컨소시엄이 5200억원 신주인수계약을 맺기로 함",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q483903",
+     "https://news.kbs.co.kr/news/view.do?ncd=8704191&ref=DA"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q483903",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "c77ead13-b157-401c-a749-799770938113",
+   "name": "한진칼",
+   "category": "단체",
+   "alias": "한진칼 주식회사, Hanjin KAL",
+   "disambig": "한진그룹의 지주회사",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "지주회사",
+    "summary": "2013년 대한항공의 인적분할로 설립한 한진그룹 지주회사로 대한항공 지분 26.05%를 보유함",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q22975313",
+     "https://www.newsis.com/view/NISX20261104_0003855230"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q22975313",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "1d1a20d1-8099-49ef-b2c4-d4dc78f6a6d1",
+   "name": "효성중공업",
+   "category": "단체",
+   "alias": "Hyosung Heavy Industries, 효성중공업 주식회사",
+   "disambig": "대한민국의 중공업 기업",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "전력 기자재",
+    "summary": "변압기·컨버터·제어기 등 전력 기자재 제조와 건설업을 주로 하는 중공업 기업으로 창원공장을 운영함",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q109454371",
+     "https://news.kbs.co.kr/news/view.do?ncd=8703422&ref=DA"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q109454371",
+   "links": [],
+   "added_at": "2026-11-05T00:41:32.537781+00:00"
+  },
+  {
+   "id": "60546092-119d-4150-9f49-78e8cb79d927",
+   "name": "Ai Fairouz",
+   "category": "인물",
+   "alias": "ファイルーズあい, 파이루즈 아이, Fairouz Ai",
+   "disambig": "일본의 성우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1993-07-06",
+    "gender": "여성",
+    "occupation": "성우",
+    "nationality": "일본",
+    "summary": "성우. 2027년 1월 방영 TV 애니 「Pero Pero Sparkles」에서 루 역을 맡음.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q65600537",
+     "https://www.animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q65600537",
+   "links": [
+    {
+     "id": "ec1e368a-6c1a-41b5-80f5-4c430ae009ce",
+     "category": "작품",
+     "name": "Pero Pero Sparkles",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "36cef8f2-a11e-4522-b54c-c40fc673fa11",
+   "name": "CATL",
+   "category": "단체",
+   "alias": "Contemporary Amperex Technology, Contemporary Amperex Technology Co. Limited, 宁德时代",
+   "disambig": "중국의 배터리 기업",
+   "country_tags": [
+    "China"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "배터리",
+    "website": "https://www.catl.com",
+    "summary": "2011년 세워진 중국의 배터리 제조 기업.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q18653563",
+     "https://www.yna.co.kr/view/AKR20261104112400030"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q18653563",
+   "links": [
+    {
+     "id": "6f3039da-a14c-4398-a063-494ab4a12cba",
+     "category": "장소",
+     "name": "Ningde",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "063be8ee-c571-4c27-820f-02bbab8505fc",
+   "name": "CJ",
+   "category": "단체",
+   "alias": "CJ그룹, CJ Group, Cheil Jedang Group, 씨제이",
+   "disambig": "대한민국의 기업집단",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업집단",
+    "industry": "식품, 엔터테인먼트, 물류",
+    "website": "http://www.cj.net/",
+    "summary": "1953년 제일제당으로 출발한 대한민국의 기업집단. 2026년 11월 다우기술과 컨소시엄으로 중앙일보 신주를 인수하기로 함.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q483593",
+     "https://news.kbs.co.kr/news/view.do?ncd=8704191&ref=DA"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q483593",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "6d1068a0-efa4-442f-985c-62ffc2330e44",
+   "name": "DL",
+   "category": "단체",
+   "alias": "DL그룹, DL Group, 디엘",
+   "disambig": "대한민국의 기업집단",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업집단",
+    "industry": "건설, 석유화학",
+    "summary": "DL이앤씨·DL케미칼 등을 거느린 대한민국의 기업집단. DL케미칼이 2026년 11월 카리플렉스를 글랜우드PE에 매각하는 양해각서를 맺음.",
+    "sources": [
+     "https://www.yna.co.kr/view/AKR20261104169400003"
+    ]
+   },
+   "source_url": "https://www.yna.co.kr/view/AKR20261104169400003",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "3f348e7b-783d-4cd0-8ff6-9580f2d8ef28",
+   "name": "Julietta Suzuki",
+   "category": "인물",
+   "alias": "スズキ ジュリエッタ, 스즈키 쥴리에타, Suzuki Julietta",
+   "disambig": "일본의 만화가",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "gender": "여성",
+    "occupation": "만화가",
+    "nationality": "일본",
+    "summary": "흡혈귀 로맨틱 코미디 만화 「Otaku Vampire's Love Bite」의 작가. 이 만화가 2026년 TV 애니메이션화 발표됨.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q6308970",
+     "https://crunchyroll.com/news/latest/2026/11/3/otaku-vampires-love-bite-anime-adaptation-announced"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q6308970",
+   "links": [
+    {
+     "id": "d003c430-8c3d-4e0d-b196-1e54e5dcf542",
+     "category": "허브",
+     "name": "Japan Writer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "b6cc9354-8f4a-461f-a7c6-4b3928c0be04",
+     "category": "작품",
+     "name": "Otaku Vampire's Love Bite",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "21d11156-ee77-40b6-9eaa-c4155bf6026f",
+   "name": "LOT 폴란드항공",
+   "category": "단체",
+   "alias": "LOT Polish Airlines, LOT, PLL LOT, Polskie Linie Lotnicze LOT",
+   "disambig": "폴란드의 국영 항공사",
+   "country_tags": [
+    "Poland"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "항공",
+    "website": "https://www.lot.com",
+    "summary": "1929년 세워진 폴란드의 국적 항공사. 스타 얼라이언스 회원. 2026년 11월 유럽 상공 폭발물 신고 때 런던발 바르샤바행 여객기가 모들린 공항에 착륙함.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q204268",
+     "https://www.yna.co.kr/view/AKR20261103180352082"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q204268",
+   "links": [
+    {
+     "id": "b122b7ff-af1a-44dd-b83d-acf79d9a2ff0",
+     "category": "장소",
+     "name": "Warszawa",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "710e3766-613e-46cd-88ce-84372843f27e",
+   "name": "Mai Kanno",
+   "category": "인물",
+   "alias": "菅野真衣, 칸노 마이, Kanno Mai",
+   "disambig": "일본의 성우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1998-01-01",
+    "gender": "여성",
+    "occupation": "성우",
+    "nationality": "일본",
+    "summary": "성우. 2027년 1월 방영 TV 애니 「Pero Pero Sparkles」에서 큥 역을 맡음.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q64783590",
+     "https://www.animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q64783590",
+   "links": [
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "ec1e368a-6c1a-41b5-80f5-4c430ae009ce",
+     "category": "작품",
+     "name": "Pero Pero Sparkles",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "cbcf6bdd-8f2e-4626-812e-7201af457cc0",
+   "name": "Rockstar Games",
+   "category": "단체",
+   "alias": "록스타 게임즈, Rockstar",
+   "disambig": "미국의 비디오 게임 퍼블리셔",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "비디오 게임",
+    "website": "https://www.rockstargames.com/",
+    "summary": "1998년 세워진 미국의 게임 퍼블리셔. 2026년 11월 「Grand Theft Auto VI」 콘솔 사전 내려받기 일정을 알림.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q94912",
+     "https://www.videogameschronicle.com/news/rockstar-details-grand-theft-auto-6-pre-load-date-and-time-and-file-size/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q94912",
+   "links": [
+    {
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20",
+     "category": "장소",
+     "name": "New York City",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "7785827c-00a3-4b7d-9c9a-aa05b1086de3",
+   "name": "Santa Monica Studio",
+   "category": "단체",
+   "alias": "SCE Santa Monica Studio, SIE Santa Monica Studio, 산타모니카 스튜디오",
+   "disambig": "미국의 비디오 게임 개발사",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "비디오 게임",
+    "website": "https://sms.playstation.com",
+    "summary": "1999년 세워진 소니 인터랙티브 엔터테인먼트 소속 개발사. 「God of War」 시리즈를 만들고 신작 「God of War Laufey」 출시를 2027년 5월 20일로 미룸.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q656710",
+     "https://gameinformer.com/2026/11/04/god-of-war-laufey-delayed-to-may"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q656710",
+   "links": [
+    {
+     "id": "89d825fc-f879-4146-b93d-cf8a2ab680bc",
+     "category": "단체",
+     "name": "Sony Interactive Entertainment",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "66d98d16-3fc3-4e04-ac84-3dc44654b397",
+   "name": "Toho",
+   "category": "단체",
+   "alias": "도호, 토호, 東宝, Tōhō",
+   "disambig": "일본의 영화 제작·배급사",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "영화",
+    "website": "https://www.toho.co.jp/",
+    "summary": "1932년 세워진 일본의 영화 제작·배급사. 실사 영화 「마슈르」를 2027년 3월 19일 배급함.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q875920",
+     "https://news.yahoo.co.jp/articles/863cfd42f9a81a59373d9b2ec093b2297a52cb8c"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q875920",
+   "links": [
+    {
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
+     "category": "장소",
+     "name": "Tokyo",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "2e45e102-a74e-429f-bb22-872bfbd662fa",
+   "name": "Yuki Sakakihara",
+   "category": "인물",
+   "alias": "榊原優希, 사카키하라 유키, Sakakihara Yuki",
+   "disambig": "일본의 성우",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "birth_date": "1995-09-18",
+    "gender": "남성",
+    "occupation": "성우",
+    "nationality": "일본",
+    "summary": "성우. 2027년 1월 방영 TV 애니 「Pero Pero Sparkles」에서 메로 역을 맡음.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q69635228",
+     "https://www.animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q69635228",
+   "links": [
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "ec1e368a-6c1a-41b5-80f5-4c430ae009ce",
+     "category": "작품",
+     "name": "Pero Pero Sparkles",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "c3470a95-2659-4625-816f-a102f41bfeb2",
+   "name": "나영석",
+   "category": "인물",
+   "alias": "Na Young-seok, Na Yeong-seok, 나PD, 나영석 PD",
+   "disambig": "대한민국의 방송 PD",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1976-04-15",
+    "gender": "남성",
+    "occupation": "방송 PD",
+    "nationality": "대한민국",
+    "summary": "예능 PD. 2026년 tvN 새 예능 「그냥사람친구」를 연출함.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q12589590",
+     "https://sports.donga.com/ent/article/all/20261104/134963334/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12589590",
+   "links": [
+    {
+     "id": "fb5d42e4-12f3-4784-a756-1cb24c64c1a2",
+     "category": "작품",
+     "name": "그냥사람친구",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "70b4a027-85d2-4f32-8ca8-0a4a81f9e09b",
+   "name": "나홍진",
+   "category": "인물",
+   "alias": "Na Hong-jin, Hong-jin Na, 羅泓軫",
+   "disambig": "대한민국의 영화감독",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1974-07-20",
+    "birthplace": "서울",
+    "gender": "남성",
+    "occupation": "영화감독",
+    "nationality": "대한민국",
+    "summary": "「추격자」 「황해」 「곡성」을 만든 영화감독. 연출작 「호프」가 2026년 프랑스에서 개봉함.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q490406",
+     "https://sports.donga.com/ent/article/all/20261104/134962256/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q490406",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "7e3c71a6-3a95-4e66-ba0b-a10083f01311",
+     "category": "작품",
+     "name": "호프",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "cbafe178-abb5-4259-bdbc-55a571dd5ceb",
+   "name": "다우기술",
+   "category": "단체",
+   "alias": "Daou Technology, Daou Technology Inc.",
+   "disambig": "대한민국의 정보기술 기업",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "정보기술",
+    "website": "http://www.daou.com",
+    "summary": "1986년 세워진 다우키움그룹의 정보기술 기업. 2026년 11월 CJ와 컨소시엄으로 중앙일보 신주 5200억원 인수 계약을 맺음.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q5221533",
+     "https://news.kbs.co.kr/news/view.do?ncd=8704191&ref=DA"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q5221533",
+   "links": [
+    {
+     "id": "9a219d29-4fe8-4de7-b09f-89750956de03",
+     "category": "단체",
+     "name": "다우키움그룹",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "5f090369-2cd1-4100-8100-a278c1a117d9",
+   "name": "백동훈",
+   "category": "인물",
+   "alias": "Baek Dong-hoon, Baek Donghun",
+   "disambig": "대한민국의 영화감독",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "gender": "남성",
+    "occupation": "영화감독",
+    "nationality": "대한민국",
+    "summary": "서예지 주연 한국형 뱀파이어 호러 영화 「금월도」를 연출함. 2027년 극장 개봉 목표.",
+    "sources": [
+     "https://sports.donga.com/ent/article/all/20261104/134961927/1"
+    ]
+   },
+   "source_url": "https://sports.donga.com/ent/article/all/20261104/134961927/1",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "012f6a6d-d60b-428f-ae4f-3373cf0309e5",
+     "category": "작품",
+     "name": "금월도",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "9c2f4330-16cc-494e-a19b-9fa6788fc131",
+   "name": "부산대학교",
+   "category": "단체",
+   "alias": "Pusan National University, PNU, 부산대",
+   "disambig": "대한민국의 국립 종합대학",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "대학",
+    "industry": "교육",
+    "website": "http://www.pusan.ac.kr/",
+    "summary": "1946년 세워진 부산의 국립 종합대학. 2026년 개교 80주년 특별전을 엶.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q53122",
+     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703437"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q53122",
+   "links": [
+    {
+     "id": "3605b8f3-7064-47bb-81e6-e8ffcd9df056",
+     "category": "장소",
+     "name": "금정구",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "e0cf9c5b-759c-47c9-8ab8-72a01485a03e",
+   "name": "브라이언",
+   "category": "인물",
+   "alias": "Brian Joo, Brian, Joo Minkyu",
+   "disambig": "대한민국의 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1981-01-10",
+    "birthplace": "미국 로스앤젤레스",
+    "gender": "남성",
+    "occupation": "가수, 래퍼",
+    "nationality": "대한민국",
+    "summary": "R&B 듀오 플라이투더스카이 멤버. 2026년 12월 24·25일 창원에서 환희와 크리스마스 콘서트를 엶.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q489103",
+     "https://sports.donga.com/ent/article/all/20261104/134961865/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q489103",
+   "links": [
+    {
+     "id": "7661417a-3b7b-4517-8904-d9ebbf546955",
+     "category": "단체",
+     "name": "플라이투더스카이",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "98988abf-146a-4721-99ae-c34a9768ae1b",
+   "name": "사람인",
+   "category": "단체",
+   "alias": "Saramin, SaraminHR, 사람인HR, 사람인에이치알",
+   "disambig": "대한민국의 채용 플랫폼 기업",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "채용 플랫폼",
+    "summary": "구인구직 플랫폼 사람인을 운영하는 기업. 2026년 11월 중앙일보 지분 12.9% 취득을 공시함.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q12599633",
+     "https://www.yna.co.kr/view/AKR20261104161600008"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12599633",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "23a0f36a-53c0-4547-b675-061fcbab68c9",
+   "name": "손정은",
+   "category": "인물",
+   "alias": "Son Jeong-eun",
+   "disambig": "대한민국의 아나운서",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1980-11-07",
+    "gender": "여성",
+    "occupation": "아나운서",
+    "nationality": "대한민국",
+    "summary": "전 MBC 아나운서. 2026년 청와대 유튜브 프로그램 「대통령의 Y」 사회를 맡음.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q16090227",
+     "https://www.yna.co.kr/view/AKR20261104126751001"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16090227",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "c63bb48b-8e08-4c78-bcae-92ada93184f0",
+   "name": "스칸디나비아항공",
+   "category": "단체",
+   "alias": "Scandinavian Airlines, SAS, Scandinavian Airlines System",
+   "disambig": "덴마크·노르웨이·스웨덴의 국적 항공사",
+   "country_tags": [
+    "Sweden"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "항공",
+    "website": "https://www.flysas.com",
+    "summary": "1946년 세워진 덴마크·노르웨이·스웨덴 공동 국적 항공사.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q187854",
+     "https://www.yna.co.kr/view/AKR20261103180352082"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q187854",
+   "links": [],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "2badbed0-7e50-40ee-93e2-ac1c03cca7fc",
+   "name": "음문석",
+   "category": "인물",
+   "alias": "Eum Moon-suk, SIC",
+   "disambig": "대한민국의 배우·가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1982-12-07",
+    "gender": "남성",
+    "occupation": "배우, 가수",
+    "nationality": "대한민국",
+    "summary": "가수 활동을 겸하는 배우. 영화 「호프」에 출연함.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q12581801",
+     "https://sports.donga.com/ent/article/all/20261104/134962256/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12581801",
+   "links": [
+    {
+     "id": "7e3c71a6-3a95-4e66-ba0b-a10083f01311",
+     "category": "작품",
+     "name": "호프",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "d50afe4a-d5b3-4a49-aac0-38aabe5a46f3",
+   "name": "정호연",
+   "category": "인물",
+   "alias": "Jung Ho-yeon, Jung Hoyeon, Hoyeon",
+   "disambig": "대한민국의 모델·배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1994-06-23",
+    "birthplace": "서울",
+    "gender": "여성",
+    "occupation": "모델, 배우",
+    "nationality": "대한민국",
+    "summary": "모델 출신 배우. 영화 「호프」에 출연함.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q28699137",
+     "https://sports.donga.com/ent/article/all/20261104/134962256/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q28699137",
+   "links": [
+    {
+     "id": "7e3c71a6-3a95-4e66-ba0b-a10083f01311",
+     "category": "작품",
+     "name": "호프",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "8bc53c8a-9323-42d4-9853-16adfec7ad49",
+   "name": "호반건설",
+   "category": "단체",
+   "alias": "Hoban Construction, Hoban Construction Co., Ltd., 호반",
+   "disambig": "대한민국의 건설 기업",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "건설",
+    "website": "http://www.ihoban.co.kr",
+    "summary": "1989년 세워진 건설 기업. 2026년 11월 한진칼 최대주주에 오름.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q18648641",
+     "https://www.newsis.com/view/NISX20261104_0003855230"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q18648641",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "46caa18d-8043-4da9-b465-8e2fae1cbc6b",
+   "name": "환희",
+   "category": "인물",
+   "alias": "Hwanhee, Hwan-hee, 황윤석, Hwang Yun-seok",
+   "disambig": "대한민국의 가수",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1982-01-17",
+    "birthplace": "서울",
+    "gender": "남성",
+    "occupation": "가수, 배우",
+    "nationality": "대한민국",
+    "real_name": "황윤석",
+    "summary": "R&B 듀오 플라이투더스카이 멤버. 2026년 12월 24·25일 창원에서 브라이언과 크리스마스 콘서트를 엶.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q368308",
+     "https://sports.donga.com/ent/article/all/20261104/134961865/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q368308",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    },
+    {
+     "id": "7661417a-3b7b-4517-8904-d9ebbf546955",
+     "category": "단체",
+     "name": "플라이투더스카이",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  },
+  {
+   "id": "e2b0cf2c-7c1b-4451-9e42-2ce3627e8a97",
+   "name": "황정민",
+   "category": "인물",
+   "alias": "Hwang Jung-min, Hwang Jeong-min, 黃正民",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "birth_date": "1970-09-01",
+    "gender": "남성",
+    "occupation": "배우",
+    "nationality": "대한민국",
+    "summary": "영화 「호프」에 출연한 배우.",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q491333",
+     "https://sports.donga.com/ent/article/all/20261104/134962256/1"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q491333",
+   "links": [
+    {
+     "id": "7e3c71a6-3a95-4e66-ba0b-a10083f01311",
+     "category": "작품",
+     "name": "호프",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-05T00:49:20.214401+00:00"
+  }
+ ],
+ "bulk_added": []
+}
