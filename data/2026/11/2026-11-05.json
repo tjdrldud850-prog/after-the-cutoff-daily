@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-05T01:02:52+00:00",
+ "exported_at": "2026-11-06T02:12:53+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 114,
@@ -2955,7 +2955,7 @@
    ],
    "featuring": [],
    "other_fields": {},
-   "url": "",
+   "url": "https://variety.com/2026/film/global/la-bola-negra-spain-2026-box-office-surge-1236936640/",
    "source": "뉴스",
    "added_at": "2026-11-05T00:41:32.537781+00:00"
   },
@@ -3074,7 +3074,7 @@
     {
      "id": "6ce65f6a-4044-49ad-bf64-ef8d98f0ef49",
      "category": "작품",
-     "name": "Mashle: Magic and Muscles Live-Action Film"
+     "name": "Mashle: Magic and Muscles"
     }
    ],
    "summary": "고모토 하지메의 「마슈르」 실사 영화가 2027년 3월 19일 개봉으로 정해지고 주인공 배역은 11월 5일 공개 예고",
@@ -5100,7 +5100,14 @@
     ]
    },
    "source_url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
-   "links": [],
+   "links": [
+    {
+     "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7",
+     "category": "장소",
+     "name": "Chicago",
+     "rel": "LOCATED_IN"
+    }
+   ],
    "added_at": "2026-11-05T00:41:32.537781+00:00"
   },
   {
@@ -5189,9 +5196,9 @@
   },
   {
    "id": "6ce65f6a-4044-49ad-bf64-ef8d98f0ef49",
-   "name": "Mashle: Magic and Muscles Live-Action Film",
+   "name": "Mashle: Magic and Muscles",
    "category": "작품",
-   "alias": "마슈르 실사 영화, マッシュル 実写映画",
+   "alias": "마슈르 실사 영화, マッシュル 実写映画, Mashle: Magic and Muscles Live-Action Film",
    "disambig": "2027년 일본 실사 영화",
    "country_tags": [
     "Japan"
@@ -5380,6 +5387,12 @@
    },
    "source_url": "https://news.yahoo.co.jp/articles/b5abbe61fd8a2bcd94e8d97177bfd4484ed1e9a0",
    "links": [
+    {
+     "id": "84728307-2123-440c-8e3d-4d819c9ac964",
+     "category": "작품",
+     "name": "Political Pan",
+     "rel": "APPEARED_IN"
+    },
     {
      "id": "b0e7520b-9dc0-4bd0-8485-6873686a32b7",
      "category": "작품",
@@ -5707,7 +5720,7 @@
    "name": "김수현",
    "category": "인물",
    "alias": "Kim Soo-hyun",
-   "disambig": "배우",
+   "disambig": "대한민국의 배우",
    "country_tags": [
     "Korea"
    ],
@@ -5785,7 +5798,14 @@
     ]
    },
    "source_url": "https://www.yna.co.kr/view/AKR20261104167151004",
-   "links": [],
+   "links": [
+    {
+     "id": "a5ac417b-4536-4a5e-a451-cb39e12d7a68",
+     "category": "장소",
+     "name": "충정로1가",
+     "rel": "LOCATED_IN"
+    }
+   ],
    "added_at": "2026-11-05T00:41:32.537781+00:00"
   },
   {
@@ -5806,7 +5826,14 @@
     ]
    },
    "source_url": "https://www.yna.co.kr/view/AKR20261104112400030",
-   "links": [],
+   "links": [
+    {
+     "id": "11ce2517-d0c0-4631-be95-ba7049d17c10",
+     "category": "장소",
+     "name": "남대문로5가",
+     "rel": "LOCATED_IN"
+    }
+   ],
    "added_at": "2026-11-05T00:41:32.537781+00:00"
   },
   {
@@ -6056,7 +6083,14 @@
     ]
    },
    "source_url": "https://www.wikidata.org/wiki/Q109454371",
-   "links": [],
+   "links": [
+    {
+     "id": "546029cc-cf10-455f-b680-06e354073b85",
+     "category": "장소",
+     "name": "공덕동",
+     "rel": "LOCATED_IN"
+    }
+   ],
    "added_at": "2026-11-05T00:41:32.537781+00:00"
   },
   {
