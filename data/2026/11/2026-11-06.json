@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-06T05:11:39+00:00",
+ "exported_at": "2026-11-07T03:01:03+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 508,
@@ -26,13 +26,15 @@
    "how": "적발 중량은 54g에서 4.8kg으로 88.3배 늘었음",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "관세청",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "관세청",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105077700002",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -62,13 +64,16 @@
     {
      "name": "Nelson Dilipkumar",
      "id": "6766fe67-e32e-4580-93ba-4ff2b8aae661"
-    },
-    {
-     "name": "Sun Pictures",
-     "id": "851d4ed0-9f63-4bb8-8bcc-03bdbf9cc89c"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Sun Pictures",
+      "id": "851d4ed0-9f63-4bb8-8bcc-03bdbf9cc89c"
+     }
+    ]
+   },
    "url": "https://www.medianews4u.com/rajinikanths-jailer-2-to-premiere-globally-on-prime-video-on-november-12/",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -119,7 +124,7 @@
     },
     {
      "name": "Tongxiang",
-     "id": null
+     "id": "acbe3942-91a4-465f-862c-3582bed4a25f"
     },
     {
      "name": "행동",
@@ -320,13 +325,15 @@
    "how": "도는 AI 수도 조성·문화관광·안전복지에 재원을 모음. 지역 주도형 AI 대전환에 94억원을 넣음",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "충청남도교육청",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "충청남도교육청",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105133500063",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -376,13 +383,15 @@
      "id": null
     }
    ],
-   "featuring": [
-    {
-     "name": "안테나",
-     "id": "d6f216bd-462a-4b20-827a-db220f6873f3"
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "안테나",
+      "id": "d6f216bd-462a-4b20-827a-db220f6873f3"
+     }
+    ]
+   },
    "url": "https://www.newsis.com/view/NISX20261105_0003855627",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -491,13 +500,15 @@
      "id": "f1a98157-833b-4208-93a1-4593b1417a1a"
     }
    ],
-   "featuring": [
-    {
-     "name": "국방부",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "국방부",
+      "id": null
+     }
+    ]
+   },
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8705439",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -505,7 +516,7 @@
   {
    "id": "e9b881ee-d433-42c4-9382-24fc70aa2e02",
    "title": "KTX 강릉선 강릉역 인근 서행 해제",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-05",
    "parent": [
     {
@@ -524,13 +535,15 @@
      "id": null
     }
    ],
-   "featuring": [
-    {
-     "name": "한국철도공사",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "한국철도공사",
+      "id": null
+     }
+    ]
+   },
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8705344",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -617,15 +630,18 @@
    "places": [],
    "featuring": [
     {
-     "name": "Yuzusoft",
-     "id": "0621dca1-616f-45d9-9c67-3d207bb1af57"
-    },
-    {
      "name": "KOTOKO",
      "id": "d9106561-1350-4218-af10-cd64e23ed831"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Yuzusoft",
+      "id": "0621dca1-616f-45d9-9c67-3d207bb1af57"
+     }
+    ]
+   },
    "url": "https://news.yahoo.co.jp/articles/1717b8e5f53b74774f090cb8a8c7b8ee5ebec942",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -654,10 +670,6 @@
    ],
    "featuring": [
     {
-     "name": "Warner Bros. Television",
-     "id": "122981b8-3761-4b61-8cda-f7240827fe8e"
-    },
-    {
      "name": "Noah Wyle",
      "id": "9f376385-58b3-4cc9-bcdd-3257883d217e"
     },
@@ -666,7 +678,14 @@
      "id": "f8ef5480-ec63-40db-95d3-cb65d4bd9cf5"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Warner Bros. Television",
+      "id": "122981b8-3761-4b61-8cda-f7240827fe8e"
+     }
+    ]
+   },
    "url": "https://www.nbcnews.com/pop-culture/tv/er-creators-estate-can-sue-pitt-similarities-appeals-court-rules-rcna607612",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -690,24 +709,26 @@
    "places": [
     {
      "name": "미국",
-     "id": null
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
     },
     {
      "name": "United States",
      "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
     }
    ],
-   "featuring": [
-    {
-     "name": "하이브",
-     "id": "e5eed119-8891-4a91-94cf-2e099524dc12"
-    },
-    {
-     "name": "빅히트 뮤직",
-     "id": "f0870011-8c4a-4665-8679-5c7b7158d701"
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "하이브",
+      "id": "e5eed119-8891-4a91-94cf-2e099524dc12"
+     },
+     {
+      "name": "빅히트 뮤직",
+      "id": "f0870011-8c4a-4665-8679-5c7b7158d701"
+     }
+    ]
+   },
    "url": "https://www.newsis.com/view/NISX20261105_0003856089",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -749,13 +770,16 @@
     {
      "name": "김다민",
      "id": "ef1483b2-cb15-44b1-8fc2-8262670dc473"
-    },
-    {
-     "name": "Netflix",
-     "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Netflix",
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
+     }
+    ]
+   },
    "url": "https://sports.donga.com/ent/article/all/20261104/134964942/1",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -815,20 +839,22 @@
    "places": [
     {
      "name": "태국",
-     "id": null
+     "id": "c3f258b6-0a5a-4a76-b1eb-f53978b923c2"
     },
     {
      "name": "Thailand",
      "id": "c3f258b6-0a5a-4a76-b1eb-f53978b923c2"
     }
    ],
-   "featuring": [
-    {
-     "name": "카카오엔터테인먼트",
-     "id": "3a2912e4-51c2-48c8-8466-2b50b44a07ac"
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "카카오엔터테인먼트",
+      "id": "3a2912e4-51c2-48c8-8466-2b50b44a07ac"
+     }
+    ]
+   },
    "url": "https://www.newsis.com/view/NISX20261105_0003856021",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -921,19 +947,22 @@
    ],
    "featuring": [
     {
-     "name": "재정경제부",
-     "id": null
-    },
-    {
      "name": "이형일",
      "id": null
-    },
-    {
-     "name": "더불어민주당",
-     "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "재정경제부",
+      "id": null
+     },
+     {
+      "name": "더불어민주당",
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105132100002",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -963,13 +992,16 @@
     {
      "name": "Satomi Ishihara",
      "id": "7184d791-333f-4f91-a820-f1b2ac5dd12d"
-    },
-    {
-     "name": "Fuji Television",
-     "id": "c830f7b0-7e8d-4445-a2f0-954fe93a5def"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Fuji Television",
+      "id": "c830f7b0-7e8d-4445-a2f0-954fe93a5def"
+     }
+    ]
+   },
    "url": "https://news.yahoo.co.jp/articles/05f4d94ff6b6fe58a4d86c81c08e5a80eff58186",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1019,17 +1051,19 @@
    "how": "사고는 10월 31일 났고 경찰과 한국인터넷진흥원에 신고함. 악용 피해는 아직 없고 점주에게 비밀번호 변경을 안내함",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "인성데이타",
-     "id": null
-    },
-    {
-     "name": "한국인터넷진흥원",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "인성데이타",
+      "id": null
+     },
+     {
+      "name": "한국인터넷진흥원",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105051200053",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1172,13 +1206,15 @@
      "id": null
     }
    ],
-   "featuring": [
-    {
-     "name": "함양군의회",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "함양군의회",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105140900052",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1202,7 +1238,7 @@
    "places": [
     {
      "name": "서울",
-     "id": null
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     },
     {
      "name": "서울특별시",
@@ -1211,19 +1247,22 @@
    ],
    "featuring": [
     {
-     "name": "금융감독원",
-     "id": "13d486c7-e762-44c5-8abe-61fd70fe1320"
-    },
-    {
-     "name": "금융보안원",
-     "id": null
-    },
-    {
      "name": "이억원",
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "금융감독원",
+      "id": "13d486c7-e762-44c5-8abe-61fd70fe1320"
+     },
+     {
+      "name": "금융보안원",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.newsis.com/view/NISX20261105_0003855515",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1252,15 +1291,18 @@
    ],
    "featuring": [
     {
-     "name": "Mingyang Smart Energy",
-     "id": "3efe84a1-c074-46c0-85f7-63e261f0e4bc"
-    },
-    {
      "name": "김상욱",
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Mingyang Smart Energy",
+      "id": "3efe84a1-c074-46c0-85f7-63e261f0e4bc"
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105036800057",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1293,15 +1335,18 @@
      "id": null
     },
     {
-     "name": "더불어민주당",
-     "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
-    },
-    {
      "name": "천준호",
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "더불어민주당",
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105136100001",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1325,7 +1370,7 @@
    "places": [
     {
      "name": "New York",
-     "id": null
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20"
     }
    ],
    "featuring": [],
@@ -1356,13 +1401,15 @@
      "id": null
     }
    ],
-   "featuring": [
-    {
-     "name": "산림청",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "산림청",
+      "id": null
+     }
+    ]
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704957",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1448,13 +1495,16 @@
     {
      "name": "한준희",
      "id": "7fa6d0f8-6c90-46c5-ab8e-25c70b5c41c1"
-    },
-    {
-     "name": "Netflix",
-     "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Netflix",
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
+     }
+    ]
+   },
    "url": "https://sports.donga.com/ent/article/all/20261105/134969519/1",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1508,12 +1558,7 @@
    "how": "매출은 12.1% 줄어 9,660억 엔. 스위치2 본체는 649만 대로 약 40% 감소. 「토모다치 컬렉션 와쿠와쿠 생활」 881만 장. 영업이익 2,165억 엔, 연간 전망은 유지",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "The Super Mario Galaxy Movie",
-     "id": null
-    }
-   ],
+   "featuring": [],
    "other_fields": {},
    "url": "https://news.yahoo.co.jp/articles/fee17f7bb41ebfe0307bf19166c7382f785ca5bf",
    "source": "뉴스",
@@ -1562,19 +1607,21 @@
     {
      "name": "안동시",
      "id": "7fb9f9b8-3427-4264-ad97-ea5b55cdee5d"
-    }
-   ],
-   "featuring": [
-    {
-     "name": "대구광역시",
-     "id": null
     },
     {
-     "name": "고용노동부",
-     "id": "5da9afa2-5ac4-478d-b9af-97e1f04a4604"
+     "name": "대구광역시",
+     "id": "44215e3d-3c20-4168-929c-552fe86092d8"
     }
    ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "고용노동부",
+      "id": "5da9afa2-5ac4-478d-b9af-97e1f04a4604"
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105052300530",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1596,13 +1643,15 @@
    "how": "국도 20호선 동곡리·원정리 구간 개선의 2028년 착공 국비 지원도 요청함",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "국토교통부",
-     "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "국토교통부",
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
+     }
+    ]
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704710",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1633,13 +1682,16 @@
     {
      "name": "동방신기",
      "id": "e45cede5-9cab-4c61-bd66-fcf10500cdb0"
-    },
-    {
-     "name": "SM엔터테인먼트",
-     "id": "62486fb6-e153-4ec9-bafa-5584719f7b4e"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "SM엔터테인먼트",
+      "id": "62486fb6-e153-4ec9-bafa-5584719f7b4e"
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105043700005",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1789,17 +1841,20 @@
     {
      "name": "Yu Hewei",
      "id": "88617e0c-06d2-4850-8d3c-7b6e82731ef7"
-    },
-    {
-     "name": "China Central Television",
-     "id": "39908823-de9d-4acf-bb86-623de845931c"
-    },
-    {
-     "name": "Tencent",
-     "id": "639c5490-7a65-4260-a4c4-bfa7bdddd858"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "China Central Television",
+      "id": "39908823-de9d-4acf-bb86-623de845931c"
+     },
+     {
+      "name": "Tencent",
+      "id": "639c5490-7a65-4260-a4c4-bfa7bdddd858"
+     }
+    ]
+   },
    "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726561.shtml",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1824,16 +1879,16 @@
     {
      "name": "Beijing",
      "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a"
+    },
+    {
+     "name": "Thailand",
+     "id": "c3f258b6-0a5a-4a76-b1eb-f53978b923c2"
     }
    ],
    "featuring": [
     {
      "name": "Wang Yi",
      "id": null
-    },
-    {
-     "name": "Thailand",
-     "id": "c3f258b6-0a5a-4a76-b1eb-f53978b923c2"
     }
    ],
    "other_fields": {},
@@ -1969,17 +2024,20 @@
     {
      "name": "Maya Hawke",
      "id": "efbf49a8-326b-4c6f-82f6-7c42529c695b"
-    },
-    {
-     "name": "Legendary Entertainment",
-     "id": "267c9852-1e7d-4161-a7f4-bde024099cdf"
-    },
-    {
-     "name": "Hasbro",
-     "id": "1333d4ba-7cb8-4bdf-bb0d-09198277b3b3"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Legendary Entertainment",
+      "id": "267c9852-1e7d-4161-a7f4-bde024099cdf"
+     },
+     {
+      "name": "Hasbro",
+      "id": "1333d4ba-7cb8-4bdf-bb0d-09198277b3b3"
+     }
+    ]
+   },
    "url": "https://www.worldofreel.com/blog/2026/11/4/maya-hawke-joins-matt-johnsons-magic-the-gathering-movie",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -1987,7 +2045,7 @@
   {
    "id": "e5f5ce3d-1d3d-48c0-9de4-b72531f99056",
    "title": "문성종 제주관광공사 사장 후보자 청문 「적격」",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-05",
    "parent": [
     {
@@ -2008,15 +2066,18 @@
    ],
    "featuring": [
     {
-     "name": "제주관광공사",
-     "id": null
-    },
-    {
      "name": "문성종",
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "제주관광공사",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105088851056",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -2112,13 +2173,15 @@
      "id": "d2c2084c-48d7-4df7-9a7d-684526e24abc"
     }
    ],
-   "featuring": [
-    {
-     "name": "국민체육진흥공단",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "국민체육진흥공단",
+      "id": null
+     }
+    ]
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704756",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -2145,13 +2208,15 @@
      "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
     }
    ],
-   "featuring": [
-    {
-     "name": "Toho",
-     "id": "66d98d16-3fc3-4e04-ac84-3dc44654b397"
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Toho",
+      "id": "66d98d16-3fc3-4e04-ac84-3dc44654b397"
+     }
+    ]
+   },
    "url": "https://www.animenewsnetwork.com/news/2026-11-04/godzilla-minus-zero-earns-highest-ever-opening-day-for-live-action-film-in-japan/.243535",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -2178,13 +2243,15 @@
      "id": null
     }
    ],
-   "featuring": [
-    {
-     "name": "국립수산과학원",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "국립수산과학원",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105143100051",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -2208,7 +2275,7 @@
    "places": [
     {
      "name": "Osaka",
-     "id": null
+     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6"
     }
    ],
    "featuring": [],
@@ -2347,7 +2414,7 @@
    "places": [
     {
      "name": "백암아트홀",
-     "id": null
+     "id": "20a84859-becc-412d-9454-e858ca4e5894"
     }
    ],
    "featuring": [],
@@ -2375,10 +2442,6 @@
    "places": [],
    "featuring": [
     {
-     "name": "Sony Pictures Entertainment",
-     "id": "f04383fb-c8fa-4be4-8067-7a6091efcf07"
-    },
-    {
      "name": "Tom Holland",
      "id": "acd3b9c7-4706-4e64-9941-cf54bc48b942"
     },
@@ -2387,7 +2450,14 @@
      "id": "492c386d-09df-4ec7-9bb6-b1ede5fcadd6"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Sony Pictures Entertainment",
+      "id": "f04383fb-c8fa-4be4-8067-7a6091efcf07"
+     }
+    ]
+   },
    "url": "https://www.comicbasics.com/spider-man-brand-new-day-swings-sony-pictures-to-a-record-profit-surge/",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -2492,7 +2562,7 @@
   {
    "id": "5e50627d-b352-4b3e-be44-7fdf107b5f56",
    "title": "순천대 의대 추천 효력정지 항고심 심문",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-05",
    "parent": [
     {
@@ -2515,17 +2585,15 @@
      "id": "b8dc39d2-e5a5-46a6-8622-512fc5c216af"
     }
    ],
-   "featuring": [
-    {
-     "name": "국립순천대학교",
-     "id": "ad9de0c3-5415-4326-8cbd-588cb24bcfef"
-    },
-    {
-     "name": "전남광주통합특별시",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "국립순천대학교",
+      "id": "ad9de0c3-5415-4326-8cbd-588cb24bcfef"
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261104074452054",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -2579,13 +2647,16 @@
     {
      "name": "Stray Kids",
      "id": "828c9e14-c56e-4e35-97d0-63b0c51f77b3"
-    },
-    {
-     "name": "제이와이피엔터테인먼트",
-     "id": "1aeb981f-4786-4058-b502-23b5a981944b"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "제이와이피엔터테인먼트",
+      "id": "1aeb981f-4786-4058-b502-23b5a981944b"
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105169100005",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -2751,13 +2822,16 @@
     {
      "name": "Snoop Dogg",
      "id": "2a3d86d5-c5af-4d00-a41a-e8cb98baf1ea"
-    },
-    {
-     "name": "Universal Pictures",
-     "id": "f300f955-6c9e-4604-b0ef-47d574a6b415"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Universal Pictures",
+      "id": "f300f955-6c9e-4604-b0ef-47d574a6b415"
+     }
+    ]
+   },
    "url": "https://www.thewrap.com/creative-content/movies/cynthia-erivo-afeni-shakur-snoop-biopic-craig-brewer/",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -2794,7 +2868,9 @@
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "prev_record": "bac08655-c951-47e1-9360-5e807fe5f4b2"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105079000001",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -2818,7 +2894,7 @@
    "places": [
     {
      "name": "파리",
-     "id": null
+     "id": "d4148993-96c8-44d5-bdfe-482a77f7d753"
     },
     {
      "name": "플레니튜드 아레나",
@@ -2866,13 +2942,15 @@
      "id": null
     }
    ],
-   "featuring": [
-    {
-     "name": "통영해양경찰서",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "통영해양경찰서",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105145800052",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -2901,10 +2979,6 @@
    ],
    "featuring": [
     {
-     "name": "Commonwealth of Nations",
-     "id": "c5dc1302-d8f5-47ee-b6ec-dfd7cf822c9f"
-    },
-    {
      "name": "Andy Burnham",
      "id": null
     },
@@ -2913,7 +2987,14 @@
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Commonwealth of Nations",
+      "id": "c5dc1302-d8f5-47ee-b6ec-dfd7cf822c9f"
+     }
+    ]
+   },
    "url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -2982,7 +3063,7 @@
    "places": [
     {
      "name": "오사카",
-     "id": null
+     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6"
     }
    ],
    "featuring": [],
@@ -3083,14 +3164,6 @@
    ],
    "featuring": [
     {
-     "name": "ORIX Aviation",
-     "id": "00b1cd36-992a-4e25-8a93-00954a649898"
-    },
-    {
-     "name": "ORIX",
-     "id": "4f09da2d-59be-43ac-ad48-2cc28d3c794e"
-    },
-    {
      "name": "Simon Goodson",
      "id": null
     },
@@ -3099,7 +3172,18 @@
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "ORIX Aviation",
+      "id": "00b1cd36-992a-4e25-8a93-00954a649898"
+     },
+     {
+      "name": "ORIX",
+      "id": "4f09da2d-59be-43ac-ad48-2cc28d3c794e"
+     }
+    ]
+   },
    "url": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -3194,7 +3278,7 @@
   {
    "id": "06d2502c-2653-4128-90e0-a3a3f0e31745",
    "title": "윤석열 전 대통령 내란 우두머리 항소심 결심, 1월 26일 선고",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-05",
    "parent": [
     {
@@ -3251,7 +3335,7 @@
    "places": [
     {
      "name": "청와대",
-     "id": null
+     "id": "5a4daf53-6e50-46b3-878b-5501d1370c44"
     }
    ],
    "featuring": [
@@ -3288,7 +3372,7 @@
    "places": [
     {
      "name": "청와대",
-     "id": null
+     "id": "5a4daf53-6e50-46b3-878b-5501d1370c44"
     }
    ],
    "featuring": [
@@ -3322,14 +3406,13 @@
     {
      "name": "왕곡면",
      "id": "2dba852b-67ac-4fe2-bafa-f0b3a49f1245"
-    }
-   ],
-   "featuring": [
+    },
     {
      "name": "전남광주통합특별시",
-     "id": null
+     "id": "b8dc39d2-e5a5-46a6-8622-512fc5c216af"
     }
    ],
+   "featuring": [],
    "other_fields": {},
    "url": "https://www.yna.co.kr/view/AKR20261105147000054",
    "source": "뉴스",
@@ -3509,13 +3592,15 @@
    "how": "인간 주체성·비판적 검증·학생 권리 보호를 핵심 원칙으로 하고 학생·교사·학부모 등 5대 주체별 실천 사항을 담음",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "전북특별자치도교육청",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "전북특별자치도교육청",
+      "id": null
+     }
+    ]
+   },
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8705409",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -3523,7 +3608,7 @@
   {
    "id": "570102aa-09fc-46dd-aae4-0a53161fc41d",
    "title": "전주문화재단 대표이사 후보자 자진사퇴",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-05",
    "parent": [
     {
@@ -3539,15 +3624,18 @@
    "places": [],
    "featuring": [
     {
-     "name": "전주문화재단",
-     "id": null
-    },
-    {
      "name": "최강문",
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "전주문화재단",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105128800055",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -3606,13 +3694,17 @@
     {
      "name": "위성곤",
      "id": null
-    },
-    {
-     "name": "국토교통부",
-     "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "prev_record": "de640278-6347-47e3-8a31-2e1a83f8af28",
+    "orgs": [
+     {
+      "name": "국토교통부",
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105135000056",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -3659,7 +3751,7 @@
    "places": [
     {
      "name": "한국영상자료원",
-     "id": null
+     "id": "aacd925f-f94d-46c8-8174-2052f1121314"
     }
    ],
    "featuring": [
@@ -3696,7 +3788,7 @@
    "places": [
     {
      "name": "한국영상자료원",
-     "id": null
+     "id": "aacd925f-f94d-46c8-8174-2052f1121314"
     }
    ],
    "featuring": [
@@ -3837,15 +3929,19 @@
    ],
    "featuring": [
     {
-     "name": "더불어민주당",
-     "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
-    },
-    {
      "name": "박형수",
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "prev_record": "79e6e07d-ce95-4ee4-849a-a5bc484bba69",
+    "orgs": [
+     {
+      "name": "더불어민주당",
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
+     }
+    ]
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704919",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -3956,13 +4052,15 @@
    "how": "소프트뱅크는 작년 10월 53억 7,500만 달러에 인수를 발표했었음. ABB는 소프트뱅크와 계속 협의해 거래를 성사시키겠다고 밝힘",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "ABB",
-     "id": "4e0e6d1f-d141-4fd7-8414-6db2472d62d1"
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "ABB",
+      "id": "4e0e6d1f-d141-4fd7-8414-6db2472d62d1"
+     }
+    ]
+   },
    "url": "https://news.yahoo.co.jp/articles/6550fbf7095835ce91518145ed1191f45c45ffc2",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -3984,13 +4082,15 @@
    "how": "외부 검토는 출연자 보호 절차가 방송 규정에 맞고 계속 제작해도 합리적이라고 봤으나, 채널 4 최고경영자 프리야 도그라는 권고를 모두 따르면 형식이 바뀐다며 종영을 택함. 제작사 CPL",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "Channel 4",
-     "id": "0f439059-9bb2-46b4-bbf8-c15ac1590c80"
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Channel 4",
+      "id": "0f439059-9bb2-46b4-bbf8-c15ac1590c80"
+     }
+    ]
+   },
    "url": "https://www.capitalfm.com/news/tv-film/married-at-first-sight/mafs-uk-cancelled-axed-channel-4-why/",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -4017,17 +4117,19 @@
      "id": null
     }
    ],
-   "featuring": [
-    {
-     "name": "원주의료기기산업진흥원",
-     "id": null
-    },
-    {
-     "name": "건강보험심사평가원",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "원주의료기기산업진흥원",
+      "id": null
+     },
+     {
+      "name": "건강보험심사평가원",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105147200062",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -4051,7 +4153,7 @@
    "places": [
     {
      "name": "청와대",
-     "id": null
+     "id": "5a4daf53-6e50-46b3-878b-5501d1370c44"
     }
    ],
    "featuring": [
@@ -4099,21 +4201,19 @@
      "id": null
     }
    ],
-   "featuring": [
-    {
-     "name": "국방부",
-     "id": null
-    },
-    {
-     "name": "청해부대",
-     "id": null
-    },
-    {
-     "name": "충무공이순신함",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "국방부",
+      "id": null
+     },
+     {
+      "name": "청해부대",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261104118300504",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -4135,13 +4235,15 @@
    "how": null,
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "충청남도교육청",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "충청남도교육청",
+      "id": null
+     }
+    ]
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704546",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -4163,13 +4265,15 @@
    "how": "신청액의 절반을 반영했고 나머지는 시군과 분담을 협의함. 청주 4곳과 제천·음성 각 1곳이 대상",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "충청북도교육청",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "충청북도교육청",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105084000064",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -4177,7 +4281,7 @@
   {
    "id": "def3ceb6-3d91-4a94-915c-fe4c5337ee6d",
    "title": "캘리포니아 주지사, 사형수 548명 전원 감형",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-05",
    "parent": [
     {
@@ -4230,24 +4334,26 @@
    "places": [
     {
      "name": "서울",
-     "id": null
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     },
     {
      "name": "서울특별시",
      "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     }
    ],
-   "featuring": [
-    {
-     "name": "삼성전자",
-     "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6"
-    },
-    {
-     "name": "SK하이닉스",
-     "id": "f38bbe00-4de8-42dc-871e-da97250df3a4"
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "삼성전자",
+      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6"
+     },
+     {
+      "name": "SK하이닉스",
+      "id": "f38bbe00-4de8-42dc-871e-da97250df3a4"
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105133400008",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -4269,13 +4375,15 @@
    "how": "지난해 최고의 도시 관광 목적지에 이어 2년 연속 수상",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "TripZilla",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "TripZilla",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105020600051",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -4301,13 +4409,16 @@
     {
      "name": "김규원",
      "id": "ea6bf686-5bb0-4364-ad55-c52d808898c7"
-    },
-    {
-     "name": "티빙",
-     "id": "a052d21c-bdec-42bb-8c9b-388a1f29e4cb"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "티빙",
+      "id": "a052d21c-bdec-42bb-8c9b-388a1f29e4cb"
+     }
+    ]
+   },
    "url": "https://sports.donga.com/ent/article/all/20261105/134973133/1",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -4315,7 +4426,7 @@
   {
    "id": "0e68b821-4bc5-4696-946b-f77c61e7f86b",
    "title": "파업 반년 만에 노사 공개 사과·서비스 개선 서약",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-05",
    "parent": [
     {
@@ -4332,14 +4443,13 @@
     {
      "name": "춘천시청",
      "id": null
-    }
-   ],
-   "featuring": [
+    },
     {
      "name": "춘천시",
-     "id": null
+     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589"
     }
    ],
+   "featuring": [],
    "other_fields": {},
    "url": "https://www.yna.co.kr/view/AKR20261105120400062",
    "source": "뉴스",
@@ -4364,14 +4474,6 @@
    "places": [],
    "featuring": [
     {
-     "name": "Xyra Group",
-     "id": "b95605d8-8897-4433-afa8-cedaf92f6751"
-    },
-    {
-     "name": "Gordon Brothers",
-     "id": "76b2680f-0125-4f5f-8474-f3515b397761"
-    },
-    {
      "name": "Jonathan Reynolds",
      "id": null
     },
@@ -4380,7 +4482,19 @@
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "prev_record": "49311101-89b4-4184-bddf-ec6d61c0d16e",
+    "orgs": [
+     {
+      "name": "Xyra Group",
+      "id": "b95605d8-8897-4433-afa8-cedaf92f6751"
+     },
+     {
+      "name": "Gordon Brothers",
+      "id": "76b2680f-0125-4f5f-8474-f3515b397761"
+     }
+    ]
+   },
    "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -4404,11 +4518,11 @@
    "places": [
     {
      "name": "홍콩",
-     "id": null
+     "id": "c7a0c821-1b4a-47ce-bc47-a059ada14ada"
     },
     {
      "name": "방콕",
-     "id": null
+     "id": "2c41ebea-785f-4175-ac3b-d5e8f52b3a2a"
     },
     {
      "name": "마닐라",
@@ -4424,7 +4538,7 @@
     },
     {
      "name": "멕시코시티",
-     "id": null
+     "id": "ba258690-4136-4fcb-a336-c1b06caca711"
     },
     {
      "name": "타이베이",
@@ -4432,7 +4546,7 @@
     },
     {
      "name": "서울",
-     "id": null
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     },
     {
      "name": "Hong Kong",
@@ -4474,13 +4588,15 @@
    "how": "직원들이 원격 시스템과 연결되지 않은 냉장고로 혈액을 옮김. 사이버안보 당국과 보건부가 조사하며 10월 슈퍼마켓 냉장고 해킹과의 관련성도 봄",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "Établissement français du sang",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Établissement français du sang",
+      "id": null
+     }
+    ]
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704389",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -4507,17 +4623,19 @@
      "id": null
     }
    ],
-   "featuring": [
-    {
-     "name": "국가유산청",
-     "id": null
-    },
-    {
-     "name": "유네스코",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "국가유산청",
+      "id": null
+     },
+     {
+      "name": "유네스코",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.newsis.com/view/NISX20261105_0003855470",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -4539,17 +4657,19 @@
    "how": "고객 계좌는 피해가 없다고 은행이 밝힘. 바이낸스 해킹과 침입 방식이 비슷하고 크라켄이 3일 이상 이체를 감지해 경보를 냈음",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "Binance",
-     "id": "9a82e26e-8395-401f-9671-54dfec368412"
-    },
-    {
-     "name": "Kraken",
-     "id": null
-    }
-   ],
-   "other_fields": {},
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Binance",
+      "id": "9a82e26e-8395-401f-9671-54dfec368412"
+     },
+     {
+      "name": "Kraken",
+      "id": null
+     }
+    ]
+   },
    "url": "https://www.yna.co.kr/view/AKR20261105024400009",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -4611,13 +4731,16 @@
     {
      "name": "Mizuki Kayashima",
      "id": "56046dc3-f3e6-461e-b694-90c3d4ba5c6d"
-    },
-    {
-     "name": "Fuji Television",
-     "id": "c830f7b0-7e8d-4445-a2f0-954fe93a5def"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Fuji Television",
+      "id": "c830f7b0-7e8d-4445-a2f0-954fe93a5def"
+     }
+    ]
+   },
    "url": "https://news.yahoo.co.jp/articles/e4f4000c851ebb3a8c774d58d2ec956270c98af7",
    "source": "뉴스",
    "added_at": "2026-11-06T02:06:32.835004+00:00"
@@ -14600,7 +14723,14 @@
     ]
    },
    "source_url": "https://www.wikidata.org/wiki/Q24833815",
-   "links": [],
+   "links": [
+    {
+     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a",
+     "category": "장소",
+     "name": "Beijing",
+     "rel": "LOCATED_IN"
+    }
+   ],
    "added_at": "2026-11-06T02:06:32.835004+00:00"
   },
   {
@@ -15195,6 +15325,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q36767",
    "links": [
     {
+     "id": "18521c43-cdd8-4b46-8543-932f73e8d020",
+     "category": "작품",
+     "name": "The Odyssey",
+     "rel": "APPEARED_IN"
+    },
+    {
      "id": "hub_united_kingdom_entertainer_1a9528",
      "category": "허브",
      "name": "United Kingdom Entertainer",
@@ -15697,6 +15833,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q2023710",
    "links": [
     {
+     "id": "18521c43-cdd8-4b46-8543-932f73e8d020",
+     "category": "작품",
+     "name": "The Odyssey",
+     "rel": "APPEARED_IN"
+    },
+    {
      "id": "275702fa-0057-4ced-9dad-6c14c7e049a8",
      "category": "작품",
      "name": "Spider-Man: Brand New Day",
@@ -15842,7 +15984,14 @@
     ]
    },
    "source_url": "https://www.wikidata.org/wiki/Q18562166",
-   "links": [],
+   "links": [
+    {
+     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a",
+     "category": "장소",
+     "name": "Beijing",
+     "rel": "LOCATED_IN"
+    }
+   ],
    "added_at": "2026-11-06T02:06:32.835004+00:00"
   },
   {
@@ -15949,6 +16098,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q11594282",
    "links": [
+    {
+     "id": "0f097203-5ad8-4b11-a8c2-af0e98131d89",
+     "category": "작품",
+     "name": "I'm Kodama Kawashiri",
+     "rel": "APPEARED_IN"
+    },
     {
      "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
      "category": "허브",
