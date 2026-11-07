@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-07T03:01:05+00:00",
+ "exported_at": "2026-11-07T19:12:41+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 206,
@@ -81,8 +81,7 @@
     "orgs": [
      {
       "name": "Netflix",
-      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "auto": true
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -109,8 +108,7 @@
    "places": [
     {
      "name": "United States",
-     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
-     "auto": true
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
     },
     {
      "name": "Canada",
@@ -120,18 +118,15 @@
    "featuring": [
     {
      "name": "Matt Damon",
-     "id": "77006f75-e215-40b2-b2c8-ba6fbf63d2d9",
-     "auto": true
+     "id": "77006f75-e215-40b2-b2c8-ba6fbf63d2d9"
     },
     {
      "name": "Tom Holland",
-     "id": "acd3b9c7-4706-4e64-9941-cf54bc48b942",
-     "auto": true
+     "id": "acd3b9c7-4706-4e64-9941-cf54bc48b942"
     },
     {
      "name": "Robert Pattinson",
-     "id": "47df9ac6-47e3-4394-96db-cbf6f56eefac",
-     "auto": true
+     "id": "47df9ac6-47e3-4394-96db-cbf6f56eefac"
     },
     {
      "name": "Christopher Nolan",
@@ -150,8 +145,7 @@
     "orgs": [
      {
       "name": "Universal Pictures",
-      "id": "f300f955-6c9e-4604-b0ef-47d574a6b415",
-      "auto": true
+      "id": "f300f955-6c9e-4604-b0ef-47d574a6b415"
      }
     ]
    },
@@ -234,8 +228,7 @@
    "featuring": [
     {
      "name": "고지용",
-     "id": "89799180-d0d1-4173-b0f6-c08f1f87672d",
-     "auto": true
+     "id": "89799180-d0d1-4173-b0f6-c08f1f87672d"
     },
     {
      "name": "이재진",
@@ -332,8 +325,7 @@
     },
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [],
@@ -480,8 +472,7 @@
    "places": [
     {
      "name": "하동군보건소",
-     "id": "3c566e48-8b21-4176-a243-5700f9eb5c79",
-     "auto": true
+     "id": "3c566e48-8b21-4176-a243-5700f9eb5c79"
     }
    ],
    "featuring": [],
@@ -655,13 +646,11 @@
    "featuring": [
     {
      "name": "유연석",
-     "id": "9e3af939-7d66-4f81-a843-b61fa9f31512",
-     "auto": true
+     "id": "9e3af939-7d66-4f81-a843-b61fa9f31512"
     },
     {
      "name": "서현진",
-     "id": "09e29001-101f-493e-8f28-9e3d0ee88d29",
-     "auto": true
+     "id": "09e29001-101f-493e-8f28-9e3d0ee88d29"
     }
    ],
    "other_fields": {},
@@ -689,13 +678,11 @@
    "featuring": [
     {
      "name": "김장훈",
-     "id": "3707f6cc-83b7-4e2c-8f55-2510a7c3717b",
-     "auto": true
+     "id": "3707f6cc-83b7-4e2c-8f55-2510a7c3717b"
     },
     {
      "name": "이소라",
-     "id": "b5c85a44-338f-4f48-9850-fba53a97e90d",
-     "auto": true
+     "id": "b5c85a44-338f-4f48-9850-fba53a97e90d"
     }
    ],
    "other_fields": {},
@@ -751,13 +738,11 @@
    "featuring": [
     {
      "name": "장원영",
-     "id": "24a84773-ae49-4d08-b084-d9990408fb18",
-     "auto": true
+     "id": "24a84773-ae49-4d08-b084-d9990408fb18"
     },
     {
      "name": "쯔위",
-     "id": "d54b7af6-55f9-4a49-9e2a-0622a5208dae",
-     "auto": true
+     "id": "d54b7af6-55f9-4a49-9e2a-0622a5208dae"
     },
     {
      "name": "지창욱",
@@ -795,8 +780,7 @@
     "orgs": [
      {
       "name": "ABB",
-      "id": "4e0e6d1f-d141-4fd7-8414-6db2472d62d1",
-      "auto": true
+      "id": "4e0e6d1f-d141-4fd7-8414-6db2472d62d1"
      }
     ]
    },
@@ -875,8 +859,7 @@
     "orgs": [
      {
       "name": "GS그룹",
-      "id": "f748595b-fe4b-4a57-8ed7-94ae2143607c",
-      "auto": true
+      "id": "f748595b-fe4b-4a57-8ed7-94ae2143607c"
      }
     ]
    },
@@ -976,13 +959,11 @@
     "orgs": [
      {
       "name": "하이브",
-      "id": "e5eed119-8891-4a91-94cf-2e099524dc12",
-      "auto": true
+      "id": "e5eed119-8891-4a91-94cf-2e099524dc12"
      },
      {
       "name": "어도어",
-      "id": "583170fc-ddd2-4bc5-a6da-e401ba5d6f2a",
-      "auto": true
+      "id": "583170fc-ddd2-4bc5-a6da-e401ba5d6f2a"
      }
     ]
    },
@@ -1044,8 +1025,7 @@
    "places": [
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [],
@@ -1099,8 +1079,7 @@
     "orgs": [
      {
       "name": "시프트업",
-      "id": "e673fcdb-90a0-4d17-b089-1ce5318c2fc7",
-      "auto": true
+      "id": "e673fcdb-90a0-4d17-b089-1ce5318c2fc7"
      }
     ]
    },
@@ -1278,8 +1257,7 @@
    "places": [
     {
      "name": "춘천시",
-     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589",
-     "auto": true
+     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589"
     }
    ],
    "featuring": [],
@@ -1307,8 +1285,7 @@
    "places": [
     {
      "name": "Beijing",
-     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a",
-     "auto": true
+     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a"
     }
    ],
    "featuring": [],
@@ -1343,8 +1320,7 @@
    "places": [
     {
      "name": "안동시",
-     "id": "7fb9f9b8-3427-4264-ad97-ea5b55cdee5d",
-     "auto": true
+     "id": "7fb9f9b8-3427-4264-ad97-ea5b55cdee5d"
     }
    ],
    "featuring": [],
@@ -1352,10 +1328,10 @@
     "orgs": [
      {
       "name": "국립경국대학교",
-      "id": "f6ee98b3-54ea-4e73-985e-20ed81cf2315",
-      "auto": true
+      "id": "f6ee98b3-54ea-4e73-985e-20ed81cf2315"
      }
-    ]
+    ],
+    "prev_record": "c39a04a8-e5bf-471a-87c1-fa070a6011ce"
    },
    "url": "https://www.yna.co.kr/view/AKR20261106046300054",
    "source": "뉴스",
@@ -1640,8 +1616,7 @@
    "places": [
     {
      "name": "Beijing",
-     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a",
-     "auto": true
+     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a"
     }
    ],
    "featuring": [],
@@ -1669,8 +1644,7 @@
    "places": [
     {
      "name": "옥천군",
-     "id": "930bde9b-1e1e-4ab1-b43a-d328c7608c0a",
-     "auto": true
+     "id": "930bde9b-1e1e-4ab1-b43a-d328c7608c0a"
     }
    ],
    "featuring": [
@@ -1717,8 +1691,7 @@
     "orgs": [
      {
       "name": "국립순천대학교",
-      "id": "ad9de0c3-5415-4326-8cbd-588cb24bcfef",
-      "auto": true
+      "id": "ad9de0c3-5415-4326-8cbd-588cb24bcfef"
      },
      {
       "name": "전남대학교",
@@ -1749,8 +1722,7 @@
    "places": [
     {
      "name": "금남면",
-     "id": "8676f221-4e50-46ec-a973-dc8188cca7ba",
-     "auto": true
+     "id": "8676f221-4e50-46ec-a973-dc8188cca7ba"
     }
    ],
    "featuring": [],
@@ -1801,8 +1773,7 @@
    "places": [
     {
      "name": "목포시",
-     "id": "cdeef9eb-3811-478c-9a55-5f78a47c4552",
-     "auto": true
+     "id": "cdeef9eb-3811-478c-9a55-5f78a47c4552"
     }
    ],
    "featuring": [],
@@ -2199,8 +2170,7 @@
    "places": [
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [],
@@ -2411,10 +2381,10 @@
     "orgs": [
      {
       "name": "국민의힘",
-      "id": "73223290-920b-403e-be26-e5107d0b30b4",
-      "auto": true
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      }
-    ]
+    ],
+    "prev_record": "9db01869-dc7f-4278-a3de-c994fa730bb2"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705541",
    "source": "뉴스",
@@ -2469,8 +2439,7 @@
    "places": [
     {
      "name": "London",
-     "id": "debbabbe-a63a-4fa0-8641-89063a6f3f2a",
-     "auto": true
+     "id": "debbabbe-a63a-4fa0-8641-89063a6f3f2a"
     }
    ],
    "featuring": [],
@@ -2509,8 +2478,7 @@
    "places": [
     {
      "name": "London",
-     "id": "debbabbe-a63a-4fa0-8641-89063a6f3f2a",
-     "auto": true
+     "id": "debbabbe-a63a-4fa0-8641-89063a6f3f2a"
     }
    ],
    "featuring": [
@@ -2547,8 +2515,7 @@
    "places": [
     {
      "name": "어양동",
-     "id": "fab528a1-7eda-46fc-b94d-e15c4fc49618",
-     "auto": true
+     "id": "fab528a1-7eda-46fc-b94d-e15c4fc49618"
     }
    ],
    "featuring": [],
@@ -2576,8 +2543,7 @@
    "places": [
     {
      "name": "Westminster",
-     "id": "5b2033ad-5394-4deb-9e23-fbc380b8979a",
-     "auto": true
+     "id": "5b2033ad-5394-4deb-9e23-fbc380b8979a"
     }
    ],
    "featuring": [
@@ -2621,8 +2587,7 @@
    "places": [
     {
      "name": "London",
-     "id": "debbabbe-a63a-4fa0-8641-89063a6f3f2a",
-     "auto": true
+     "id": "debbabbe-a63a-4fa0-8641-89063a6f3f2a"
     }
    ],
    "featuring": [
@@ -2639,8 +2604,7 @@
     "orgs": [
      {
       "name": "Metropolitan Police Service",
-      "id": "0b450432-b612-430d-9fe2-c4770b624652",
-      "auto": true
+      "id": "0b450432-b612-430d-9fe2-c4770b624652"
      }
     ]
    },
@@ -2667,8 +2631,7 @@
    "places": [
     {
      "name": "Texas",
-     "id": "c45c1404-ee08-4e7a-b6f3-dbcd01e86807",
-     "auto": true
+     "id": "c45c1404-ee08-4e7a-b6f3-dbcd01e86807"
     }
    ],
    "featuring": [
@@ -2681,8 +2644,7 @@
     "orgs": [
      {
       "name": "Democratic Party",
-      "id": "ba97711e-2aa1-43d1-b967-7649075c6e84",
-      "auto": true
+      "id": "ba97711e-2aa1-43d1-b967-7649075c6e84"
      }
     ]
    },
@@ -2742,8 +2704,7 @@
    "places": [
     {
      "name": "Washington",
-     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a",
-     "auto": true
+     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a"
     },
     {
      "name": "Oleshky",
@@ -2868,8 +2829,7 @@
     "orgs": [
      {
       "name": "FNC엔터테인먼트",
-      "id": "9448ae0c-9508-4484-be10-38a6f868e297",
-      "auto": true
+      "id": "9448ae0c-9508-4484-be10-38a6f868e297"
      }
     ]
    },
@@ -2899,8 +2859,7 @@
     "orgs": [
      {
       "name": "빌리프랩",
-      "id": "8c39d89c-5297-47ea-96d7-073157b36270",
-      "auto": true
+      "id": "8c39d89c-5297-47ea-96d7-073157b36270"
      }
     ]
    },
@@ -2950,8 +2909,7 @@
    "places": [
     {
      "name": "Westminster",
-     "id": "5b2033ad-5394-4deb-9e23-fbc380b8979a",
-     "auto": true
+     "id": "5b2033ad-5394-4deb-9e23-fbc380b8979a"
     }
    ],
    "featuring": [
@@ -2984,8 +2942,7 @@
    "places": [
     {
      "name": "Washington",
-     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a",
-     "auto": true
+     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a"
     }
    ],
    "featuring": [
@@ -3054,8 +3011,7 @@
    "places": [
     {
      "name": "Beijing",
-     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a",
-     "auto": true
+     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a"
     }
    ],
    "featuring": [],
@@ -3090,8 +3046,7 @@
    "places": [
     {
      "name": "나주시",
-     "id": "482e1c92-a68a-49bb-885f-9ff7e3a144f1",
-     "auto": true
+     "id": "482e1c92-a68a-49bb-885f-9ff7e3a144f1"
     }
    ],
    "featuring": [],
@@ -3099,8 +3054,7 @@
     "orgs": [
      {
       "name": "삼성전자",
-      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6",
-      "auto": true
+      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6"
      }
     ]
    },
@@ -3128,8 +3082,7 @@
    "featuring": [
     {
      "name": "서인영",
-     "id": "13b728ad-c3d9-48dd-a8c6-1c78c91a3eec",
-     "auto": true
+     "id": "13b728ad-c3d9-48dd-a8c6-1c78c91a3eec"
     }
    ],
    "other_fields": {},
@@ -3156,8 +3109,7 @@
    "places": [
     {
      "name": "Washington",
-     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a",
-     "auto": true
+     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a"
     }
    ],
    "featuring": [
@@ -3256,8 +3208,7 @@
    "places": [
     {
      "name": "Washington",
-     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a",
-     "auto": true
+     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a"
     }
    ],
    "featuring": [
@@ -3409,15 +3360,13 @@
    "places": [
     {
      "name": "United States",
-     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
-     "auto": true
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
     }
    ],
    "featuring": [
     {
      "name": "Takashi Yamazaki",
-     "id": "c0494e5e-f1e1-4157-8a10-80b47a6d63c4",
-     "auto": true
+     "id": "c0494e5e-f1e1-4157-8a10-80b47a6d63c4"
     }
    ],
    "other_fields": {},
@@ -3444,8 +3393,7 @@
    "places": [
     {
      "name": "Bradford",
-     "id": "0debaf41-4a6e-4358-997a-3e31f5d206e7",
-     "auto": true
+     "id": "0debaf41-4a6e-4358-997a-3e31f5d206e7"
     }
    ],
    "featuring": [
@@ -3485,8 +3433,7 @@
    "places": [
     {
      "name": "울산광역시",
-     "id": "2fe09321-a0ad-46d6-91de-13af845996e5",
-     "auto": true
+     "id": "2fe09321-a0ad-46d6-91de-13af845996e5"
     }
    ],
    "featuring": [],
@@ -3494,8 +3441,7 @@
     "orgs": [
      {
       "name": "현대자동차",
-      "id": "ed73cd15-31b9-444f-ad00-a9b1857baaf0",
-      "auto": true
+      "id": "ed73cd15-31b9-444f-ad00-a9b1857baaf0"
      }
     ]
    },
@@ -3546,16 +3492,14 @@
    "featuring": [
     {
      "name": "트와이스",
-     "id": "382549cd-131d-4882-ad72-5515b45700c8",
-     "auto": true
+     "id": "382549cd-131d-4882-ad72-5515b45700c8"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "JYP엔터테인먼트",
-      "id": "1aeb981f-4786-4058-b502-23b5a981944b",
-      "auto": true
+      "id": "1aeb981f-4786-4058-b502-23b5a981944b"
      }
     ]
    },
@@ -3637,8 +3581,7 @@
    "places": [
     {
      "name": "서화면",
-     "id": "2a995a87-2ffe-4d35-9f50-8c5d22147c6b",
-     "auto": true
+     "id": "2a995a87-2ffe-4d35-9f50-8c5d22147c6b"
     }
    ],
    "featuring": [],
@@ -3666,8 +3609,7 @@
    "places": [
     {
      "name": "Atxondo",
-     "id": "a38364ac-311f-416d-920c-941391bd77c2",
-     "auto": true
+     "id": "a38364ac-311f-416d-920c-941391bd77c2"
     },
     {
      "name": "Lima",
@@ -3770,8 +3712,7 @@
     "orgs": [
      {
       "name": "Nintendo",
-      "id": "942b2fac-415b-4a32-97b7-01c6906025df",
-      "auto": true
+      "id": "942b2fac-415b-4a32-97b7-01c6906025df"
      }
     ]
    },
@@ -3857,8 +3798,7 @@
    "places": [
     {
      "name": "Shibuya",
-     "id": "f806642e-6f83-41f8-9616-76bea624023f",
-     "auto": true
+     "id": "f806642e-6f83-41f8-9616-76bea624023f"
     }
    ],
    "featuring": [
@@ -3923,8 +3863,7 @@
    "places": [
     {
      "name": "Los Angeles",
-     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
-     "auto": true
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
     }
    ],
    "featuring": [
@@ -3945,8 +3884,7 @@
     "orgs": [
      {
       "name": "Netflix",
-      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "auto": true
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -3973,8 +3911,7 @@
    "places": [
     {
      "name": "Beijing",
-     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a",
-     "auto": true
+     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a"
     }
    ],
    "featuring": [
@@ -4011,8 +3948,7 @@
    "places": [
     {
      "name": "Beijing",
-     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a",
-     "auto": true
+     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a"
     }
    ],
    "featuring": [
@@ -4072,13 +4008,11 @@
    "places": [
     {
      "name": "Chicago",
-     "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7",
-     "auto": true
+     "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7"
     },
     {
      "name": "Minneapolis",
-     "id": "0daa1665-1a61-4bcf-9fb9-18ee29addddd",
-     "auto": true
+     "id": "0daa1665-1a61-4bcf-9fb9-18ee29addddd"
     },
     {
      "name": "United Center",
@@ -4116,8 +4050,7 @@
    "places": [
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [
@@ -4156,8 +4089,7 @@
    "places": [
     {
      "name": "New Mexico",
-     "id": "6ae656ea-d926-4063-8e87-f88a8a7c7819",
-     "auto": true
+     "id": "6ae656ea-d926-4063-8e87-f88a8a7c7819"
     }
    ],
    "featuring": [
@@ -4182,8 +4114,7 @@
     "orgs": [
      {
       "name": "Netflix",
-      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "auto": true
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -4243,8 +4174,7 @@
    "places": [
     {
      "name": "서울특별시",
-     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
-     "auto": true
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     }
    ],
    "featuring": [],
@@ -4272,8 +4202,7 @@
    "places": [
     {
      "name": "마카오",
-     "id": "1faa0ce2-7786-499d-a513-858d073c23bb",
-     "auto": true
+     "id": "1faa0ce2-7786-499d-a513-858d073c23bb"
     }
    ],
    "featuring": [],
@@ -4347,8 +4276,7 @@
     "orgs": [
      {
       "name": "Lionsgate",
-      "id": "63b90ae3-67ad-41fd-a4f6-3183980d4550",
-      "auto": true
+      "id": "63b90ae3-67ad-41fd-a4f6-3183980d4550"
      }
     ]
    },
@@ -4419,8 +4347,7 @@
    "places": [
     {
      "name": "옥도면",
-     "id": "ed9b078d-88a6-4abd-8b8c-adcf652c0a07",
-     "auto": true
+     "id": "ed9b078d-88a6-4abd-8b8c-adcf652c0a07"
     }
    ],
    "featuring": [],
@@ -4448,8 +4375,7 @@
    "places": [
     {
      "name": "양주시",
-     "id": "f964a6b1-93f3-4e3f-bf17-b2967fe2e938",
-     "auto": true
+     "id": "f964a6b1-93f3-4e3f-bf17-b2967fe2e938"
     }
    ],
    "featuring": [],
@@ -4477,8 +4403,7 @@
    "places": [
     {
      "name": "Kuta",
-     "id": "f40f4007-9779-4503-aa56-94b099ede1a7",
-     "auto": true
+     "id": "f40f4007-9779-4503-aa56-94b099ede1a7"
     }
    ],
    "featuring": [],
@@ -4564,8 +4489,7 @@
    "places": [
     {
      "name": "영운동",
-     "id": "a6598646-37c9-4e4a-9106-2fbea8d1389c",
-     "auto": true
+     "id": "a6598646-37c9-4e4a-9106-2fbea8d1389c"
     }
    ],
    "featuring": [],
@@ -4593,8 +4517,7 @@
    "places": [
     {
      "name": "오식도동",
-     "id": "a168340e-1180-4475-aba6-44fe7c97f440",
-     "auto": true
+     "id": "a168340e-1180-4475-aba6-44fe7c97f440"
     }
    ],
    "featuring": [],
@@ -4708,8 +4631,7 @@
    "places": [
     {
      "name": "Ubud",
-     "id": "ced095a3-19ad-40ec-9655-333cc430f096",
-     "auto": true
+     "id": "ced095a3-19ad-40ec-9655-333cc430f096"
     }
    ],
    "featuring": [
@@ -4749,13 +4671,11 @@
    "places": [
     {
      "name": "우산동",
-     "id": "7654469d-b971-44fa-a3a1-e7f9a3ecb179",
-     "auto": true
+     "id": "7654469d-b971-44fa-a3a1-e7f9a3ecb179"
     },
     {
      "name": "두암동",
-     "id": "75897933-42ea-4e2b-ad06-ace5bc53ac82",
-     "auto": true
+     "id": "75897933-42ea-4e2b-ad06-ace5bc53ac82"
     }
    ],
    "featuring": [],
@@ -4787,13 +4707,11 @@
     },
     {
      "name": "서울특별시",
-     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
-     "auto": true
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     },
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [],
@@ -4821,8 +4739,7 @@
    "places": [
     {
      "name": "Wisconsin",
-     "id": "57b4f0c2-783e-490f-896c-f984ff06020a",
-     "auto": true
+     "id": "57b4f0c2-783e-490f-896c-f984ff06020a"
     }
    ],
    "featuring": [],
@@ -4862,8 +4779,7 @@
     "orgs": [
      {
       "name": "LOT 폴란드항공",
-      "id": "21d11156-ee77-40b6-9eaa-c4155bf6026f",
-      "auto": true
+      "id": "21d11156-ee77-40b6-9eaa-c4155bf6026f"
      }
     ]
    },
@@ -4891,8 +4807,7 @@
    "featuring": [
     {
      "name": "성시경",
-     "id": "b95a7e35-d656-4683-a4b1-411fe0bdb76d",
-     "auto": true
+     "id": "b95a7e35-d656-4683-a4b1-411fe0bdb76d"
     }
    ],
    "other_fields": {},
@@ -4942,8 +4857,7 @@
    "places": [
     {
      "name": "율량동",
-     "id": "27d70360-cf00-46e7-a4a4-39d3c4bcb8a6",
-     "auto": true
+     "id": "27d70360-cf00-46e7-a4a4-39d3c4bcb8a6"
     }
    ],
    "featuring": [],
@@ -4990,13 +4904,11 @@
      },
      {
       "name": "더불어민주당",
-      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2",
-      "auto": true
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
      },
      {
       "name": "국민의힘",
-      "id": "73223290-920b-403e-be26-e5107d0b30b4",
-      "auto": true
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      }
     ]
    },
@@ -5049,8 +4961,7 @@
    "featuring": [
     {
      "name": "주지훈",
-     "id": "9ef7e36e-2d16-4e81-83f2-1f88164ed942",
-     "auto": true
+     "id": "9ef7e36e-2d16-4e81-83f2-1f88164ed942"
     },
     {
      "name": "이봉준",
@@ -5061,8 +4972,7 @@
     "orgs": [
      {
       "name": "Netflix",
-      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "auto": true
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -5137,13 +5047,11 @@
    "places": [
     {
      "name": "서울특별시",
-     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
-     "auto": true
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     },
     {
      "name": "철원군",
-     "id": "ea38a4fe-cf24-4e1f-8fff-cf2d9e9cd4c7",
-     "auto": true
+     "id": "ea38a4fe-cf24-4e1f-8fff-cf2d9e9cd4c7"
     }
    ],
    "featuring": [],
@@ -5237,13 +5145,11 @@
    "featuring": [
     {
      "name": "환희",
-     "id": "46caa18d-8043-4da9-b465-8e2fae1cbc6b",
-     "auto": true
+     "id": "46caa18d-8043-4da9-b465-8e2fae1cbc6b"
     },
     {
      "name": "브라이언",
-     "id": "e0cf9c5b-759c-47c9-8ab8-72a01485a03e",
-     "auto": true
+     "id": "e0cf9c5b-759c-47c9-8ab8-72a01485a03e"
     }
    ],
    "other_fields": {},
@@ -5270,8 +5176,7 @@
    "places": [
     {
      "name": "전남광주통합특별시",
-     "id": "b8dc39d2-e5a5-46a6-8622-512fc5c216af",
-     "auto": true
+     "id": "b8dc39d2-e5a5-46a6-8622-512fc5c216af"
     }
    ],
    "featuring": [
@@ -5320,8 +5225,7 @@
    "featuring": [
     {
      "name": "조혜련",
-     "id": "8cb05b76-7ce1-4655-b465-5a9c6472b8a6",
-     "auto": true
+     "id": "8cb05b76-7ce1-4655-b465-5a9c6472b8a6"
     },
     {
      "name": "김신영",
@@ -5387,8 +5291,7 @@
    "places": [
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [],
@@ -5509,8 +5412,7 @@
    "places": [
     {
      "name": "Shanghai",
-     "id": "86593309-64b6-4880-92d7-d5eeb20c0c5f",
-     "auto": true
+     "id": "86593309-64b6-4880-92d7-d5eeb20c0c5f"
     }
    ],
    "featuring": [
@@ -5548,16 +5450,14 @@
    "featuring": [
     {
      "name": "제니",
-     "id": "f991faac-1d44-432c-a2a5-5f14f8317b61",
-     "auto": true
+     "id": "f991faac-1d44-432c-a2a5-5f14f8317b61"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "Netflix",
-      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "auto": true
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -5637,8 +5537,7 @@
     "orgs": [
      {
       "name": "국민의힘",
-      "id": "73223290-920b-403e-be26-e5107d0b30b4",
-      "auto": true
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      }
     ]
    },
@@ -5765,8 +5664,7 @@
    "places": [
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [],
@@ -5834,13 +5732,11 @@
     "orgs": [
      {
       "name": "금융감독원",
-      "id": "13d486c7-e762-44c5-8abe-61fd70fe1320",
-      "auto": true
+      "id": "13d486c7-e762-44c5-8abe-61fd70fe1320"
      },
      {
       "name": "한국은행",
-      "id": "a54373ce-e4bc-48b4-8059-3023d6e74f99",
-      "auto": true
+      "id": "a54373ce-e4bc-48b4-8059-3023d6e74f99"
      },
      {
       "name": "재정경제부",
@@ -5900,13 +5796,11 @@
     "orgs": [
      {
       "name": "금융위원회",
-      "id": "25b4b535-b461-49ec-a97a-86a911508b6c",
-      "auto": true
+      "id": "25b4b535-b461-49ec-a97a-86a911508b6c"
      },
      {
       "name": "금융감독원",
-      "id": "13d486c7-e762-44c5-8abe-61fd70fe1320",
-      "auto": true
+      "id": "13d486c7-e762-44c5-8abe-61fd70fe1320"
      }
     ]
    },
@@ -5963,8 +5857,7 @@
    "places": [
     {
      "name": "진해구",
-     "id": "11094c27-6626-44b6-9ff1-6ec381263355",
-     "auto": true
+     "id": "11094c27-6626-44b6-9ff1-6ec381263355"
     }
    ],
    "featuring": [
@@ -6004,8 +5897,7 @@
    "places": [
     {
      "name": "Wenchang",
-     "id": "cbbf1dce-3c00-4984-96eb-065ee8adecbf",
-     "auto": true
+     "id": "cbbf1dce-3c00-4984-96eb-065ee8adecbf"
     },
     {
      "name": "Xi'an",
@@ -6066,8 +5958,7 @@
    "featuring": [
     {
      "name": "마마무",
-     "id": "e6255b27-90fa-47df-aa31-2a34e2349cbb",
-     "auto": true
+     "id": "e6255b27-90fa-47df-aa31-2a34e2349cbb"
     },
     {
      "name": "하림",
@@ -6098,8 +5989,7 @@
    "places": [
     {
      "name": "Yokohama",
-     "id": "654ffe51-fcd9-4e7c-a9aa-3ddfd20513ef",
-     "auto": true
+     "id": "654ffe51-fcd9-4e7c-a9aa-3ddfd20513ef"
     }
    ],
    "featuring": [],
@@ -6196,8 +6086,7 @@
    "featuring": [
     {
      "name": "김유정",
-     "id": "c4a7655e-5198-4385-aaa6-2a417f79b359",
-     "auto": true
+     "id": "c4a7655e-5198-4385-aaa6-2a417f79b359"
     }
    ],
    "other_fields": {},
@@ -6306,13 +6195,11 @@
     "orgs": [
      {
       "name": "삼성전자",
-      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6",
-      "auto": true
+      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6"
      },
      {
       "name": "SK하이닉스",
-      "id": "f38bbe00-4de8-42dc-871e-da97250df3a4",
-      "auto": true
+      "id": "f38bbe00-4de8-42dc-871e-da97250df3a4"
      }
     ]
    },
@@ -6340,8 +6227,7 @@
    "featuring": [
     {
      "name": "Chris Hemsworth",
-     "id": "3ea4c9ea-7183-48cd-be43-9426bb30350f",
-     "auto": true
+     "id": "3ea4c9ea-7183-48cd-be43-9426bb30350f"
     },
     {
      "name": "Chris Evans",
@@ -6377,8 +6263,7 @@
    "featuring": [
     {
      "name": "탑",
-     "id": "a7a7eb21-e659-46fc-bf7b-8d27c3ae4356",
-     "auto": true
+     "id": "a7a7eb21-e659-46fc-bf7b-8d27c3ae4356"
     }
    ],
    "other_fields": {},
@@ -6409,8 +6294,7 @@
     },
     {
      "name": "서울특별시",
-     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
-     "auto": true
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     }
    ],
    "featuring": [],
@@ -6471,13 +6355,11 @@
    "places": [
     {
      "name": "Washington",
-     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a",
-     "auto": true
+     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a"
     },
     {
      "name": "Virginia",
-     "id": "1843a3f4-b1fd-4e89-897d-6e60f5020183",
-     "auto": true
+     "id": "1843a3f4-b1fd-4e89-897d-6e60f5020183"
     },
     {
      "name": "Memorial Circle",
@@ -6558,8 +6440,7 @@
    "places": [
     {
      "name": "Washington",
-     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a",
-     "auto": true
+     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a"
     }
    ],
    "featuring": [
@@ -6600,8 +6481,7 @@
     "orgs": [
      {
       "name": "티빙",
-      "id": "a052d21c-bdec-42bb-8c9b-388a1f29e4cb",
-      "auto": true
+      "id": "a052d21c-bdec-42bb-8c9b-388a1f29e4cb"
      }
     ]
    },
@@ -6628,8 +6508,7 @@
    "places": [
     {
      "name": "Paris",
-     "id": "d4148993-96c8-44d5-bdfe-482a77f7d753",
-     "auto": true
+     "id": "d4148993-96c8-44d5-bdfe-482a77f7d753"
     }
    ],
    "featuring": [],
@@ -6724,8 +6603,7 @@
    "places": [
     {
      "name": "Paris",
-     "id": "d4148993-96c8-44d5-bdfe-482a77f7d753",
-     "auto": true
+     "id": "d4148993-96c8-44d5-bdfe-482a77f7d753"
     },
     {
      "name": "Lyon",
@@ -6814,8 +6692,7 @@
    "featuring": [
     {
      "name": "Yuichi Fukuda",
-     "id": "6c322e8e-5fb2-496b-9224-f9f9cd1cdb56",
-     "auto": true
+     "id": "6c322e8e-5fb2-496b-9224-f9f9cd1cdb56"
     },
     {
      "name": "Kanna Hashimoto",
@@ -6966,16 +6843,14 @@
    "featuring": [
     {
      "name": "몬스타엑스",
-     "id": "538f0595-078a-450f-bf27-be36fd5b1486",
-     "auto": true
+     "id": "538f0595-078a-450f-bf27-be36fd5b1486"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "스타쉽엔터테인먼트",
-      "id": "8fabec08-e22c-4cb3-b863-be7c7cbfa575",
-      "auto": true
+      "id": "8fabec08-e22c-4cb3-b863-be7c7cbfa575"
      }
     ]
    },
@@ -7035,8 +6910,7 @@
    "places": [
     {
      "name": "Venice",
-     "id": "90d05fa3-ecfa-4e4f-872a-0368332f0179",
-     "auto": true
+     "id": null
     }
    ],
    "featuring": [
@@ -7334,6 +7208,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q36301",
    "links": [
+    {
+     "id": "84fbe26d-67ee-441b-8574-8e9367a92fa8",
+     "category": "작품",
+     "name": "Mother Mary",
+     "rel": "APPEARED_IN"
+    },
     {
      "id": "18521c43-cdd8-4b46-8543-932f73e8d020",
      "category": "작품",
@@ -8669,6 +8549,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q15147328",
    "links": [
     {
+     "id": "3ba8cc99-29fa-47cb-8d40-be3a2be77fa7",
+     "category": "작품",
+     "name": "Spirited Away",
+     "rel": "APPEARED_IN"
+    },
+    {
      "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
      "category": "허브",
      "name": "Japan Entertainer",
@@ -8778,6 +8664,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q515161",
    "links": [
+    {
+     "id": "28705b9d-0609-4be8-93b7-b0604039f6f8",
+     "category": "작품",
+     "name": "X-Men",
+     "rel": "APPEARED_IN"
+    },
     {
      "id": "d2291229-c561-4b17-aa76-cf1d9a1d0ab3",
      "category": "작품",
@@ -10176,6 +10068,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q624068",
    "links": [
+    {
+     "id": "f73fb0e4-4e9f-4bfd-9fa0-f73686be69a3",
+     "category": "작품",
+     "name": "나 혼자 산다",
+     "rel": "APPEARED_IN"
+    },
     {
      "id": "2fa89c6a-f437-4ff8-af3a-5f65cba4524e",
      "category": "작품",
