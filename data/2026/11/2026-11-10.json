@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-09T23:09:30+00:00",
+ "exported_at": "2026-11-11T00:13:14+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 140,
@@ -801,7 +801,8 @@
       "name": "빌리프랩",
       "id": "8c39d89c-5297-47ea-96d7-073157b36270"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-10 · SBS · https://news.sbs.co.kr/news/endPage.do?news_id=N1008838061&plink=ORI&cooper=ETC"
    },
    "url": "https://www.chosun.com/entertainments/music/2026/11/09/GI2WIYJRMUZGGZTFMNTDMZDEMM/",
    "source": "뉴스",
@@ -981,7 +982,8 @@
    ],
    "featuring": [],
    "other_fields": {
-    "prev_record": "2a8c802b-6592-4080-9cfe-a936ce8e361c"
+    "prev_record": "2a8c802b-6592-4080-9cfe-a936ce8e361c",
+    "related_coverage": "2026-11-10 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261110000900085\n2026-11-09 · BBC · https://www.bbc.com/news/live/c670ppzjwxpnt"
    },
    "url": "https://www.yahoo.com/news/world/articles/russell-brand-sentenced-10-years-204527753.html",
    "source": "뉴스",
@@ -1923,7 +1925,8 @@
       "name": "대전교통공사",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-10 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708476"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707773",
    "source": "뉴스",
@@ -2237,7 +2240,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-10 · 중앙일보 · https://www.joongang.co.kr/article/25477220"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261109063100062",
    "source": "뉴스",
    "added_at": "2026-11-09T22:56:00.556767+00:00"
@@ -2265,7 +2270,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-10 · YTN · https://www.ytn.co.kr/_ln/0134_202611100921028156"
+   },
    "url": "https://www.hani.co.kr/arti/economy/property/1286447.html",
    "source": "뉴스",
    "added_at": "2026-11-09T22:56:00.556767+00:00"
@@ -2593,7 +2600,8 @@
       "name": "질병관리청",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-10 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708356"
    },
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8708103",
    "source": "뉴스",
@@ -2668,7 +2676,8 @@
       "name": "산림청",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-10 · YTN · https://www.ytn.co.kr/_ln/0115_202611102114197201"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708078",
    "source": "뉴스",
@@ -2981,7 +2990,8 @@
       "name": "과학기술정보통신부",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-10 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708256\n2026-11-10 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261109160151072"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708210",
    "source": "뉴스",
@@ -3171,7 +3181,8 @@
       "name": "청해부대",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-10 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261110037800504"
    },
    "url": "https://www.yna.co.kr/view/AKR20261109151200079",
    "source": "뉴스",
@@ -3474,7 +3485,8 @@
       "name": "농림축산식품부",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-10 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261110095400052"
    },
    "url": "https://www.yna.co.kr/view/AKR20261109058400052",
    "source": "뉴스",
@@ -3984,7 +3996,8 @@
       "name": "교육부",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-10 · MBC · https://imnews.imbc.com/replay/2026/nwtoday/article/6864431_37012.html\n2026-11-10 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708373"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707491",
    "source": "뉴스",
@@ -4059,7 +4072,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-09 · Restaurant Online · https://www.restaurantonline.co.uk/Article/2026/11/09/lucca-to-open-first-international-restaurant-in-london/"
+   },
    "url": "https://www.hot-dinners.com/2026110915512/Gastroblog/Latest-news/lucca-restaurant-mediterranean-chelsea-london",
    "source": "뉴스",
    "added_at": "2026-11-09T22:56:00.556767+00:00"
@@ -4110,7 +4125,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-10 · 중앙일보 · https://www.joongang.co.kr/article/25477123"
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707182",
    "source": "뉴스",
    "added_at": "2026-11-09T22:56:00.556767+00:00"
@@ -4171,7 +4188,8 @@
       "name": "Atlantic Music Group",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-10 · YTN · https://star.ytn.co.kr/_sn/0117_202611101648106055"
    },
    "url": "https://sports.donga.com/ent/article/all/20261109/134989947/1",
    "source": "뉴스",
@@ -4941,7 +4959,8 @@
       "name": "법무부",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-10 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708244"
    },
    "url": "https://www.yna.co.kr/view/AKR20261109056051004",
    "source": "뉴스",
@@ -5067,6 +5086,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q31197934",
    "links": [
+    {
+     "id": "f3af9d9a-cc49-49e5-a4ef-26757f80af70",
+     "category": "단체",
+     "name": "Skydance",
+     "rel": "MEMBER_OF"
+    },
     {
      "id": "e478176f-057c-43f8-b866-ce7ef3779e70",
      "category": "장소",
