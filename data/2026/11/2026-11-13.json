@@ -1,11 +1,11 @@
 {
  "date": "2026-11-13",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-12T19:58:58+00:00",
+ "exported_at": "2026-11-13T01:16:32+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
-  "updates": 180,
-  "new_planets": 95,
+  "updates": 193,
+  "new_planets": 105,
   "bulk_added": 0
  },
  "updates": [
@@ -104,8 +104,7 @@
    "places": [
     {
      "name": "Los Angeles",
-     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
-     "auto": true
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
     }
    ],
    "featuring": [
@@ -138,8 +137,7 @@
    "places": [
     {
      "name": "성동구",
-     "id": "49df52dc-4df6-4967-8d83-51b0b671933c",
-     "auto": true
+     "id": "49df52dc-4df6-4967-8d83-51b0b671933c"
     }
    ],
    "featuring": [],
@@ -148,8 +146,7 @@
     "orgs": [
      {
       "name": "제이와이피엔터테인먼트",
-      "id": "1aeb981f-4786-4058-b502-23b5a981944b",
-      "auto": true
+      "id": "1aeb981f-4786-4058-b502-23b5a981944b"
      }
     ]
    },
@@ -217,16 +214,14 @@
    "featuring": [
     {
      "name": "Tom Holland",
-     "id": "acd3b9c7-4706-4e64-9941-cf54bc48b942",
-     "auto": true
+     "id": "acd3b9c7-4706-4e64-9941-cf54bc48b942"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "Netflix",
-      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "auto": true
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -253,20 +248,17 @@
    "places": [
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [
     {
      "name": "Shizuka Ishibashi",
-     "id": "6b0250e4-ca9c-4f1b-8a6c-6416620b888f",
-     "auto": true
+     "id": "6b0250e4-ca9c-4f1b-8a6c-6416620b888f"
     },
     {
      "name": "Daichi Kaneko",
-     "id": "e4fdc8ff-f7dd-48c4-a666-fde9aa7f8953",
-     "auto": true
+     "id": "e4fdc8ff-f7dd-48c4-a666-fde9aa7f8953"
     }
    ],
    "other_fields": {
@@ -408,8 +400,7 @@
    "places": [
     {
      "name": "New York City",
-     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20",
-     "auto": true
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20"
     }
    ],
    "featuring": [],
@@ -417,8 +408,7 @@
     "orgs": [
      {
       "name": "Google",
-      "id": "b2a52571-fe91-4107-a28c-8883139cb10b",
-      "auto": true
+      "id": "b2a52571-fe91-4107-a28c-8883139cb10b"
      }
     ]
    },
@@ -445,13 +435,11 @@
    "places": [
     {
      "name": "Shenzhen",
-     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "auto": true
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     },
     {
      "name": "Futian",
-     "id": "edcdee1f-d5ad-46b1-a202-b98403cda108",
-     "auto": true
+     "id": "edcdee1f-d5ad-46b1-a202-b98403cda108"
     }
    ],
    "featuring": [],
@@ -486,8 +474,7 @@
    "places": [
     {
      "name": "Los Angeles",
-     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
-     "auto": true
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
     }
    ],
    "featuring": [
@@ -550,8 +537,7 @@
    "places": [
     {
      "name": "Westminster",
-     "id": "5b2033ad-5394-4deb-9e23-fbc380b8979a",
-     "auto": true
+     "id": "5b2033ad-5394-4deb-9e23-fbc380b8979a"
     }
    ],
    "featuring": [
@@ -622,8 +608,7 @@
    "places": [
     {
      "name": "Meguro",
-     "id": "58cd2bdb-dfc2-4a08-ab39-fb74fae3991f",
-     "auto": true
+     "id": "58cd2bdb-dfc2-4a08-ab39-fb74fae3991f"
     }
    ],
    "featuring": [],
@@ -654,8 +639,7 @@
     "orgs": [
      {
       "name": "플레디스엔터테인먼트",
-      "id": "eff3c6f4-6f40-4226-a505-0578cedc554b",
-      "auto": true
+      "id": "eff3c6f4-6f40-4226-a505-0578cedc554b"
      }
     ]
    },
@@ -685,8 +669,7 @@
     "orgs": [
      {
       "name": "Apple",
-      "id": "a99fdc75-b250-4d63-b983-9d593b990b0d",
-      "auto": true
+      "id": "a99fdc75-b250-4d63-b983-9d593b990b0d"
      }
     ]
    },
@@ -713,8 +696,7 @@
    "places": [
     {
      "name": "Enfield",
-     "id": "50494683-a44d-454c-aa75-c09972e6f2aa",
-     "auto": true
+     "id": "50494683-a44d-454c-aa75-c09972e6f2aa"
     }
    ],
    "featuring": [
@@ -750,18 +732,15 @@
     "orgs": [
      {
       "name": "KBS",
-      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
-      "auto": true
+      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84"
      },
      {
       "name": "MBC",
-      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31",
-      "auto": true
+      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31"
      },
      {
       "name": "SBS",
-      "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02",
-      "auto": true
+      "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02"
      }
     ]
    },
@@ -788,8 +767,7 @@
    "places": [
     {
      "name": "영동군",
-     "id": "39c38218-2b66-4573-b095-0083d23a04b4",
-     "auto": true
+     "id": "39c38218-2b66-4573-b095-0083d23a04b4"
     }
    ],
    "featuring": [],
@@ -820,21 +798,18 @@
    "featuring": [
     {
      "name": "원희",
-     "id": "ea67b558-fb5e-4e62-beff-722eddbf17ae",
-     "auto": true
+     "id": "ea67b558-fb5e-4e62-beff-722eddbf17ae"
     },
     {
      "name": "아일릿",
-     "id": "d3d08386-5a28-4a4d-96a1-644a41658282",
-     "auto": true
+     "id": "d3d08386-5a28-4a4d-96a1-644a41658282"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "MBC",
-      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31",
-      "auto": true
+      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31"
      }
     ]
    },
@@ -897,8 +872,7 @@
    "places": [
     {
      "name": "강릉시",
-     "id": "64985b93-1f47-4d72-9361-ca37a2264f57",
-     "auto": true
+     "id": "64985b93-1f47-4d72-9361-ca37a2264f57"
     }
    ],
    "featuring": [
@@ -912,13 +886,11 @@
     "orgs": [
      {
       "name": "더불어민주당",
-      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2",
-      "auto": true
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
      },
      {
       "name": "국민의힘",
-      "id": "73223290-920b-403e-be26-e5107d0b30b4",
-      "auto": true
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      }
     ]
    },
@@ -996,20 +968,17 @@
    "places": [
     {
      "name": "성동구",
-     "id": "49df52dc-4df6-4967-8d83-51b0b671933c",
-     "auto": true
+     "id": "49df52dc-4df6-4967-8d83-51b0b671933c"
     }
    ],
    "featuring": [
     {
      "name": "장규리",
-     "id": "33d38129-e13b-4871-9adb-e8ddc5b8b787",
-     "auto": true
+     "id": "33d38129-e13b-4871-9adb-e8ddc5b8b787"
     },
     {
      "name": "배종옥",
-     "id": "a4a4b80c-696c-4d74-92d9-b521d9aa491d",
-     "auto": true
+     "id": "a4a4b80c-696c-4d74-92d9-b521d9aa491d"
     }
    ],
    "other_fields": {},
@@ -1138,8 +1107,7 @@
     "orgs": [
      {
       "name": "국민의힘",
-      "id": "73223290-920b-403e-be26-e5107d0b30b4",
-      "auto": true
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      }
     ]
    },
@@ -1166,18 +1134,15 @@
    "places": [
     {
      "name": "춘천시",
-     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589",
-     "auto": true
+     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589"
     },
     {
      "name": "원주시",
-     "id": "6807b4a6-bdfa-4e1c-b795-106489d96195",
-     "auto": true
+     "id": "6807b4a6-bdfa-4e1c-b795-106489d96195"
     },
     {
      "name": "철원군",
-     "id": "ea38a4fe-cf24-4e1f-8fff-cf2d9e9cd4c7",
-     "auto": true
+     "id": "ea38a4fe-cf24-4e1f-8fff-cf2d9e9cd4c7"
     }
    ],
    "featuring": [],
@@ -1208,13 +1173,11 @@
     "orgs": [
      {
       "name": "금융위원회",
-      "id": "25b4b535-b461-49ec-a97a-86a911508b6c",
-      "auto": true
+      "id": "25b4b535-b461-49ec-a97a-86a911508b6c"
      },
      {
       "name": "더불어민주당",
-      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2",
-      "auto": true
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
      }
     ]
    },
@@ -1242,8 +1205,7 @@
    "featuring": [
     {
      "name": "박민영",
-     "id": "c3127b08-9337-4fa0-b6a5-a88bfa0bc204",
-     "auto": true
+     "id": "c3127b08-9337-4fa0-b6a5-a88bfa0bc204"
     },
     {
      "name": "김미경",
@@ -1254,8 +1216,7 @@
     "orgs": [
      {
       "name": "SBS",
-      "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02",
-      "auto": true
+      "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02"
      }
     ]
    },
@@ -1461,8 +1422,7 @@
     "orgs": [
      {
       "name": "Netflix",
-      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "auto": true
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -1535,8 +1495,7 @@
    "places": [
     {
      "name": "Islington",
-     "id": "6f128519-07e5-4598-81e6-c65f71491894",
-     "auto": true
+     "id": "6f128519-07e5-4598-81e6-c65f71491894"
     }
    ],
    "featuring": [],
@@ -1615,8 +1574,7 @@
     }
    ],
    "other_fields": {
-    "prev_record": "6f788175-9225-484b-80fb-84b04b20c704",
-    "prev_auto": "함께 ['Jensen Huang'] · 단어 ['받는', '불륜', '앨리스', '여성', '젠슨', '중국', '지목', '황과']"
+    "prev_record": "6f788175-9225-484b-80fb-84b04b20c704"
    },
    "url": "https://www.nikkei.com/article/DGXZQOGM1195Q0R11C26A1000000/",
    "source": "뉴스",
@@ -1641,8 +1599,7 @@
    "places": [
     {
      "name": "Shenzhen",
-     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "auto": true
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     }
    ],
    "featuring": [],
@@ -1769,8 +1726,7 @@
    "places": [
     {
      "name": "구로구",
-     "id": "6d864c22-1fdb-40c4-b1c5-206cd2427469",
-     "auto": true
+     "id": "6d864c22-1fdb-40c4-b1c5-206cd2427469"
     }
    ],
    "featuring": [],
@@ -1922,8 +1878,7 @@
    "places": [
     {
      "name": "Los Angeles",
-     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
-     "auto": true
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
     }
    ],
    "featuring": [
@@ -1959,8 +1914,7 @@
     "orgs": [
      {
       "name": "European Central Bank",
-      "id": "c304ad0a-f159-431f-b6d1-9ea5fb636c7d",
-      "auto": true
+      "id": "c304ad0a-f159-431f-b6d1-9ea5fb636c7d"
      }
     ]
    },
@@ -1988,8 +1942,7 @@
    "featuring": [
     {
      "name": "Rosalía",
-     "id": "50b97170-8e0f-4f91-a808-346d52404605",
-     "auto": true
+     "id": "50b97170-8e0f-4f91-a808-346d52404605"
     },
     {
      "name": "Alma Har'el",
@@ -2012,8 +1965,7 @@
     "orgs": [
      {
       "name": "Lionsgate",
-      "id": "63b90ae3-67ad-41fd-a4f6-3183980d4550",
-      "auto": true
+      "id": "63b90ae3-67ad-41fd-a4f6-3183980d4550"
      }
     ]
    },
@@ -2041,8 +1993,7 @@
    "featuring": [
     {
      "name": "리센느 RESCENE",
-     "id": "24fd11b0-5180-470f-816a-f56bddacc5ce",
-     "auto": true
+     "id": "24fd11b0-5180-470f-816a-f56bddacc5ce"
     }
    ],
    "other_fields": {
@@ -2104,8 +2055,7 @@
     "orgs": [
      {
       "name": "Tesla",
-      "id": "fe563a06-5b52-4369-a6ba-8e7488b5cbd2",
-      "auto": true
+      "id": "fe563a06-5b52-4369-a6ba-8e7488b5cbd2"
      }
     ]
    },
@@ -2132,8 +2082,7 @@
    "places": [
     {
      "name": "Westminster",
-     "id": "5b2033ad-5394-4deb-9e23-fbc380b8979a",
-     "auto": true
+     "id": "5b2033ad-5394-4deb-9e23-fbc380b8979a"
     }
    ],
    "featuring": [
@@ -2203,8 +2152,7 @@
     "orgs": [
      {
       "name": "Nvidia",
-      "id": "016de458-5e8d-421c-8654-0e9023f4b206",
-      "auto": true
+      "id": "016de458-5e8d-421c-8654-0e9023f4b206"
      }
     ]
    },
@@ -2234,13 +2182,11 @@
     "orgs": [
      {
       "name": "Republican Party",
-      "id": "191d4d6f-11f2-43e8-a504-083503708df1",
-      "auto": true
+      "id": "191d4d6f-11f2-43e8-a504-083503708df1"
      },
      {
       "name": "Democratic Party",
-      "id": "ba97711e-2aa1-43d1-b967-7649075c6e84",
-      "auto": true
+      "id": "ba97711e-2aa1-43d1-b967-7649075c6e84"
      }
     ]
    },
@@ -2310,8 +2256,7 @@
    "places": [
     {
      "name": "United States",
-     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
-     "auto": true
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
     }
    ],
    "featuring": [],
@@ -2319,8 +2264,7 @@
     "orgs": [
      {
       "name": "Meta Platforms",
-      "id": "0785a5f3-706f-474c-a209-65380428f973",
-      "auto": true
+      "id": "0785a5f3-706f-474c-a209-65380428f973"
      }
     ]
    },
@@ -2347,8 +2291,7 @@
    "places": [
     {
      "name": "강남구",
-     "id": "fcdd9286-75c2-487a-9274-58bab3fcc6d5",
-     "auto": true
+     "id": "fcdd9286-75c2-487a-9274-58bab3fcc6d5"
     }
    ],
    "featuring": [],
@@ -2378,8 +2321,7 @@
    "places": [
     {
      "name": "Mississippi",
-     "id": "e5dd7247-622b-472d-b361-2b5e815ef0ea",
-     "auto": true
+     "id": "e5dd7247-622b-472d-b361-2b5e815ef0ea"
     }
    ],
    "featuring": [],
@@ -2435,8 +2377,7 @@
     "orgs": [
      {
       "name": "전국민주노동조합총연맹",
-      "id": "21539af1-8960-4e59-a628-033d4361593c",
-      "auto": true
+      "id": "21539af1-8960-4e59-a628-033d4361593c"
      }
     ]
    },
@@ -2463,8 +2404,7 @@
    "places": [
     {
      "name": "Buckinghamshire",
-     "id": "8edd94ac-03eb-42d3-8832-f5fc56cefdfc",
-     "auto": true
+     "id": "8edd94ac-03eb-42d3-8832-f5fc56cefdfc"
     }
    ],
    "featuring": [
@@ -2569,8 +2509,7 @@
     "orgs": [
      {
       "name": "Democratic Party",
-      "id": "ba97711e-2aa1-43d1-b967-7649075c6e84",
-      "auto": true
+      "id": "ba97711e-2aa1-43d1-b967-7649075c6e84"
      }
     ]
    },
@@ -2724,13 +2663,11 @@
    "places": [
     {
      "name": "Los Angeles",
-     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
-     "auto": true
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
     },
     {
      "name": "New York City",
-     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20",
-     "auto": true
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20"
     }
    ],
    "featuring": [],
@@ -2781,8 +2718,7 @@
    "places": [
     {
      "name": "야탑동",
-     "id": "7064b636-b529-4e46-8996-b8ba62f4afc5",
-     "auto": true
+     "id": "7064b636-b529-4e46-8996-b8ba62f4afc5"
     }
    ],
    "featuring": [],
@@ -2872,8 +2808,7 @@
    "places": [
     {
      "name": "사천진항",
-     "id": "534c2031-5461-47b5-b6d3-051a38c6e900",
-     "auto": true
+     "id": "534c2031-5461-47b5-b6d3-051a38c6e900"
     }
    ],
    "featuring": [],
@@ -2927,8 +2862,7 @@
     "orgs": [
      {
       "name": "삼성전자",
-      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6",
-      "auto": true
+      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6"
      }
     ]
    },
@@ -3055,8 +2989,7 @@
    "featuring": [
     {
      "name": "하림",
-     "id": "966ced12-54fa-41d8-91b5-e94a30e1758a",
-     "auto": true
+     "id": "966ced12-54fa-41d8-91b5-e94a30e1758a"
     }
    ],
    "other_fields": {},
@@ -3083,8 +3016,7 @@
    "places": [
     {
      "name": "New York City",
-     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20",
-     "auto": true
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20"
     }
    ],
    "featuring": [],
@@ -3112,8 +3044,7 @@
    "places": [
     {
      "name": "Westminster",
-     "id": "5b2033ad-5394-4deb-9e23-fbc380b8979a",
-     "auto": true
+     "id": "5b2033ad-5394-4deb-9e23-fbc380b8979a"
     }
    ],
    "featuring": [
@@ -3185,8 +3116,7 @@
    "places": [
     {
      "name": "Santa Barbara County",
-     "id": "6ef0d841-2d65-4ac2-b56a-d4a3f81d536a",
-     "auto": true
+     "id": "6ef0d841-2d65-4ac2-b56a-d4a3f81d536a"
     }
    ],
    "featuring": [],
@@ -3267,15 +3197,13 @@
    "places": [
     {
      "name": "Idaho",
-     "id": "cb503bd1-e472-43c9-b1cf-4412d6199b5f",
-     "auto": true
+     "id": "cb503bd1-e472-43c9-b1cf-4412d6199b5f"
     }
    ],
    "featuring": [
     {
      "name": "Jesse Eisenberg",
-     "id": "02bb2d2d-c07d-4d42-94ca-a371885180ac",
-     "auto": true
+     "id": "02bb2d2d-c07d-4d42-94ca-a371885180ac"
     }
    ],
    "other_fields": {},
@@ -3302,8 +3230,7 @@
    "places": [
     {
      "name": "세종특별자치시",
-     "id": "2b00f9c7-fc73-4fc3-bf37-934066598071",
-     "auto": true
+     "id": "2b00f9c7-fc73-4fc3-bf37-934066598071"
     }
    ],
    "featuring": [],
@@ -3387,8 +3314,7 @@
     "orgs": [
      {
       "name": "빅히트 뮤직",
-      "id": "f0870011-8c4a-4665-8679-5c7b7158d701",
-      "auto": true
+      "id": "f0870011-8c4a-4665-8679-5c7b7158d701"
      }
     ]
    },
@@ -3438,8 +3364,7 @@
    "places": [
     {
      "name": "Shibuya",
-     "id": "f806642e-6f83-41f8-9616-76bea624023f",
-     "auto": true
+     "id": "f806642e-6f83-41f8-9616-76bea624023f"
     }
    ],
    "featuring": [],
@@ -3534,13 +3459,11 @@
    "featuring": [
     {
      "name": "신동엽",
-     "id": "9e23a838-a258-47dd-92b5-acc622d0ceda",
-     "auto": true
+     "id": "9e23a838-a258-47dd-92b5-acc622d0ceda"
     },
     {
      "name": "조윤희",
-     "id": "cafcd48d-194c-44f7-9112-b3f0af62f0cd",
-     "auto": true
+     "id": "cafcd48d-194c-44f7-9112-b3f0af62f0cd"
     },
     {
      "name": "클라라",
@@ -3572,8 +3495,7 @@
    "featuring": [
     {
      "name": "곽윤기",
-     "id": "8101f268-80fd-41bd-b380-82ad8d1cc77d",
-     "auto": true
+     "id": "8101f268-80fd-41bd-b380-82ad8d1cc77d"
     },
     {
      "name": "설인아",
@@ -3596,8 +3518,7 @@
     "orgs": [
      {
       "name": "tvN",
-      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f",
-      "auto": true
+      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f"
      }
     ]
    },
@@ -3627,8 +3548,7 @@
     "orgs": [
      {
       "name": "KBS",
-      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
-      "auto": true
+      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84"
      }
     ]
    },
@@ -3678,8 +3598,7 @@
    "places": [
     {
      "name": "Abu Dhabi",
-     "id": "c74f3e36-d99d-46c2-8794-115d82626fd5",
-     "auto": true
+     "id": "c74f3e36-d99d-46c2-8794-115d82626fd5"
     }
    ],
    "featuring": [],
@@ -3808,20 +3727,17 @@
    "places": [
     {
      "name": "송파구",
-     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7",
-     "auto": true
+     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7"
     }
    ],
    "featuring": [
     {
      "name": "성준",
-     "id": "1b1f3008-5ad1-44ea-9a6f-ac75dfb8e459",
-     "auto": true
+     "id": "1b1f3008-5ad1-44ea-9a6f-ac75dfb8e459"
     },
     {
      "name": "스윙스",
-     "id": "2680b548-5ad3-486b-8e02-f4468e237471",
-     "auto": true
+     "id": "2680b548-5ad3-486b-8e02-f4468e237471"
     },
     {
      "name": "츄",
@@ -3855,8 +3771,7 @@
     "orgs": [
      {
       "name": "MBC",
-      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31",
-      "auto": true
+      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31"
      }
     ]
    },
@@ -3883,8 +3798,7 @@
    "places": [
     {
      "name": "송파구",
-     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7",
-     "auto": true
+     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7"
     }
    ],
    "featuring": [],
@@ -4039,8 +3953,7 @@
    "places": [
     {
      "name": "왕산면",
-     "id": "91d294f4-1b9d-4807-b800-d6dc47bda3a2",
-     "auto": true
+     "id": "91d294f4-1b9d-4807-b800-d6dc47bda3a2"
     }
    ],
    "featuring": [],
@@ -4068,8 +3981,7 @@
    "places": [
     {
      "name": "Ubud",
-     "id": "ced095a3-19ad-40ec-9655-333cc430f096",
-     "auto": true
+     "id": "ced095a3-19ad-40ec-9655-333cc430f096"
     }
    ],
    "featuring": [],
@@ -4104,8 +4016,7 @@
    "places": [
     {
      "name": "울릉군",
-     "id": "ed0c1826-85f2-4a15-b871-adaef03142d5",
-     "auto": true
+     "id": "ed0c1826-85f2-4a15-b871-adaef03142d5"
     }
    ],
    "featuring": [],
@@ -4156,8 +4067,7 @@
    "places": [
     {
      "name": "Waltham Forest",
-     "id": "b0dac66c-1bd0-466e-a1ac-84f2b693234c",
-     "auto": true
+     "id": "b0dac66c-1bd0-466e-a1ac-84f2b693234c"
     }
    ],
    "featuring": [
@@ -4254,15 +4164,13 @@
    "places": [
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [
     {
      "name": "Anne Hathaway",
-     "id": "13484080-4bf5-4435-8d11-adf0a20d1ebb",
-     "auto": true
+     "id": "13484080-4bf5-4435-8d11-adf0a20d1ebb"
     }
    ],
    "other_fields": {},
@@ -4290,8 +4198,7 @@
    "featuring": [
     {
      "name": "Pedro Pascal",
-     "id": "4c0be984-1d4d-4330-879b-a05668029c0b",
-     "auto": true
+     "id": "4c0be984-1d4d-4330-879b-a05668029c0b"
     }
    ],
    "other_fields": {},
@@ -4361,8 +4268,7 @@
    "places": [
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [],
@@ -4370,8 +4276,7 @@
     "orgs": [
      {
       "name": "제이와이피엔터테인먼트",
-      "id": "1aeb981f-4786-4058-b502-23b5a981944b",
-      "auto": true
+      "id": "1aeb981f-4786-4058-b502-23b5a981944b"
      }
     ]
    },
@@ -4428,8 +4333,7 @@
    "places": [
     {
      "name": "계룡시",
-     "id": "07504bec-006b-44db-98a3-6b5bd6071f04",
-     "auto": true
+     "id": "07504bec-006b-44db-98a3-6b5bd6071f04"
     }
    ],
    "featuring": [],
@@ -4528,8 +4432,7 @@
    "places": [
     {
      "name": "전주시",
-     "id": "652f61b7-7013-436c-adda-7b76f78fab66",
-     "auto": true
+     "id": "652f61b7-7013-436c-adda-7b76f78fab66"
     }
    ],
    "featuring": [],
@@ -4610,38 +4513,32 @@
    "places": [
     {
      "name": "구로구",
-     "id": "6d864c22-1fdb-40c4-b1c5-206cd2427469",
-     "auto": true
+     "id": "6d864c22-1fdb-40c4-b1c5-206cd2427469"
     }
    ],
    "featuring": [
     {
      "name": "이현욱",
-     "id": "ae650ff5-b801-4777-bf00-347d33aa6e1d",
-     "auto": true
+     "id": "ae650ff5-b801-4777-bf00-347d33aa6e1d"
     },
     {
      "name": "장혁",
-     "id": "80d723b0-8fc5-4959-831c-650b5a89f648",
-     "auto": true
+     "id": "80d723b0-8fc5-4959-831c-650b5a89f648"
     },
     {
      "name": "김강우",
-     "id": "f9f38db6-6c1e-4edb-b5a7-4b46f21b40be",
-     "auto": true
+     "id": "f9f38db6-6c1e-4edb-b5a7-4b46f21b40be"
     },
     {
      "name": "박성웅",
-     "id": "f4d6810b-1a9c-42c3-bb75-0a97225158d6",
-     "auto": true
+     "id": "f4d6810b-1a9c-42c3-bb75-0a97225158d6"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "KBS",
-      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
-      "auto": true
+      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84"
      }
     ]
    },
@@ -4691,8 +4588,7 @@
    "places": [
     {
      "name": "New York City",
-     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20",
-     "auto": true
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20"
     }
    ],
    "featuring": [],
@@ -4776,8 +4672,7 @@
    "places": [
     {
      "name": "Beijing",
-     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a",
-     "auto": true
+     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a"
     }
    ],
    "featuring": [],
@@ -4805,8 +4700,7 @@
    "places": [
     {
      "name": "Shinjuku",
-     "id": "ff74d3b5-46f7-4793-9e34-2356b5af665e",
-     "auto": true
+     "id": "ff74d3b5-46f7-4793-9e34-2356b5af665e"
     }
    ],
    "featuring": [],
@@ -4837,8 +4731,7 @@
     "orgs": [
      {
       "name": "에어부산",
-      "id": "f7270438-1082-441c-bb9b-7437313f0003",
-      "auto": true
+      "id": "f7270438-1082-441c-bb9b-7437313f0003"
      },
      {
       "name": "공정거래위원회",
@@ -4885,8 +4778,7 @@
     "orgs": [
      {
       "name": "tvN",
-      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f",
-      "auto": true
+      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f"
      }
     ]
    },
@@ -4916,8 +4808,7 @@
     "orgs": [
      {
       "name": "조국혁신당",
-      "id": "c976a523-48e5-4d42-94d0-3b98ffdfe962",
-      "auto": true
+      "id": "c976a523-48e5-4d42-94d0-3b98ffdfe962"
      }
     ]
    },
@@ -4974,8 +4865,7 @@
    "places": [
     {
      "name": "아산시",
-     "id": "f38e9c0e-a903-4b44-beea-32d74045bbc3",
-     "auto": true
+     "id": "f38e9c0e-a903-4b44-beea-32d74045bbc3"
     }
    ],
    "featuring": [],
@@ -4983,8 +4873,7 @@
     "orgs": [
      {
       "name": "삼성전자",
-      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6",
-      "auto": true
+      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6"
      }
     ]
    },
@@ -5042,18 +4931,15 @@
     "orgs": [
      {
       "name": "삼성전자",
-      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6",
-      "auto": true
+      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6"
      },
      {
       "name": "SK하이닉스",
-      "id": "f38bbe00-4de8-42dc-871e-da97250df3a4",
-      "auto": true
+      "id": "f38bbe00-4de8-42dc-871e-da97250df3a4"
      },
      {
       "name": "Nvidia",
-      "id": "016de458-5e8d-421c-8654-0e9023f4b206",
-      "auto": true
+      "id": "016de458-5e8d-421c-8654-0e9023f4b206"
      }
     ]
    },
@@ -5080,28 +4966,24 @@
    "places": [
     {
      "name": "United States",
-     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
-     "auto": true
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
     }
    ],
    "featuring": [
     {
      "name": "NCT 127",
-     "id": "10724cbb-09b6-478d-b9ce-482897e191b8",
-     "auto": true
+     "id": "10724cbb-09b6-478d-b9ce-482897e191b8"
     },
     {
      "name": "NCT DREAM",
-     "id": "15e711df-dc9c-46fb-98df-e4fb94216d9c",
-     "auto": true
+     "id": "15e711df-dc9c-46fb-98df-e4fb94216d9c"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "SM엔터테인먼트",
-      "id": "62486fb6-e153-4ec9-bafa-5584719f7b4e",
-      "auto": true
+      "id": "62486fb6-e153-4ec9-bafa-5584719f7b4e"
      }
     ]
    },
@@ -5186,8 +5068,7 @@
    "places": [
     {
      "name": "Paris",
-     "id": "d4148993-96c8-44d5-bdfe-482a77f7d753",
-     "auto": true
+     "id": "d4148993-96c8-44d5-bdfe-482a77f7d753"
     }
    ],
    "featuring": [],
@@ -5241,8 +5122,7 @@
     "orgs": [
      {
       "name": "Democratic Party",
-      "id": "ba97711e-2aa1-43d1-b967-7649075c6e84",
-      "auto": true
+      "id": "ba97711e-2aa1-43d1-b967-7649075c6e84"
      }
     ]
    },
@@ -5269,8 +5149,7 @@
    "places": [
     {
      "name": "Southwark",
-     "id": "336c7c9e-7978-46da-80b4-7a116fe75954",
-     "auto": true
+     "id": "336c7c9e-7978-46da-80b4-7a116fe75954"
     }
    ],
    "featuring": [
@@ -5385,8 +5264,7 @@
    "places": [
     {
      "name": "장항읍",
-     "id": "1bc75d98-ba78-4769-93d2-2dde9b61142d",
-     "auto": true
+     "id": "1bc75d98-ba78-4769-93d2-2dde9b61142d"
     }
    ],
    "featuring": [],
@@ -5422,8 +5300,7 @@
    "places": [
     {
      "name": "Beijing",
-     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a",
-     "auto": true
+     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a"
     }
    ],
    "featuring": [],
@@ -5431,8 +5308,7 @@
     "orgs": [
      {
       "name": "외교부",
-      "id": "de41e209-34fd-49c9-85c4-dcc697757ae5",
-      "auto": true
+      "id": "de41e209-34fd-49c9-85c4-dcc697757ae5"
      }
     ]
    },
@@ -5506,8 +5382,7 @@
    "featuring": [
     {
      "name": "혜리",
-     "id": "e9220dfd-a551-4021-9995-5213ef9de670",
-     "auto": true
+     "id": "e9220dfd-a551-4021-9995-5213ef9de670"
     },
     {
      "name": "나인우",
@@ -5575,19 +5450,537 @@
     "orgs": [
      {
       "name": "Fuji Television",
-      "id": "c830f7b0-7e8d-4445-a2f0-954fe93a5def",
-      "auto": true
+      "id": "c830f7b0-7e8d-4445-a2f0-954fe93a5def"
      },
      {
       "name": "카카오엔터테인먼트",
-      "id": "3a2912e4-51c2-48c8-8466-2b50b44a07ac",
-      "auto": true
+      "id": "3a2912e4-51c2-48c8-8466-2b50b44a07ac"
      }
     ]
    },
    "url": "https://www.newsis.com/view/NISX20261112_0003865126",
    "source": "뉴스",
    "added_at": "2026-11-12T19:51:40.499151+00:00"
+  },
+  {
+   "id": "80b57ff8-d60a-4956-9922-a75ba930641d",
+   "title": "Eater 2026 올해의 셰프 — 로라 오질마즈(마리아 이사벨)",
+   "type": "수상",
+   "date": "2026-11-10",
+   "parent": [
+    {
+     "id": "5c0ea54f-ba12-493e-a3d2-7657523e523a",
+     "category": "장소",
+     "name": "Maria Isabel"
+    }
+   ],
+   "summary": "Eater가 새로 만든 전국 「올해의 셰프」 다섯 명에 샌프란시스코 마리아 이사벨의 로라 오질마즈가 뽑힘",
+   "why": null,
+   "how": "2026년에 연 멕시코 식당. 이름은 셰프의 언니(마리아)와 어머니(이사벨)에게서 따옴. 게레로 · 시날로아 집안 음식을 바탕으로 해산물 · 마사 · 몰레를 냄. 남편 사야트 오질마즈와 함께 지중해 식당 Dalida 도 운영",
+   "content": null,
+   "places": [
+    {
+     "name": "San Francisco County",
+     "id": "54578aae-1db2-40b8-a187-948037d0b02e",
+     "auto": true
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Laura Ozyilmaz",
+     "id": null
+    },
+    {
+     "name": "Sayat Ozyilmaz",
+     "id": null
+    }
+   ],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Eater",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "81949652-5b34-47e3-9692-f6b8177192da",
+   "title": "Eater 2026 올해의 셰프 — 아미르 하지말레키(로야)",
+   "type": "수상",
+   "date": "2026-11-10",
+   "parent": [
+    {
+     "id": "06724d22-e7b9-408c-a2cd-00be84157a1f",
+     "category": "장소",
+     "name": "Roya"
+    }
+   ],
+   "summary": "Eater 전국 「올해의 셰프」에 오스틴 페르시아 식당 로야의 아미르 하지말레키가 뽑힘",
+   "why": null,
+   "how": "이란에서 나고 텍사스에서 자란 셰프가 8년 넘게 준비해 연 식당. 85달러 프리픽스 「소프레」에 쉬린 폴로 · 고르메 사브지 · 케밥 세 가지, 차와 디저트가 나옴",
+   "content": null,
+   "places": [
+    {
+     "name": "Austin",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Amir Hajimaleki",
+     "id": null
+    }
+   ],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Eater",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "1025accb-e3c1-4a0a-8ed7-3442416677a9",
+   "title": "Eater 2026 올해의 셰프 — 에런 로페스(우르사)",
+   "type": "수상",
+   "date": "2026-11-10",
+   "parent": [
+    {
+     "id": "332275dd-4b1c-4389-8c67-3170be37ab36",
+     "category": "장소",
+     "name": "Ursa"
+    }
+   ],
+   "summary": "Eater 전국 「올해의 셰프」에 투손 파인다이닝 우르사의 에런 로페스가 뽑힘",
+   "why": null,
+   "how": "소노라 사막의 재료와 조리법에 맞춘 식당. 로페스는 캘리포니아 엘센트로에서 시작해 아내 준 치와 함께 투손으로 옮김",
+   "content": null,
+   "places": [
+    {
+     "name": "Tucson",
+     "id": "0ff2a8e8-56a8-462e-8efd-fb8aa246d22a",
+     "auto": true
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Aaron Lopez",
+     "id": null
+    },
+    {
+     "name": "June Chee",
+     "id": null
+    }
+   ],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Eater",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "200d8870-d1f9-421a-a2bc-0e39130a12dd",
+   "title": "Eater 2026 올해의 셰프 — 카를로스 델가도(마루 산)",
+   "type": "수상",
+   "date": "2026-11-10",
+   "parent": [
+    {
+     "id": "2ff99e5d-4cd6-4d49-b3f5-99d93c7cb197",
+     "category": "장소",
+     "name": "Maru San"
+    }
+   ],
+   "summary": "Eater 전국 「올해의 셰프」에 워싱턴 D.C. 마루 산의 카를로스 델가도가 뽑힘",
+   "why": null,
+   "how": "2026년 2월 캐피털 힐에 연 25석 카운터 식당. 닛케이식 핸드롤 · 회 · 해산물, 15코스 시식 메뉴. 델가도는 리마 출신 36세로 페루 식당 Causa · Bar Amazonia 도 운영, 호세 안드레스 밑에서 China Chilcano 총괄 셰프를 지냄",
+   "content": null,
+   "places": [
+    {
+     "name": "District of Columbia",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Carlos Delgado",
+     "id": null
+    },
+    {
+     "name": "Simon Lam",
+     "id": null
+    }
+   ],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Eater",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "03c570dd-4e63-4f62-8fac-bd2e773560b5",
+   "title": "Eater 2026 올해의 셰프 — 필라 론(사오)",
+   "type": "수상",
+   "date": "2026-11-10",
+   "parent": [
+    {
+     "id": "85fb9270-5279-4095-9724-c56b78e00941",
+     "category": "장소",
+     "name": "Sao"
+    }
+   ],
+   "summary": "Eater 전국 「올해의 셰프」에 필라델피아 동남아 굴 · 날것 요리 집 사오의 필라 론이 뽑힘",
+   "why": null,
+   "how": "사오는 지난해 9월 개업. 론은 아내 레이철과 함께 2023년에 연 캄보디아 국수집 Mawn 도 운영",
+   "content": null,
+   "places": [
+    {
+     "name": "Philadelphia County",
+     "id": "1a217382-df38-40f5-b895-d1ee3a0e683c",
+     "auto": true
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Phila Lorn",
+     "id": null
+    }
+   ],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Eater",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "7d6b0e03-e7c4-4690-b0f9-2e123833cd3f",
+   "title": "Eater 2026 올해의 요리 — 로스트 치킨과 시저 판자넬라",
+   "type": "수상",
+   "date": "2026-11-10",
+   "parent": [
+    {
+     "id": "23f8a77e-794e-4ab2-851f-f8f57dcdd4cb",
+     "category": "장소",
+     "name": "Henrietta"
+    }
+   ],
+   "summary": "Eater 전국 「올해의 요리」에 LA 헨리에타의 로스트 치킨과 시저 판자넬라가 뽑힘",
+   "why": null,
+   "how": "반 마리를 손으로 집을 크기로 잘라 그을려 내고, 구운 레몬과 치커리 시저 판자넬라를 곁들임. 빵은 옆 Clark Street Bakery 것",
+   "content": null,
+   "places": [
+    {
+     "name": "Los Angeles",
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
+     "auto": true
+    }
+   ],
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Eater",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "a595a34b-808f-46f3-acca-7efb74d4e0a5",
+   "title": "Eater 2026 올해의 요리 — 아일랜드 커리 크랩 칼랄루 딥",
+   "type": "수상",
+   "date": "2026-11-10",
+   "parent": [
+    {
+     "id": "07864ceb-03e1-42f8-a0a9-5ba60abf4bd3",
+     "category": "장소",
+     "name": "Dougla Kitchen"
+    }
+   ],
+   "summary": "Eater 전국 「올해의 요리」에 오클라호마시티 더글라 키친의 커리 크랩 칼랄루 딥이 뽑힘",
+   "why": null,
+   "how": "토란 칩과 함께 내는 전채. 셰프 앤드루 블랙이 인도계 자메이카 집안 음식을 내는 시내 식당",
+   "content": null,
+   "places": [
+    {
+     "name": "Oklahoma City",
+     "id": "02e15feb-39c8-4b02-9f14-eb563247606d",
+     "auto": true
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Andrew Black",
+     "id": null
+    }
+   ],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Eater",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "37ffc33a-6330-4bb6-8acd-f835846bbd2e",
+   "title": "Eater 2026 올해의 요리 — 월아이 볼살 초절임",
+   "type": "수상",
+   "date": "2026-11-10",
+   "parent": [
+    {
+     "id": "ee1952ed-043f-4e2e-9811-531fe35c869f",
+     "category": "장소",
+     "name": "Rosy"
+    }
+   ],
+   "summary": "Eater 전국 「올해의 요리」에 클리블랜드 로지의 월아이 볼살 초절임(17달러)이 뽑힘",
+   "why": null,
+   "how": "웨스트 사이드 마켓 Kate's Fish 가 모아 둔 볼살로 3주에 한 번쯤, 나흘 정도만 냄. 제철 채소를 레몬에 절여 곁들임. 셰프 비니 치미노, 2026년 2월 개업한 동유럽풍 식당",
+   "content": null,
+   "places": [
+    {
+     "name": "Cleveland",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Vinnie Cimino",
+     "id": null
+    }
+   ],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Eater",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "c31094b0-4c69-4a10-aa43-870cbe018c70",
+   "title": "Eater 2026 올해의 요리 — 캔털루프 베르쥐 테린",
+   "type": "수상",
+   "date": "2026-11-10",
+   "parent": [
+    {
+     "id": "1cf8ee0c-b549-408e-84b9-e4f4fd6939b7",
+     "category": "장소",
+     "name": "Junior"
+    }
+   ],
+   "summary": "Eater 전국 「올해의 요리」에 내슈빌 주니어의 캔털루프 베르쥐 테린이 뽑힘",
+   "why": null,
+   "how": "캔털루프 조각을 베르쥐(덜 익은 포도즙) 젤리에 넣은 디저트. 강황 기름 멜론 큐브와 캐모마일 크림을 곁들임. 셰프 필립 크라젝, 셰프 드 퀴진 브라이언 메히아",
+   "content": null,
+   "places": [
+    {
+     "name": "Davidson County",
+     "id": null
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Philip Krajeck",
+     "id": null
+    },
+    {
+     "name": "Brian Mejia",
+     "id": null
+    }
+   ],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Eater",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "3ed9c058-1037-481b-9aa7-647325f3a971",
+   "title": "Eater 2026 올해의 요리 — 퍼프드 그레인 토스트",
+   "type": "수상",
+   "date": "2026-11-10",
+   "parent": [
+    {
+     "id": "2760b244-b7b2-4357-9614-a00c83c0baf0",
+     "category": "장소",
+     "name": "All Well"
+    }
+   ],
+   "summary": "Eater가 새로 만든 전국 「올해의 요리」에 시카고 올 웰의 퍼프드 그레인 토스트가 뽑힘",
+   "why": null,
+   "how": "5코스 시식 메뉴(145달러)에만 나옴. 꿀 넣은 메밀 버터, 델리스 드 부르고뉴 치즈 파스타와 닭 육수와 함께 냄. Oriole 출신 래리 펠드마이어와 노아 샌도벌이 웨스트 루프에 연 식당",
+   "content": null,
+   "places": [
+    {
+     "name": "Chicago",
+     "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7",
+     "auto": true
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Larry Feldmeier",
+     "id": null
+    },
+    {
+     "name": "Noah Sandoval",
+     "id": null
+    }
+   ],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Eater",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "f23b1f84-a472-42c1-bbaa-913e6f380efa",
+   "title": "「Endgame Encore」 극장 재개봉, 첫 주말 세계 1위",
+   "type": "뉴스",
+   "date": "2026-09-25",
+   "parent": [
+    {
+     "id": "6b641f0b-eaed-42d8-a332-239565bb4aeb",
+     "category": "작품",
+     "name": "Avengers: Endgame"
+    }
+   ],
+   "summary": "2019년 영화를 새로 손본 「Avengers: Endgame Encore」가 9월 25일 극장에 다시 걸려 첫 주말 세계 약 8,600만 달러로 1위",
+   "why": null,
+   "how": "디즈니의 프리미엄 상영 「Infinity Vision」 첫 작품으로, 그 상영관에서만 1,350만 달러. 「Infinity Vision」은 12월 「Avengers: Doomsday」로 이어짐. 11월 11일 보도로 Disney+ 공개가 확정됨(공개 날짜는 읽은 부분에 없음)",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Disney+",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.imdb.com/news/ni66105661/",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "6f861606-b196-4bdb-8b4f-fa4744462a3f",
+   "title": "다탕 SUV 앞뒤 휠 바꿔 단 조립 실수 인정 · 사과",
+   "type": "뉴스",
+   "date": "2026-11-11",
+   "parent": [
+    {
+     "id": "2af0d418-95be-416c-84d3-8875ae58ee54",
+     "category": "단체",
+     "name": "BYD"
+    }
+   ],
+   "summary": "BYD가 올해 만든 다탕 SUV 일부에 좁은 앞바퀴를 뒤에, 넓은 뒷바퀴를 앞에 단 조립 실수를 인정하고 사과",
+   "why": "차주들이 마모 · 안전 문제를 제기",
+   "how": "BYD는 안전 위험은 없고 생산 공정은 바로잡았다고 밝힘. 차주는 교체를 받을 수 있고 보증 기간은 새로 시작. 해당 대수는 밝히지 않음. 다탕은 중국에서 23만 9,900위안인 7인승 SUV",
+   "content": null,
+   "places": [
+    {
+     "name": "China",
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300",
+     "auto": true
+    }
+   ],
+   "featuring": [],
+   "other_fields": {},
+   "url": "https://www.telegraph.co.uk/business/2026/11/11/chinese-car-giant-apologises-putting-wheels-on-wrong/",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "52ae49fe-3238-405a-99ca-531d7bffb9d0",
+   "title": "포브스, 유산 가치 20억 달러 이상으로 평가",
+   "type": "뉴스",
+   "date": "2026-11-11",
+   "parent": [
+    {
+     "id": "721b19ae-497c-4e7b-9709-310f2e95d525",
+     "category": "인물",
+     "name": "Michael Jackson"
+    }
+   ],
+   "summary": "포브스가 마이클 잭슨 유산의 가치를 20억 달러 이상으로 추산. 최근 12개월 동안 음악 · 공연 · 전기 영화로 1억 4천만 달러를 벌어들임",
+   "why": null,
+   "how": "2021년 연방 조세법원은 사망 당시(2009년) 자산 가치를 약 1억 1천만 달러로 판단했었음. 포브스는 살아 있다면 제이지 다음으로 부유한 음악인이라고 봄. 유산은 아직 상속 절차가 끝나지 않았고, 패리스 잭슨 쪽 청구서에 따르면 현금 보유액은 8억 5천만 달러. 국세청 세금 분쟁도 끝나지 않음",
+   "content": null,
+   "places": [],
+   "featuring": [
+    {
+     "name": "Paris Jackson",
+     "id": "27901190-cc4c-4132-b278-ab5476bedd33",
+     "auto": true
+    },
+    {
+     "name": "John Branca",
+     "id": null
+    }
+   ],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Forbes",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.forbes.com/sites/mattcraig/2026/11/11/michael-jacksons-estate-is-now-worth-2-billion-but-his-daughter-says-she-cant-access-it/",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
   }
  ],
  "new_planets": [
@@ -8709,6 +9102,301 @@
     }
    ],
    "added_at": "2026-11-12T19:51:40.499151+00:00"
+  },
+  {
+   "id": "2760b244-b7b2-4357-9614-a00c83c0baf0",
+   "name": "All Well",
+   "category": "장소",
+   "alias": "올 웰",
+   "disambig": "시카고 웨스트 루프의 음식점",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "cuisine": "뉴아메리칸 시식 코스",
+    "address": "West Loop, Chicago, IL",
+    "menu": "5코스 시식 메뉴 145달러, 퍼프드 그레인 토스트",
+    "summary": "Oriole 출신 래리 펠드마이어 · 노아 샌도벌의 식당",
+    "sources": [
+     "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026"
+    ]
+   },
+   "source_url": "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026",
+   "links": [
+    {
+     "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7",
+     "category": "장소",
+     "name": "Chicago",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "6b641f0b-eaed-42d8-a332-239565bb4aeb",
+   "name": "Avengers: Endgame",
+   "category": "작품",
+   "alias": "어벤져스: 엔드게임, Avengers: Endgame Encore",
+   "disambig": "2019년 마블 스튜디오 영화",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "medium": "영화",
+    "synopsis": "마블 스튜디오의 2019년 「어벤져스」 시리즈 영화. 2026년 9월 25일 새로 손본 「Endgame Encore」판이 극장에 다시 걸림",
+    "sources": [
+     "https://www.imdb.com/news/ni66105661/"
+    ]
+   },
+   "source_url": "https://www.imdb.com/news/ni66105661/",
+   "links": [
+    {
+     "id": "3528df46-589d-4a05-9910-c4f66ec53ae8",
+     "category": "허브",
+     "name": "United States Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "07864ceb-03e1-42f8-a0a9-5ba60abf4bd3",
+   "name": "Dougla Kitchen",
+   "category": "장소",
+   "alias": "더글라 키친",
+   "disambig": "오클라호마시티의 인도계 자메이카 음식점",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "cuisine": "인도계 자메이카",
+    "address": "Oklahoma City, OK",
+    "menu": "아일랜드 커리 크랩 칼랄루 딥",
+    "summary": "셰프 앤드루 블랙의 카리브 음식점",
+    "sources": [
+     "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026"
+    ]
+   },
+   "source_url": "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026",
+   "links": [
+    {
+     "id": "02e15feb-39c8-4b02-9f14-eb563247606d",
+     "category": "장소",
+     "name": "Oklahoma City",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "1cf8ee0c-b549-408e-84b9-e4f4fd6939b7",
+   "name": "Junior",
+   "category": "장소",
+   "alias": "주니어",
+   "disambig": "내슈빌의 음식점",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "address": "Nashville, TN",
+    "menu": "캔털루프 베르쥐 테린",
+    "summary": "필립 크라젝 · 브라이언 메히아의 식당",
+    "sources": [
+     "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026"
+    ]
+   },
+   "source_url": "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026",
+   "links": [
+    {
+     "id": "616be355-292c-44a5-a81e-87f7dd693ff6",
+     "category": "장소",
+     "name": "Davidson County",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "5c0ea54f-ba12-493e-a3d2-7657523e523a",
+   "name": "Maria Isabel",
+   "category": "장소",
+   "alias": "마리아 이사벨",
+   "disambig": "샌프란시스코의 멕시코 음식점",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "cuisine": "멕시코",
+    "address": "San Francisco, CA",
+    "menu": "아카풀코식 세비체, 오리 엔몰라다, 초초요테",
+    "summary": "로라 · 사야트 오질마즈 부부의 멕시코 식당(2026년 개업)",
+    "sources": [
+     "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026"
+    ]
+   },
+   "source_url": "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026",
+   "links": [
+    {
+     "id": "54578aae-1db2-40b8-a187-948037d0b02e",
+     "category": "장소",
+     "name": "San Francisco County",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "2ff99e5d-4cd6-4d49-b3f5-99d93c7cb197",
+   "name": "Maru San",
+   "category": "장소",
+   "alias": "마루 산",
+   "disambig": "워싱턴 D.C. 캐피털 힐의 닛케이 해산물 음식점",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "cuisine": "닛케이 해산물",
+    "address": "Capitol Hill, Washington, DC",
+    "menu": "핸드롤, 회, 15코스 시식 메뉴",
+    "summary": "카를로스 델가도의 25석 카운터 식당(2026년 2월 개업)",
+    "sources": [
+     "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026"
+    ]
+   },
+   "source_url": "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026",
+   "links": [
+    {
+     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a",
+     "category": "장소",
+     "name": "District of Columbia",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "ee1952ed-043f-4e2e-9811-531fe35c869f",
+   "name": "Rosy",
+   "category": "장소",
+   "alias": "로지",
+   "disambig": "클리블랜드의 동유럽풍 음식점",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "cuisine": "동유럽풍",
+    "address": "Cleveland, OH",
+    "menu": "월아이 볼살 초절임 17달러(가끔만)",
+    "summary": "비니 치미노의 식당(2026년 2월 개업), 자매 식당 Cordelia",
+    "sources": [
+     "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026"
+    ]
+   },
+   "source_url": "https://www.eater.com/dining-out/993551/best-dishes-eater-awards-2026",
+   "links": [
+    {
+     "id": "0237b5c9-c10f-4c38-839c-7fbd9f5c8e5d",
+     "category": "장소",
+     "name": "Cleveland",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "06724d22-e7b9-408c-a2cd-00be84157a1f",
+   "name": "Roya",
+   "category": "장소",
+   "alias": "로야",
+   "disambig": "오스틴의 페르시아 음식점",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "cuisine": "페르시아",
+    "address": "Austin, TX",
+    "menu": "소프레 프리픽스 85달러(쉬린 폴로, 고르메 사브지, 케밥 세 가지)",
+    "summary": "아미르 하지말레키의 페르시아 식당",
+    "sources": [
+     "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026"
+    ]
+   },
+   "source_url": "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026",
+   "links": [
+    {
+     "id": "c7038f4b-c03e-4718-8d80-2a0f7ef6ca5b",
+     "category": "장소",
+     "name": "Austin",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "85fb9270-5279-4095-9724-c56b78e00941",
+   "name": "Sao",
+   "category": "장소",
+   "alias": "사오",
+   "disambig": "필라델피아의 동남아 굴 · 날것 요리 음식점",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "cuisine": "동남아 굴 · 날것 요리",
+    "address": "Philadelphia, PA",
+    "menu": "남카오 샐러드, 참치 카르파초",
+    "summary": "필라 · 레이철 론 부부의 굴 요리 집(2025년 9월 개업)",
+    "sources": [
+     "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026"
+    ]
+   },
+   "source_url": "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026",
+   "links": [
+    {
+     "id": "1a217382-df38-40f5-b895-d1ee3a0e683c",
+     "category": "장소",
+     "name": "Philadelphia County",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "332275dd-4b1c-4389-8c67-3170be37ab36",
+   "name": "Ursa",
+   "category": "장소",
+   "alias": "우르사",
+   "disambig": "투손의 소노라 사막 파인다이닝",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "음식점",
+    "cuisine": "소노라 사막 파인다이닝",
+    "address": "Tucson, AZ",
+    "summary": "에런 로페스 · 준 치 부부의 파인다이닝",
+    "sources": [
+     "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026"
+    ]
+   },
+   "source_url": "https://www.eater.com/dining-out/993553/best-chef-eater-awards-2026",
+   "links": [
+    {
+     "id": "0ff2a8e8-56a8-462e-8efd-fb8aa246d22a",
+     "category": "장소",
+     "name": "Tucson",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-13T01:12:04.757453+00:00"
   }
  ],
  "bulk_added": []
