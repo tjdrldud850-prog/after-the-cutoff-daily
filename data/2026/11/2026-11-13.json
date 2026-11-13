@@ -1,10 +1,10 @@
 {
  "date": "2026-11-13",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-13T01:16:32+00:00",
+ "exported_at": "2026-11-13T01:19:43+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
-  "updates": 193,
+  "updates": 194,
   "new_planets": 105,
   "bulk_added": 0
  },
@@ -5981,6 +5981,36 @@
    "url": "https://www.forbes.com/sites/mattcraig/2026/11/11/michael-jacksons-estate-is-now-worth-2-billion-but-his-daughter-says-she-cant-access-it/",
    "source": "뉴스",
    "added_at": "2026-11-13T01:12:04.757453+00:00"
+  },
+  {
+   "id": "ac962b72-4771-4385-ae5b-84774a899a9f",
+   "title": "「Endgame Encore」 11월 13일 Disney+ 공개",
+   "type": "뉴스",
+   "date": "2026-11-13",
+   "parent": [
+    {
+     "id": "6b641f0b-eaed-42d8-a332-239565bb4aeb",
+     "category": "작품",
+     "name": "Avengers: Endgame"
+    }
+   ],
+   "summary": "9월 극장에 다시 건 「어벤져스: 엔드게임 앙코르」가 11월 13일 Disney+ 로 공개",
+   "why": null,
+   "how": "디즈니+ 가 12일 밝힘. 후속작 「Avengers: Doomsday」로 이어지는 쿠키 영상이 들어 있음. 「둠스데이」는 12월 16일 한국에서 세계 최초 개봉. 재개봉으로 「엔드게임」 세계 누적 흥행은 29억 4,265만 달러가 되어 「아바타」를 제치고 역대 1위",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Disney+",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.newsis.com/view/NISX20261112_0003866102",
+   "source": "뉴스",
+   "added_at": "2026-11-13T01:19:40.145542+00:00"
   }
  ],
  "new_planets": [
