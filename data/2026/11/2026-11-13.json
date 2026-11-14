@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-13T01:19:43+00:00",
+ "exported_at": "2026-11-14T01:04:04+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 194,
@@ -352,7 +352,8 @@
       "name": "The Walt Disney Company",
       "id": "13736a10-5f9b-477b-87ad-84d7e48f18ce"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-13 · オリコン · https://news.yahoo.co.jp/articles/27e5fed8bad545e6051106784c2ae63e16db8876\n2026-11-12 · ENCOUNT(Yahoo!ニュース) · https://news.yahoo.co.jp/articles/ae1bf5e0facab887c0fc1c47e9063cdf4bd9877b"
    },
    "url": "https://deadline.com/2026/11/lucasfilm-star-wars-50th-anniversary-rerelease-imax-1237221738/",
    "source": "뉴스",
@@ -410,7 +411,8 @@
       "name": "Google",
       "id": "b2a52571-fe91-4107-a28c-8883139cb10b"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-13 · MBC · https://imnews.imbc.com/replay/2026/nwdesk/article/6865526_37004.html"
    },
    "url": "https://www.hani.co.kr/arti/economy/it/1287111.html",
    "source": "뉴스",
@@ -1146,7 +1148,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-13 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711799"
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711317",
    "source": "뉴스",
    "added_at": "2026-11-12T19:51:40.499151+00:00"
@@ -1795,7 +1799,8 @@
       "name": "해양수산부",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-13 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711936"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711002",
    "source": "뉴스",
@@ -1824,7 +1829,9 @@
      "id": "d7452c36-e63f-4a45-800b-77a771a01c90"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-12 · Hollywood Reporter · https://www.hollywoodreporter.com/music/music-news/duran-duran-roger-taylor-retires-after-tinnitus-diagnosis-1236754096/"
+   },
    "url": "https://variety.com/2026/music/news/duran-duran-drummer-roger-taylor-exits-group-tinnitus-1236946365/",
    "source": "뉴스",
    "added_at": "2026-11-12T19:51:40.499151+00:00"
@@ -2671,7 +2678,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-13 · MBC · https://imnews.imbc.com/replay/2026/nwtoday/article/6865340_37012.html"
+   },
    "url": "https://www.newsis.com/view/NISX20261112_0003865553",
    "source": "뉴스",
    "added_at": "2026-11-12T19:51:40.499151+00:00"
@@ -2747,7 +2756,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-13 · KBS · https://news.kbs.co.kr/news/view.do?ncd=8711790&ref=DA"
+   },
    "url": "https://www.ytn.co.kr/_ln/0104_202611122253031244",
    "source": "뉴스",
    "added_at": "2026-11-12T19:51:40.499151+00:00"
@@ -3257,7 +3268,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-13 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712414"
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711643",
    "source": "뉴스",
    "added_at": "2026-11-12T19:51:40.499151+00:00"
@@ -3286,7 +3299,8 @@
       "name": "교육부",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-13 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711912"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711251",
    "source": "뉴스",
@@ -3650,7 +3664,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-13 · 뉴시스 · https://www.newsis.com/view/NISX20261113_0003866362"
+   },
    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/GBRTSNBVGFQWMNBUG44TMNJWGQ/",
    "source": "뉴스",
    "added_at": "2026-11-12T19:51:40.499151+00:00"
@@ -4362,7 +4378,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-13 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711914"
+   },
    "url": "https://www.hani.co.kr/arti/area/honam/1286999.html",
    "source": "뉴스",
    "added_at": "2026-11-12T19:51:40.499151+00:00"
@@ -4592,7 +4610,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-13 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261113086000704\n2026-11-13 · SBS · https://news.sbs.co.kr/news/endPage.do?news_id=N1008843986\n2026-11-13 · YTN · https://www.ytn.co.kr/_ln/0104_202611130810148554\n2026-11-13 · YTN · https://www.ytn.co.kr/_ln/0104_202611132141563621\n2026-11-12 · Eurogamer · https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns\n2026-11-12 · RTHK · https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1877593-20261112.htm"
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711651",
    "source": "뉴스",
    "added_at": "2026-11-12T19:51:40.499151+00:00"
