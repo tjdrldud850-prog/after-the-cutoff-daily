@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-14T01:04:04+00:00",
+ "exported_at": "2026-11-14T01:22:47+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 194,
@@ -5501,8 +5501,7 @@
    "places": [
     {
      "name": "San Francisco County",
-     "id": "54578aae-1db2-40b8-a187-948037d0b02e",
-     "auto": true
+     "id": "54578aae-1db2-40b8-a187-948037d0b02e"
     }
    ],
    "featuring": [
@@ -5586,8 +5585,7 @@
    "places": [
     {
      "name": "Tucson",
-     "id": "0ff2a8e8-56a8-462e-8efd-fb8aa246d22a",
-     "auto": true
+     "id": "0ff2a8e8-56a8-462e-8efd-fb8aa246d22a"
     }
    ],
    "featuring": [
@@ -5675,8 +5673,7 @@
    "places": [
     {
      "name": "Philadelphia County",
-     "id": "1a217382-df38-40f5-b895-d1ee3a0e683c",
-     "auto": true
+     "id": "1a217382-df38-40f5-b895-d1ee3a0e683c"
     }
    ],
    "featuring": [
@@ -5716,8 +5713,7 @@
    "places": [
     {
      "name": "Los Angeles",
-     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
-     "auto": true
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
     }
    ],
    "featuring": [],
@@ -5752,8 +5748,7 @@
    "places": [
     {
      "name": "Oklahoma City",
-     "id": "02e15feb-39c8-4b02-9f14-eb563247606d",
-     "auto": true
+     "id": "02e15feb-39c8-4b02-9f14-eb563247606d"
     }
    ],
    "featuring": [
@@ -5877,8 +5872,7 @@
    "places": [
     {
      "name": "Chicago",
-     "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7",
-     "auto": true
+     "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7"
     }
    ],
    "featuring": [
@@ -5952,8 +5946,7 @@
    "places": [
     {
      "name": "China",
-     "id": "49386dfc-092b-4a70-ae69-e361d1116300",
-     "auto": true
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300"
     }
    ],
    "featuring": [],
@@ -5982,8 +5975,7 @@
    "featuring": [
     {
      "name": "Paris Jackson",
-     "id": "27901190-cc4c-4132-b278-ab5476bedd33",
-     "auto": true
+     "id": "27901190-cc4c-4132-b278-ab5476bedd33"
     },
     {
      "name": "John Branca",
