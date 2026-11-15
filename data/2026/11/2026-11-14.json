@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-14T01:22:49+00:00",
+ "exported_at": "2026-11-15T01:49:08+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 215,
@@ -794,7 +794,8 @@
       "name": "세븐에잇레코즈",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-14 · 뉴시스 · https://www.newsis.com/view/NISX20261113_0003867854"
    },
    "url": "https://www.yna.co.kr/view/AKR20261113172100005",
    "source": "뉴스",
@@ -1005,7 +1006,9 @@
      "id": "b19f1023-3851-4773-8007-2305a5633b2f"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-14 · 뉴시스 · https://www.newsis.com/view/NISX20261114_0003868185"
+   },
    "url": "https://sports.donga.com/ent/article/all/20261113/135018318/1",
    "source": "뉴스",
    "added_at": "2026-11-14T00:59:28.732239+00:00"
@@ -3244,7 +3247,8 @@
       "name": "노디멘션",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-14 · 뉴시스 · https://www.newsis.com/view/NISX20261114_0003867968"
    },
    "url": "https://www.yna.co.kr/view/AKR20261113115100005",
    "source": "뉴스",
@@ -3372,7 +3376,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-14 · MBC · https://imnews.imbc.com/replay/2026/nwtoday/article/6865595_37012.html"
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712297",
    "source": "뉴스",
    "added_at": "2026-11-14T00:59:28.732239+00:00"
@@ -4350,7 +4356,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-13 · Al Jazeera · https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261113126651009",
    "source": "뉴스",
    "added_at": "2026-11-14T00:59:28.732239+00:00"
@@ -4979,7 +4987,8 @@
       "name": "외교부",
       "id": "de41e209-34fd-49c9-85c4-dcc697757ae5"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-13 · 한겨레 · https://www.hani.co.kr/arti/politics/politics_general/1287294.html"
    },
    "url": "https://www.yna.co.kr/view/AKR20261113174600083",
    "source": "뉴스",
@@ -5294,7 +5303,8 @@
     }
    ],
    "other_fields": {
-    "prev_record": "74c2b685-5958-48e1-a82e-e807dd0ad080"
+    "prev_record": "74c2b685-5958-48e1-a82e-e807dd0ad080",
+    "related_coverage": "2026-11-13 · KBS · https://news.kbs.co.kr/news/view.do?ncd=8712778"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711976",
    "source": "뉴스",
@@ -5893,7 +5903,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-13 · 香港01 · https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410566/bigbang%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%8B%E9%A8%B7-%E5%95%9F%E5%BE%B7%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7-%E6%83%A0%E5%B7%9E%E7%B2%89%E7%B5%B2%E7%A1%AC%E9%A3%9F%E9%BB%83%E7%89%9B%E5%83%B9%E4%BB%8D%E6%84%9F%E5%B9%B8%E7%A6%8F"
+   },
    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410192/bigbang%E6%BC%94%E5%94%B1%E6%9C%83%E6%8E%80%E8%A8%82%E6%88%BF%E6%BD%AE-%E5%95%9F%E5%BE%B7%E5%95%9F%E8%88%AA1331%E4%B8%80%E6%99%9A-1599-%E8%BC%83%E5%B9%B3%E6%97%A5%E8%B2%B45-4%E5%80%8D",
    "source": "뉴스",
    "added_at": "2026-11-14T00:59:28.732239+00:00"
