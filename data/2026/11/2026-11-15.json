@@ -1,7 +1,7 @@
 {
  "date": "2026-11-15",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-15T01:49:09+00:00",
+ "exported_at": "2026-11-16T00:00:43+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 125,
@@ -496,7 +496,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-15 · 스포츠동아 · https://sports.donga.com/ent/article/all/20261115/135024984/1"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261114049700005",
    "source": "뉴스",
    "added_at": "2026-11-15T01:42:15.452927+00:00"
@@ -650,7 +652,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-15 · 뉴시스 · https://www.newsis.com/view/NISX20261115_0003868291"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261114049700005",
    "source": "뉴스",
    "added_at": "2026-11-15T01:42:15.452927+00:00"
@@ -821,7 +825,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-14 · Variety · https://variety.com/2026/tv/news/shane-gillis-snl-monologue-backlash-whores-joke-1236947671/\n2026-11-14 · Hollywood Reporter · https://www.hollywoodreporter.com/tv/tv-news/shane-gillis-addresses-snl-monologue-backlash-1236755428/"
+   },
    "url": "https://deadline.com/2026/11/shane-gillis-addresses-snl-monologue-promised-no-controversy-1237223484/",
    "source": "뉴스",
    "added_at": "2026-11-15T01:42:15.452927+00:00"
@@ -851,7 +857,8 @@
       "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
       "auto": true
      }
-    ]
+    ],
+    "related_coverage": "2026-11-15 · 연합 · https://www.yna.co.kr/view/AKR20261115004600091"
    },
    "url": "https://www.newsis.com/view/NISX20261114_0003868246",
    "source": "뉴스",
@@ -1200,7 +1207,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-14 · 뉴시스 · https://www.newsis.com/view/NISX20261114_0003868240"
+   },
    "url": "https://www.newsis.com/view/NISX20261114_0003868088",
    "source": "뉴스",
    "added_at": "2026-11-15T01:42:15.452927+00:00"
@@ -1745,7 +1754,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-14 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261115000800109"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261114024600009",
    "source": "뉴스",
    "added_at": "2026-11-15T01:42:15.452927+00:00"
@@ -1791,7 +1802,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-15 · 스포츠동아 · https://sports.donga.com/ent/article/all/20261115/135026709/1"
+   },
    "url": "https://sports.donga.com/ent/article/all/20261114/135024003/1",
    "source": "뉴스",
    "added_at": "2026-11-15T01:42:15.452927+00:00"
@@ -2968,7 +2981,8 @@
       "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
       "auto": true
      }
-    ]
+    ],
+    "related_coverage": "2026-11-15 · 스포츠동아 · https://sports.donga.com/ent/article/all/20261115/135024944/1"
    },
    "url": "https://www.chosun.com/entertainments/music/2026/11/14/MJRWIZJQMMYTEYZTMNQTIMJUHE/",
    "source": "뉴스",
@@ -3315,7 +3329,8 @@
       "id": "3c8b6d16-790f-4d2f-a837-7e84ca26ce13",
       "auto": true
      }
-    ]
+    ],
+    "related_coverage": "2026-11-14 · Hollywood Reporter · https://www.hollywoodreporter.com/movies/movie-news/james-gunn-skydance-man-of-tomorrow-superman-sequel-dc-exit-1236755480/\n2026-11-14 · Variety · https://variety.com/2026/film/news/james-gunn-skydance-superman-man-of-tomorrow-dc-exit-1236947669/"
    },
    "url": "https://deadline.com/2026/11/james-gunn-skydance-man-of-tomorrow-1237223531/",
    "source": "뉴스",
