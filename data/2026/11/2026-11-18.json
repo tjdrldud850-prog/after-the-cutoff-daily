@@ -1,11 +1,11 @@
 {
  "date": "2026-11-18",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-17T20:40:52+00:00",
+ "exported_at": "2026-11-18T23:24:11+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 157,
-  "new_planets": 148,
+  "new_planets": 238,
   "bulk_added": 0
  },
  "updates": [
@@ -542,7 +542,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-17 · Deadline · https://deadline.com/2026/11/grand-theft-auto-vi-game-awards-nominations-1237227159/"
+   },
    "url": "https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480/",
    "source": "뉴스",
    "added_at": "2026-11-17T20:34:57.029011+00:00"
@@ -613,7 +615,8 @@
     "orgs": [
      {
       "name": "롯데지주",
-      "id": null
+      "id": "eefe9087-0190-4419-8bf0-af12f243a5d7",
+      "auto": true
      }
     ]
    },
@@ -744,7 +747,8 @@
       "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
       "auto": true
      }
-    ]
+    ],
+    "related_coverage": "2026-11-18 · OSEN · https://www.chosun.com/entertainments/broadcast/2026/11/18/HEZTMNDFHFSDQYJWGIZGGZRVMU/"
    },
    "url": "https://sports.donga.com/ent/article/all/20261117/135036444/1",
    "source": "뉴스",
@@ -826,7 +830,8 @@
       "id": "0601cc15-f634-4a05-ab30-32f3651987bf",
       "auto": true
      }
-    ]
+    ],
+    "related_coverage": "2026-11-18 · 映画チャンネル · https://news.yahoo.co.jp/articles/3c2c267ec4a3929e6c72ab03e32108957b2fc42e"
    },
    "url": "https://news.yahoo.co.jp/articles/68d86bb61f99e8674e0d33b4ebf16cf7b74afcc4?source=rss",
    "source": "뉴스",
@@ -873,7 +878,8 @@
       "id": "950a3028-8d2c-417a-bb80-22fc3f9b9600",
       "auto": true
      }
-    ]
+    ],
+    "related_coverage": "2026-11-18 · OSEN · https://www.chosun.com/entertainments/broadcast/2026/11/18/GQ3DINJWMJSWCOJQGRRTSZBQGA/"
    },
    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GRSDKMLEMZQTQYLBMQYTMZJTMU/",
    "source": "뉴스",
@@ -898,7 +904,8 @@
    "places": [],
    "featuring": [],
    "other_fields": {
-    "prev_record": "d9369254-40e1-480c-ac29-78748d0cb40a"
+    "prev_record": "d9369254-40e1-480c-ac29-78748d0cb40a",
+    "related_coverage": "2026-11-18 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715812"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715204",
    "source": "뉴스",
@@ -1201,23 +1208,28 @@
    "featuring": [
     {
      "name": "楊茜堯",
-     "id": null
+     "id": "47d9e67f-0623-432a-8229-ab6156a2b29c",
+     "auto": true
     },
     {
      "name": "陳豪",
-     "id": null
+     "id": "931b5493-ef19-4204-a174-93bdabaa33ec",
+     "auto": true
     },
     {
      "name": "林夏薇",
-     "id": null
+     "id": "c3c8b912-202f-4b77-a838-e6a713d6c814",
+     "auto": true
     },
     {
      "name": "馬國明",
-     "id": null
+     "id": "2afa14da-df0a-4104-ad5f-155ddc7e291d",
+     "auto": true
     },
     {
      "name": "陳展鵬",
-     "id": null
+     "id": "a586f0ae-9afc-4d19-bac7-5b27399db224",
+     "auto": true
     }
    ],
    "other_fields": {
@@ -1286,7 +1298,8 @@
    "featuring": [
     {
      "name": "젠슨 황",
-     "id": null
+     "id": "8505e922-0921-452c-8ce2-25c88f761d81",
+     "auto": true
     }
    ],
    "other_fields": {
@@ -1757,7 +1770,9 @@
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-18 · 스포츠조선 · https://www.chosun.com/entertainments/enter_general/2026/11/18/MY4WKZBVGUYDQMBYGNRDEMRZGA/"
+   },
    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GBTDKZLDMJRDOZLBGIYWKNBRMM/",
    "source": "뉴스",
    "added_at": "2026-11-17T20:34:57.029011+00:00"
@@ -1937,7 +1952,8 @@
      },
      {
       "name": "과학기술정보통신부",
-      "id": null
+      "id": "ea7b40a9-cc36-4df1-9b63-b84ef28f956b",
+      "auto": true
      }
     ]
    },
@@ -2284,7 +2300,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-18 · OSEN · https://www.chosun.com/entertainments/broadcast/2026/11/18/HE4TAMRWMI4WEMBSMY2TKZLEMM/"
+   },
    "url": "https://sports.donga.com/ent/article/all/20261116/135035944/1",
    "source": "뉴스",
    "added_at": "2026-11-17T20:34:57.029011+00:00"
@@ -2809,7 +2827,8 @@
     },
     {
      "name": "楊茜堯",
-     "id": null
+     "id": "47d9e67f-0623-432a-8229-ab6156a2b29c",
+     "auto": true
     },
     {
      "name": "姚子羚",
@@ -2994,7 +3013,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-18 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715579"
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715554",
    "source": "뉴스",
    "added_at": "2026-11-17T20:34:57.029011+00:00"
@@ -3264,7 +3285,8 @@
       "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
       "auto": true
      }
-    ]
+    ],
+    "related_coverage": "2026-11-18 · 스포츠동아 · https://sports.donga.com/ent/article/all/20261118/135045880/1"
    },
    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GZTDCNDEHBRTQOBVMQ2GEMRRGM/",
    "source": "뉴스",
@@ -3292,7 +3314,8 @@
     "orgs": [
      {
       "name": "행정안전부",
-      "id": null
+      "id": "b5a53446-9a45-4206-9482-17699beca2f9",
+      "auto": true
      }
     ]
    },
@@ -3402,7 +3425,8 @@
       "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
       "auto": true
      }
-    ]
+    ],
+    "related_coverage": "2026-11-17 · Deadline · https://deadline.com/2026/11/3-body-problem-season-2-trailer-photos-netflix-1237226524/"
    },
    "url": "https://deadline.com/2026/11/3-body-problem-season-2-release-date-netflix-1237225311/",
    "source": "뉴스",
@@ -4020,7 +4044,8 @@
     "orgs": [
      {
       "name": "Paramount Pictures",
-      "id": null
+      "id": "4d9849ef-b432-4b88-9c32-4629c6ccc21c",
+      "auto": true
      },
      {
       "name": "Warner Bros. Pictures",
@@ -4031,7 +4056,8 @@
       "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
       "auto": true
      }
-    ]
+    ],
+    "related_coverage": "2026-11-17 · Variety · https://variety.com/2026/film/news/skydance-movie-studio-executives-kira-goldberg-don-granger-jeff-goldstein-jesse-ehrmann-1236950394/"
    },
    "url": "https://deadline.com/2026/11/kira-goldberg-leaving-netflix-vp-film-paramount-pictures-1237226627/",
    "source": "뉴스",
@@ -4291,7 +4317,8 @@
     "orgs": [
      {
       "name": "대법원",
-      "id": null
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a",
+      "auto": true
      }
     ]
    },
@@ -4450,7 +4477,8 @@
       "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31",
       "auto": true
      }
-    ]
+    ],
+    "related_coverage": "2026-11-18 · 스포츠동아 · https://sports.donga.com/ent/article/all/20261117/135042485/1"
    },
    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/MNSTINRQMQ2WINBQG5QTSYRZGI/",
    "source": "뉴스",
@@ -4492,7 +4520,8 @@
       "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
       "auto": true
      }
-    ]
+    ],
+    "related_coverage": "2026-11-18 · MBC · https://imnews.imbc.com/replay/2026/nwtoday/article/6866495_37012.html"
    },
    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/MQYGCNTCHAYWMNJUMRQTQMJXGQ/",
    "source": "뉴스",
@@ -4755,7 +4784,8 @@
     "orgs": [
      {
       "name": "제주경찰청",
-      "id": null
+      "id": "54b84410-ef53-48fa-9e93-a9d93953f665",
+      "auto": true
      }
     ]
    },
@@ -5789,8 +5819,19 @@
     "summary": "대한민국 4인조 보이 그룹, 이창민 소속",
     "sources": [
      "https://www.wikidata.org/wiki/Q498701",
-     "https://sports.donga.com/ent/article/all/20261117/135038394/1"
-    ]
+     "https://sports.donga.com/ent/article/all/20261117/135038394/1",
+     "https://ko.wikipedia.org/wiki/2AM",
+     "https://namu.wiki/w/2AM",
+     "https://en.wikipedia.org/wiki/2AM_(band)"
+    ],
+    "org_type": "음악그룹",
+    "group_type": "보이그룹",
+    "formation_date": "2008-07-11",
+    "members": "조권, 이창민, 임슬옹, 정진운",
+    "leader": "조권",
+    "fandom_name": "IAM",
+    "official_color": "펄 블랙",
+    "active_years": "2008~2014, 2021~"
    },
    "source_url": "https://www.wikidata.org/wiki/Q498701",
    "links": [
@@ -5815,9 +5856,21 @@
    "fields": {
     "summary": "넷플릭스 SF 드라마, 류츠신 「삼체」 원작",
     "sources": [
-     "https://deadline.com/2026/11/3-body-problem-season-2-release-date-netflix-1237225311/"
+     "https://deadline.com/2026/11/3-body-problem-season-2-release-date-netflix-1237225311/",
+     "https://en.wikipedia.org/wiki/3_Body_Problem_(TV_series)"
     ],
-    "creator": "David Benioff, D. B. Weiss, Alexander Woo"
+    "creator": "David Benioff, D. B. Weiss, Alexander Woo",
+    "medium": "드라마",
+    "genre": "SF, 미스터리, 판타지",
+    "release_date": "2024-03-21",
+    "platform": "Netflix",
+    "production": "Plan B Entertainment, T-Street, BLB, The Three Body Universe, Primitive Streak",
+    "source_material": "Remembrance of Earth's Past(삼체 3부작, Liu Cixin)",
+    "source_medium": "소설",
+    "cast": "Jovan Adepo(Saul Durand), John Bradley(Jack Rooney), Rosalind Chao · Zine Tseng(Ye Wenjie), Liam Cunningham(Thomas Wade), Eiza González(Auggie Salazar), Jess Hong(Jin Cheng), Alex Sharp(Will Downing), Benedict Wong(Da Shi), Jonathan Pryce(Mike Evans)",
+    "length": "시즌 1 8회, 회당 44~63분",
+    "synopsis": "1960년대 중국의 한 젊은 과학자가 내린 결정이 수십 년 뒤 외계 문명 「산티」와의 접촉으로 이어진다. 옥스퍼드 동문 과학자 다섯 명과 정보기관 요원들이 물리 법칙이 무너지는 현상과 다가오는 침공에 맞선다. 시즌 2는 2027-01-14 공개 예정.",
+    "website": "https://www.netflix.com/title/81024821"
    },
    "source_url": "https://www.wikidata.org/wiki/Q110652727",
    "links": [
@@ -5842,11 +5895,36 @@
    "fields": {
     "summary": "일본의 배우",
     "sources": [
-     "https://news.yahoo.co.jp/articles/2152e49ebdf7678367fc006b451bd1154ce10236?source=rss"
-    ]
+     "https://news.yahoo.co.jp/articles/2152e49ebdf7678367fc006b451bd1154ce10236?source=rss",
+     "https://ja.wikipedia.org/wiki/飯沼愛",
+     "https://en.wikipedia.org/wiki/Ai_Iinuma",
+     "https://www.wikidata.org/wiki/Q110403901"
+    ],
+    "birth_date": "2003-08-05",
+    "birthplace": "일본 가가와현",
+    "nationality": "일본",
+    "gender": "여성",
+    "occupation": "배우",
+    "active_years": "2021~",
+    "organization": "TSUKIMI",
+    "measurements": "155cm",
+    "blood_type": "B형",
+    "notable_works": "VIVANT(오타 리호 역), My Second Aoharu, Nagisa no Shinkaron"
    },
    "source_url": "https://www.wikidata.org/wiki/Q110403901",
    "links": [
+    {
+     "id": "9433e036-1a4c-43e3-bc32-d21f3bd31552",
+     "category": "작품",
+     "name": "VIVANT",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "8514d5d7-31e2-4b84-a1f1-19946e312f8d",
+     "category": "장소",
+     "name": "Kagawa",
+     "rel": "BORN_IN"
+    },
     {
      "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
      "category": "허브",
@@ -5874,11 +5952,30 @@
    "fields": {
     "summary": "영국 스코틀랜드의 배우, 방송 진행자",
     "sources": [
-     "https://variety.com/2026/tv/news/the-traitors-season-5-premiere-date-peacock-first-look-1236950496/"
-    ]
+     "https://variety.com/2026/tv/news/the-traitors-season-5-premiere-date-peacock-first-look-1236950496/",
+     "https://en.wikipedia.org/wiki/Alan_Cumming",
+     "https://ko.wikipedia.org/wiki/앨런_커밍",
+     "https://www.wikidata.org/wiki/Q316629",
+     "https://alancumming.com/bio"
+    ],
+    "birth_date": "1965-01-27",
+    "birthplace": "영국 스코틀랜드 퍼스 킨로스 애버펠디",
+    "nationality": "영국, 미국",
+    "gender": "남성",
+    "occupation": "배우, 영화감독, 방송인",
+    "education": "Royal Conservatoire of Scotland",
+    "notable_works": "Cabaret(뮤지컬, 토니상), GoldenEye, Spy Kids, X2, The Good Wife, The Traitors(미국판 진행)",
+    "website": "https://alancumming.com",
+    "active_years": "1984~"
    },
    "source_url": "https://www.wikidata.org/wiki/Q316629",
    "links": [
+    {
+     "id": "e2207e63-9191-4ff7-a18a-d2fbc6c7d5bc",
+     "category": "장소",
+     "name": "Perth and Kinross",
+     "rel": "BORN_IN"
+    },
     {
      "id": "hub_united_kingdom_entertainer_1a9528",
      "category": "허브",
@@ -5947,11 +6044,31 @@
    "fields": {
     "summary": "일본의 성우",
     "sources": [
-     "https://www.animenewsnetwork.com/news/2026-11-17/mistress-kanan-is-devilishly-easy-season-2-1st-video-unveils-more-cast-and-staff-2027-debut/.243905"
-    ]
+     "https://www.animenewsnetwork.com/news/2026-11-17/mistress-kanan-is-devilishly-easy-season-2-1st-video-unveils-more-cast-and-staff-2027-debut/.243905",
+     "https://ja.wikipedia.org/wiki/古賀葵",
+     "https://en.wikipedia.org/wiki/Aoi_Koga",
+     "https://ko.wikipedia.org/wiki/코가_아오이",
+     "https://www.wikidata.org/wiki/Q26678197"
+    ],
+    "birth_date": "1993-08-24",
+    "birthplace": "일본 사가현",
+    "nationality": "일본",
+    "gender": "여성",
+    "occupation": "성우",
+    "active_years": "2014~",
+    "organization": "81 Produce",
+    "measurements": "153cm",
+    "blood_type": "A형",
+    "notable_works": "かぐや様は告らせたい(시노미야 카구야), Mistress Kanan Is Devilishly Easy"
    },
    "source_url": "https://www.wikidata.org/wiki/Q26678197",
    "links": [
+    {
+     "id": "6c394a3e-a16e-4d30-aad9-cb2256906294",
+     "category": "장소",
+     "name": "Saga",
+     "rel": "BORN_IN"
+    },
     {
      "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
      "category": "허브",
@@ -6012,8 +6129,18 @@
    "fields": {
     "summary": "일본의 2인조 록 밴드",
     "sources": [
-     "https://news.yahoo.co.jp/articles/ea77c620f37b94dbe6df51cd305495f0db643fae?source=rss"
-    ]
+     "https://news.yahoo.co.jp/articles/ea77c620f37b94dbe6df51cd305495f0db643fae?source=rss",
+     "https://ja.wikipedia.org/wiki/B'z",
+     "https://en.wikipedia.org/wiki/B'z",
+     "https://www.wikidata.org/wiki/Q150186"
+    ],
+    "org_type": "음악그룹",
+    "group_type": "밴드",
+    "formation_date": "1988",
+    "members": "松本孝弘(Tak Matsumoto, 기타), 稲葉浩志(Koshi Inaba, 보컬)",
+    "parent_company": "VERMILLION",
+    "active_years": "1988~",
+    "website": "https://bz-vermillion.com"
    },
    "source_url": "https://www.wikidata.org/wiki/Q150186",
    "links": [
@@ -6038,11 +6165,26 @@
    "fields": {
     "summary": "미국의 케이블 방송 채널, 파라마운트 계열",
     "sources": [
-     "https://deadline.com/2026/11/louis-carr-leaving-bet-president-skydance-tv-restructuring-1237225357/"
-    ]
+     "https://deadline.com/2026/11/louis-carr-leaving-bet-president-skydance-tv-restructuring-1237225357/",
+     "https://en.wikipedia.org/wiki/BET",
+     "https://www.wikidata.org/wiki/Q880256"
+    ],
+    "org_type": "기업",
+    "formation_date": "1980-01-25",
+    "industry": "방송과엔터테인먼트",
+    "hq": "미국 뉴욕시",
+    "founder": "Robert L. Johnson, Sheila Johnson",
+    "parent_company": "BET Media Group (Skydance)",
+    "website": "https://www.bet.com"
    },
    "source_url": "https://www.wikidata.org/wiki/Q880256",
    "links": [
+    {
+     "id": "f3af9d9a-cc49-49e5-a4ef-26757f80af70",
+     "category": "단체",
+     "name": "Skydance",
+     "rel": "MEMBER_OF"
+    },
     {
      "id": "f02579db-1fc5-4376-995f-1ecc94a86a20",
      "category": "장소",
@@ -6095,7 +6237,14 @@
     "sources": [
      "https://news.yahoo.co.jp/articles/3c90cd585d55e01cd482a6bb104b06a31fe2688b?source=rss"
     ],
-    "cast": "Daigo Nishihata, Mai Fukagawa"
+    "cast": "Daigo Nishihata, Mai Fukagawa",
+    "medium": "드라마",
+    "genre": "멜로/로맨스, 스릴러, 판타지",
+    "release_date": "2027-01",
+    "platform": "TV Asahi",
+    "creator": "鹿目けい子(각본)",
+    "director": "宮田和弥, 竹園元",
+    "synopsis": "웃지 않는 젊은 변호사 요네다 아쓰시(니시하타 다이고)가 이사한 집 옷장에서 사고로 몸과 혼이 갈라진 유령 유키미(후카가와 마이)를 만난다. 49일 안에 몸을 찾지 못하면 목숨을 잃는 그녀와 함께 살며 사고의 진상을 쫓다 서로 끌리게 된다. 테레비 아사히 「오시드라 새터데이」 토요일 밤 11시 방송."
    },
    "source_url": "https://news.yahoo.co.jp/articles/3c90cd585d55e01cd482a6bb104b06a31fe2688b?source=rss",
    "links": [
@@ -6120,8 +6269,16 @@
    "fields": {
     "summary": "캐나다 파라마운트+ 리얼리티 예능, 「쇼어」 시리즈 캐나다판",
     "sources": [
-     "https://deadline.com/2026/11/canada-shore-season-2-teaser-trailer-first-look-images-1237226497/"
-    ]
+     "https://deadline.com/2026/11/canada-shore-season-2-teaser-trailer-first-look-images-1237226497/",
+     "https://en.wikipedia.org/wiki/Canada_Shore"
+    ],
+    "medium": "예능",
+    "release_date": "2026-01-22",
+    "platform": "Paramount+",
+    "production": "Insight Productions",
+    "cast": "시즌 1: Emmett Watson, Lila Romanin, Emmy Sharpe, Isaiah Crawford, Keyaira Snow, Bauer Swystun, Gizelle Fray, Ethan Maynard, Christopher Brown, Ryleigh Gregory · Snooki(보스)",
+    "length": "시즌 1 10회",
+    "synopsis": "캐나다 각지에서 모인 젊은이 열 명이 한 집에서 여름을 함께 보내는 생활 리얼리티로, 미국 「저지 쇼어」에서 이어진 「쇼어」 시리즈의 첫 캐나다판이다. 2026년 4월 시즌 2가 확정됐다."
    },
    "source_url": "https://www.wikidata.org/wiki/Q137841781",
    "links": [
@@ -6204,8 +6361,16 @@
    "fields": {
     "summary": "미국의 연예·스포츠 에이전시",
     "sources": [
-     "https://deadline.com/2026/11/hybe-caa-artist-representation-1237226005/"
-    ]
+     "https://deadline.com/2026/11/hybe-caa-artist-representation-1237226005/",
+     "https://en.wikipedia.org/wiki/Creative_Artists_Agency",
+     "https://www.wikidata.org/wiki/Q3002407"
+    ],
+    "org_type": "기업",
+    "formation_date": "1975",
+    "hq": "미국 로스앤젤레스 센추리시티",
+    "founder": "Michael Ovitz, Ron Meyer, Bill Haber, Rowland Perkins, Mike Rosenfeld",
+    "ceo": "Bryan Lourd",
+    "website": "https://www.caa.com"
    },
    "source_url": "https://www.wikidata.org/wiki/Q3002407",
    "links": [
@@ -6230,11 +6395,31 @@
    "fields": {
     "summary": "일본의 배우, なにわ男子 멤버",
     "sources": [
-     "https://news.yahoo.co.jp/articles/3c90cd585d55e01cd482a6bb104b06a31fe2688b?source=rss"
-    ]
+     "https://news.yahoo.co.jp/articles/3c90cd585d55e01cd482a6bb104b06a31fe2688b?source=rss",
+     "https://ja.wikipedia.org/wiki/西畑大吾",
+     "https://en.wikipedia.org/wiki/Daigo_Nishihata",
+     "https://www.wikidata.org/wiki/Q21996410"
+    ],
+    "birth_date": "1997-01-09",
+    "birthplace": "일본 오사카부",
+    "nationality": "일본",
+    "gender": "남성",
+    "occupation": "가수, 배우, 방송인",
+    "active_years": "2011~",
+    "organization": "STARTO ENTERTAINMENT",
+    "group": "なにわ男子",
+    "measurements": "167cm",
+    "blood_type": "AB형",
+    "notable_works": "ごちそうさん, あさが来た, コタローは1人暮らし, Boku to Kanojo no 49 Nichi"
    },
    "source_url": "https://www.wikidata.org/wiki/Q21996410",
    "links": [
+    {
+     "id": "9a576ff7-d48e-4b37-a221-f4c056d97415",
+     "category": "장소",
+     "name": "Osaka",
+     "rel": "BORN_IN"
+    },
     {
      "id": "8f9fcab0-dab5-4307-bde4-555866eb92e5",
      "category": "작품",
@@ -6381,9 +6566,20 @@
    "fields": {
     "summary": "2027년 후지TV 화요 드라마, 나가테 유카 만화 원작",
     "sources": [
-     "https://news.yahoo.co.jp/articles/f97541ae11d29bd2177a6ef7b936ac2dfd294db3?source=rss"
+     "https://news.yahoo.co.jp/articles/f97541ae11d29bd2177a6ef7b936ac2dfd294db3?source=rss",
+     "https://www.cinematoday.jp/news/N0157894"
     ],
-    "cast": "Jesse, Neru Nagahama"
+    "cast": "Jesse, Neru Nagahama",
+    "medium": "드라마",
+    "genre": "스릴러, 액션",
+    "release_date": "2027-01",
+    "platform": "Fuji Television",
+    "production": "Fuji Television, BABEL LABEL",
+    "director": "原廣利(치프 감독)",
+    "creator": "諸橋隼人, 鈴木洋介, 灯敦生(각본), ナガテユカ(원작)",
+    "source_material": "ハボウの轍～公安調査庁調査官・土師空也～(ナガテユカ, 그랜드 점프)",
+    "source_medium": "만화",
+    "synopsis": "총도 체포권도 없이 정보만으로 테러를 막는 일본 공안조사청 조사관 하제 구야(제시)와 신입 조사관 하즈키 히나타(나가하마 네루)가 국가를 흔드는 사건을 쫓는다. 공안조사청을 지상파 연속극으로 다룬 첫 작품. 후지TV 화요일 밤 9시."
    },
    "source_url": "https://news.yahoo.co.jp/articles/f97541ae11d29bd2177a6ef7b936ac2dfd294db3?source=rss",
    "links": [
@@ -6449,10 +6645,21 @@
    "fields": {
     "summary": "2027년 도카이TV 토요 드라마, 아키야마 가오리 만화 원작",
     "sources": [
-     "https://news.yahoo.co.jp/articles/525f85b77660b3275f245f5bcb3f2383066da7da?source=rss"
+     "https://news.yahoo.co.jp/articles/525f85b77660b3275f245f5bcb3f2383066da7da?source=rss",
+     "https://prtimes.jp/main/html/rd/p/000000671.000012860.html",
+     "https://realsound.jp/movie/2026/11/post-2586270.html"
     ],
     "release_date": "2027-01-09",
-    "cast": "Sayaka Isoyama"
+    "cast": "Sayaka Isoyama",
+    "medium": "드라마",
+    "genre": "멜로/로맨스, 드라마",
+    "platform": "Tokai Television, Fuji Television",
+    "production": "Tokai Television",
+    "creator": "柴田泉, ひかわかよ(각본), アキヤマ香(원작)",
+    "source_material": "いま「余生」って言いました？(アキヤマ香, BE・LOVE)",
+    "source_medium": "만화",
+    "synopsis": "이혼 뒤 고교생 아들을 홀로 키운 39세 회사원 후지노 레나(이소야마 사야카)는 아들이 독립하면 남은 삶은 「여생」이라고 여긴다. 82세 이모할머니의 연애에 마음이 흔들린 그녀가 대학 선배와 다시 만나며 엄마가 아닌 한 사람으로서 사랑과 일을 다시 시작한다. 도카이TV 토요일 밤 11시 40분.",
+    "director": "池澤辰也(테레팍)"
    },
    "source_url": "https://news.yahoo.co.jp/articles/525f85b77660b3275f245f5bcb3f2383066da7da?source=rss",
    "links": [
@@ -6477,11 +6684,29 @@
    "fields": {
     "summary": "미국의 방송 진행자",
     "sources": [
-     "https://variety.com/2026/tv/news/survivor-season-52-premiere-date-cbs-1236948922/"
-    ]
+     "https://variety.com/2026/tv/news/survivor-season-52-premiere-date-cbs-1236948922/",
+     "https://en.wikipedia.org/wiki/Jeff_Probst",
+     "https://www.wikidata.org/wiki/Q2914539",
+     "https://www.rottentomatoes.com/celebrity/jeff_probst",
+     "https://www.televisionacademy.com/bios/jeff-probst"
+    ],
+    "birth_date": "1961-11-04",
+    "birthplace": "미국 캔자스주 위치토",
+    "nationality": "미국",
+    "gender": "남성",
+    "occupation": "방송인, MC, 프로듀서",
+    "active_years": "1996~",
+    "education": "시애틀 퍼시픽 대학교",
+    "notable_works": "Survivor(2000~ 진행), The Jeff Probst Show(2012~2013)"
    },
    "source_url": "https://www.wikidata.org/wiki/Q2914539",
    "links": [
+    {
+     "id": "40f77733-0159-46ba-acfc-8867c0a59100",
+     "category": "장소",
+     "name": "Kansas",
+     "rel": "BORN_IN"
+    },
     {
      "id": "c7915347-5b13-4a94-a72b-586d186d41ff",
      "category": "작품",
@@ -6509,11 +6734,32 @@
    "fields": {
     "summary": "일본의 가수·배우, SixTONES 멤버",
     "sources": [
-     "https://news.yahoo.co.jp/articles/f97541ae11d29bd2177a6ef7b936ac2dfd294db3?source=rss"
-    ]
+     "https://news.yahoo.co.jp/articles/f97541ae11d29bd2177a6ef7b936ac2dfd294db3?source=rss",
+     "https://ja.wikipedia.org/wiki/ジェシー_(アイドル)",
+     "https://en.wikipedia.org/wiki/Jesse_(Japanese_singer)",
+     "https://www.wikidata.org/wiki/Q3178728"
+    ],
+    "real_name": "ルイス昌也ジェシー (Jesse Masaya Lewis)",
+    "birth_date": "1996-06-11",
+    "birthplace": "일본 도쿄도",
+    "nationality": "일본",
+    "gender": "남성",
+    "occupation": "가수, 배우, 모델",
+    "active_years": "2006~",
+    "organization": "STARTO ENTERTAINMENT",
+    "group": "SixTONES",
+    "measurements": "184cm",
+    "blood_type": "O형",
+    "notable_works": "私立バカレア高校, お嬢と番犬くん, Habou no Wadachi"
    },
    "source_url": "https://www.wikidata.org/wiki/Q3178728",
    "links": [
+    {
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
+     "category": "장소",
+     "name": "Tokyo",
+     "rel": "BORN_IN"
+    },
     {
      "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
      "category": "허브",
@@ -6547,11 +6793,29 @@
    "fields": {
     "summary": "미국의 DJ·음악 프로듀서",
     "sources": [
-     "https://variety.com/2026/music/news/john-summit-calls-out-grammys-after-no-nominations-1236949004/"
-    ]
+     "https://variety.com/2026/music/news/john-summit-calls-out-grammys-after-no-nominations-1236949004/",
+     "https://en.wikipedia.org/wiki/John_Summit",
+     "https://www.wikidata.org/wiki/Q120531443"
+    ],
+    "real_name": "John Walter Schuster",
+    "birth_date": "1994-07-29",
+    "birthplace": "미국 일리노이주 네이퍼빌",
+    "nationality": "미국",
+    "gender": "남성",
+    "occupation": "DJ, 프로듀서",
+    "active_years": "2017~",
+    "organization": "Experts Only(자기 레이블)",
+    "notable_works": "Deep End(2020), Comfort in Chaos(2024), Ctrl Escape(2026)",
+    "website": "https://www.johnsummitmusic.com"
    },
    "source_url": "https://www.wikidata.org/wiki/Q120531443",
    "links": [
+    {
+     "id": "4d70c14e-1141-4f8a-89f1-9fb13265642e",
+     "category": "장소",
+     "name": "Illinois",
+     "rel": "BORN_IN"
+    },
     {
      "id": "7e2a1dff-7772-40ec-bb25-59e589a90584",
      "category": "허브",
@@ -6574,8 +6838,18 @@
     "summary": "KBS 2TV 단막극 시리즈, 해마다 4분기 방송. 2026년은 노래를 소재로 한 8편 「사운드:트랙」(11월 18일 시작)",
     "sources": [
      "https://www.wikidata.org/wiki/Q12581318",
-     "https://www.chosun.com/entertainments/broadcast/2026/11/17/GE3DKY3DMFQWEMBTMMYTSMRZHE/"
-    ]
+     "https://www.chosun.com/entertainments/broadcast/2026/11/17/GE3DKY3DMFQWEMBTMMYTSMRZHE/",
+     "https://ko.wikipedia.org/wiki/KBS_드라마_스페셜"
+    ],
+    "medium": "드라마",
+    "genre": "드라마",
+    "release_date": "2010-05-15",
+    "platform": "KBS 2TV",
+    "production": "KBS",
+    "cast": "2026 「사운드:트랙」: 표예진, 이기택, 주종혁, 박유림, 한수아, 서수빈, 한예지, 정다빈",
+    "length": "해마다 단막극 여러 편(2026년 8편)",
+    "website": "https://program.kbs.co.kr/2tv/drama/soundtrack/pc/index.html",
+    "synopsis": "KBS 드라마시티가 끝난 뒤 2010년에 되살린 KBS 2TV 단막극 시리즈로, 신인 작가 · 연출가와 배우를 키우는 자리로 꼽힌다. 2026년에는 누구나 아는 노래 한 곡씩을 소재로 한 8편 「사운드:트랙」을 11월 18일부터 방송한다."
    },
    "source_url": "https://www.wikidata.org/wiki/Q12581318",
    "links": [
@@ -6720,10 +6994,21 @@
    "fields": {
     "summary": "2026년 일본 영화, 미아키 스가루 소설 원작",
     "sources": [
-     "https://news.yahoo.co.jp/articles/1740642421e9464fd2e401bb173dd209bb4e4ac7?source=rss"
+     "https://news.yahoo.co.jp/articles/1740642421e9464fd2e401bb173dd209bb4e4ac7?source=rss",
+     "https://movie.jorudan.co.jp/news/jrd_261012_01/",
+     "https://www.warnerbros.co.jp/movie/qea6v7g2hlhl/"
     ],
     "release_date": "2026-11-27",
-    "cast": "Takumi Kitamura, Natsuki Deguchi"
+    "cast": "Takumi Kitamura, Natsuki Deguchi",
+    "medium": "영화",
+    "genre": "멜로/로맨스",
+    "director": "Ryutaro Nakagawa",
+    "creator": "吉田恵里香(각본), 三秋縋(원작)",
+    "distributor": "Shochiku",
+    "source_material": "君の話(三秋縋)",
+    "source_medium": "소설",
+    "synopsis": "불행한 과거를 잊으려 기억을 지우는 치료를 받은 외로운 대학생 지히로 앞에, 만들어진 기억 속에만 있던 「만난 적 없는 소꿉친구」 도카가 나타난다. 둘 사이의 사랑을 그린 영화로, 주제가는 Mrs. GREEN APPLE의 「本と彗星」.",
+    "production": "「君の話」製作委員会(제작 간사: Warner Bros. Japan, Fuji Television)"
    },
    "source_url": "https://news.yahoo.co.jp/articles/1740642421e9464fd2e401bb173dd209bb4e4ac7?source=rss",
    "links": [
@@ -6799,6 +7084,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q717444",
    "links": [
     {
+     "id": "c830f7b0-7e8d-4445-a2f0-954fe93a5def",
+     "category": "단체",
+     "name": "Fuji Television",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "8bffbfb1-e40d-4a24-aa8b-8687a513562f",
      "category": "허브",
      "name": "Japan Drama",
@@ -6819,11 +7110,31 @@
    "fields": {
     "summary": "일본의 가수, B'z 보컬",
     "sources": [
-     "https://news.yahoo.co.jp/articles/ea77c620f37b94dbe6df51cd305495f0db643fae?source=rss"
-    ]
+     "https://news.yahoo.co.jp/articles/ea77c620f37b94dbe6df51cd305495f0db643fae?source=rss",
+     "https://ja.wikipedia.org/wiki/稲葉浩志",
+     "https://en.wikipedia.org/wiki/Koshi_Inaba",
+     "https://www.wikidata.org/wiki/Q938749"
+    ],
+    "birth_date": "1964-09-23",
+    "birthplace": "일본 오카야마현 쓰야마시",
+    "nationality": "일본",
+    "gender": "남성",
+    "occupation": "가수, 싱어송라이터, 작사가",
+    "active_years": "1985~",
+    "organization": "VERMILLION",
+    "group": "B'z",
+    "education": "요코하마 국립대학",
+    "notable_works": "B'z 보컬·작사, Singing Bird(솔로), Chubby Groove(INABA/SALAS)",
+    "website": "https://en-zine.jp/"
    },
    "source_url": "https://www.wikidata.org/wiki/Q938749",
    "links": [
+    {
+     "id": "a95d339f-435f-4d80-9663-15bff8ea761b",
+     "category": "장소",
+     "name": "Tsuyama",
+     "rel": "BORN_IN"
+    },
     {
      "id": "c51298c6-d3ed-458d-93e3-6ecc9d44a684",
      "category": "단체",
@@ -6851,11 +7162,39 @@
    "fields": {
     "summary": "일본의 배우",
     "sources": [
-     "https://news.yahoo.co.jp/articles/3c90cd585d55e01cd482a6bb104b06a31fe2688b?source=rss"
-    ]
+     "https://news.yahoo.co.jp/articles/3c90cd585d55e01cd482a6bb104b06a31fe2688b?source=rss",
+     "https://ja.wikipedia.org/wiki/深川麻衣",
+     "https://en.wikipedia.org/wiki/Mai_Fukagawa",
+     "https://ko.wikipedia.org/wiki/후카가와_마이",
+     "https://www.wikidata.org/wiki/Q11560035"
+    ],
+    "birth_date": "1991-03-29",
+    "birthplace": "일본 시즈오카현 이와타시",
+    "nationality": "일본",
+    "gender": "여성",
+    "occupation": "배우",
+    "active_years": "2010~",
+    "organization": "テンカラット",
+    "group": "노기자카46(2011~2016)",
+    "measurements": "162cm",
+    "blood_type": "O형",
+    "notable_works": "まんぷく, 青天を衝け, パレード, Boku to Kanojo no 49 Nichi",
+    "website": "https://fukagawamai.com/"
    },
    "source_url": "https://www.wikidata.org/wiki/Q11560035",
    "links": [
+    {
+     "id": "ad4a24ea-7c0b-4107-b3eb-ebf57ac7f223",
+     "category": "단체",
+     "name": "Nogizaka46",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "d2aeef9c-f567-4e5f-9b51-422ab69ea37f",
+     "category": "장소",
+     "name": "Iwata",
+     "rel": "BORN_IN"
+    },
     {
      "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
      "category": "허브",
@@ -6883,11 +7222,35 @@
    "fields": {
     "summary": "캐나다의 배우, 코미디언",
     "sources": [
-     "https://variety.com/2026/tv/news/only-murders-in-the-building-season-6-trailer-london-1236950251/"
-    ]
+     "https://variety.com/2026/tv/news/only-murders-in-the-building-season-6-trailer-london-1236950251/",
+     "https://en.wikipedia.org/wiki/Martin_Short",
+     "https://ko.wikipedia.org/wiki/마틴_쇼트",
+     "https://www.wikidata.org/wiki/Q329744"
+    ],
+    "real_name": "Martin Hayter Short",
+    "birth_date": "1950-03-26",
+    "birthplace": "캐나다 온타리오주 해밀턴",
+    "nationality": "캐나다, 미국",
+    "gender": "남성",
+    "occupation": "배우, 코미디언, 작가",
+    "active_years": "1972~",
+    "education": "맥마스터 대학교",
+    "notable_works": "SCTV, Saturday Night Live, Three Amigos, Father of the Bride, Only Murders in the Building"
    },
    "source_url": "https://www.wikidata.org/wiki/Q329744",
    "links": [
+    {
+     "id": "27f0861c-ce2f-4fed-9847-410e23bb98a9",
+     "category": "장소",
+     "name": "Ontario",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "db9ddc9d-fba3-4f59-94d6-684013485dce",
+     "category": "작품",
+     "name": "Saturday Night Live",
+     "rel": "APPEARED_IN"
+    },
     {
      "id": "92a5210b-f61c-4ffc-a5a5-db90a28ce361",
      "category": "작품",
@@ -6915,9 +7278,21 @@
    "fields": {
     "summary": "논코의 일본 만화·애니메이션",
     "sources": [
-     "https://www.animenewsnetwork.com/news/2026-11-17/mistress-kanan-is-devilishly-easy-season-2-1st-video-unveils-more-cast-and-staff-2027-debut/.243905"
+     "https://www.animenewsnetwork.com/news/2026-11-17/mistress-kanan-is-devilishly-easy-season-2-1st-video-unveils-more-cast-and-staff-2027-debut/.243905",
+     "https://en.wikipedia.org/wiki/Mistress_Kanan_Is_Devilishly_Easy"
     ],
-    "cast": "Aoi Koga"
+    "cast": "Aoi Koga",
+    "medium": "애니메이션",
+    "genre": "코미디, 멜로/로맨스",
+    "release_date": "2026-04-05",
+    "platform": "Tokyo MX, BS11",
+    "production": "Studio Kai",
+    "director": "Yasushi Muroya",
+    "creator": "Rintarō Ikeda(각본), Nonco(원작)",
+    "source_material": "カナン様はあくまでチョロい(Nonco, 주간 소년 매거진)",
+    "source_medium": "만화",
+    "length": "시즌 1 12회",
+    "synopsis": "학교 풍기위원장인 인기 많은 다카키요 가난은 사실 인간의 혼을 먹으러 온 악마다. 그녀가 불러낸 후배 남학생에게 오히려 쉽게 휘둘리며 벌어지는 러브 코미디로, 시즌 2는 2027년 방송 예정."
    },
    "source_url": "https://www.wikidata.org/wiki/Q124496871",
    "links": [
@@ -7004,7 +7379,13 @@
     "sources": [
      "https://news.yahoo.co.jp/articles/2152e49ebdf7678367fc006b451bd1154ce10236?source=rss"
     ],
-    "cast": "Ai Iinuma"
+    "cast": "Ai Iinuma",
+    "medium": "드라마",
+    "genre": "코미디, 드라마",
+    "platform": "NHK",
+    "production": "NHK 오사카 방송국",
+    "creator": "徳尾浩司(작)",
+    "synopsis": "사람을 조금 어려워하는 수의사 후지시로 나기사(이누마 아이)가 동물과 그 뒤에 있는 보호자의 사정에 힘껏 다가가 마지막을 함께 지키며 사람의 마음을 알아 가는 이야기. NHK 연속 TV 소설 117번째 작품으로 2027년도 후기에 방송한다."
    },
    "source_url": "https://news.yahoo.co.jp/articles/2152e49ebdf7678367fc006b451bd1154ce10236?source=rss",
    "links": [
@@ -7029,11 +7410,43 @@
    "fields": {
     "summary": "일본의 배우, 방송인",
     "sources": [
-     "https://news.yahoo.co.jp/articles/f97541ae11d29bd2177a6ef7b936ac2dfd294db3?source=rss"
-    ]
+     "https://news.yahoo.co.jp/articles/f97541ae11d29bd2177a6ef7b936ac2dfd294db3?source=rss",
+     "https://ja.wikipedia.org/wiki/長濱ねる",
+     "https://en.wikipedia.org/wiki/Neru_Nagahama",
+     "https://www.wikidata.org/wiki/Q42578712"
+    ],
+    "birth_date": "1998-09-04",
+    "birthplace": "일본 나가사키현",
+    "nationality": "일본",
+    "gender": "여성",
+    "occupation": "방송인, 모델, 배우, 작가",
+    "organization": "フラーム(2025~)",
+    "group": "케야키자카46 · 히라가나 케야키자카46(2015~2019)",
+    "measurements": "159cm",
+    "blood_type": "O형",
+    "notable_works": "舞いあがれ!, 十角館の殺人, Habou no Wadachi",
+    "website": "https://nagahamaneru.jp/"
    },
    "source_url": "https://www.wikidata.org/wiki/Q42578712",
    "links": [
+    {
+     "id": "7ecedf0e-3a5f-4d3e-8443-0b7fbd4ac8b3",
+     "category": "단체",
+     "name": "Hinatazaka46",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "692fb97c-a983-40fc-8acb-a233be517c5f",
+     "category": "단체",
+     "name": "Sakurazaka46",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "39c891c6-e3e0-447e-a0ff-1c84e8be4f9c",
+     "category": "장소",
+     "name": "Nagasaki",
+     "rel": "BORN_IN"
+    },
     {
      "id": "4700f58a-f8fc-4e21-a91d-6a49809e48e5",
      "category": "작품",
@@ -7061,9 +7474,18 @@
    "fields": {
     "summary": "훌루 미스터리 코미디 드라마",
     "sources": [
-     "https://variety.com/2026/tv/news/only-murders-in-the-building-season-6-trailer-london-1236950251/"
+     "https://variety.com/2026/tv/news/only-murders-in-the-building-season-6-trailer-london-1236950251/",
+     "https://en.wikipedia.org/wiki/Only_Murders_in_the_Building"
     ],
-    "cast": "Steve Martin, Martin Short, Selena Gomez"
+    "cast": "Steve Martin, Martin Short, Selena Gomez",
+    "medium": "드라마",
+    "genre": "코미디, 미스터리",
+    "release_date": "2021-08-31",
+    "platform": "Hulu",
+    "production": "20th Television, Rhode Island Ave. Productions, Another Hoffman Story Productions, 40 Share Productions",
+    "creator": "Steve Martin, John Hoffman",
+    "length": "시즌 5까지 50회, 회당 26~40분",
+    "synopsis": "뉴욕 아파트 「아코니아」에 사는 세 이웃 찰스 · 올리버 · 메이블이 건물 안 살인 사건을 쫓으며 실화 범죄 팟캐스트를 만든다. 시즌 6은 팟캐스터 신다 캐닝의 죽음을 따라 런던으로 무대를 옮겨 2026-12-08 공개."
    },
    "source_url": "https://www.wikidata.org/wiki/Q104007235",
    "links": [
@@ -7237,8 +7659,17 @@
     "summary": "러셀 브랜드의 성공과 몰락, 성범죄 재판을 다룬 84분 넷플릭스 다큐, 감독 올리비아 아이작스 · 제작 72 Films",
     "release_date": "2026-11-13",
     "sources": [
-     "https://www.whats-on-netflix.com/news/russell-brand-open-secret-netflix-release-date/"
-    ]
+     "https://www.whats-on-netflix.com/news/russell-brand-open-secret-netflix-release-date/",
+     "https://www.netflix.com/tudum/articles/russell-brand-open-secret-documentary-release-date-news"
+    ],
+    "medium": "다큐",
+    "genre": "다큐멘터리",
+    "platform": "Netflix",
+    "director": "Olivia Isaacs",
+    "production": "72 Films",
+    "length": "84분",
+    "synopsis": "영국 코미디언 러셀 브랜드가 방송 진행자에서 스탠드업 스타 · 할리우드 배우로 오르기까지와, 성범죄 혐의 수사와 재판으로 무너진 과정을 따라간다.",
+    "website": "https://www.netflix.com/title/81746457"
    },
    "source_url": "https://www.whats-on-netflix.com/news/russell-brand-open-secret-netflix-release-date/",
    "links": [
@@ -7263,11 +7694,19 @@
    "fields": {
     "summary": "2026년 제제 다카히사 감독 일본 영화",
     "sources": [
-     "https://news.yahoo.co.jp/articles/a79cb6c1f80f87e4b6b6a7337a1c487833e76375?source=rss"
+     "https://news.yahoo.co.jp/articles/a79cb6c1f80f87e4b6b6a7337a1c487833e76375?source=rss",
+     "https://movie.jorudan.co.jp/film/101207/"
     ],
     "release_date": "2026-12-25",
     "director": "Takahisa Zeze",
-    "cast": "Junichi Okada, Tori Matsuzaka, Taiga Nakano"
+    "cast": "Junichi Okada, Tori Matsuzaka, Taiga Nakano",
+    "medium": "영화",
+    "genre": "드라마",
+    "creator": "港岳彦(각본)",
+    "distributor": "Toho",
+    "length": "155분",
+    "website": "https://sukiyaki.toho-movie.jp/",
+    "synopsis": "1963년 미국 빌보드 3주 연속 1위에 오른 「위를 보고 걷자(SUKIYAKI)」를 만든 작곡가 나카무라 하치다이(오카다 준이치), 작사가 에이 로쿠스케(마쓰자카 도리), 가수 사카모토 규(나카노 다이가) 「689 트리오」의 영광 뒤 좌절과 우정을 그린 실화 바탕 영화. 제39회 도쿄국제영화제 개막작."
    },
    "source_url": "https://www.wikidata.org/wiki/Q136229771",
    "links": [
@@ -7292,11 +7731,31 @@
    "fields": {
     "summary": "일본의 배우, 방송인",
     "sources": [
-     "https://news.yahoo.co.jp/articles/525f85b77660b3275f245f5bcb3f2383066da7da?source=rss"
-    ]
+     "https://news.yahoo.co.jp/articles/525f85b77660b3275f245f5bcb3f2383066da7da?source=rss",
+     "https://ja.wikipedia.org/wiki/磯山さやか",
+     "https://en.wikipedia.org/wiki/Sayaka_Isoyama",
+     "https://ko.wikipedia.org/wiki/이소야마_사야카",
+     "https://www.wikidata.org/wiki/Q1869466",
+     "https://www.lifika.com/sayaka-isoyama"
+    ],
+    "birth_date": "1983-10-23",
+    "birthplace": "일본 이바라키현 미토시",
+    "nationality": "일본",
+    "gender": "여성",
+    "occupation": "방송인, 모델, 배우",
+    "active_years": "2000~",
+    "organization": "Lifika",
+    "measurements": "155cm",
+    "blood_type": "A형"
    },
    "source_url": "https://www.wikidata.org/wiki/Q1869466",
    "links": [
+    {
+     "id": "57084912-e252-4672-b555-5f78d637d70c",
+     "category": "장소",
+     "name": "Ibaraki",
+     "rel": "BORN_IN"
+    },
     {
      "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
      "category": "허브",
@@ -7324,11 +7783,30 @@
    "fields": {
     "summary": "미국의 배우, 가수",
     "sources": [
-     "https://variety.com/2026/tv/news/only-murders-in-the-building-season-6-trailer-london-1236950251/"
-    ]
+     "https://variety.com/2026/tv/news/only-murders-in-the-building-season-6-trailer-london-1236950251/",
+     "https://en.wikipedia.org/wiki/Selena_Gomez",
+     "https://ko.wikipedia.org/wiki/셀레나_고메즈",
+     "https://www.wikidata.org/wiki/Q83287"
+    ],
+    "real_name": "Selena Marie Gomez",
+    "birth_date": "1992-07-22",
+    "birthplace": "미국 텍사스주 그랜드프레리",
+    "nationality": "미국",
+    "gender": "여성",
+    "occupation": "가수, 배우, 프로듀서, 기업인",
+    "active_years": "2002~",
+    "group": "Selena Gomez & the Scene(2008~2012)",
+    "notable_works": "Wizards of Waverly Place, Only Murders in the Building, Revival, Rare, Lose You to Love Me",
+    "website": "https://www.selenagomez.com"
    },
    "source_url": "https://www.wikidata.org/wiki/Q83287",
    "links": [
+    {
+     "id": "c45c1404-ee08-4e7a-b6f3-dbcd01e86807",
+     "category": "장소",
+     "name": "Texas",
+     "rel": "BORN_IN"
+    },
     {
      "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
      "category": "허브",
@@ -7356,11 +7834,34 @@
    "fields": {
     "summary": "미국의 배우, 코미디언",
     "sources": [
-     "https://variety.com/2026/tv/news/only-murders-in-the-building-season-6-trailer-london-1236950251/"
-    ]
+     "https://variety.com/2026/tv/news/only-murders-in-the-building-season-6-trailer-london-1236950251/",
+     "https://en.wikipedia.org/wiki/Steve_Martin",
+     "https://ko.wikipedia.org/wiki/스티브_마틴",
+     "https://www.wikidata.org/wiki/Q16473"
+    ],
+    "real_name": "Stephen Glenn Martin",
+    "birth_date": "1945-08-14",
+    "birthplace": "미국 텍사스주 웨이코",
+    "nationality": "미국",
+    "gender": "남성",
+    "occupation": "코미디언, 배우, 작가, 음악가",
+    "notable_works": "Saturday Night Live(호스트), The Jerk, Three Amigos, Father of the Bride, Only Murders in the Building",
+    "website": "https://www.stevemartin.com"
    },
    "source_url": "https://www.wikidata.org/wiki/Q16473",
    "links": [
+    {
+     "id": "c45c1404-ee08-4e7a-b6f3-dbcd01e86807",
+     "category": "장소",
+     "name": "Texas",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "db9ddc9d-fba3-4f59-94d6-684013485dce",
+     "category": "작품",
+     "name": "Saturday Night Live",
+     "rel": "APPEARED_IN"
+    },
     {
      "id": "92a5210b-f61c-4ffc-a5a5-db90a28ce361",
      "category": "작품",
@@ -7430,9 +7931,19 @@
    "fields": {
     "summary": "미국 CBS 서바이벌 리얼리티 예능",
     "sources": [
-     "https://variety.com/2026/tv/news/survivor-season-52-premiere-date-cbs-1236948922/"
+     "https://variety.com/2026/tv/news/survivor-season-52-premiere-date-cbs-1236948922/",
+     "https://en.wikipedia.org/wiki/Survivor_(American_TV_series)"
     ],
-    "cast": "Jeff Probst"
+    "cast": "Jeff Probst",
+    "medium": "예능",
+    "release_date": "2000-05-31",
+    "platform": "CBS",
+    "production": "CBS Studios, MGM Television, Castaway Television Productions",
+    "creator": "Charlie Parsons",
+    "source_material": "Expedition Robinson(Charlie Parsons)",
+    "source_medium": "예능",
+    "length": "시즌 51까지 735회, 회당 43~64분",
+    "synopsis": "외딴 섬 등에 고립된 참가자들이 부족을 나눠 생존하며 미션을 겨루고, 투표로 한 명씩 탈락시켜 마지막 「유일한 생존자」가 상금을 받는다. 2000년 첫 방송부터 제프 프롭스트가 진행하며, 시즌 52는 2027-02-24 첫 방송."
    },
    "source_url": "https://www.wikidata.org/wiki/Q28856068",
    "links": [
@@ -7492,8 +8003,18 @@
    "fields": {
     "summary": "홍콩의 지상파 방송사, 비취대(翡翠台) 운영",
     "sources": [
-     "https://www.stheadline.com/film-drama/3633144/"
-    ]
+     "https://www.stheadline.com/film-drama/3633144/",
+     "https://en.wikipedia.org/wiki/TVB",
+     "https://ja.wikipedia.org/wiki/無綫電視",
+     "https://www.wikidata.org/wiki/Q1195543"
+    ],
+    "org_type": "기업",
+    "formation_date": "1967-11-19",
+    "industry": "방송과엔터테인먼트",
+    "hq": "홍콩 정관오(將軍澳) TVB City",
+    "founder": "邵逸夫(Run Run Shaw) 등",
+    "listed_on": "해외상장",
+    "website": "https://www.tvb.com"
    },
    "source_url": "https://www.wikidata.org/wiki/Q1195543",
    "links": [
@@ -7571,9 +8092,21 @@
    "fields": {
     "summary": "크리스 프랫 주연 아마존 액션 스릴러 드라마",
     "sources": [
-     "https://deadline.com/2026/11/the-terminal-list-prequel-cry-havoc-amazon-1237225564/"
+     "https://deadline.com/2026/11/the-terminal-list-prequel-cry-havoc-amazon-1237225564/",
+     "https://en.wikipedia.org/wiki/The_Terminal_List"
     ],
-    "cast": "Chris Pratt"
+    "cast": "Chris Pratt",
+    "medium": "드라마",
+    "genre": "액션, 스릴러, 드라마",
+    "release_date": "2022-07-01",
+    "platform": "Prime Video",
+    "production": "Amazon MGM Studios, MRC Television, Fuqua Films, Indivisible Productions",
+    "creator": "David DiGilio(제작 · 각본), Jack Carr(원작)",
+    "source_material": "The Terminal List(Jack Carr)",
+    "source_medium": "소설",
+    "length": "시즌 2까지 16회, 회당 46~67분",
+    "synopsis": "작전 중 소대원을 잃은 네이비 실 지휘관 제임스 리스(크리스 프랫)가 그 일이 자신을 노린 음모였음을 알고 책임자들에게 복수에 나선다. 2026-10-21 시즌 2 공개, 프리퀄 「Dark Wolf」 · 「Cry Havoc」로 세계관이 넓어지고 있다.",
+    "website": "https://www.amazon.com/gp/video/detail/B09K9M94L7"
    },
    "source_url": "https://www.wikidata.org/wiki/Q105753211",
    "links": [
@@ -7598,9 +8131,17 @@
    "fields": {
     "summary": "미국 피콕 리얼리티 경쟁 예능",
     "sources": [
-     "https://variety.com/2026/tv/news/the-traitors-season-5-premiere-date-peacock-first-look-1236950496/"
+     "https://variety.com/2026/tv/news/the-traitors-season-5-premiere-date-peacock-first-look-1236950496/",
+     "https://en.wikipedia.org/wiki/The_Traitors_(American_TV_series)"
     ],
-    "cast": "Alan Cumming"
+    "cast": "Alan Cumming",
+    "medium": "예능",
+    "release_date": "2023-01-12",
+    "platform": "Peacock",
+    "production": "Studio Lambert",
+    "source_material": "De Verraders(Marc Pos, Jasper Hoogendoorn)",
+    "source_medium": "예능",
+    "synopsis": "스코틀랜드 성에 모인 유명인 참가자 가운데 몰래 뽑힌 「배신자」들이 밤마다 동료를 탈락시키고, 「충신」들은 원탁 투표로 배신자를 가려낸다. 앨런 커밍이 진행하며, 시즌 5는 2027-01-14 공개."
    },
    "source_url": "https://www.wikidata.org/wiki/Q116449538",
    "links": [
@@ -7717,7 +8258,16 @@
     "release_date": "2026-11-09",
     "sources": [
      "https://www.stheadline.com/film-drama/3633144/"
-    ]
+    ],
+    "medium": "드라마",
+    "genre": "드라마, 미스터리",
+    "platform": "TVB 翡翠台",
+    "production": "TVB(監製 鍾澍佳)",
+    "creator": "吳沚默(원작)",
+    "source_material": "維多利亞的派對(吳沚默)",
+    "source_medium": "소설",
+    "cast": "楊茜堯(夏無雙), 陳豪(陳雲生), 林夏薇(黎綺雲), 馬國明(李德龍), 陳展鵬(何家俊), 陳自瑤(關子盈), 姚子羚(藍鳳儀)",
+    "synopsis": "7년 전 「자살」로 처리된 여배우 관쯔잉의 옛 동료들에게 「네가 한 일을 안다」는 편지가 날아든다. 그녀의 일기를 손에 넣은 친구 샤우쌍이 영화 「장미」 제작을 미끼로 연예계에 돌아와, 그녀를 죽음으로 몬 사람들을 하나씩 드러낸다. TVB 59주년 기념극."
    },
    "source_url": "https://www.stheadline.com/film-drama/3633144/",
    "links": [
@@ -7859,8 +8409,22 @@
     "summary": "차태현 주연 8부작 힐링 뮤직 드라마, 2026년 10월 1일 넷플릭스·후지TV FOD 공개",
     "sources": [
      "https://www.wikidata.org/wiki/Q141622020",
-     "https://www.chosun.com/entertainments/broadcast/2026/11/17/MQYGCNTCHAYWMNJUMRQTQMJXGQ/"
-    ]
+     "https://www.chosun.com/entertainments/broadcast/2026/11/17/MQYGCNTCHAYWMNJUMRQTQMJXGQ/",
+     "https://ko.wikipedia.org/wiki/개인적인_택시"
+    ],
+    "medium": "드라마",
+    "genre": "드라마, 일상",
+    "release_date": "2026-10-01",
+    "platform": "Netflix",
+    "production": "빅인스퀘어, 스튜디오플로우, Fuji Television",
+    "director": "전창근",
+    "creator": "김준모, 민동현(극본), 이모세(원작)",
+    "source_material": "개인적인 택시(이모세)",
+    "source_medium": "소설",
+    "cast": "차태현(고 기사), 이재인(연우), 임세미(계향), 현봉식(대일), 주종혁(창식), 예지원(영란), 이규형(석주), 임하룡(임 기사)",
+    "length": "8회",
+    "website": "https://www.netflix.com/kr/title/83036520",
+    "synopsis": "예약한 손님만 태우는 수상한 택시의 고 기사(차태현)가 승객들의 평범하지만 특별한 사연을 그들이 신청한 노래와 함께 듣는다. 일본 후지TV와 함께 만든 한일 공동 제작 음악 드라마."
    },
    "source_url": "https://www.wikidata.org/wiki/Q141622020",
    "links": [
@@ -7907,6 +8471,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q115600589",
    "links": [
     {
+     "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
+     "category": "단체",
+     "name": "KBS",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "5bc503ce-8afc-4fd8-9473-a14f1f4104bc",
      "category": "허브",
      "name": "한국 드라마",
@@ -7928,11 +8498,34 @@
     "summary": "1986년생 배우. 「써닝야구단」 워킹맘 최은주 역",
     "sources": [
      "https://www.wikidata.org/wiki/Q20944775",
-     "https://sports.donga.com/ent/article/all/20261117/135037348/1"
-    ]
+     "https://sports.donga.com/ent/article/all/20261117/135037348/1",
+     "https://ko.wikipedia.org/wiki/공민정",
+     "https://namu.wiki/w/공민정",
+     "https://sports.khan.co.kr/article/202509121625003",
+     "https://www.marieclairekorea.com/tag/공민정/"
+    ],
+    "real_name": "김민정",
+    "birth_date": "1986-09-30",
+    "birthplace": "서울특별시 종로구",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "occupation": "배우",
+    "organization": "판타지오",
+    "education": "건국대학교 영화학",
+    "measurements": "169cm",
+    "blood_type": "AB형",
+    "notable_works": "이장, 갯마을 차차차, 작은 아씨들, 천원짜리 변호사, 내 남편과 결혼해줘, 써닝야구단",
+    "debut_date": "2013",
+    "debut_work": "누구나 제 명에 죽고싶다(독립영화)"
    },
    "source_url": "https://www.wikidata.org/wiki/Q20944775",
    "links": [
+    {
+     "id": "95ee6ece-db01-495d-b63c-37c504ff65d4",
+     "category": "장소",
+     "name": "종로구",
+     "rel": "BORN_IN"
+    },
     {
      "id": "87a86da2-3095-4009-8a7d-af458e32976f",
      "category": "작품",
@@ -7980,6 +8573,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q124749480",
    "links": [
     {
+     "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02",
+     "category": "단체",
+     "name": "SBS",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "5bc503ce-8afc-4fd8-9473-a14f1f4104bc",
      "category": "허브",
      "name": "한국 드라마",
@@ -8001,8 +8600,17 @@
     "summary": "2011년 데뷔한 신스팝·일렉트로니카 밴드, 한국대중음악상 최우수 댄스일렉트로닉음반 2년 연속 수상. 멤버 김준원",
     "sources": [
      "https://www.wikidata.org/wiki/Q5567639",
-     "https://www.chosun.com/entertainments/broadcast/2026/11/17/GBTDKZLDMJRDOZLBGIYWKNBRMM/"
-    ]
+     "https://www.chosun.com/entertainments/broadcast/2026/11/17/GBTDKZLDMJRDOZLBGIYWKNBRMM/",
+     "https://ko.wikipedia.org/wiki/글렌체크",
+     "https://namu.wiki/w/글렌체크"
+    ],
+    "org_type": "음악그룹",
+    "group_type": "밴드",
+    "formation_date": "2011",
+    "members": "김준원, 제이보",
+    "leader": "김준원",
+    "former_members": "최태근, 류전열, 강혁준",
+    "active_years": "2011~"
    },
    "source_url": "https://www.wikidata.org/wiki/Q5567639",
    "links": [
@@ -8161,8 +8769,15 @@
    "fields": {
     "summary": "사랑을 못 느끼는 사이코패스 권채우(우도환)와 나무 의사 소이연(채수빈)의 이야기, 예리 출연. 2027년 SBS 방송 예정",
     "sources": [
-     "https://www.chosun.com/entertainments/broadcast/2026/11/17/MZSWMOJZGZSGKMBTGAYTANZQGA/"
-    ]
+     "https://www.chosun.com/entertainments/broadcast/2026/11/17/MZSWMOJZGZSGKMBTGAYTANZQGA/",
+     "https://www.mydaily.co.kr/page/view/2026070210342795813",
+     "https://namu.wiki/w/꽃은 미끼야(드라마)"
+    ],
+    "medium": "드라마",
+    "platform": "SBS",
+    "cast": "우도환(권채우), 채수빈(소이연), 예리",
+    "synopsis": "사랑이라는 감정을 느끼지 못하는 선천적 사이코패스 권채우와 사랑을 믿지 않는 나무 의사 소이연이 만나 벌어지는 이야기. 2027년 SBS 방송 예정.",
+    "creator": "김이영(극본), 건어물녀(원작 웹소설)"
    },
    "source_url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/MZSWMOJZGZSGKMBTGAYTANZQGA/",
    "links": [
@@ -8202,6 +8817,12 @@
    "source_url": "https://namu.wiki/w/남겨서 뭐하게",
    "links": [
     {
+     "id": "0a2ef156-2b60-47cb-93b0-e154e2fe6218",
+     "category": "단체",
+     "name": "tvN STORY",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
      "category": "허브",
      "name": "한국 예능",
@@ -8222,8 +8843,19 @@
    "fields": {
     "summary": "조선 초 아홉 무사가 대마도로 포로를 구하러 가는 무협 액션. 이모개 감독, 이병헌·이동욱 출연, 2026년 하반기 크랭크인 목표",
     "sources": [
-     "https://sports.donga.com/ent/article/all/20261117/135036459/1"
-    ]
+     "https://sports.donga.com/ent/article/all/20261117/135036459/1",
+     "https://sports.khan.co.kr/article/202605060837003",
+     "https://sports.khan.co.kr/article/202607080911003",
+     "https://sports.khan.co.kr/article/202607201033003",
+     "https://www.chosun.com/entertainments/movie/2026/11/17/HE4TEMTCGA2DOZBSG42DOOJSHE/",
+     "https://www.chosun.com/entertainments/movie/2026/11/17/ME3TEMTGGE2DINTEMRRGMN3DMY/"
+    ],
+    "medium": "영화",
+    "genre": "액션, 무협, 사극",
+    "director": "이모개",
+    "production": "하이브미디어코프",
+    "cast": "이병헌(임억), 고윤정(애령), 이도현(보경), 이동욱(윤관)",
+    "synopsis": "조선 초, 능력도 신분도 제각각인 무사 아홉이 왜구에게 끌려간 포로를 구하러 대마도로 건너간다. 「서울의 봄」 · 「파묘」 촬영감독 이모개의 첫 장편 연출작."
    },
    "source_url": "https://sports.donga.com/ent/article/all/20261117/135036459/1",
    "links": [
@@ -8346,11 +8978,33 @@
     "summary": "1991년생 가수, 카라 멤버. ENA 「미스틱」 MC",
     "sources": [
      "https://www.wikidata.org/wiki/Q494992",
-     "https://www.newsis.com/view/NISX20261117_0003870967"
-    ]
+     "https://www.newsis.com/view/NISX20261117_0003870967",
+     "https://ko.wikipedia.org/wiki/니콜_(1991년)",
+     "https://namu.wiki/w/니콜(1991)"
+    ],
+    "real_name": "Nicole Yongju Jung (정용주)",
+    "birth_date": "1991-10-07",
+    "birthplace": "미국 캘리포니아주 글렌데일",
+    "nationality": "미국",
+    "gender": "여성",
+    "occupation": "가수",
+    "active_years": "2007~",
+    "organization": "iNKODE",
+    "group": "카라",
+    "debut_date": "2007-03-29",
+    "debut_work": "Blooming (카라 정규 1집)",
+    "measurements": "165cm",
+    "blood_type": "A형",
+    "notable_works": "Pretty Girl, 루팡, 미스터 (카라)"
    },
    "source_url": "https://www.wikidata.org/wiki/Q494992",
    "links": [
+    {
+     "id": "7af1a331-392a-4cc3-9e43-d4359d65ae5c",
+     "category": "장소",
+     "name": "California",
+     "rel": "BORN_IN"
+    },
     {
      "id": "64d31b95-4cb9-4701-8a97-6b18e18ae6e2",
      "category": "단체",
@@ -8405,6 +9059,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q489914",
    "links": [
+    {
+     "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31",
+     "category": "단체",
+     "name": "MBC",
+     "rel": "RELATED_TO"
+    },
     {
      "id": "5bc503ce-8afc-4fd8-9473-a14f1f4104bc",
      "category": "허브",
@@ -8477,6 +9137,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q33185231",
    "links": [
     {
+     "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02",
+     "category": "단체",
+     "name": "SBS",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
      "category": "허브",
      "name": "한국 예능",
@@ -8515,6 +9181,12 @@
    },
    "source_url": "https://namu.wiki/w/디스이즈 현무로드",
    "links": [
+    {
+     "id": "950a3028-8d2c-417a-bb80-22fc3f9b9600",
+     "category": "단체",
+     "name": "MBN",
+     "rel": "RELATED_TO"
+    },
     {
      "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
      "category": "허브",
@@ -8590,6 +9262,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q142076408",
    "links": [
     {
+     "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
+     "category": "단체",
+     "name": "KBS",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
      "category": "허브",
      "name": "한국 예능",
@@ -8611,7 +9289,12 @@
     "summary": "한국·중국 참가자 21명을 트레이닝해 키우는 ENA 발전형 음악 오디션. MC 니콜·산다라박·샤오팅, 2026년 11월 17일 첫 방송",
     "sources": [
      "https://www.newsis.com/view/NISX20261117_0003870967"
-    ]
+    ],
+    "medium": "예능",
+    "release_date": "2026-11-17",
+    "platform": "ENA",
+    "cast": "MC: 니콜, 산다라박, 샤오팅 · 스타메이커즈: 이영현, 후이, 조권, 강승윤, 솔지, 유주, 장리인, 써니루카스",
+    "synopsis": "한국과 중국에서 모인 참가자 21명이 블라인드 테스트부터 시작해 트레이닝을 받으며 올라운더 아티스트로 커 가는 발전형 음악 오디션. 「스타메이커즈」가 평가와 조언을 함께 맡는다."
    },
    "source_url": "https://www.newsis.com/view/NISX20261117_0003870967",
    "links": [
@@ -8932,11 +9615,40 @@
     "summary": "1986년생 가수, 본명 권보아. 2026년 SM엔터테인먼트를 떠나 홀로서기, 일본 데뷔 25주년",
     "sources": [
      "https://www.wikidata.org/wiki/Q232449",
-     "https://sports.donga.com/ent/article/all/20261116/135035944/1"
-    ]
+     "https://sports.donga.com/ent/article/all/20261116/135035944/1",
+     "https://ko.wikipedia.org/wiki/보아",
+     "https://namu.wiki/w/보아"
+    ],
+    "real_name": "권보아",
+    "birth_date": "1986-11-05",
+    "birthplace": "경기도 구리시",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "occupation": "가수, 싱어송라이터, 배우",
+    "active_years": "2000~",
+    "organization": "베이팔 엔터테인먼트",
+    "group": "GOT the beat",
+    "debut_date": "2000-08-25",
+    "debut_work": "ID; Peace B",
+    "measurements": "157.8cm",
+    "blood_type": "AB형",
+    "mbti": "INTJ",
+    "notable_works": "No.1, LISTEN TO MY HEART, My Name, Girls On Top, Hurricane Venus, Only One"
    },
    "source_url": "https://www.wikidata.org/wiki/Q232449",
    "links": [
+    {
+     "id": "fded5fca-b316-4add-bc14-488deb01eee8",
+     "category": "단체",
+     "name": "GOT the Beat",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "20ea1a1f-6720-4152-b955-17cb16db55da",
+     "category": "장소",
+     "name": "구리시",
+     "rel": "BORN_IN"
+    },
     {
      "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
      "category": "허브",
@@ -8959,11 +9671,36 @@
     "summary": "1984년생 가수·배우, 2NE1 멤버. ENA 「미스틱」 MC",
     "sources": [
      "https://www.wikidata.org/wiki/Q496170",
-     "https://www.newsis.com/view/NISX20261117_0003870967"
-    ]
+     "https://www.newsis.com/view/NISX20261117_0003870967",
+     "https://ko.wikipedia.org/wiki/박산다라",
+     "https://namu.wiki/w/산다라박",
+     "https://www.fnnews.com/news/202606081605467075",
+     "https://www.soompi.com/article/1846219wpp/sandara-park-establishes-new-label-aradnas-shares-new-profile-photos-and-future-plans"
+    ],
+    "real_name": "박산다라",
+    "birth_date": "1984-11-12",
+    "birthplace": "부산광역시 부산진구",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "occupation": "가수, 배우, 방송인",
+    "active_years": "2004~",
+    "organization": "ARADNAS",
+    "group": "2NE1",
+    "debut_date": "2004",
+    "debut_work": "Star Circle Quest (필리핀 ABS-CBN)",
+    "measurements": "160cm",
+    "blood_type": "A형",
+    "mbti": "INFJ",
+    "notable_works": "Fire, I Don't Care, 내가 제일 잘 나가 (2NE1)"
    },
    "source_url": "https://www.wikidata.org/wiki/Q496170",
    "links": [
+    {
+     "id": "db067152-824e-4479-8487-44d58e06798e",
+     "category": "장소",
+     "name": "부산진구",
+     "rel": "BORN_IN"
+    },
     {
      "id": "1391e777-4d87-4bac-be26-e773292860c5",
      "category": "단체",
@@ -9000,11 +9737,27 @@
     "sources": [
      "https://www.wikidata.org/wiki/Q489243",
      "https://ko.wikipedia.org/wiki/삼성중공업",
-     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714681"
-    ]
+     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714681",
+     "https://namu.wiki/w/삼성중공업"
+    ],
+    "org_type": "기업",
+    "formation_date": "1974-08-05",
+    "industry": "조선",
+    "hq": "경기도 성남시 분당구 판교로227번길 23",
+    "founder": "이병철",
+    "ceo": "최성안",
+    "parent_company": "삼성",
+    "listed_on": "코스피",
+    "website": "https://www.samsungshi.com"
    },
    "source_url": "https://www.wikidata.org/wiki/Q489243",
    "links": [
+    {
+     "id": "28d3baf1-d538-44ba-9e10-7077f845efb9",
+     "category": "단체",
+     "name": "삼성",
+     "rel": "MEMBER_OF"
+    },
     {
      "id": "f8acf017-09e5-417f-90db-d442e5ed1553",
      "category": "장소",
@@ -9094,7 +9847,14 @@
     "summary": "주말마다 사회인 야구에 나서는 가장들 이야기, 「신병」 민진기 감독·윤기영 작가. 오정세·전혜진·박지환·공민정·주종혁·주현영·이상진·배윤경 출연",
     "sources": [
      "https://sports.donga.com/ent/article/all/20261117/135037348/1"
-    ]
+    ],
+    "medium": "드라마",
+    "genre": "스포츠, 드라마",
+    "platform": "TVING",
+    "director": "민진기",
+    "creator": "윤기영(극본)",
+    "cast": "오정세(손정호), 전혜진(강소정), 박지환(박현철), 공민정(최은주), 주종혁(윤상우), 주현영(한주아), 이상진(이승민), 배윤경(김도연)",
+    "synopsis": "주말마다 아내의 허락을 받아 사회인 야구에 나서는 가장들과 그 아내들, 네 쌍의 부부 이야기. 「신병」의 민진기 감독과 윤기영 작가가 다시 만난 티빙 오리지널로 2027년 공개 예정."
    },
    "source_url": "https://sports.donga.com/ent/article/all/20261117/135037348/1",
    "links": [
@@ -9211,6 +9971,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q12605427",
    "links": [
     {
+     "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
+     "category": "단체",
+     "name": "KBS",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
      "category": "허브",
      "name": "한국 예능",
@@ -9321,8 +10087,16 @@
    "fields": {
     "summary": "시민에게 게스트 추천 책을 건네고 읽은 사람들과 스튜디오 독서 모임을 여는 KBS 교양, 진행 한예리, 2026년 12월 첫 방송",
     "sources": [
-     "https://sports.donga.com/ent/article/all/20261117/135036475/1"
-    ]
+     "https://sports.donga.com/ent/article/all/20261117/135036475/1",
+     "https://www.newsis.com/view/NISX20261117_0003871016",
+     "https://www.yna.co.kr/view/AKR20261117033300005",
+     "https://www.joynews24.com/view/2027244"
+    ],
+    "medium": "예능",
+    "release_date": "2026-12-01",
+    "platform": "KBS 1TV",
+    "cast": "진행: 한예리, 정상훈, 원소윤",
+    "synopsis": "바쁜 시민에게 게스트가 추천한 책 한 권을 거리에서 건네고, 그 책을 읽은 시민들이 스튜디오에 모여 한예리와 함께 독서 모임을 연다. 공개 녹화로 진행하는 KBS 교양 프로그램."
    },
    "source_url": "https://sports.donga.com/ent/article/all/20261117/135036475/1",
    "links": [
@@ -9419,6 +10193,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q106582931",
    "links": [
     {
+     "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
+     "category": "단체",
+     "name": "Netflix",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "5bc503ce-8afc-4fd8-9473-a14f1f4104bc",
      "category": "허브",
      "name": "한국 드라마",
@@ -9499,11 +10279,34 @@
     "summary": "1992년생 배우. SBS 「꽃은 미끼야」 권채우 역",
     "sources": [
      "https://www.wikidata.org/wiki/Q27954033",
-     "https://www.chosun.com/entertainments/broadcast/2026/11/17/MZSWMOJZGZSGKMBTGAYTANZQGA/"
-    ]
+     "https://www.chosun.com/entertainments/broadcast/2026/11/17/MZSWMOJZGZSGKMBTGAYTANZQGA/",
+     "https://ko.wikipedia.org/wiki/우도환",
+     "https://namu.wiki/w/우도환"
+    ],
+    "birth_date": "1992-07-12",
+    "birthplace": "경기도 안양시 동안구",
+    "nationality": "대한민국",
+    "gender": "남성",
+    "occupation": "배우",
+    "active_years": "2011~",
+    "organization": "블리츠웨이엔터테인먼트",
+    "debut_date": "2011",
+    "debut_work": "왔어 왔어 제대로 왔어",
+    "education": "단국대학교 공연영화학부",
+    "measurements": "180cm",
+    "blood_type": "B형",
+    "mbti": "ESFJ",
+    "military_service": "육군 병장 만기전역(2020~2022)",
+    "notable_works": "구해줘, 매드독, 나의 나라, 더 킹 : 영원의 군주, 조선변호사, 사냥개들, 메이드 인 코리아, 꽃은 미끼야"
    },
    "source_url": "https://www.wikidata.org/wiki/Q27954033",
    "links": [
+    {
+     "id": "e8131a80-08d3-4f6b-aa1b-3a47108d793e",
+     "category": "장소",
+     "name": "동안구",
+     "rel": "BORN_IN"
+    },
     {
      "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
      "category": "허브",
@@ -9542,6 +10345,12 @@
    },
    "source_url": "https://sports.khan.co.kr/article/202604211326003",
    "links": [
+    {
+     "id": "7b24709a-0ff9-427f-8c99-eef6f914f412",
+     "category": "단체",
+     "name": "TV CHOSUN",
+     "rel": "RELATED_TO"
+    },
     {
      "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
      "category": "허브",
@@ -9675,11 +10484,51 @@
     "summary": "1970년생 배우, 1991년 KBS 공채 데뷔. 「공동경비구역 JSA」 「올인」. 영화 「남벌」 임억 역",
     "sources": [
      "https://www.wikidata.org/wiki/Q380121",
-     "https://sports.donga.com/ent/article/all/20261117/135036459/1"
-    ]
+     "https://sports.donga.com/ent/article/all/20261117/135036459/1",
+     "https://ko.wikipedia.org/wiki/이병헌",
+     "https://namu.wiki/w/이병헌"
+    ],
+    "birth_date": "1970-07-12",
+    "birthplace": "경기도 광주군 중부면 (현 성남시 수정구)",
+    "nationality": "대한민국",
+    "gender": "남성",
+    "occupation": "배우",
+    "active_years": "1991~",
+    "organization": "BH엔터테인먼트",
+    "debut_date": "1991",
+    "debut_work": "KBS 14기 공채 탤런트",
+    "education": "한양대학교 불어불문학",
+    "measurements": "177cm",
+    "blood_type": "O형",
+    "military_service": "공익근무요원 소집해제",
+    "notable_works": "공동경비구역 JSA, 올인, 아이리스, 광해, 왕이 된 남자, 내부자들, 미스터 션샤인, 오징어 게임, 어쩔수가없다, 남벌"
    },
    "source_url": "https://www.wikidata.org/wiki/Q380121",
    "links": [
+    {
+     "id": "0939de3e-dbd9-4466-a351-f70fad87e927",
+     "category": "단체",
+     "name": "BH엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "9d64fd8a-0532-4992-b242-1861ff0b1efa",
+     "category": "작품",
+     "name": "승부",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "6d85337b-0eed-4a6f-ab4c-82072a437e04",
+     "category": "작품",
+     "name": "어쩔수가없다",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "784c8bbd-584a-4eb5-a6ed-e0fd80ddb133",
+     "category": "장소",
+     "name": "수정구",
+     "rel": "BORN_IN"
+    },
     {
      "id": "b7696f34-a89c-4f37-8b83-e0b82b67fa97",
      "category": "작품",
@@ -9714,11 +10563,41 @@
     "summary": "1974년생 싱어송라이터, 본명 이동준. 축가로 널리 불리는 「다행이다」를 만듦",
     "sources": [
      "https://www.wikidata.org/wiki/Q6514229",
-     "https://www.chosun.com/entertainments/broadcast/2026/11/17/MNSTINRQMQ2WINBQG5QTSYRZGI/"
-    ]
+     "https://www.chosun.com/entertainments/broadcast/2026/11/17/MNSTINRQMQ2WINBQG5QTSYRZGI/",
+     "https://ko.wikipedia.org/wiki/이적_(가수)",
+     "https://namu.wiki/w/이적(가수)"
+    ],
+    "birth_date": "1974-02-28",
+    "birthplace": "서울특별시 서초구 서초동",
+    "nationality": "대한민국",
+    "gender": "남성",
+    "occupation": "싱어송라이터, 작사가, 작곡가",
+    "active_years": "1995~",
+    "organization": "뮤직팜",
+    "group": "패닉, 카니발, 긱스",
+    "debut_date": "1995",
+    "debut_work": "PANIC (패닉 정규 1집)",
+    "education": "서울대학교 사회학",
+    "measurements": "173cm",
+    "blood_type": "B형",
+    "military_service": "공익근무요원 소집해제",
+    "notable_works": "왼손잡이, 달팽이(패닉), 거위의 꿈(카니발), 하늘을 달리다, 다행이다",
+    "website": "http://www.leejuck.com"
    },
    "source_url": "https://www.wikidata.org/wiki/Q6514229",
    "links": [
+    {
+     "id": "e0266448-c0a1-4d14-a6d2-eb889c9e5f42",
+     "category": "단체",
+     "name": "패닉",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "08817f70-35f2-4eb8-b78a-797047cb2f7e",
+     "category": "장소",
+     "name": "서초구",
+     "rel": "BORN_IN"
+    },
     {
      "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
      "category": "허브",
@@ -9873,11 +10752,35 @@
     "summary": "1986년생 가수·배우, 2AM 멤버. MBN 「무명전설」 최종 6위, 2026년 트로트 싱글 「어데가노」",
     "sources": [
      "https://www.wikidata.org/wiki/Q6781593",
-     "https://sports.donga.com/ent/article/all/20261117/135038394/1"
-    ]
+     "https://sports.donga.com/ent/article/all/20261117/135038394/1",
+     "https://ko.wikipedia.org/wiki/이창민_(가수)",
+     "https://namu.wiki/w/이창민"
+    ],
+    "birth_date": "1986-05-01",
+    "birthplace": "부산광역시 부산진구 개금동",
+    "nationality": "대한민국",
+    "gender": "남성",
+    "occupation": "가수, 뮤지컬 배우, 작곡가",
+    "active_years": "2008~",
+    "organization": "메이저9",
+    "group": "2AM, Homme",
+    "debut_date": "2008-07-11",
+    "debut_work": "이 노래 (2AM 싱글 1집)",
+    "education": "동아방송예술대학교 영상음악학",
+    "measurements": "180cm",
+    "blood_type": "A형",
+    "mbti": "INTJ",
+    "military_service": "의무경찰 수경 만기전역",
+    "notable_works": "이 노래, 죽어도 못 보내, 잘못했어(2AM), 밥만 잘 먹더라(Homme), 무명전설(6위), 어데가노"
    },
    "source_url": "https://www.wikidata.org/wiki/Q6781593",
    "links": [
+    {
+     "id": "db067152-824e-4479-8487-44d58e06798e",
+     "category": "장소",
+     "name": "부산진구",
+     "rel": "BORN_IN"
+    },
     {
      "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
      "category": "허브",
@@ -9918,6 +10821,12 @@
    },
    "source_url": "https://isplus.com/article/view/isp202611030127",
    "links": [
+    {
+     "id": "7b24709a-0ff9-427f-8c99-eef6f914f412",
+     "category": "단체",
+     "name": "TV CHOSUN",
+     "rel": "RELATED_TO"
+    },
     {
      "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
      "category": "허브",
@@ -9973,11 +10882,48 @@
     "summary": "1983년생 JTBC 아나운서 출신 방송인. 2023년부터 4년 연속 KBS 연기대상 MC",
     "sources": [
      "https://www.wikidata.org/wiki/Q12614522",
-     "https://www.chosun.com/entertainments/broadcast/2026/11/17/HA2DEYRQGE3WMY3GGQ4GCYJVGI/"
-    ]
+     "https://www.chosun.com/entertainments/broadcast/2026/11/17/HA2DEYRQGE3WMY3GGQ4GCYJVGI/",
+     "https://ko.wikipedia.org/wiki/장성규",
+     "https://namu.wiki/w/장성규",
+     "https://www.tenasia.co.kr/article/2014030389564",
+     "https://www.starnewskorea.com/broadcast-show/2025/09/24/2025092416540557595"
+    ],
+    "birth_date": "1983-04-21",
+    "birthplace": "서울특별시 강동구 잠실동 (현 송파구)",
+    "nationality": "대한민국",
+    "gender": "남성",
+    "occupation": "방송인, 아나운서, 유튜버",
+    "active_years": "2011~",
+    "organization": "SM C&C",
+    "education": "서울시립대학교 경제학(제적)",
+    "measurements": "186.5cm",
+    "blood_type": "B형",
+    "mbti": "ISFP",
+    "military_service": "공익근무요원 소집해제",
+    "notable_works": "워크맨, 굿모닝FM 장성규입니다, 만리장성규, KBS 연기대상 MC",
+    "debut_date": "2011",
+    "debut_work": "우리들의 일밤 「신입사원」(MBC, 아나운서 공채 도전)"
    },
    "source_url": "https://www.wikidata.org/wiki/Q12614522",
    "links": [
+    {
+     "id": "e4914ea5-fece-42be-a8bf-ecef4ee9fa00",
+     "category": "단체",
+     "name": "SM C&C",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "3974c1f8-4439-48bb-8247-3474c5868027",
+     "category": "작품",
+     "name": "아는 형님",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7",
+     "category": "장소",
+     "name": "송파구",
+     "rel": "BORN_IN"
+    },
     {
      "id": "4b01f6d3-e7c6-4d07-a4de-63f23311f3c2",
      "category": "작품",
@@ -10059,8 +11005,17 @@
    "fields": {
     "summary": "메이크업 아티스트들이 실력으로 겨루는 쿠팡플레이 서바이벌 예능. 시즌1 MC 이효리, 시즌2(2026년 11월 27일 공개) MC 태연·윈터·장도연·나연·윤아",
     "sources": [
-     "https://www.chosun.com/entertainments/broadcast/2026/11/17/GQZDSYLCGFSTMNRUMIZWGYRXGU/"
-    ]
+     "https://www.chosun.com/entertainments/broadcast/2026/11/17/GQZDSYLCGFSTMNRUMIZWGYRXGU/",
+     "https://www.hankyung.com/article/202510010956H"
+    ],
+    "medium": "예능",
+    "release_date": "2025-10-03",
+    "platform": "Coupang Play",
+    "production": "스튜디오 슬램, SLL",
+    "director": "심우진, 박성환",
+    "creator": "장윤희(작가)",
+    "cast": "현재: 태연, 윈터, 장도연, 나연, 윤아(시즌 2 MC) · 과거: 이효리(시즌 1 MC) · 심사위원: 정샘물, 서옥, 이사배, 이진수",
+    "synopsis": "K-뷰티를 대표하는 메이크업 아티스트 60명이 오직 메이크업 실력으로 겨루는 서바이벌. 심사위원 4명이 결과물을 평가하며, 시즌 2는 2026-11-27 공개."
    },
    "source_url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GQZDSYLCGFSTMNRUMIZWGYRXGU/",
    "links": [
@@ -10086,11 +11041,50 @@
     "summary": "1976년생 배우. 「써닝야구단」에서 방송작가 강소정 역",
     "sources": [
      "https://www.wikidata.org/wiki/Q6853641",
-     "https://sports.donga.com/ent/article/all/20261117/135037348/1"
-    ]
+     "https://sports.donga.com/ent/article/all/20261117/135037348/1",
+     "https://ko.wikipedia.org/wiki/전혜진_(1976년)",
+     "https://namu.wiki/w/전혜진(1976)"
+    ],
+    "birth_date": "1976-08-10",
+    "birthplace": "울산광역시 남구",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "occupation": "배우",
+    "active_years": "1998~",
+    "organization": "호두앤유엔터테인먼트",
+    "debut_date": "1998",
+    "debut_work": "죽이는 이야기",
+    "education": "상명대학교 영화학",
+    "measurements": "171cm",
+    "blood_type": "O형",
+    "notable_works": "더 테러 라이브, 검색어를 입력하세요 WWW, 비밀의 숲 2, 남남, 라이딩 인생, 신입사원 강회장, 써닝야구단"
    },
    "source_url": "https://www.wikidata.org/wiki/Q6853641",
    "links": [
+    {
+     "id": "c6eb25a6-622a-42b0-a51e-aa9942d7d451",
+     "category": "작품",
+     "name": "신입사원 강회장",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "9ea3a5a8-7988-4f9e-85eb-7deb4d4dc873",
+     "category": "단체",
+     "name": "호두앤유엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "a953b0b6-debe-4200-ab14-65e8da833b8f",
+     "category": "장소",
+     "name": "남구",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "42b3d852-f52b-4544-abd4-7722714ee717",
+     "category": "작품",
+     "name": "라이딩 인생",
+     "rel": "APPEARED_IN"
+    },
     {
      "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
      "category": "허브",
@@ -10330,11 +11324,45 @@
     "summary": "1991년생 배우. 「이상한 변호사 우영우」 출연, 「써닝야구단」 윤상우 역",
     "sources": [
      "https://www.wikidata.org/wiki/Q105706592",
-     "https://sports.donga.com/ent/article/all/20261117/135037348/1"
-    ]
+     "https://sports.donga.com/ent/article/all/20261117/135037348/1",
+     "https://ko.wikipedia.org/wiki/주종혁_(1991년)",
+     "https://namu.wiki/w/주종혁(1991)",
+     "https://en.wikipedia.org/wiki/Joo_Jong-hyuk_(actor,_born_1991)"
+    ],
+    "birth_date": "1991-07-27",
+    "birthplace": "인천광역시",
+    "nationality": "대한민국",
+    "gender": "남성",
+    "occupation": "배우",
+    "active_years": "2015~",
+    "organization": "BH엔터테인먼트",
+    "debut_date": "2015",
+    "debut_work": "몽마 (단편영화)",
+    "measurements": "183.2cm",
+    "mbti": "ESFP",
+    "military_service": "육군 병장 만기전역",
+    "notable_works": "이상한 변호사 우영우, 한국이 싫어서, 트리거, 컨피던스맨 KR, 써닝야구단"
    },
    "source_url": "https://www.wikidata.org/wiki/Q105706592",
    "links": [
+    {
+     "id": "cc61f8cc-963f-4c9c-9332-1c1318ce45b7",
+     "category": "작품",
+     "name": "개인적인 택시",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "14756088-cbac-44f8-8972-4fde15108c97",
+     "category": "장소",
+     "name": "인천광역시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "0939de3e-dbd9-4466-a351-f70fad87e927",
+     "category": "단체",
+     "name": "BH엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
     {
      "id": "13fe2014-1d42-4feb-ae66-4ec6227e0634",
      "category": "작품",
@@ -10369,11 +11397,53 @@
     "summary": "1996년생 배우·방송인, 「SNL 코리아」 크루 출신. 「써닝야구단」 한주아 역",
     "sources": [
      "https://www.wikidata.org/wiki/Q110491647",
-     "https://sports.donga.com/ent/article/all/20261117/135037348/1"
-    ]
+     "https://sports.donga.com/ent/article/all/20261117/135037348/1",
+     "https://ko.wikipedia.org/wiki/주현영",
+     "https://namu.wiki/w/주현영",
+     "https://news.tf.co.kr/read/ogmeta/1963509.htm"
+    ],
+    "real_name": "김현영",
+    "birth_date": "1996-01-14",
+    "birthplace": "경기도 파주군 (현 파주시)",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "occupation": "배우, 방송인",
+    "active_years": "2019~",
+    "organization": "AIMC",
+    "education": "국민대학교 연극전공",
+    "measurements": "165cm",
+    "blood_type": "A형",
+    "mbti": "ISFP",
+    "notable_works": "SNL 코리아(2021~2023), 이상한 변호사 우영우, 착한 여자 부세미, 크라임씬 리턴즈, 써닝야구단",
+    "debut_date": "2019",
+    "debut_work": "내가 그리웠니(단편영화)"
    },
    "source_url": "https://www.wikidata.org/wiki/Q110491647",
    "links": [
+    {
+     "id": "245d98f3-c3f9-45bd-bdaf-6621ba997733",
+     "category": "작품",
+     "name": "SNL 코리아",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "8d660ad4-79cd-4928-9a59-f5845dccb87b",
+     "category": "장소",
+     "name": "파주시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "ac8cc19a-2ecc-4ee2-87bc-cef113b84274",
+     "category": "작품",
+     "name": "착한 여자 부세미",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "a607feaa-aa21-44fd-ac0f-e56e4658dbd9",
+     "category": "작품",
+     "name": "지구마불 세계여행",
+     "rel": "APPEARED_IN"
+    },
     {
      "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
      "category": "허브",
@@ -10402,8 +11472,18 @@
     "summary": "김태호 PD의 ENA·TEO 여행 예능, 빠니보틀·곽튜브·원지가 주사위로 정한 곳을 여행. 시즌4는 2026년 10월 17일 시작",
     "sources": [
      "https://www.wikidata.org/wiki/Q116790313",
-     "https://www.chosun.com/entertainments/enter_general/2026/11/17/GNTGGNTGHEZDAZDGMMYDMNLDGQ/"
-    ]
+     "https://www.chosun.com/entertainments/enter_general/2026/11/17/GNTGGNTGHEZDAZDGMMYDMNLDGQ/",
+     "https://ko.wikipedia.org/wiki/지구마불_세계여행"
+    ],
+    "medium": "예능",
+    "release_date": "2023-03-04",
+    "platform": "ENA",
+    "production": "ENA, TEO",
+    "director": "김태호, 김훈범",
+    "cast": "현재: 노홍철, 규현(진행), 빠니보틀, 곽튜브, 원지 · 과거: 주현영(진행, 시즌 1), 주우재(진행, 시즌 1~3)",
+    "length": "시즌 1 10회 · 시즌 2 14회 · 시즌 3 15회 · 시즌 4 방송 중",
+    "website": "https://ena.skylifetv.co.kr/bbs/board.php?bo_table=skydrama&wr_id=143",
+    "synopsis": "여행 유튜버 빠니보틀 · 곽튜브 · 원지가 김태호 PD가 만든 세계 여행 부루마블 판에서 주사위를 던져 나온 곳으로 떠난다. 시즌 4(2026-10-17~)는 여행 영상을 겨루는 「여행 필름 페스티벌」을 더했다."
    },
    "source_url": "https://www.wikidata.org/wiki/Q116790313",
    "links": [
@@ -10639,6 +11719,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q97207149",
    "links": [
     {
+     "id": "7b24709a-0ff9-427f-8c99-eef6f914f412",
+     "category": "단체",
+     "name": "TV CHOSUN",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
      "category": "허브",
      "name": "한국 예능",
@@ -10764,7 +11850,14 @@
     "summary": "ENA 2부작 다큐, 1부 「나, ADHD야」는 성인 ADHD 당사자 소개팅. 아이브 가을이 프리젠터, 2026년 11월 22일 첫 방송",
     "sources": [
      "https://sports.donga.com/ent/article/all/20261117/135037250/1"
-    ]
+    ],
+    "medium": "다큐",
+    "genre": "다큐멘터리",
+    "release_date": "2026-11-22",
+    "platform": "ENA",
+    "cast": "가을(소개팅 디렉터)",
+    "length": "2부작",
+    "synopsis": "ENA 2부작 다큐. 1부 「나, ADHD야」는 참가자 전원이 성인 ADHD 당사자인 로테이션 소개팅으로, 참가자들이 가족에게도 꺼내지 못한 어려움을 털어놓는다. 아이브 가을이 소개팅 디렉터로 함께하며 AI로 만든 또 다른 가을도 나온다."
    },
    "source_url": "https://sports.donga.com/ent/article/all/20261117/135037250/1",
    "links": [
@@ -10850,11 +11943,34 @@
     "summary": "1984년생 무용가 출신 배우, 본명 김예리. 「미나리」 「청춘시대」 출연, 첫 장편 연출작 「잃어버린 마음을 찾아서」",
     "sources": [
      "https://www.wikidata.org/wiki/Q12624268",
-     "https://sports.donga.com/ent/article/all/20261117/135036475/1"
-    ]
+     "https://sports.donga.com/ent/article/all/20261117/135036475/1",
+     "https://ko.wikipedia.org/wiki/한예리",
+     "https://namu.wiki/w/한예리",
+     "https://www.koreanfilm.or.kr/eng/kofic/200_actors/Han_Yeri.jsp",
+     "https://enews.imbc.com/News/ViewAmp/518613"
+    ],
+    "real_name": "김예리",
+    "birth_date": "1984-12-23",
+    "birthplace": "충청북도 제천시",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "occupation": "배우, 무용가",
+    "organization": "스튜디오 뷰티크(2026~)",
+    "education": "한국예술종합학교 한국무용",
+    "measurements": "162cm",
+    "blood_type": "O형",
+    "notable_works": "해무, 최악의 하루, 청춘시대, 녹두꽃, 미나리, (아는 건 별로 없지만) 가족입니다",
+    "debut_date": "2005",
+    "debut_work": "사과(단편영화, 김민숙 감독)"
    },
    "source_url": "https://www.wikidata.org/wiki/Q12624268",
    "links": [
+    {
+     "id": "85d7380c-d066-4ab5-a82c-daa876fd2a11",
+     "category": "장소",
+     "name": "제천시",
+     "rel": "BORN_IN"
+    },
     {
      "id": "7a625d44-5ef7-46df-b661-88d65a0a4bb9",
      "category": "작품",
@@ -10933,11 +12049,35 @@
     "summary": "1990년생 래퍼, 팬텀 출신. 문세윤과 듀엣 「한문철」 활동",
     "sources": [
      "https://www.wikidata.org/wiki/Q23927210",
-     "https://sports.donga.com/ent/article/all/20261117/135036379/1"
-    ]
+     "https://sports.donga.com/ent/article/all/20261117/135036379/1",
+     "https://ko.wikipedia.org/wiki/한해",
+     "https://namu.wiki/w/한해"
+    ],
+    "real_name": "정한해",
+    "birth_date": "1990-04-07",
+    "birthplace": "부산광역시 부산진구 개금동",
+    "nationality": "대한민국",
+    "gender": "남성",
+    "occupation": "래퍼, 작사가, 작곡가",
+    "active_years": "2011~",
+    "organization": "브랜뉴뮤직",
+    "group": "팬텀(2011~2017), 한문철(2025~)",
+    "debut_date": "2011",
+    "debut_work": "얼굴 뚫어지겠다 (팬텀)",
+    "measurements": "179cm",
+    "blood_type": "A형",
+    "mbti": "ISFP",
+    "military_service": "의무경찰 수경 만기전역(2019~2020)",
+    "notable_works": "SHOW ME THE MONEY 6(6위), 놀라운 토요일"
    },
    "source_url": "https://www.wikidata.org/wiki/Q23927210",
    "links": [
+    {
+     "id": "db067152-824e-4479-8487-44d58e06798e",
+     "category": "장소",
+     "name": "부산진구",
+     "rel": "BORN_IN"
+    },
     {
      "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
      "category": "허브",
@@ -11107,11 +12247,39 @@
     "summary": "1998년생 래퍼·프로듀서, 에이티즈 리더. 월드비전 「글로벌 6K 포 워터」 홍보대사",
     "sources": [
      "https://www.wikidata.org/wiki/Q85864418",
-     "https://www.newsis.com/view/NISX20261117_0003871643"
-    ]
+     "https://www.newsis.com/view/NISX20261117_0003871643",
+     "https://ko.wikipedia.org/wiki/홍중",
+     "https://namu.wiki/w/홍중"
+    ],
+    "real_name": "김홍중",
+    "birth_date": "1998-11-07",
+    "birthplace": "경기도 안양시 동안구 호계동",
+    "nationality": "대한민국",
+    "gender": "남성",
+    "occupation": "래퍼, 작사가, 작곡가, 프로듀서",
+    "active_years": "2018~",
+    "organization": "KQ 엔터테인먼트",
+    "group": "에이티즈(리더)",
+    "debut_date": "2018-10-24",
+    "debut_work": "TREASURE EP.1 : All To Zero (에이티즈 미니 1집)",
+    "blood_type": "B형",
+    "mbti": "INFP",
+    "notable_works": "TREASURE 시리즈, ZERO : FEVER 시리즈, THE WORLD 시리즈, GOLDEN HOUR 시리즈 (에이티즈)"
    },
    "source_url": "https://www.wikidata.org/wiki/Q85864418",
    "links": [
+    {
+     "id": "e8131a80-08d3-4f6b-aa1b-3a47108d793e",
+     "category": "장소",
+     "name": "동안구",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "cc3a60f0-f108-4969-a903-21b2f1e43bc6",
+     "category": "단체",
+     "name": "KQ엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
     {
      "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
      "category": "허브",
@@ -11279,6 +12447,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q130321536",
    "links": [
     {
+     "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
+     "category": "단체",
+     "name": "Netflix",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
      "category": "허브",
      "name": "한국 예능",
@@ -11286,6 +12460,3411 @@
     }
    ],
    "added_at": "2026-11-17T20:34:57.029011+00:00"
+  },
+  {
+   "id": "75ca54fe-16ba-431e-8f28-7f3f14926abb",
+   "name": "Billboard",
+   "category": "단체",
+   "alias": "빌보드, ビルボード, 告示牌, Billboard magazine",
+   "disambig": "미국의 음악 잡지 · 차트 발표처",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "음악 잡지 · 차트",
+    "formation_date": "1894",
+    "founder": "William H. Donaldson, James H. Hennegan",
+    "parent_company": "Penske Media Corporation",
+    "hq": "New York City",
+    "website": "https://www.billboard.com",
+    "summary": "1894년 창간한 미국 음악 잡지. 핫 100 · 빌보드 200 등 음악 차트를 매주 발표하며 펜스키 미디어(PMC) 소유",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q485240",
+     "https://en.wikipedia.org/wiki/Billboard_(magazine)",
+     "https://commercialobserver.com/?p=458435"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q485240",
+   "links": [
+    {
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20",
+     "category": "장소",
+     "name": "New York City",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "e2653cac-bc9b-4cab-9664-15b0f02c9494",
+   "name": "CNN",
+   "category": "단체",
+   "alias": "Cable News Network, 케이블 뉴스 네트워크, 씨엔엔, 有线电视新闻网",
+   "disambig": "미국의 뉴스 채널",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "방송 · 뉴스",
+    "formation_date": "1980-06-01",
+    "founder": "Ted Turner, Reese Schonfeld",
+    "parent_company": "Skydance",
+    "hq": "Atlanta(Techwood 캠퍼스) · New York City",
+    "website": "https://www.cnn.com",
+    "summary": "1980년 테드 터너가 세운 세계 첫 24시간 뉴스 채널. 2026년 10월 Skydance가 워너브러더스 디스커버리를 인수하며 그 계열이 됨",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q48340",
+     "https://en.wikipedia.org/wiki/CNN",
+     "https://www.wabe.org/cnn-leaving-cnn-center-building-in-downtown-atlanta/",
+     "https://cordcuttersnews.com/its-done-paramount-completes-warner-bros-discovery-acquisition-launches-combined-company-as-skydance/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q48340",
+   "links": [
+    {
+     "id": "914b2c58-a610-4913-9c65-35240eec01da",
+     "category": "장소",
+     "name": "Atlanta",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "93aed7f6-65a0-4502-a98c-2057f7c41aba",
+   "name": "Centers for Disease Control and Prevention",
+   "category": "단체",
+   "alias": "CDC, 미국 질병통제예방센터, 질병통제예방센터, 질병 통제 예방 센터, U.S. CDC, アメリカ疾病予防管理センター",
+   "disambig": "미국 보건복지부 산하 질병 관리 기관",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Centers for Disease Control and Prevention",
+    "org_type": "공공기관",
+    "formation_date": "1946-07-01",
+    "hq": "Atlanta, Georgia",
+    "website": "https://www.cdc.gov",
+    "summary": "미국 보건복지부 산하 공중보건 기관. 감염병 · 홍역 같은 질병 통계와 방역 지침을 냄, 본부는 애틀랜타",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q583725",
+     "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q583725",
+   "links": [
+    {
+     "id": "914b2c58-a610-4913-9c65-35240eec01da",
+     "category": "장소",
+     "name": "Atlanta",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "4a0dad6c-c138-4449-9666-5380ac73402f",
+   "name": "DJI",
+   "category": "단체",
+   "alias": "大疆, 大疆创新, 디제이아이, DJI Innovations, Da-Jiang Innovations, Shenzhen Da-Jiang Innovations Technology Company",
+   "disambig": "중국의 드론 · 카메라 기업",
+   "country_tags": [
+    "China"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "드론 · 카메라",
+    "formation_date": "2006-01-18",
+    "founder": "Frank Wang(汪滔)",
+    "hq": "深圳市南山区 DJI Sky City",
+    "website": "https://www.dji.com",
+    "summary": "2006년 왕타오(프랭크 왕)가 선전에서 세운 세계 최대 민간 드론 회사. 2022년 난산구 DJI Sky City로 본사를 옮김",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q16924332",
+     "https://en.wikipedia.org/wiki/DJI",
+     "https://www.dji.com/newsroom/news/dji-opens-new-headquarters-for-creative-community-in-the-sky",
+     "https://www.scmp.com/tech/big-tech/article/2184687/how-dji-went-university-dorm-project-worlds-biggest-drone-company"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16924332",
+   "links": [
+    {
+     "id": "d998844d-5772-436b-a07b-a83a3280afbd",
+     "category": "장소",
+     "name": "Nanshan",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "2a84828a-66a1-4155-ac11-ae1dd8fefae6",
+   "name": "Dana White",
+   "category": "인물",
+   "alias": "데이나 화이트, Dana Frederick White Jr., ダナ・ホワイト",
+   "disambig": "UFC 회장 겸 최고경영자",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Dana Frederick White Jr.",
+    "birth_date": "1969-07-28",
+    "birthplace": "Manchester, Connecticut",
+    "nationality": "미국",
+    "gender": "남성",
+    "occupation": "기업인, 스포츠 프로모터",
+    "active_years": "2001~(UFC 회장)",
+    "summary": "2001년부터 UFC 회장을 맡아 종합격투기를 큰 사업으로 키운 기업인, 2026년 11월 트럼프가 백악관 대변인을 맡아 달라고 했다가 농담이었다고 함",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q660297",
+     "https://en.wikipedia.org/wiki/Dana_White"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q660297",
+   "links": [
+    {
+     "id": "f33441e8-2708-418e-9c46-5985ea0aeb0f",
+     "category": "단체",
+     "name": "Ultimate Fighting Championship",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "c04710e9-3478-4188-ba9a-3cd5d2985b99",
+     "category": "장소",
+     "name": "Connecticut",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "aec5cefd-2e83-4486-b9a3-728d269a31d3",
+   "name": "Dario Amodei",
+   "category": "인물",
+   "alias": "다리오 아모데이, Dario Gabriele Amodei, ダリオ・アモデイ",
+   "disambig": "Anthropic 공동 창업자 · 최고경영자",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Dario Gabriele Amodei",
+    "birth_date": "1983-01-13",
+    "birthplace": "San Francisco, California",
+    "nationality": "미국",
+    "gender": "남성",
+    "occupation": "기업인, 인공지능 연구자",
+    "education": "프린스턴 대학교(박사)",
+    "summary": "2021년 동생 대니엘라 아모데이와 Anthropic을 세운 최고경영자, 그전에는 OpenAI 연구 부사장",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q103335665",
+     "https://en.wikipedia.org/wiki/Dario_Amodei"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q103335665",
+   "links": [
+    {
+     "id": "54578aae-1db2-40b8-a187-948037d0b02e",
+     "category": "장소",
+     "name": "San Francisco County",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "d1028b0c-a81d-4140-8f46-d27b67ebc7c3",
+     "category": "단체",
+     "name": "Anthropic",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "de8e144a-2e8c-4500-9160-d38f56fd6b53",
+   "name": "Eater",
+   "category": "단체",
+   "alias": "이터, Eater.com, イーター, 饕客",
+   "disambig": "미국의 음식 · 식당 전문 웹 매체",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "음식 · 식당 웹 매체",
+    "formation_date": "2005-07",
+    "founder": "Lockhart Steele, Ben Leventhal",
+    "parent_company": "Penske Media Corporation(PMX)",
+    "hq": "New York City",
+    "website": "https://www.eater.com",
+    "summary": "2005년 뉴욕 식당 블로그로 시작한 음식 전문 매체. 2013년 Vox Media에 팔렸고 2026년 6월 펜스키 미디어(PMX)로 넘어감. 해마다 미국 최고 새 식당 · 베이커리를 뽑음",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q55610449",
+     "https://en.wikipedia.org/wiki/Eater_(website)",
+     "https://www.hollywoodreporter.com/business/business-news/eater-verge-sbnation-sold-penske-media-1236624828",
+     "https://barrettmedia.com/2026/06/18/vox-media-sells-to-penske-media/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q55610449",
+   "links": [
+    {
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20",
+     "category": "장소",
+     "name": "New York City",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "cb501f5f-169b-4a28-92f5-c8fa2d68c7a9",
+   "name": "Elon Musk",
+   "category": "인물",
+   "alias": "일론 머스크, 엘론 머스크, Elon Reeve Musk, イーロン・マスク",
+   "disambig": "Tesla · SpaceX 최고경영자",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Elon Reeve Musk",
+    "birth_date": "1971-06-28",
+    "birthplace": "Pretoria, South Africa",
+    "nationality": "미국, 남아프리카공화국, 캐나다",
+    "gender": "남성",
+    "occupation": "기업인",
+    "education": "펜실베이니아 대학교",
+    "notable_works": "Tesla, SpaceX, PayPal",
+    "summary": "Tesla · SpaceX를 이끄는 기업인, 2026년 미국 중간선거에서 공화당 쪽에 개인 최대 규모의 돈을 씀",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q317521",
+     "https://en.wikipedia.org/wiki/Elon_Musk",
+     "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q317521",
+   "links": [
+    {
+     "id": "c92ac39c-d186-4eab-8089-7ae01e0b99a5",
+     "category": "장소",
+     "name": "City of Tshwane",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "e1eb70f3-6091-4e3b-bac9-46066ed84fed",
+     "category": "단체",
+     "name": "SpaceX",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "fe563a06-5b52-4369-a6ba-8e7488b5cbd2",
+     "category": "단체",
+     "name": "Tesla",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "cc7e98ef-3ecb-482a-9eb2-5feb3cd19fa8",
+   "name": "Federal Bureau of Investigation",
+   "category": "단체",
+   "alias": "FBI, 미국 연방수사국, 연방수사국, 連邦捜査局, 聯邦調查局",
+   "disambig": "미국 법무부 산하 연방 수사기관",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Federal Bureau of Investigation",
+    "org_type": "공공기관",
+    "formation_date": "1908-07-26",
+    "hq": "Washington, D.C.",
+    "website": "https://www.fbi.gov",
+    "summary": "미국 법무부 산하 연방 수사 · 정보기관. 1908년 Bureau of Investigation으로 출범, 2025년 본부를 후버 빌딩에서 로널드 레이건 빌딩으로 옮기기로 함",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q8333",
+     "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation",
+     "https://www.nextgov.com/policy/2025/07/fbi-move-headquarters-reagan-building-seemingly-resolving-decades-long-fight/406484"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q8333",
+   "links": [
+    {
+     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a",
+     "category": "장소",
+     "name": "District of Columbia",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "68995690-a444-41f8-8051-a7c73fcc1e7a",
+   "name": "GKIDS",
+   "category": "단체",
+   "alias": "지키즈, GKids, G-Kids",
+   "disambig": "도호 계열 북미 애니메이션 영화 배급사",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "애니메이션 영화 배급",
+    "formation_date": "2008",
+    "founder": "Eric Beckman, Dave Jesteadt",
+    "ceo": "Eric Beckman",
+    "parent_company": "Toho(Toho International)",
+    "hq": "New York City",
+    "website": "https://gkids.com",
+    "summary": "스튜디오 지브리 작품 등을 북미에 배급하는 애니메이션 배급사. 2024년 10월 도호가 100% 인수해 Toho International 자회사가 됨",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q5513576",
+     "https://variety.com/2024/film/news/gkids-acquired-toho-animation-1236178963",
+     "https://awn.com/news/toho-acquires-gkids"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q5513576",
+   "links": [
+    {
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20",
+     "category": "장소",
+     "name": "New York City",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "afec3b0c-c617-4f8e-87cb-53136912877c",
+   "name": "HBO",
+   "category": "단체",
+   "alias": "Home Box Office, 에이치비오, 홈 박스 오피스",
+   "disambig": "미국의 유료 케이블 채널 · 드라마 제작사",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "방송",
+    "formation_date": "1972-11-08",
+    "founder": "Charles Dolan",
+    "parent_company": "Skydance",
+    "hq": "30 Hudson Yards, New York City",
+    "website": "https://www.hbo.com",
+    "summary": "1972년 개국한 미국 유료 케이블 채널로 자체 드라마로 유명. 스트리밍은 HBO Max, 2026년 10월 워너브러더스 디스커버리 인수로 Skydance 계열",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q23633",
+     "https://en.wikipedia.org/wiki/HBO",
+     "https://cordcuttersnews.com/its-done-paramount-completes-warner-bros-discovery-acquisition-launches-combined-company-as-skydance/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q23633",
+   "links": [
+    {
+     "id": "c3fba860-6d05-43ea-8902-c042359e2f51",
+     "category": "장소",
+     "name": "New York County",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "b4c01a2c-6f7f-40e0-a831-31d7917c3772",
+   "name": "JR Tokai Hotels",
+   "category": "단체",
+   "alias": "ジェイアール東海ホテルズ, 株式会社ジェイアール東海ホテルズ, JR東海ホテルズ, JR Central Hotels, JR-Central Hotels, JR도카이호텔즈",
+   "disambig": "JR도카이 계열 일본 호텔 운영사",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "real_name": "株式会社ジェイアール東海ホテルズ",
+    "org_type": "기업",
+    "industry": "호텔",
+    "formation_date": "1992-07-08",
+    "parent_company": "東海旅客鉄道(JR東海)",
+    "ceo": "伊藤彰彦",
+    "hq": "愛知県名古屋市中村区名駅1-1-4",
+    "website": "https://www.associa.co.jp/",
+    "summary": "JR도카이가 전액 출자한 호텔 운영사. 나고야 메리어트 아소시아 등을 운영하며 호텔 아소시아 다카야마 · 신요코하마를 힐턴 · 메리어트 브랜드로 바꿈",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q11309039",
+     "https://employment.en-japan.com/comp-68756/",
+     "https://prtimes.jp/main/html/rd/p/000000250.000076395.html"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q11309039",
+   "links": [
+    {
+     "id": "9c11da25-fc93-4625-b352-f109e9777868",
+     "category": "장소",
+     "name": "Nakamura",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "8505e922-0921-452c-8ce2-25c88f761d81",
+   "name": "Jensen Huang",
+   "category": "인물",
+   "alias": "젠슨 황, 황런쉰, 黃仁勳, Jen-Hsun Huang, ジェンスン・フアン",
+   "disambig": "Nvidia 공동 창업자, 전 최고경영자",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "黃仁勳(Huang Jen-hsun)",
+    "birth_date": "1963-02-17",
+    "birthplace": "Taipei, Taiwan",
+    "nationality": "미국",
+    "gender": "남성",
+    "occupation": "기업인",
+    "education": "오리건 주립대학교(학사), 스탠퍼드 대학교(석사)",
+    "active_years": "1993~2026(Nvidia 최고경영자)",
+    "summary": "1993년 Nvidia를 공동 창업해 33년간 이끈 최고경영자, 2026년 11월 12일 사장 · CEO · 이사직에서 모두 물러남",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q305177",
+     "https://en.wikipedia.org/wiki/Jensen_Huang",
+     "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+     "https://www.britannica.com/biography/Jensen-Huang"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q305177",
+   "links": [
+    {
+     "id": "016de458-5e8d-421c-8654-0e9023f4b206",
+     "category": "단체",
+     "name": "Nvidia",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "c90a4654-9e44-4805-b0fd-f0d8aad572d0",
+     "category": "장소",
+     "name": "Taipei City",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "4514492c-a957-43df-9f8f-7d61ed912030",
+   "name": "Megaspeed",
+   "category": "단체",
+   "alias": "MegaSpeed, Megaspeed International, Megaspeed International Pte. Ltd., 메가스피드, 超速國際, MegaSpeed.Ai",
+   "disambig": "싱가포르의 AI 클라우드 컴퓨팅 회사",
+   "country_tags": [
+    "Singapore"
+   ],
+   "fields": {
+    "real_name": "Megaspeed International Pte. Ltd.",
+    "org_type": "기업",
+    "industry": "AI 클라우드 컴퓨팅",
+    "formation_date": "2015",
+    "hq": "Singapore",
+    "website": "https://megaspeed.ai",
+    "summary": "엔비디아 AI 칩을 대량으로 사들인 싱가포르 클라우드 회사. 칩이 중국으로 흘러갔다는 의혹으로 싱가포르 경찰 수사 · 미국 상무부 검토를 받음(회사는 부인)",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q142100574",
+     "https://fortune.com/2026/11/11/megaspeed-nvidia-chips-china-singapore-malaysia/",
+     "https://www.tomshardware.com/pc-components/gpus/nvidias-biggest-sea-customer-exposes-the-limits-of-us-ai-export-controls"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q142100574",
+   "links": [],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "2b31f4c9-b3d8-423d-96a7-0e993442c4a4",
+   "name": "National People's Congress",
+   "category": "단체",
+   "alias": "전국인민대표대회, 전인대, 全国人民代表大会, 全國人民代表大會, NPC, National People's Congress of the People's Republic of China",
+   "disambig": "중화인민공화국의 최고 국가권력기관(입법부)",
+   "country_tags": [
+    "China"
+   ],
+   "fields": {
+    "real_name": "中华人民共和国全国人民代表大会",
+    "org_type": "공공기관",
+    "formation_date": "1954-09-15",
+    "hq": "北京 人民大会堂",
+    "website": "http://www.npc.gov.cn/",
+    "summary": "중국의 단원제 입법기관이자 헌법상 최고 국가권력기관. 해마다 3월 베이징 인민대회당에서 전체회의를 열고 상무위원회가 법을 통과시킴",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q19211",
+     "https://en.wikipedia.org/wiki/National_People%27s_Congress"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q19211",
+   "links": [
+    {
+     "id": "76be17f7-6816-4c49-9b97-713e1d8bb56a",
+     "category": "장소",
+     "name": "Beijing",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "4d9849ef-b432-4b88-9c32-4629c6ccc21c",
+   "name": "Paramount Pictures",
+   "category": "단체",
+   "alias": "파라마운트 픽처스, 파라마운트 픽쳐스, 파라마운트, Paramount, Paramount Pictures Corporation, パラマウント映画",
+   "disambig": "미국의 영화 스튜디오",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Paramount Pictures Corporation",
+    "org_type": "기업",
+    "industry": "영화 제작 · 배급",
+    "formation_date": "1912-05-08",
+    "founder": "Adolph Zukor, Jesse L. Lasky, W. W. Hodkinson",
+    "parent_company": "Skydance",
+    "hq": "5555 Melrose Avenue, Hollywood, Los Angeles",
+    "website": "https://www.paramountpictures.com",
+    "summary": "1912년 세워진 할리우드 5대 메이저 영화사. 2025년 Skydance와 합병해 Skydance 계열",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q159846",
+     "https://en.wikipedia.org/wiki/Paramount_Pictures",
+     "https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q159846",
+   "links": [
+    {
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
+     "category": "장소",
+     "name": "Los Angeles",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "74384f05-994e-4816-93a5-ffe59917ff0c",
+   "name": "Peter Safran",
+   "category": "인물",
+   "alias": "피터 사프란, 피터 새프런, ピーター・サフラン",
+   "disambig": "미국의 영화 제작자, 전 DC 스튜디오 공동 대표",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "birth_date": "1965-11-22",
+    "birthplace": "London, England",
+    "nationality": "영국, 미국",
+    "gender": "남성",
+    "occupation": "영화 프로듀서, 기업인",
+    "education": "프린스턴 대학교, 뉴욕 대학교 로스쿨",
+    "notable_works": "컨저링 시리즈, 아쿠아맨, 샤잠!, 더 수어사이드 스쿼드, 슈퍼맨(2025)",
+    "summary": "「컨저링」 · DC 영화들을 만든 제작자, 2022년 11월부터 제임스 건과 DC 스튜디오 공동 대표였고 2026년 11월 물러나기로 해 12월 1일 제러미 래섬에게 넘기고 프로듀서로 남음",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q7176746",
+     "https://en.wikipedia.org/wiki/Peter_Safran",
+     "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-shocker-james-gunn-peter-safran-stepping-1236750902/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q7176746",
+   "links": [
+    {
+     "id": "3c8b6d16-790f-4d2f-a837-7e84ca26ce13",
+     "category": "단체",
+     "name": "DC Studios",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "debbabbe-a63a-4fa0-8641-89063a6f3f2a",
+     "category": "장소",
+     "name": "London",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "dcc1c797-1f2e-4650-8597-9430de63f1ae",
+   "name": "Spotify",
+   "category": "단체",
+   "alias": "스포티파이, Spotify AB, Spotify Technology",
+   "disambig": "스웨덴의 음악 · 오디오 스트리밍 서비스",
+   "country_tags": [
+    "Sweden"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "음악 · 팟캐스트 스트리밍",
+    "formation_date": "2006-04-23",
+    "founder": "Daniel Ek, Martin Lorentzon",
+    "ceo": "Gustav Söderström, Alex Norström(공동)",
+    "parent_company": "Spotify Technology S.A.",
+    "listed_on": "NYSE",
+    "hq": "Stockholm",
+    "website": "https://www.spotify.com",
+    "summary": "2006년 스톡홀름에서 세운 세계 최대 음악 스트리밍 서비스. 2026년 1월부터 다니엘 에크는 이사회 의장, 쇠데르스트룀 · 노르스트룀 공동 CEO",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q689141",
+     "https://www.wikidata.org/wiki/Q87067874",
+     "https://en.wikipedia.org/wiki/Spotify",
+     "https://www.musicweek.com/digital/read/daniel-ek-to-become-spotify-executive-chairman-gustav-s-derstr-m-alex-norstr-m-upped-to-co-ceos/092746"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q689141",
+   "links": [
+    {
+     "id": "233a934c-9f82-4646-bee8-562f1aa8497f",
+     "category": "장소",
+     "name": "Stockholm",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "c9852c45-b1cc-46cf-bf66-b88c37f497b6",
+   "name": "Tatler Asia",
+   "category": "단체",
+   "alias": "Tatler, 태틀러, 태틀러 아시아, Tatler Asia Group, Tatler Best",
+   "disambig": "홍콩에 본사를 둔 아시아판 Tatler 잡지 · 미식 매체",
+   "country_tags": [
+    "China"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "잡지 · 라이프스타일 매체",
+    "hq": "Hong Kong",
+    "website": "https://www.tatlerasia.com",
+    "summary": "영국 잡지 Tatler의 아시아 판을 내는 홍콩 매체. 「Tatler Best」로 아시아태평양 100대 식당 · 바 · 호텔을 뽑으며 2026년 시상은 상하이에서 열림",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q116213561",
+     "https://www.tatlerasia.com/lifestyle/travel/inside-tatler-best-asia-pacific-2026-hosted-in-shanghai",
+     "https://www.citynewsservice.cn/articles/cns/city-news/quick-news-11-shanghai-restos-and-bars-win-tatler-awards-bmebay4m"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q116213561",
+   "links": [
+    {
+     "id": "c7a0c821-1b4a-47ce-bc47-a059ada14ada",
+     "category": "장소",
+     "name": "Hong Kong",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "a60ee7de-24da-4dd3-8b0a-a0b559a21de7",
+   "name": "The Crown Estate",
+   "category": "단체",
+   "alias": "Crown Estate, 크라운 에스테이트, 영국 왕실 재산관리청, クラウン・エステート, 英國官方產業署",
+   "disambig": "영국 군주 소유 부동산을 관리하는 법정 법인",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1961",
+    "hq": "1 St James's Market, London SW1Y 4AH",
+    "website": "https://www.thecrownestate.co.uk",
+    "summary": "영국 군주가 소유한 부동산(런던 리젠트 스트리트 · 해저 등)을 관리하는 법정 법인. 1961년 Crown Estate Act로 지금 틀이 됐고 수익은 재무부로 감",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q2469078",
+     "https://en.wikipedia.org/wiki/Crown_Estate",
+     "https://thecrownestate.co.uk/contact-us"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q2469078",
+   "links": [
+    {
+     "id": "5b2033ad-5394-4deb-9e23-fbc380b8979a",
+     "category": "장소",
+     "name": "Westminster",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "f35eb07f-adbb-4b94-9240-753c56955953",
+   "name": "Tubi",
+   "category": "단체",
+   "alias": "투비, ツビ, Tubi TV",
+   "disambig": "폭스의 무료 광고형 동영상 스트리밍 서비스(OTT)",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "OTT",
+    "formation_date": "2014",
+    "founder": "Farhad Massoudi",
+    "parent_company": "Fox Corporation",
+    "hq": "315 Montgomery St, San Francisco, California",
+    "website": "https://tubitv.com",
+    "summary": "광고를 붙여 무료로 영화 · 드라마를 보여 주는 미국 스트리밍 서비스. 2020년 폭스가 인수, 2026년 11월 앤잘리 수드 CEO가 떠남",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q21189826",
+     "https://en.wikipedia.org/wiki/Tubi",
+     "https://cordcuttersnews.com/?p=259656"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q21189826",
+   "links": [
+    {
+     "id": "54578aae-1db2-40b8-a187-948037d0b02e",
+     "category": "장소",
+     "name": "San Francisco County",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "74d53379-dc7f-44d7-b60a-a0066438f8ef",
+     "category": "허브",
+     "name": "United States OTT",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "c49d5b9e-367d-4678-9c43-3fd3a0e98fb2",
+   "name": "Warner Bros.",
+   "category": "단체",
+   "alias": "워너브러더스, 워너 브라더스, 워너 브러더스, 워너브라더스, Warner Bros. Entertainment, Warner Bros. Entertainment Inc., WB, ワーナー・ブラザース",
+   "disambig": "미국의 영화 · TV 스튜디오",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Warner Bros. Entertainment Inc.",
+    "org_type": "기업",
+    "industry": "영화 · TV 제작 · 배급",
+    "formation_date": "1923-04-04",
+    "founder": "Harry Warner, Albert Warner, Sam Warner, Jack Warner",
+    "parent_company": "Skydance",
+    "hq": "Burbank, California",
+    "website": "https://www.warnerbros.com",
+    "summary": "1923년 워너 네 형제가 세운 할리우드 메이저 스튜디오. 2026년 10월 Skydance가 모회사 워너브러더스 디스커버리 인수를 마침",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q126399",
+     "https://en.wikipedia.org/wiki/Warner_Bros.",
+     "https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q126399",
+   "links": [
+    {
+     "id": "e478176f-057c-43f8-b866-ce7ef3779e70",
+     "category": "장소",
+     "name": "Los Angeles County",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "c8e22ad6-a32c-4874-b89f-ca62f9516b6b",
+   "name": "강원관광재단",
+   "category": "단체",
+   "alias": "Gangwon Tourism Foundation",
+   "disambig": "대한민국 강원특별자치도의 관광 재단",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2020-10",
+    "hq": "강원특별자치도 춘천시 안마산로 89 세종빌딩 3층",
+    "website": "https://www.gwto.or.kr",
+    "summary": "강원 관광 홍보 · 추천 여행지 선정 · 워케이션 등을 맡는 강원특별자치도 출연기관",
+    "sources": [
+     "https://www.gwto.or.kr/www/index.do",
+     "https://thevc.kr/gangwontourismfoundation",
+     "https://www.segye.com/newsView/20240819523072"
+    ]
+   },
+   "source_url": "https://www.gwto.or.kr/www/index.do",
+   "links": [
+    {
+     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589",
+     "category": "장소",
+     "name": "춘천시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "1571bb4f-7c39-4332-b2d9-cb410ea8c485",
+   "name": "개인정보보호위원회",
+   "category": "단체",
+   "alias": "개인정보위, 대한민국 개인정보보호위원회, Personal Information Protection Commission, PIPC",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2011-09-30",
+    "hq": "서울특별시 종로구 세종대로 209 정부서울청사",
+    "website": "https://www.pipc.go.kr",
+    "summary": "개인정보 보호 정책과 유출 조사 · 과징금 처분을 맡는 국무총리 소속 위원회",
+    "sources": [
+     "https://pipc.go.kr/np/",
+     "https://ko.wikipedia.org/wiki/대한민국_개인정보보호위원회",
+     "https://www.wikidata.org/wiki/Q12583260"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12583260",
+   "links": [
+    {
+     "id": "eaf46a17-96a2-4ab6-9146-7d5c9e70866b",
+     "category": "장소",
+     "name": "세종로",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "4b90457f-fae4-4577-8012-2ffc343cfa93",
+   "name": "건강보험심사평가원",
+   "category": "단체",
+   "alias": "심평원, Health Insurance Review and Assessment Service, HIRA",
+   "disambig": "대한민국의 준정부기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2000-07-01",
+    "hq": "강원특별자치도 원주시 혁신로 60 (반곡동)",
+    "website": "https://www.hira.or.kr",
+    "summary": "건강보험 진료비 심사와 의료 질 평가를 맡는 보건복지부 산하 기관",
+    "sources": [
+     "https://www.hira.or.kr/main.do",
+     "https://ko.wikipedia.org/wiki/건강보험심사평가원",
+     "https://www.wikidata.org/wiki/Q16179935"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16179935",
+   "links": [
+    {
+     "id": "9336bf05-b45b-4a47-8b9d-55b84efbb24f",
+     "category": "장소",
+     "name": "반곡동",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "6014a6ab-1921-4649-a803-9a2f76477322",
+     "category": "단체",
+     "name": "보건복지부",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "0a2bd45b-4ca4-46ac-9f01-6db6c7b0ce55",
+   "name": "경찰청",
+   "category": "단체",
+   "alias": "대한민국 경찰청, Korean National Police Agency, KNPA",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1991-08-01",
+    "hq": "서울특별시 서대문구 통일로 97 (미근동)",
+    "website": "https://www.police.go.kr",
+    "summary": "전국 치안을 총괄하는 행정안전부 소속 청",
+    "sources": [
+     "https://police.go.kr/www/open/inst/inst04.jsp",
+     "https://ko.wikipedia.org/wiki/대한민국_경찰청",
+     "https://www.wikidata.org/wiki/Q482878"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q482878",
+   "links": [
+    {
+     "id": "f0ce524c-16c0-4f7f-9ae2-a9d42321b60f",
+     "category": "장소",
+     "name": "미근동",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "b5a53446-9a45-4206-9482-17699beca2f9",
+     "category": "단체",
+     "name": "행정안전부",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "d167f235-4b5e-4948-8434-dbdc25f353a9",
+   "name": "공정거래위원회",
+   "category": "단체",
+   "alias": "공정위, 대한민국 공정거래위원회, Korea Fair Trade Commission, KFTC",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1981-04-01",
+    "hq": "세종특별자치시 다솜3로 95 정부세종청사 2동",
+    "website": "https://www.ftc.go.kr",
+    "summary": "독과점 · 불공정거래를 규제하고 소비자 보호를 맡는 국무총리 소속 위원회",
+    "sources": [
+     "https://www.ftc.go.kr/www/index.do",
+     "https://ko.wikipedia.org/wiki/대한민국_공정거래위원회",
+     "https://www.wikidata.org/wiki/Q624479"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q624479",
+   "links": [
+    {
+     "id": "2b00f9c7-fc73-4fc3-bf37-934066598071",
+     "category": "장소",
+     "name": "세종특별자치시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "ea7b40a9-cc36-4df1-9b63-b84ef28f956b",
+   "name": "과학기술정보통신부",
+   "category": "단체",
+   "alias": "과기정통부, 대한민국 과학기술정보통신부, Ministry of Science and ICT, MSIT",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2017-07-26",
+    "hq": "세종특별자치시 갈매로 477 정부세종청사 4동",
+    "website": "https://www.msit.go.kr",
+    "summary": "과학기술 · 연구개발 · 정보통신 · 방송통신 정책을 맡는 중앙행정기관",
+    "sources": [
+     "https://www.msit.go.kr/index.do",
+     "https://ko.wikipedia.org/wiki/대한민국_과학기술정보통신부",
+     "https://www.wikidata.org/wiki/Q33366149"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q33366149",
+   "links": [
+    {
+     "id": "2b00f9c7-fc73-4fc3-bf37-934066598071",
+     "category": "장소",
+     "name": "세종특별자치시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "f0436d33-7e67-44b9-9c7e-40a855df15c8",
+   "name": "관세청",
+   "category": "단체",
+   "alias": "대한민국 관세청, Korea Customs Service, KCS",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1970-08-27",
+    "hq": "대전광역시 서구 청사로 189 정부대전청사 1동",
+    "website": "https://www.customs.go.kr",
+    "summary": "관세 부과 · 수출입 통관 · 밀수 단속을 맡는 청",
+    "sources": [
+     "https://www.customs.go.kr/kcs/main.do",
+     "https://ko.wikipedia.org/wiki/대한민국_관세청",
+     "https://www.wikidata.org/wiki/Q11232850"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q11232850",
+   "links": [
+    {
+     "id": "df685817-a564-47ef-a755-2a10bcce9833",
+     "category": "단체",
+     "name": "재정경제부",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "babb559e-7813-4e5d-b223-a455c80dcf1a",
+     "category": "장소",
+     "name": "둔산동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "20b4d8c8-29e4-4b98-babb-377ee275984a",
+   "name": "광주과학기술원",
+   "category": "단체",
+   "alias": "GIST, 지스트, 광주과기원, Gwangju Institute of Science and Technology",
+   "disambig": "대한민국의 과학기술 특성화 대학",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "학교",
+    "formation_date": "1993",
+    "hq": "전남광주통합특별시 북구 첨단과기로 123 (오룡동)",
+    "website": "https://www.gist.ac.kr",
+    "summary": "광주 첨단과학산업단지에 있는 연구 중심 과학기술 특성화 대학",
+    "sources": [
+     "https://www.gist.ac.kr/kr/main.html",
+     "https://ko.wikipedia.org/wiki/광주과학기술원",
+     "https://www.wikidata.org/wiki/Q484900"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q484900",
+   "links": [
+    {
+     "id": "0019f333-4c2d-45ad-94e7-e306c8c6f0c9",
+     "category": "장소",
+     "name": "오룡동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "3856f802-843e-4b5a-8959-49739f0c2be0",
+   "name": "교육부",
+   "category": "단체",
+   "alias": "대한민국 교육부, Ministry of Education, MOE",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2013-03-23",
+    "hq": "세종특별자치시 갈매로 408 (어진동) 정부세종청사 14동",
+    "website": "https://www.moe.go.kr",
+    "summary": "유아 · 초중등 · 고등 교육과 평생교육 정책을 맡는 중앙행정기관",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/대한민국_교육부",
+     "https://www.wikidata.org/wiki/Q9404048"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q9404048",
+   "links": [
+    {
+     "id": "dee18fe2-c788-4249-8078-a6e6ee25bc22",
+     "category": "장소",
+     "name": "어진동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "c8d8e685-45e8-45a4-8108-8e922c080445",
+   "name": "국가데이터처",
+   "category": "단체",
+   "alias": "통계청, 대한민국 통계청, 대한민국 국가데이터처, Ministry of Data and Statistics, Statistics Korea, KOSTAT",
+   "disambig": "대한민국의 중앙행정기관(옛 통계청)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2025-10-01",
+    "hq": "대전광역시 서구 청사로 189 (둔산동) 정부대전청사 3동",
+    "website": "https://mods.go.kr",
+    "summary": "국가 통계와 범정부 데이터를 맡는 국무총리 소속 기관, 2025년 10월 1일 통계청에서 승격",
+    "sources": [
+     "https://mods.go.kr/index.es?sid=a1",
+     "https://www.mt.co.kr/economy/2025/10/01/2025093015220379292",
+     "https://v.daum.net/v/PmyZ7XdzuK",
+     "https://www.wikidata.org/wiki/Q11233101"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q11233101",
+   "links": [
+    {
+     "id": "babb559e-7813-4e5d-b223-a455c80dcf1a",
+     "category": "장소",
+     "name": "둔산동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "31af608e-6af7-4f4f-82c1-c0cb14e8fd3f",
+   "name": "국가유산청",
+   "category": "단체",
+   "alias": "문화재청, 대한민국 국가유산청, Korea Heritage Service, Cultural Heritage Administration",
+   "disambig": "대한민국의 중앙행정기관(옛 문화재청)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2024-05-17",
+    "hq": "대전광역시 서구 청사로 189 (둔산동) 정부대전청사 1동",
+    "website": "https://www.khs.go.kr",
+    "summary": "국보 · 보물 · 무형유산 등 국가유산의 지정과 보존을 맡는 문화체육관광부 소속 청, 2024년 문화재청에서 이름을 바꿈",
+    "sources": [
+     "https://www.khs.go.kr/main.html",
+     "https://ko.wikipedia.org/wiki/대한민국_국가유산청",
+     "https://www.wikidata.org/wiki/Q488764"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q488764",
+   "links": [
+    {
+     "id": "babb559e-7813-4e5d-b223-a455c80dcf1a",
+     "category": "장소",
+     "name": "둔산동",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "b9f0b495-0d2d-4343-80a5-c00b61071800",
+     "category": "단체",
+     "name": "문화체육관광부",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "ecdebb11-0e3f-4d42-bd83-322f84804b72",
+   "name": "국가인권위원회",
+   "category": "단체",
+   "alias": "인권위, 대한민국 국가인권위원회, National Human Rights Commission of Korea, NHRCK",
+   "disambig": "대한민국의 독립 인권기구",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2001",
+    "hq": "서울특별시 중구 삼일대로 340 (저동1가) 나라키움 저동빌딩",
+    "website": "https://www.humanrights.go.kr",
+    "summary": "인권 침해 · 차별 진정을 조사하고 권고하는 독립 국가기관",
+    "sources": [
+     "https://www.humanrights.go.kr/",
+     "https://ko.wikipedia.org/wiki/대한민국_국가인권위원회",
+     "https://www.wikidata.org/wiki/Q624507"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q624507",
+   "links": [
+    {
+     "id": "58e8a4a4-7186-401e-9c6a-cab0a62c1a7b",
+     "category": "장소",
+     "name": "저동1가",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "eb707e97-0ef4-40bb-a144-31c2035c1cef",
+   "name": "국립수산과학원",
+   "category": "단체",
+   "alias": "수산과학원, 수과원, National Institute of Fisheries Science, NIFS",
+   "disambig": "대한민국의 국립 수산 연구기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "hq": "부산광역시 기장군 기장읍 기장해안로 216",
+    "website": "https://www.nifs.go.kr",
+    "summary": "수산자원 · 양식 · 해양환경을 연구하는 해양수산부 소속 국립 연구기관",
+    "sources": [
+     "https://www.nifs.go.kr/main.do",
+     "https://ko.wikipedia.org/wiki/국립수산과학원",
+     "https://www.wikidata.org/wiki/Q10855566"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q10855566",
+   "links": [
+    {
+     "id": "5ed4d347-4872-4220-863e-1a9adfd65d1e",
+     "category": "단체",
+     "name": "해양수산부",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "61efbc1f-b36e-4b61-94be-eab355f3a478",
+     "category": "장소",
+     "name": "기장읍",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "bf606813-e3c0-4504-9f4d-e1ac8ef9f575",
+   "name": "국방부",
+   "category": "단체",
+   "alias": "대한민국 국방부, Ministry of National Defense, MND",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1948",
+    "hq": "서울특별시 용산구 이태원로 22 (용산동3가)",
+    "website": "https://www.mnd.go.kr",
+    "summary": "국방 정책과 군사 업무를 총괄하는 중앙행정기관",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/대한민국_국방부",
+     "https://www.wikidata.org/wiki/Q488542"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q488542",
+   "links": [
+    {
+     "id": "25e79381-164e-4a09-9fd4-756f80d53f98",
+     "category": "장소",
+     "name": "용산동3가",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "be790cbb-e28c-4b24-9fab-793ff1e669b6",
+   "name": "근로복지공단",
+   "category": "단체",
+   "alias": "한국근로복지공단, Korea Workers' Compensation & Welfare Service, COMWEL",
+   "disambig": "대한민국의 준정부기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1995-05-01",
+    "hq": "울산광역시 중구 종가로 340",
+    "website": "https://www.comwel.or.kr",
+    "summary": "산재보험 · 고용보험 · 퇴직연금 업무를 맡는 고용노동부 산하 기관",
+    "sources": [
+     "https://www.comwel.or.kr/comwel/landing.jsp",
+     "https://ko.wikipedia.org/wiki/근로복지공단",
+     "https://www.wikidata.org/wiki/Q12586333"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12586333",
+   "links": [
+    {
+     "id": "b0fb2af9-68be-4b89-a39e-3159c4421361",
+     "category": "장소",
+     "name": "중구",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "5da9afa2-5ac4-478d-b9af-97e1f04a4604",
+     "category": "단체",
+     "name": "고용노동부",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "80e5df50-9f69-4dd5-b762-21aaa4bcce56",
+   "name": "금융보안원",
+   "category": "단체",
+   "alias": "Financial Security Institute, FSI",
+   "disambig": "대한민국의 금융보안 전담 기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2015-04-10",
+    "hq": "경기도 용인시 수지구 대지로 132",
+    "website": "https://www.fsec.or.kr",
+    "summary": "금융권 보안 관제 · 침해사고 대응 · 보안 평가를 맡는 금융위원회 허가 기관, 2015년 금융보안연구원과 금융결제원 · 코스콤 정보공유분석센터를 합쳐 출범",
+    "sources": [
+     "https://www.fsec.or.kr/",
+     "https://fsc.go.kr/no010101/71513",
+     "https://view.asiae.co.kr/article/2015041010263650132",
+     "https://www.wikidata.org/wiki/Q31176675"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q31176675",
+   "links": [
+    {
+     "id": "25b4b535-b461-49ec-a97a-86a911508b6c",
+     "category": "단체",
+     "name": "금융위원회",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "e2f08f42-a439-4b1f-9e76-6911405ab938",
+     "category": "장소",
+     "name": "수지구",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "2ef2fec2-f294-4d28-9930-424f0fab9a09",
+   "name": "기상청",
+   "category": "단체",
+   "alias": "대한민국 기상청, Korea Meteorological Administration, KMA",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1990-12-27",
+    "hq": "대전광역시 서구 청사로 189 정부대전청사 1동 (서울 동작구 여의대방로16길 61 청사 함께 운영)",
+    "website": "https://www.kma.go.kr",
+    "summary": "날씨 예보 · 특보 · 기후 감시와 지진 통보를 맡는 청",
+    "sources": [
+     "https://www.weather.go.kr/w/index.do",
+     "https://ko.wikipedia.org/wiki/대한민국_기상청",
+     "https://www.wikidata.org/wiki/Q482712"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q482712",
+   "links": [
+    {
+     "id": "babb559e-7813-4e5d-b223-a455c80dcf1a",
+     "category": "장소",
+     "name": "둔산동",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "f8d379b2-0380-4a0c-a376-be4336dca932",
+     "category": "단체",
+     "name": "기후에너지환경부",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "f8d379b2-0380-4a0c-a376-be4336dca932",
+   "name": "기후에너지환경부",
+   "category": "단체",
+   "alias": "기후부, 환경부, 대한민국 환경부, 기후환경에너지부, Ministry of Climate, Energy and Environment, Ministry of Environment",
+   "disambig": "대한민국의 중앙행정기관(옛 환경부)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2025-10-01",
+    "hq": "세종특별자치시 도움6로 11 정부세종청사 6동",
+    "website": "https://www.mcee.go.kr",
+    "summary": "기후 · 에너지 · 환경 · 물 관리 정책을 맡는 중앙행정기관, 2025년 10월 1일 환경부에 산업통상자원부 에너지 업무를 합쳐 출범",
+    "sources": [
+     "https://www.mcee.go.kr/home/web/main.do",
+     "https://mobile.newsis.com/view/NISX20250929_0003349043",
+     "https://www.heraldk.com/article/2025090702142610765",
+     "https://www.wikidata.org/wiki/Q136541284"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q136541284",
+   "links": [
+    {
+     "id": "2b00f9c7-fc73-4fc3-bf37-934066598071",
+     "category": "장소",
+     "name": "세종특별자치시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "8e94cedc-5568-433a-97a5-6f9645cb055f",
+   "name": "김민규",
+   "category": "인물",
+   "alias": "Kim Min-kyu",
+   "disambig": "대한민국의 배우, 프로듀스 X 101 출신",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Kim Min-kyu",
+    "birth_date": "2001-03-12",
+    "birthplace": "경상북도 구미시",
+    "nationality": "대한민국",
+    "gender": "남성",
+    "occupation": "배우",
+    "organization": "BH엔터테인먼트",
+    "debut_date": "2020-06-25",
+    "debut_work": "만찢남녀",
+    "education": "영동고등학교(서울) 졸업",
+    "notable_works": "세자가 사라졌다, 「첫, 사랑을 위하여」, 청담국제고등학교 2, 더 쇼(MC)",
+    "summary": "2019년 「프로듀스 X 101」로 알려진 배우, 2020년 웹드라마 「만찢남녀」로 연기를 시작해 「세자가 사라졌다」 도성대군 역, 2026년 8월 BH엔터테인먼트와 전속계약",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/김민규_(2001년)",
+     "https://namu.wiki/w/김민규(2001)",
+     "https://www.wikidata.org/wiki/Q78123730",
+     "https://isplus.com/article/view/isp202608210055"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q78123730",
+   "links": [
+    {
+     "id": "0939de3e-dbd9-4466-a351-f70fad87e927",
+     "category": "단체",
+     "name": "BH엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "7ae99229-3514-4954-8bda-1aba443b7ccc",
+     "category": "장소",
+     "name": "구미시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "ae297d72-c5a2-484c-a19e-fd10f4db5667",
+     "category": "작품",
+     "name": "첫, 사랑을 위하여",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "4ca0a11b-003a-4b3c-aa14-773d8a7f4561",
+     "category": "작품",
+     "name": "더 쇼",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "4177f296-cdbe-4eae-9a2e-73e061a1bc63",
+   "name": "김준한",
+   "category": "인물",
+   "alias": "Kim Jun-han, Kim Joon-han",
+   "disambig": "대한민국의 배우, 밴드 izi 드러머 출신",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Kim Jun-han",
+    "birth_date": "1983-03-29",
+    "birthplace": "경상남도 마산시(현 창원시)",
+    "nationality": "대한민국",
+    "gender": "남성",
+    "occupation": "배우",
+    "organization": "아티스트컴퍼니",
+    "debut_date": "2005",
+    "debut_work": "밴드 izi(드러머)",
+    "education": "마산가포고등학교, 우송정보대학 실용음악과",
+    "notable_works": "슬기로운 의사생활, 안나, 굿파트너, 대한민국에서 건물주 되는 법, 인턴",
+    "summary": "2005년 밴드 izi 드러머로 데뷔한 뒤 배우로 옮겨 「슬기로운 의사생활」 안치홍 · 「굿파트너」 정우진 역, 2026년 영화 「인턴」 · tvN 「대한민국에서 건물주 되는 법」 출연",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/김준한",
+     "https://namu.wiki/w/김준한",
+     "https://www.wikidata.org/wiki/Q47600523"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q47600523",
+   "links": [
+    {
+     "id": "6fca0b92-9675-4edd-a247-3720a75a1ce1",
+     "category": "작품",
+     "name": "굿파트너",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "0b0d0713-ca7a-40f2-85a5-e083b3f48e2d",
+     "category": "작품",
+     "name": "인턴",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "305c3efe-cfc0-4991-87e0-033913a2d161",
+     "category": "단체",
+     "name": "아티스트컴퍼니",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "9be5455b-5f47-4f9f-b84b-a9564fdf66ef",
+     "category": "작품",
+     "name": "언젠가는 슬기로울 전공의생활",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "2e5998fd-52c6-494e-a140-5c8a77792b27",
+     "category": "작품",
+     "name": "대한민국에서 건물주 되는 법",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "6cc78e43-34d6-4ab3-82db-e09508c43ec1",
+     "category": "장소",
+     "name": "창원시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "4ab7382f-c86d-438c-b7e0-3ffe2acc4079",
+   "name": "농림축산식품부",
+   "category": "단체",
+   "alias": "농식품부, 대한민국 농림축산식품부, Ministry of Agriculture, Food and Rural Affairs, MAFRA",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2013-03-23",
+    "hq": "세종특별자치시 다솜2로 94 정부세종청사",
+    "website": "https://www.mafra.go.kr",
+    "summary": "농업 · 축산 · 식품산업 · 농촌 정책과 가축 방역을 맡는 중앙행정기관",
+    "sources": [
+     "https://www.mafra.go.kr/sites/home/index.do",
+     "https://ko.wikipedia.org/wiki/대한민국_농림축산식품부",
+     "https://www.wikidata.org/wiki/Q624460"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q624460",
+   "links": [
+    {
+     "id": "2b00f9c7-fc73-4fc3-bf37-934066598071",
+     "category": "장소",
+     "name": "세종특별자치시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a",
+   "name": "대법원",
+   "category": "단체",
+   "alias": "대한민국 대법원, Supreme Court of Korea",
+   "disambig": "대한민국의 최고법원",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1948",
+    "hq": "서울특별시 서초구 서초대로 219 (서초동)",
+    "website": "https://www.scourt.go.kr",
+    "summary": "대한민국 사법부의 최고법원으로 상고심을 맡고 법원행정처를 둠",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/대한민국_대법원",
+     "https://www.wikidata.org/wiki/Q623906"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q623906",
+   "links": [
+    {
+     "id": "81278e15-b0b1-4a90-9428-749d7e823d07",
+     "category": "장소",
+     "name": "서초동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "b2ac2449-0386-41df-a6f9-7326e60d38ef",
+   "name": "대한민국 해군",
+   "category": "단체",
+   "alias": "해군, 한국 해군, Republic of Korea Navy, ROK Navy",
+   "disambig": "대한민국 국군의 해군",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1945-11-11",
+    "hq": "충청남도 계룡시 신도안면 계룡대 (해군본부)",
+    "website": "https://www.navy.mil.kr",
+    "summary": "대한민국 영해 방어를 맡는 국군의 해군, 1945년 해방병단으로 창설",
+    "sources": [
+     "https://www.navy.mil.kr/mbshome/mbs/navy/index.do",
+     "https://ko.wikipedia.org/wiki/대한민국_해군",
+     "https://www.wikidata.org/wiki/Q488756"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q488756",
+   "links": [
+    {
+     "id": "fd03e5e7-bb5c-49f7-b236-3a132ffcf28f",
+     "category": "장소",
+     "name": "신도안면",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "bf606813-e3c0-4504-9f4d-e1ac8ef9f575",
+     "category": "단체",
+     "name": "국방부",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "4b0d2091-04f7-453d-9509-c51f5ea53075",
+   "name": "롯데백화점",
+   "category": "단체",
+   "alias": "Lotte Department Store",
+   "disambig": "대한민국의 백화점, 롯데쇼핑 백화점사업부",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "parent_company": "롯데쇼핑",
+    "formation_date": "1979-12-17",
+    "founder": "신격호",
+    "industry": "백화점",
+    "hq": "서울특별시 중구 남대문로 81",
+    "ceo": "정현석",
+    "website": "https://www.lotteshopping.com/",
+    "summary": "1979년 소공동 본점으로 문을 연 롯데쇼핑의 백화점 사업. 아울렛 · 타임빌라스와 베트남 하노이 롯데몰도 운영",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q489905",
+     "https://ko.wikipedia.org/wiki/롯데백화점",
+     "https://www.lotteshopping.com/",
+     "https://www.mt.co.kr/living/2026/08/20/2026082015443068978"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q489905",
+   "links": [
+    {
+     "id": "f8df21ea-fe67-4cbf-909e-a7e2996ec4a2",
+     "category": "단체",
+     "name": "롯데그룹",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "30ba2f38-add4-4c95-a207-bc484a36fe0c",
+     "category": "장소",
+     "name": "소공동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "eefe9087-0190-4419-8bf0-af12f243a5d7",
+   "name": "롯데지주",
+   "category": "단체",
+   "alias": "롯데지주주식회사, Lotte Corporation",
+   "disambig": "롯데그룹의 지주회사",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "real_name": "롯데지주주식회사",
+    "formation_date": "1967-03-24",
+    "founder": "신격호",
+    "industry": "지주회사",
+    "hq": "서울특별시 송파구 올림픽로 300",
+    "ceo": "신동빈, 고정욱, 노준형",
+    "listed_on": "코스피",
+    "website": "http://www.lotte.co.kr/",
+    "subsidiaries": "코리아세븐, 롯데정보통신, 롯데멤버스, 대홍기획, 롯데 자이언츠",
+    "summary": "2017년 롯데제과 · 롯데쇼핑 등에서 떼어 세운 롯데그룹 지주회사로 법인은 1967년 롯데제과에서 이어짐. 본사는 롯데월드타워",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q51570147",
+     "https://ko.wikipedia.org/wiki/롯데지주",
+     "https://www.heraldk.com/article/2025112615512847446"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q51570147",
+   "links": [
+    {
+     "id": "f8df21ea-fe67-4cbf-909e-a7e2996ec4a2",
+     "category": "단체",
+     "name": "롯데그룹",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "b2f45757-167c-4c03-90af-aba58a8d0543",
+     "category": "장소",
+     "name": "신천동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "b9f0b495-0d2d-4343-80a5-c00b61071800",
+   "name": "문화체육관광부",
+   "category": "단체",
+   "alias": "문체부, 대한민국 문화체육관광부, Ministry of Culture, Sports and Tourism, MCST",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2008-02-29",
+    "hq": "세종특별자치시 갈매로 388 정부세종청사 15동",
+    "website": "https://www.mcst.go.kr",
+    "summary": "문화 · 예술 · 콘텐츠 · 체육 · 관광 · 홍보 정책을 맡는 중앙행정기관",
+    "sources": [
+     "https://www.mcst.go.kr/site/main.jsp",
+     "https://ko.wikipedia.org/wiki/대한민국_문화체육관광부",
+     "https://www.wikidata.org/wiki/Q488744"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q488744",
+   "links": [
+    {
+     "id": "2b00f9c7-fc73-4fc3-bf37-934066598071",
+     "category": "장소",
+     "name": "세종특별자치시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "a18a0653-425a-479f-9c03-0575e0f867ac",
+   "name": "방위사업청",
+   "category": "단체",
+   "alias": "방사청, 대한민국 방위사업청, Defense Acquisition Program Administration, DAPA",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2006-01-01",
+    "hq": "대전광역시 서구 월평중로 21 (과천 청사 함께 운영)",
+    "website": "https://www.dapa.go.kr",
+    "summary": "무기 획득 · 방위산업 육성 · 방산 수출을 맡는 국방부 소속 청, 2023년부터 대전으로 옮기는 중",
+    "sources": [
+     "https://www.dapa.go.kr/dapa/index.do",
+     "https://www.metroseoul.co.kr/article/20230703500530",
+     "https://www.wikidata.org/wiki/Q11232933"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q11232933",
+   "links": [
+    {
+     "id": "09b0d788-c61c-4485-a3f3-af0fe2daf636",
+     "category": "장소",
+     "name": "월평동",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "bf606813-e3c0-4504-9f4d-e1ac8ef9f575",
+     "category": "단체",
+     "name": "국방부",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "a9b81ba4-3948-4481-8972-9bd2fb40f4a4",
+   "name": "법무부",
+   "category": "단체",
+   "alias": "대한민국 법무부, Ministry of Justice, MOJ",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1948",
+    "hq": "경기도 과천시 관문로 47 정부과천청사",
+    "website": "https://www.moj.go.kr",
+    "summary": "검찰 · 교정 · 출입국 · 국적 등 법무 행정을 맡는 중앙행정기관",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/대한민국_법무부",
+     "https://www.wikidata.org/wiki/Q482789"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q482789",
+   "links": [
+    {
+     "id": "24434fb3-ee13-4bd3-84c8-9f91d8554535",
+     "category": "장소",
+     "name": "과천시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "6014a6ab-1921-4649-a803-9a2f76477322",
+   "name": "보건복지부",
+   "category": "단체",
+   "alias": "복지부, 대한민국 보건복지부, Ministry of Health and Welfare, MOHW",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2010-03-19",
+    "hq": "세종특별자치시 도움4로 13 정부세종청사 10동",
+    "website": "https://www.mohw.go.kr",
+    "summary": "보건 · 의료 · 사회복지 · 인구 정책을 맡는 중앙행정기관",
+    "sources": [
+     "https://www.mohw.go.kr/",
+     "https://ko.wikipedia.org/wiki/대한민국_보건복지부",
+     "https://www.wikidata.org/wiki/Q482921"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q482921",
+   "links": [
+    {
+     "id": "2b00f9c7-fc73-4fc3-bf37-934066598071",
+     "category": "장소",
+     "name": "세종특별자치시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "33b86790-655e-4437-a35c-8f30c92fe2e7",
+   "name": "산림청",
+   "category": "단체",
+   "alias": "대한민국 산림청, Korea Forest Service, KFS",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1967-01",
+    "hq": "대전광역시 서구 청사로 189 정부대전청사 1동",
+    "website": "https://www.forest.go.kr",
+    "summary": "산림 보호 · 산불 · 산림병해충 방제 · 휴양림을 맡는 농림축산식품부 소속 청",
+    "sources": [
+     "https://www.forest.go.kr/kfsweb/kfs/idx/Index.do",
+     "https://ko.wikipedia.org/wiki/대한민국_산림청",
+     "https://www.wikidata.org/wiki/Q483273"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q483273",
+   "links": [
+    {
+     "id": "4ab7382f-c86d-438c-b7e0-3ffe2acc4079",
+     "category": "단체",
+     "name": "농림축산식품부",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "babb559e-7813-4e5d-b223-a455c80dcf1a",
+     "category": "장소",
+     "name": "둔산동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "8370c3d8-9066-414e-a263-77190e0ffe09",
+   "name": "산업통상부",
+   "category": "단체",
+   "alias": "산업부, 산업통상자원부, Ministry of Trade, Industry and Resources, MOTIR",
+   "disambig": "대한민국의 중앙행정기관(옛 산업통상자원부)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2025-10-01",
+    "hq": "세종특별자치시 한누리대로 402 정부세종청사 12 · 13동",
+    "website": "https://www.motir.go.kr",
+    "summary": "산업 · 통상 · 자원 · 원전 수출 정책을 맡는 중앙행정기관, 2025년 10월 1일 에너지 업무를 넘기며 산업통상자원부에서 이름을 바꿈",
+    "sources": [
+     "https://www.motir.go.kr/",
+     "https://mobile.newsis.com/view/NISX20250907_0003319084",
+     "https://www.wikidata.org/wiki/Q491047"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q491047",
+   "links": [
+    {
+     "id": "2b00f9c7-fc73-4fc3-bf37-934066598071",
+     "category": "장소",
+     "name": "세종특별자치시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "d404ff0a-a701-4715-88ac-b8be5238619e",
+   "name": "소방청",
+   "category": "단체",
+   "alias": "대한민국 소방청, National Fire Agency, NFA",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2017-07-26",
+    "hq": "세종특별자치시 정부2청사로 13 (나성동)",
+    "website": "https://www.nfa.go.kr",
+    "summary": "화재 · 구조 · 구급 등 소방 업무를 총괄하는 행정안전부 소속 청",
+    "sources": [
+     "https://www.nfa.go.kr/nfa/",
+     "https://ko.wikipedia.org/wiki/대한민국_소방청",
+     "https://www.wikidata.org/wiki/Q33625595"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q33625595",
+   "links": [
+    {
+     "id": "b5a53446-9a45-4206-9482-17699beca2f9",
+     "category": "단체",
+     "name": "행정안전부",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "aa94f3a1-aba5-41ad-b2b9-9f9606008fb4",
+     "category": "장소",
+     "name": "나성동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "f7c79246-30c2-4dd0-955e-c59b3c149f8a",
+   "name": "식품의약품안전처",
+   "category": "단체",
+   "alias": "식약처, 대한민국 식품의약품안전처, Ministry of Food and Drug Safety, MFDS",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2013-03-23",
+    "hq": "충청북도 청주시 흥덕구 오송읍 오송생명2로 187 오송보건의료행정타운",
+    "website": "https://www.mfds.go.kr",
+    "summary": "식품 · 의약품 · 의료기기 · 화장품 안전을 맡는 국무총리 소속 처",
+    "sources": [
+     "https://www.mfds.go.kr/index.do",
+     "https://ko.wikipedia.org/wiki/대한민국_식품의약품안전처",
+     "https://www.wikidata.org/wiki/Q482905"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q482905",
+   "links": [
+    {
+     "id": "aedd176e-8cba-402c-b939-b4de4a5faca9",
+     "category": "장소",
+     "name": "오송읍",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "7dbe57b1-fe7e-43d6-a44c-a4a66e3bed60",
+   "name": "영화진흥위원회",
+   "category": "단체",
+   "alias": "영진위, Korean Film Council, KOFIC",
+   "disambig": "대한민국의 준정부기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "hq": "부산광역시 해운대구 수영강변대로 130 (우동)",
+    "website": "https://www.kofic.or.kr",
+    "summary": "영화 진흥 지원과 영화관 입장권 통합전산망을 운영하는 문화체육관광부 산하 기관",
+    "sources": [
+     "https://www.kofic.or.kr/kofic/business/main/main.do",
+     "https://ko.wikipedia.org/wiki/영화진흥위원회",
+     "https://www.wikidata.org/wiki/Q16180220"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16180220",
+   "links": [
+    {
+     "id": "b9f0b495-0d2d-4343-80a5-c00b61071800",
+     "category": "단체",
+     "name": "문화체육관광부",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "5d1e1766-2de9-46d3-864d-fe7e159ffaa0",
+     "category": "장소",
+     "name": "우동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "bf7880a0-5212-480e-9329-0771d122496a",
+   "name": "원자력안전위원회",
+   "category": "단체",
+   "alias": "원안위, 대한민국 원자력안전위원회, Nuclear Safety and Security Commission, NSSC",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2011-10-26",
+    "hq": "서울특별시 종로구 세종대로 178 광화문KT빌딩",
+    "website": "https://www.nssc.go.kr",
+    "summary": "원자력 안전 규제와 원전 운영 · 계속운전 허가를 맡는 국무총리 소속 위원회",
+    "sources": [
+     "https://www.nssc.go.kr/",
+     "https://ko.wikipedia.org/wiki/대한민국_원자력안전위원회",
+     "https://www.wikidata.org/wiki/Q15621831"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q15621831",
+   "links": [
+    {
+     "id": "95ee6ece-db01-495d-b63c-37c504ff65d4",
+     "category": "장소",
+     "name": "종로구",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "55d68f34-a8c8-4ec9-92a4-88f8c374c14c",
+   "name": "이규형",
+   "category": "인물",
+   "alias": "Lee Kyu-hyung",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Lee Kyu-hyung",
+    "birth_date": "1983-11-29",
+    "birthplace": "서울특별시",
+    "nationality": "대한민국",
+    "gender": "남성",
+    "occupation": "배우, 뮤지컬 배우",
+    "organization": "에이스팩토리",
+    "debut_date": "2001",
+    "debut_work": "신라의 달밤",
+    "education": "동국대학교 연극학과",
+    "notable_works": "슬기로운 감빵생활, 비밀의 숲, 삼식이 삼촌, 보스, 킥킥킥킥, 개인적인 택시",
+    "summary": "연극 · 뮤지컬에서 출발해 「슬기로운 감빵생활」 · 「비밀의 숲」으로 알려진 배우, 2026년 넷플릭스 「개인적인 택시」 석주 역",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/이규형_(배우)",
+     "https://namu.wiki/w/이규형(1983)",
+     "https://www.wikidata.org/wiki/Q20444069",
+     "https://www.wikitree.co.kr/articles/1163625"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q20444069",
+   "links": [
+    {
+     "id": "e0183ef7-8244-4f52-9301-acfc258d44cc",
+     "category": "단체",
+     "name": "에이스팩토리",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "d89a5a8e-fe68-4e52-92cc-e71c3fe65b9f",
+     "category": "작품",
+     "name": "보스",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "cc61f8cc-963f-4c9c-9332-1c1318ce45b7",
+     "category": "작품",
+     "name": "개인적인 택시",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "ec4d03a6-10c6-4868-b858-36072a18bb69",
+     "category": "작품",
+     "name": "킥킥킥킥",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "33ff6f91-a963-407e-9e23-4882ea56cd78",
+   "name": "이재인",
+   "category": "인물",
+   "alias": "Lee Jae-in, Jane Lee",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Lee Jae-in",
+    "birth_date": "2004-02-06",
+    "birthplace": "강원특별자치도 태백시",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "occupation": "배우",
+    "organization": "유본컴퍼니",
+    "debut_date": "2012",
+    "debut_work": "노란 복수초",
+    "notable_works": "사바하, 라켓소년단, 하이파이브, 미지의 서울, 스프링 피버",
+    "awards": "2021 SBS 연기대상 청소년 연기상(라켓소년단)",
+    "summary": "2012년 아역으로 데뷔한 배우, 영화 「하이파이브」 주연으로 2025년 청룡영화상 여우주연상 후보, 2026년 tvN 「스프링 피버」 · 넷플릭스 「개인적인 택시」 출연",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/이재인_(배우)",
+     "https://namu.wiki/w/이재인(배우)",
+     "https://www.wikidata.org/wiki/Q56660307"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q56660307",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "65f76f7e-cf7e-483c-a3aa-fa64ba5c5e6e",
+     "category": "작품",
+     "name": "스프링 피버",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "cc61f8cc-963f-4c9c-9332-1c1318ce45b7",
+     "category": "작품",
+     "name": "개인적인 택시",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "99358c7f-43e7-47fe-b698-acc8979f866d",
+     "category": "작품",
+     "name": "하이파이브",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "13246251-c192-4e42-b30a-a47105a3ed66",
+     "category": "장소",
+     "name": "태백시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "9606b2dc-2233-46fb-89b4-84fcd8217229",
+     "category": "작품",
+     "name": "미지의 서울",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "592ce6cc-cbcd-4427-9dfc-e84bd84768fa",
+   "name": "인천국제공항공사",
+   "category": "단체",
+   "alias": "IIAC, Incheon International Airport Corporation",
+   "disambig": "대한민국의 공기업",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1999-02-01",
+    "hq": "인천광역시 영종구 공항로424번길 47",
+    "website": "https://www.airport.kr",
+    "summary": "인천국제공항을 짓고 운영하는 국토교통부 산하 공기업",
+    "sources": [
+     "https://www.airport.kr/co_ko/index.do",
+     "https://ko.wikipedia.org/wiki/인천국제공항공사",
+     "https://www.wikidata.org/wiki/Q6442235"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q6442235",
+   "links": [
+    {
+     "id": "95206aab-fe9d-4090-9f4d-ddbf72a00a8c",
+     "category": "장소",
+     "name": "운서동",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5",
+     "category": "단체",
+     "name": "국토교통부",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "51401b91-8f44-44a0-9976-347a6375dc7b",
+   "name": "임세미",
+   "category": "인물",
+   "alias": "Lim Se-mi, Im Se-mi",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Lim Se-mi",
+    "birth_date": "1987-05-29",
+    "birthplace": "서울특별시 강남구",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "occupation": "배우, 모델",
+    "organization": "눈컴퍼니",
+    "debut_date": "2005",
+    "debut_work": "성장드라마 반올림 2",
+    "education": "동덕여자대학교 방송연예과",
+    "notable_works": "쇼핑왕 루이, 그놈은 흑염룡, 트라이: 우리는 기적이 된다, 개인적인 택시",
+    "awards": "2016 MBC 연기대상 미니시리즈 부문 여자 황금연기상(쇼핑왕 루이)",
+    "summary": "2004년 잡지 모델로 시작해 2005년 「반올림 2」로 연기 데뷔한 배우, 2025년 SBS 「트라이」 배이지 역, 2026년 넷플릭스 「개인적인 택시」 계향 역",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/임세미",
+     "https://namu.wiki/w/임세미",
+     "https://www.wikidata.org/wiki/Q16091351"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16091351",
+   "links": [
+    {
+     "id": "cc61f8cc-963f-4c9c-9332-1c1318ce45b7",
+     "category": "작품",
+     "name": "개인적인 택시",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "fcdd9286-75c2-487a-9274-58bab3fcc6d5",
+     "category": "장소",
+     "name": "강남구",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "7aaffcd4-d9fa-417f-bf56-ca0c6c501027",
+     "category": "작품",
+     "name": "트라이: 우리는 기적이 된다",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "565df487-a620-4e64-9f67-3198d5180936",
+     "category": "단체",
+     "name": "눈컴퍼니",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "d63f1232-b9d4-442a-8ae3-16b8f3cb1078",
+     "category": "작품",
+     "name": "그놈은 흑염룡",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "df685817-a564-47ef-a755-2a10bcce9833",
+   "name": "재정경제부",
+   "category": "단체",
+   "alias": "재경부, 기획재정부, 기재부, Ministry of Economy and Finance, MOEF",
+   "disambig": "대한민국의 중앙행정기관(옛 기획재정부)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2026-01-02",
+    "hq": "세종특별자치시 도움6로 42 정부세종청사 중앙동",
+    "website": "https://mofe.go.kr",
+    "summary": "경제 정책 · 세제 · 국고를 맡는 중앙행정기관, 2026년 1월 2일 기획재정부가 재정경제부와 기획예산처로 나뉘며 출범",
+    "sources": [
+     "https://mofe.go.kr/",
+     "https://v.daum.net/v/20251223125045515",
+     "https://www.heraldk.com/article/2025090702142610765",
+     "https://www.wikidata.org/wiki/Q488486"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q488486",
+   "links": [
+    {
+     "id": "dee18fe2-c788-4249-8078-a6e6ee25bc22",
+     "category": "장소",
+     "name": "어진동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "b980baae-467e-457a-9a3d-a40cf2cfd8f9",
+   "name": "전국공무원노동조합",
+   "category": "단체",
+   "alias": "전공노, Korean Government Employees' Union, KGEU",
+   "disambig": "대한민국의 공무원 노동조합, 민주노총 가맹",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "비영리단체",
+    "formation_date": "2002-03-23",
+    "hq": "서울특별시 영등포구 버드나루로 73 우성빌딩 2층",
+    "website": "https://kgeu.org/",
+    "summary": "2002년 세운 공무원 노조로 민주노총에 가맹. 시 · 도와 중앙행정기관 · 법원 · 국회 등에 본부를 둔다",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q15982758",
+     "https://ko.wikipedia.org/wiki/전국공무원노동조합",
+     "https://kgeu.org/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q15982758",
+   "links": [
+    {
+     "id": "a0d46d58-b4a1-401e-9e77-72d9a6f1d931",
+     "category": "장소",
+     "name": "영등포동7가",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "21539af1-8960-4e59-a628-033d4361593c",
+     "category": "단체",
+     "name": "전국민주노동조합총연맹",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "f7287d19-ca3c-49b1-81d5-d10b41aff2ca",
+   "name": "전국금속노동조합",
+   "category": "단체",
+   "alias": "금속노조, Korean Metal Workers' Union, KMWU",
+   "disambig": "대한민국의 금속 산업별 노동조합, 민주노총 가맹",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "비영리단체",
+    "formation_date": "2001-02",
+    "hq": "서울특별시 중구 정동길 5 경향신문사 별관 6층",
+    "website": "https://www.kmwu.kr/",
+    "summary": "2001년 세운 민주노총 산하 금속 산업별 노조로 현대차 · 기아 · 한국지엠 지부 등을 둔다. 2026년 위원장은 박상만",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q15980312",
+     "https://ko.wikipedia.org/wiki/전국금속노동조합",
+     "https://www.kmwu.kr/",
+     "https://www.hankyung.com/article/202512080304i"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q15980312",
+   "links": [
+    {
+     "id": "21539af1-8960-4e59-a628-033d4361593c",
+     "category": "단체",
+     "name": "전국민주노동조합총연맹",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "cf024c46-1a62-4360-930b-d2c342437a5c",
+     "category": "장소",
+     "name": "정동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "63b4c3cf-b140-49aa-8713-d97ef3d450f6",
+   "name": "전남대학교",
+   "category": "단체",
+   "alias": "전남대, Chonnam National University, JNU",
+   "disambig": "대한민국 광주의 국립 종합대학",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "학교",
+    "real_name": "전남대학교",
+    "formation_date": "1952-06-09",
+    "hq": "전남광주통합특별시 북구 용봉로 77",
+    "website": "https://www.jnu.ac.kr/",
+    "summary": "1952년 세운 국립 종합대학으로 광주 용봉 · 여수 · 화순 캠퍼스를 둔다. 2026년 총장은 이근배",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q494681",
+     "https://ko.wikipedia.org/wiki/전남대학교",
+     "https://www.mt.co.kr/society/2026/02/09/2026020913397063316"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q494681",
+   "links": [
+    {
+     "id": "f13edac9-fd9b-4cf3-b8e0-f27b5b52d256",
+     "category": "장소",
+     "name": "용봉동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "7ec2e086-a7f2-4b1a-b32f-334ca160d5e1",
+   "name": "전북특별자치도교육청",
+   "category": "단체",
+   "alias": "전북교육청, 전라북도교육청, Jeonbuk Office of Education",
+   "disambig": "대한민국 전북특별자치도의 교육청",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "hq": "전북특별자치도 전주시 완산구 홍산로 111",
+    "website": "https://www.jbe.go.kr",
+    "summary": "전북특별자치도의 유 · 초 · 중등 교육 행정을 맡는 교육청, 2024년 전라북도교육청에서 이름을 바꿈",
+    "sources": [
+     "https://www.jbe.go.kr/index.jbe",
+     "https://ko.wikipedia.org/wiki/전북특별자치도교육청",
+     "https://www.wikidata.org/wiki/Q12615104"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12615104",
+   "links": [
+    {
+     "id": "581eb510-2626-4425-a70f-323c08c3a54f",
+     "category": "장소",
+     "name": "완산구",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "fa3e44fb-ff23-4352-be43-f8f7cfc8eef5",
+   "name": "전주문화재단",
+   "category": "단체",
+   "alias": "Jeonju Cultural Foundation",
+   "disambig": "대한민국 전주시의 문화 재단",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2006",
+    "summary": "전주시가 세운 문화예술 지원 재단, 2006년 설립된 전북 첫 기초 문화재단",
+    "sources": [
+     "https://www.jjan.kr/article/20260407500240",
+     "https://jjan.kr/article/20110801405839"
+    ]
+   },
+   "source_url": "https://www.jjan.kr/article/20260407500240",
+   "links": [
+    {
+     "id": "652f61b7-7013-436c-adda-7b76f78fab66",
+     "category": "장소",
+     "name": "전주시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "54b84410-ef53-48fa-9e93-a9d93953f665",
+   "name": "제주경찰청",
+   "category": "단체",
+   "alias": "제주특별자치도경찰청, 제주도경찰청, Jeju Provincial Police Agency",
+   "disambig": "대한민국 제주특별자치도의 지방경찰청",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "real_name": "제주특별자치도경찰청",
+    "hq": "제주특별자치도 제주시 수목원서길 37",
+    "website": "https://www.jjpolice.go.kr",
+    "summary": "제주특별자치도의 치안을 맡는 경찰청 소속 시 · 도경찰청",
+    "sources": [
+     "https://police.go.kr/www/open/inst/inst04.jsp",
+     "https://ko.wikipedia.org/wiki/제주특별자치도경찰청",
+     "https://www.wikidata.org/wiki/Q12616477"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12616477",
+   "links": [
+    {
+     "id": "e8f06af8-3dca-4795-83d5-ca6bfb093ed3",
+     "category": "장소",
+     "name": "제주시",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "0a2bd45b-4ca4-46ac-9f01-6db6c7b0ce55",
+     "category": "단체",
+     "name": "경찰청",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "7845c75c-c566-40a1-a28f-5cf5435d4d32",
+   "name": "제주특별자치도교육청",
+   "category": "단체",
+   "alias": "제주교육청, 제주도교육청, Jeju Office of Education",
+   "disambig": "대한민국 제주특별자치도의 교육청",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "hq": "제주특별자치도 제주시 문연로 5",
+    "website": "https://www.jje.go.kr",
+    "summary": "제주특별자치도의 유 · 초 · 중등 교육 행정을 맡는 교육청",
+    "sources": [
+     "https://www.jje.go.kr/index.jje",
+     "https://ko.wikipedia.org/wiki/제주특별자치도교육청",
+     "https://www.wikidata.org/wiki/Q12616499"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12616499",
+   "links": [
+    {
+     "id": "e8f06af8-3dca-4795-83d5-ca6bfb093ed3",
+     "category": "장소",
+     "name": "제주시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "069f004d-a75f-4a01-bbf6-fe88d599c46c",
+   "name": "중소기업은행",
+   "category": "단체",
+   "alias": "IBK기업은행, 기업은행, IBK, Industrial Bank of Korea",
+   "disambig": "대한민국의 국책 은행, IBK기업은행",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "real_name": "중소기업은행",
+    "formation_date": "1961-08-01",
+    "industry": "은행",
+    "hq": "서울특별시 중구 을지로 79",
+    "ceo": "장민영",
+    "listed_on": "코스피",
+    "website": "https://www.ibk.co.kr/",
+    "subsidiaries": "IBK캐피탈, IBK투자증권, IBK연금보험, IBK저축은행, IBK자산운용",
+    "summary": "중소기업 금융을 맡으려 1961년 세운 금융위원회 산하 국책은행, 브랜드는 IBK기업은행. 2026년 2월 장민영 행장 취임",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q483855",
+     "https://ko.wikipedia.org/wiki/중소기업은행",
+     "https://news.tf.co.kr/read/economy/2294365.htm"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q483855",
+   "links": [
+    {
+     "id": "eeefe1c7-c2b9-4e5e-b2ba-670eb0d22d8d",
+     "category": "장소",
+     "name": "을지로2가",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "a7bb2c85-c502-402a-a5db-51459ff6ef67",
+   "name": "질병관리청",
+   "category": "단체",
+   "alias": "질병청, 질병관리본부, 대한민국 질병관리청, Korea Disease Control and Prevention Agency, KDCA",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2020-09-12",
+    "hq": "충청북도 청주시 흥덕구 오송읍 오송생명2로 187 오송보건의료행정타운",
+    "website": "https://www.kdca.go.kr",
+    "summary": "감염병 방역 · 검역 · 예방접종과 만성질환 조사를 맡는 보건복지부 소속 청, 2020년 질병관리본부에서 승격",
+    "sources": [
+     "https://www.kdca.go.kr/kdca/index.do",
+     "https://ko.wikipedia.org/wiki/대한민국_질병관리청",
+     "https://www.wikidata.org/wiki/Q12618419"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12618419",
+   "links": [
+    {
+     "id": "aedd176e-8cba-402c-b939-b4de4a5faca9",
+     "category": "장소",
+     "name": "오송읍",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "6014a6ab-1921-4649-a803-9a2f76477322",
+     "category": "단체",
+     "name": "보건복지부",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "5b791e26-29cf-4c41-bc78-81781b1424b9",
+   "name": "창원해양경찰서",
+   "category": "단체",
+   "alias": "창원해경, Changwon Coast Guard Station",
+   "disambig": "대한민국 경상남도의 해양경찰서",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "hq": "경상남도 창원시 마산합포구 제2부두로 40 (신포동1가)",
+    "website": "https://www.kcg.go.kr/changwoncgs/main.do",
+    "summary": "경남 동부 바다(창원 · 거제 일대)의 치안과 해양 사고 대응을 맡는 해양경찰서",
+    "sources": [
+     "https://www.kcg.go.kr/changwoncgs/main.do",
+     "https://ko.wikipedia.org/wiki/창원해양경찰서",
+     "https://www.wikidata.org/wiki/Q16100049"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16100049",
+   "links": [
+    {
+     "id": "b4d741ee-ee2c-491e-9081-23cb9e1d4862",
+     "category": "장소",
+     "name": "신포동1가",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "2be1b38e-5dff-43df-89ae-a2a7a4f5ad29",
+   "name": "청해부대",
+   "category": "단체",
+   "alias": "소말리아 해역 호송전대, Cheonghae Unit",
+   "disambig": "대한민국 해군의 해외 파병 부대",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2009-03",
+    "summary": "아덴만 · 소말리아 해역에서 선박 호송과 해적 대응을 맡는 해군 파병 부대, 이름은 장보고의 청해진에서 따옴",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/소말리아_해역_호송전대",
+     "https://en.wikipedia.org/wiki/Cheonghae_Unit",
+     "https://v.daum.net/v/20260515111301828",
+     "https://www.wikidata.org/wiki/Q625047"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q625047",
+   "links": [
+    {
+     "id": "b2ac2449-0386-41df-a6f9-7326e60d38ef",
+     "category": "단체",
+     "name": "대한민국 해군",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "e6e69398-bf18-4c26-bac7-4819a4b421d4",
+   "name": "충청남도교육청",
+   "category": "단체",
+   "alias": "충남교육청, Chungnam Office of Education",
+   "disambig": "대한민국 충청남도의 교육청",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "hq": "충청남도 홍성군 홍북읍 선화로 22",
+    "website": "https://www.cne.go.kr",
+    "summary": "충청남도의 유 · 초 · 중등 교육 행정을 맡는 교육청",
+    "sources": [
+     "https://www.cne.go.kr/cne/main.do",
+     "https://ko.wikipedia.org/wiki/충청남도교육청",
+     "https://www.wikidata.org/wiki/Q15302850"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q15302850",
+   "links": [
+    {
+     "id": "55c920c4-ce2c-4826-b582-770e7607a9d1",
+     "category": "장소",
+     "name": "홍북읍",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "54306c18-216f-4ec0-9c51-162da2db5f3f",
+   "name": "통영해양경찰서",
+   "category": "단체",
+   "alias": "통영해경, Tongyeong Coast Guard Station",
+   "disambig": "대한민국 경상남도의 해양경찰서",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "hq": "경상남도 통영시 광도면 죽림2로 45",
+    "website": "https://www.kcg.go.kr/tongyeongcgs/main.do",
+    "summary": "경남 서부 바다(통영 · 고성 · 사천 일대)의 치안과 해양 사고 대응을 맡는 해양경찰서",
+    "sources": [
+     "https://www.kcg.go.kr/tongyeongcgs/main.do",
+     "https://ko.wikipedia.org/wiki/통영해양경찰서",
+     "https://www.wikidata.org/wiki/Q16100357"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16100357",
+   "links": [
+    {
+     "id": "5f857574-e2b3-4027-bced-73d797af10d5",
+     "category": "장소",
+     "name": "광도면",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "0ed743b0-7cc9-49c7-842e-9da3ab9b216d",
+   "name": "한국부동산원",
+   "category": "단체",
+   "alias": "한국감정원, Korea Real Estate Board, REB",
+   "disambig": "대한민국의 공기업",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1969-04",
+    "hq": "대구광역시 동구 이노밸리로 291 (신서동)",
+    "website": "https://www.reb.or.kr",
+    "summary": "주택 가격 동향 조사 · 공시가격 · 청약홈 운영을 맡는 국토교통부 산하 공기업, 2020년 한국감정원에서 이름을 바꿈",
+    "sources": [
+     "https://www.reb.or.kr/reb/main.do",
+     "https://ko.wikipedia.org/wiki/한국부동산원",
+     "https://www.wikidata.org/wiki/Q12622785"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12622785",
+   "links": [
+    {
+     "id": "b173dc0a-294f-479a-a569-0f850699137f",
+     "category": "장소",
+     "name": "신서동",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5",
+     "category": "단체",
+     "name": "국토교통부",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "58d58eab-e581-4078-a98e-aa60f98586c1",
+   "name": "한국산업은행",
+   "category": "단체",
+   "alias": "산업은행, KDB산업은행, KDB, 산은, Korea Development Bank",
+   "disambig": "대한민국의 국책 은행",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "formation_date": "1954-04-01",
+    "industry": "정책금융",
+    "hq": "서울특별시 영등포구 은행로 14",
+    "ceo": "박상진",
+    "website": "https://www.kdb.co.kr/",
+    "subsidiaries": "KDB캐피탈, KDB생명보험, KDB인프라자산운용, KDB인베스트먼트",
+    "summary": "산업 개발 자금을 대려 1954년 한국산업은행법으로 세운 금융위원회 산하 국책은행. 본점 부산 이전이 추진 중",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q4409074",
+     "https://ko.wikipedia.org/wiki/한국산업은행",
+     "https://lei.bloomberg.com/leis/view/549300ML2LNRZUCS7149",
+     "https://news.tf.co.kr/read/economy/2296223.htm"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q4409074",
+   "links": [
+    {
+     "id": "73dc5064-aa36-43f3-8393-54fb4ce7b203",
+     "category": "장소",
+     "name": "여의도동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "018ff6ff-401f-4d4d-8076-d306f46b29e2",
+   "name": "한국소비자원",
+   "category": "단체",
+   "alias": "소비자원, 한국소비자보호원, Korea Consumer Agency",
+   "disambig": "대한민국의 준정부기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "1987-07-01",
+    "hq": "충청북도 음성군 맹동면 용두로 54",
+    "website": "https://www.kca.go.kr",
+    "summary": "소비자 피해 구제 · 상품 시험 · 가격 조사를 맡는 공정거래위원회 산하 기관",
+    "sources": [
+     "https://www.kca.go.kr/index.do",
+     "https://ko.wikipedia.org/wiki/한국소비자원",
+     "https://www.wikidata.org/wiki/Q16100494"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16100494",
+   "links": [
+    {
+     "id": "f933c0c5-066a-4120-8a77-c1ebf61f6419",
+     "category": "장소",
+     "name": "맹동면",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "d167f235-4b5e-4948-8434-dbdc25f353a9",
+     "category": "단체",
+     "name": "공정거래위원회",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "5b33af02-c77b-4382-a6bc-fb8caaa9944e",
+   "name": "한국인터넷진흥원",
+   "category": "단체",
+   "alias": "KISA, Korea Internet & Security Agency",
+   "disambig": "대한민국의 준정부기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2009-07-23",
+    "hq": "전남광주통합특별시 나주시 진흥길 9 (빛가람동)",
+    "website": "https://www.kisa.or.kr",
+    "summary": "해킹 · 침해사고 대응과 개인정보 · 인터넷 진흥을 맡는 과학기술정보통신부 산하 기관",
+    "sources": [
+     "https://www.kisa.or.kr/",
+     "https://ko.wikipedia.org/wiki/한국인터넷진흥원",
+     "https://www.wikidata.org/wiki/Q623679"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q623679",
+   "links": [
+    {
+     "id": "2b589b94-c61b-4c51-aa45-260c4db89fdc",
+     "category": "장소",
+     "name": "빛가람동",
+     "rel": "LOCATED_IN"
+    },
+    {
+     "id": "ea7b40a9-cc36-4df1-9b63-b84ef28f956b",
+     "category": "단체",
+     "name": "과학기술정보통신부",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "29bd0946-e4f3-4bdc-9a67-55f202a8bb3f",
+   "name": "한국철도공사",
+   "category": "단체",
+   "alias": "코레일, 철도공사, 한국철도, Korail, Korea Railroad Corporation",
+   "disambig": "대한민국의 철도 운영 공기업",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2005-01-01",
+    "hq": "대전광역시 동구 중앙로 240 (소제동)",
+    "website": "https://info.korail.com",
+    "summary": "KTX · 일반열차 · 광역전철을 운영하는 국토교통부 산하 공기업, 2005년 철도청에서 공사로 바뀜",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/한국철도공사",
+     "https://job.incruit.com/entry/jobpost.asp?job=2610120000662",
+     "https://www.wikidata.org/wiki/Q18169"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q18169",
+   "links": [
+    {
+     "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5",
+     "category": "단체",
+     "name": "국토교통부",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "debdc565-840a-43f3-886c-ba1e4241fa8a",
+     "category": "장소",
+     "name": "소제동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "15b536d2-98f7-4e23-a951-d9f3582c5d7b",
+   "name": "한국토지주택공사",
+   "category": "단체",
+   "alias": "LH, LH공사, Korea Land and Housing Corporation",
+   "disambig": "대한민국의 공기업",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2009-10-01",
+    "hq": "경상남도 진주시 충의로 19 (충무공동)",
+    "website": "https://www.lh.or.kr",
+    "summary": "택지 개발 · 공공주택 공급을 맡는 국토교통부 산하 공기업, 2009년 한국토지공사와 대한주택공사가 합쳐 출범",
+    "sources": [
+     "https://www.lh.or.kr/",
+     "https://ko.wikipedia.org/wiki/한국토지주택공사",
+     "https://www.wikidata.org/wiki/Q12623799"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12623799",
+   "links": [
+    {
+     "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5",
+     "category": "단체",
+     "name": "국토교통부",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "04e9aaff-b769-415f-90d8-11804ddf6a03",
+     "category": "장소",
+     "name": "충무공동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "e01f21e6-f99e-4c7a-a83e-30ef5fd5f6ea",
+   "name": "한솔제지",
+   "category": "단체",
+   "alias": "한솔제지 주식회사, Hansol Paper",
+   "disambig": "대한민국의 제지 기업, 한솔그룹 계열",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "real_name": "한솔제지 주식회사",
+    "formation_date": "1965-01-19",
+    "parent_company": "한솔홀딩스",
+    "industry": "제지",
+    "hq": "서울특별시 중구 을지로 100",
+    "ceo": "한경록",
+    "listed_on": "코스피",
+    "website": "http://www.hansolpaper.co.kr/",
+    "summary": "1965년 새한제지공업에서 시작해 전주제지를 거친 종합 제지 기업, 2015년 한솔홀딩스에서 갈라져 나옴. 충남 서천 장항공장 등 운영",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q16172419",
+     "https://ko.wikipedia.org/wiki/한솔제지",
+     "https://www.sidae.com/article/2026012316125552305"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16172419",
+   "links": [
+    {
+     "id": "eeefe1c7-c2b9-4e5e-b2ba-670eb0d22d8d",
+     "category": "장소",
+     "name": "을지로2가",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "fae38a35-b6c6-4658-9908-518bd1be6774",
+   "name": "한영회계법인",
+   "category": "단체",
+   "alias": "EY한영회계법인, EY한영, EY Han Young",
+   "disambig": "대한민국의 회계법인, EY 회원사",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "회계 · 감사 · 세무",
+    "hq": "서울특별시 영등포구 여의공원로 111 (태영빌딩)",
+    "ceo": "박용근",
+    "website": "https://www.ey.com/ko_kr",
+    "summary": "세계 회계 법인 EY의 한국 회원사로 EY컨설팅 등과 함께 EY한영을 이룸. 2025 회계연도 EY한영 매출 7,984억 원",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q139438600",
+     "https://www.ey.com/ko_kr/newsroom/2026/09/ey-korea-news-release-2026-09-30",
+     "https://www.frc.org.uk/library/supervision/professional-bodies-supervision/third-country-auditors/register-of-third-country-audit-entities/kr3032/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q139438600",
+   "links": [
+    {
+     "id": "73dc5064-aa36-43f3-8393-54fb4ce7b203",
+     "category": "장소",
+     "name": "여의도동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "9bdc2148-086c-492e-bb35-a3564c94819f",
+   "name": "한화디펜스USA",
+   "category": "단체",
+   "alias": "Hanwha Defense USA, HDUSA",
+   "disambig": "한화에어로스페이스의 미국 방산 자회사",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "parent_company": "한화에어로스페이스",
+    "industry": "방위산업, 조선",
+    "hq": "미국 버지니아주 알링턴",
+    "ceo": "마이클 쿨터(Michael Coulter)",
+    "summary": "한화에어로스페이스의 미국 자회사로 지상 · 해양 방산을 맡는다. 아칸소 파인블러프에 155mm 탄약 공장을 세우고 2026년 미 해군 중형상륙함을 처음 수주",
+    "sources": [
+     "https://defensescoop.com/?p=132304",
+     "https://euro-sd.com/2025/11/major-news/47512/michael-coulter-ceo-of-hdusa/",
+     "https://news.mtn.co.kr/news-detail/2026092216533024563",
+     "https://www.manufacturingdive.com/news/hanwha-defense-army-pine-bluff-arsenal-arkansas-manufacturing-campus/830927/"
+    ]
+   },
+   "source_url": "https://defensescoop.com/?p=132304",
+   "links": [
+    {
+     "id": "c6cec6de-7217-482f-ac31-3885fdff8f45",
+     "category": "단체",
+     "name": "한화에어로스페이스",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "1dd6d57f-6128-4a4b-85fa-a0bdadc7ae96",
+     "category": "장소",
+     "name": "Arlington County",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "4ed478e4-729c-4565-9f65-07587b6fbdf5",
+   "name": "함은정",
+   "category": "인물",
+   "alias": "Hahm Eun-jung, 은정, 티아라 은정, ELSIE, 엘시",
+   "disambig": "대한민국의 배우, 티아라 멤버",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Hahm Eun-jung",
+    "birth_date": "1988-12-12",
+    "birthplace": "서울특별시",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "occupation": "배우, 가수",
+    "organization": "마스크스튜디오",
+    "group": "티아라, 티아라 N4",
+    "debut_date": "1995",
+    "debut_work": "신세대 보고 - 어른들은 몰라요",
+    "notable_works": "티아라, 드림하이, 여왕의 집, 첫 번째 남자",
+    "summary": "1995년 아역으로 데뷔해 2009년 걸그룹 티아라로 활동한 배우 겸 가수, 2025년 KBS 「여왕의 집」 · MBC 「첫 번째 남자」 주연",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/함은정",
+     "https://namu.wiki/w/함은정",
+     "https://www.wikidata.org/wiki/Q140099",
+     "https://tvreport.co.kr/broadcast/article/1083143/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q140099",
+   "links": [
+    {
+     "id": "859ab70d-2c42-40fc-9787-8a30857eff48",
+     "category": "단체",
+     "name": "티아라",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "2ba33c10-7cdd-4212-849a-4844fbc6aba7",
+     "category": "작품",
+     "name": "여왕의 집",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "4b6a696b-4ef1-4205-81f9-bb845fe3fc16",
+     "category": "작품",
+     "name": "쇼 챔피언",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "20ea0337-aaf3-4a2b-aa42-81df84284f67",
+     "category": "작품",
+     "name": "첫 번째 남자",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "5ed4d347-4872-4220-863e-1a9adfd65d1e",
+   "name": "해양수산부",
+   "category": "단체",
+   "alias": "해수부, 대한민국 해양수산부, Ministry of Oceans and Fisheries, MOF",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2013-03-23",
+    "hq": "부산광역시 동구 중앙대로361번길 14 (수정동) 아이엠빌딩",
+    "website": "https://www.mof.go.kr",
+    "summary": "해양 · 수산 · 해운 · 항만 정책을 맡는 중앙행정기관, 본부가 부산에 있음",
+    "sources": [
+     "https://www.mof.go.kr/index.do",
+     "https://ko.wikipedia.org/wiki/대한민국_해양수산부",
+     "https://www.wikidata.org/wiki/Q625097"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q625097",
+   "links": [
+    {
+     "id": "9ee3bccc-a925-445b-8c64-345feda4891a",
+     "category": "장소",
+     "name": "수정동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "b5a53446-9a45-4206-9482-17699beca2f9",
+   "name": "행정안전부",
+   "category": "단체",
+   "alias": "행안부, 대한민국 행정안전부, Ministry of the Interior and Safety, MOIS",
+   "disambig": "대한민국의 중앙행정기관",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "공공기관",
+    "formation_date": "2017-07-26",
+    "hq": "세종특별자치시 도움6로 42 (어진동) 정부세종청사 중앙동",
+    "website": "https://www.mois.go.kr",
+    "summary": "정부 조직 · 지방자치 · 재난안전 · 전자정부를 맡는 중앙행정기관",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/대한민국_행정안전부",
+     "https://www.mois.go.kr/chd/sub/a02/meet/screen.do",
+     "https://www.wikidata.org/wiki/Q488954"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q488954",
+   "links": [
+    {
+     "id": "dee18fe2-c788-4249-8078-a6e6ee25bc22",
+     "category": "장소",
+     "name": "어진동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "e24ba119-4289-4949-89b9-745b29d395a0",
+   "name": "호반그룹",
+   "category": "단체",
+   "alias": "호반, Hoban Group",
+   "disambig": "대한민국의 기업집단, 호반건설 중심",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "건설, 레저, 제조",
+    "founder": "김상열",
+    "hq": "서울특별시 서초구 양재대로2길 18 (호반파크)",
+    "subsidiaries": "호반건설, 호반산업, 호반호텔앤리조트, 대한전선",
+    "summary": "광주에서 시작한 호반건설을 중심으로 레저 · 전선 · 유통으로 넓힌 기업집단. 2026년 한진칼 지분을 늘려 한진그룹과 경영권을 다툼",
+    "sources": [
+     "https://ceoscoredaily.com/page/view/2025102410064806204",
+     "https://v.daum.net/v/20260731112905335",
+     "https://ko.wikipedia.org/wiki/호반건설"
+    ]
+   },
+   "source_url": "https://ceoscoredaily.com/page/view/2025102410064806204",
+   "links": [
+    {
+     "id": "fd5b7bec-38ac-4159-a979-bced02d76bd2",
+     "category": "장소",
+     "name": "우면동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-17T23:04:30.335659+00:00"
+  },
+  {
+   "id": "4e080210-3649-4468-aa3a-59f71cb7472d",
+   "name": "Amazon",
+   "category": "단체",
+   "alias": "아마존, Amazon.com, Amazon.com, Inc., 아마존닷컴",
+   "disambig": "미국의 전자상거래 · 클라우드 기업",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Amazon.com, Inc.",
+    "name_ko": "아마존",
+    "name_en": "Amazon",
+    "org_type": "기업",
+    "formation_date": "1994-07-05",
+    "industry": "전자상거래, 클라우드 컴퓨팅, 디지털 미디어",
+    "hq": "410 Terry Avenue North, Seattle, Washington, 미국",
+    "founder": "Jeff Bezos",
+    "ceo": "Andy Jassy",
+    "website": "https://www.amazon.com",
+    "listed_on": "Nasdaq (AMZN)",
+    "headcount": "약 1,576,000명(2025-12-31)",
+    "subsidiaries": "Amazon Web Services, Prime Video, Amazon MGM Studios, Amazon Games, Twitch, Audible, Whole Foods Market, Ring, Zoox, IMDb",
+    "summary": "1994년 제프 베이조스가 온라인 서점으로 시작한 미국 회사. 지금은 전자상거래 · 클라우드(AWS) · 스트리밍을 함께 함, 본사 시애틀",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q3884",
+     "https://en.wikipedia.org/wiki/Amazon_(company)",
+     "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+     "https://data.sec.gov/submissions/CIK0001018724.json"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q3884",
+   "links": [
+    {
+     "id": "bb6b7f99-47b9-4ee9-8c91-f401e2a88dc5",
+     "category": "장소",
+     "name": "Seattle",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-18T01:21:19.941071+00:00"
+  },
+  {
+   "id": "859ab70d-2c42-40fc-9787-8a30857eff48",
+   "name": "티아라",
+   "category": "단체",
+   "alias": "T-ara, T-ARA, 티아라",
+   "disambig": "대한민국의 걸그룹",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_ko": "티아라",
+    "name_en": "T-ara",
+    "org_type": "음악그룹",
+    "group_type": "걸그룹",
+    "formation_date": "2009-07-29",
+    "members": "큐리, 은정, 효민, 지연",
+    "leader": "큐리",
+    "parent_company": "MBK엔터테인먼트(옛 코어콘텐츠미디어, 2009~2017), 2018년부터 소속사 없음",
+    "fandom_name": "QUEEN'S",
+    "active_years": "2009~2017, 2020~",
+    "former_members": "보람(2009~2017), 소연(2009~2017), 화영(2010~2012), 아름(2012~2013)",
+    "summary": "2009년 「거짓말」로 데뷔한 걸그룹. 2017년 계약 만료 뒤 해체 없이 큐리 · 은정 · 효민 · 지연 넷이 활동, 2021년 「Re:T-ARA」",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/티아라_(음악_그룹)",
+     "https://www.wikidata.org/wiki/Q495383",
+     "https://mobile.busan.com/view/busan/view.php?code=20170507000039",
+     "https://www.soompi.com/article/964159wpp/t-aras-agency-says-2-members-will-not-renewing-contracts",
+     "https://twig24.com/news/entertainments/2018/01/19/20180119800018",
+     "https://cbci.co.kr/news/articleView.html?idxno=421439",
+     "https://www.malaymail.com/news/showbiz/2026/08/10/edm-queens-return-t-ara-sparks-massive-nostalgia-at-summer-again-fan-con-in-kl/230775"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q495383",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-18T01:21:19.941071+00:00"
   }
  ],
  "bulk_added": []
