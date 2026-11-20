@@ -1,11 +1,11 @@
 {
  "date": "2026-11-19",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-18T23:24:13+00:00",
+ "exported_at": "2026-11-20T02:38:01+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 215,
-  "new_planets": 72,
+  "new_planets": 73,
   "bulk_added": 0
  },
  "updates": [
@@ -79,8 +79,7 @@
    ],
    "featuring": [],
    "other_fields": {
-    "prev_record": "050daf23-308a-415c-8f99-c4a058b6a34c",
-    "prev_auto": "함께 [] · 단어 ['15세', '살해', '진술', '피의자']"
+    "prev_record": "050daf23-308a-415c-8f99-c4a058b6a34c"
    },
    "url": "https://www.joongang.co.kr/article/25479891",
    "source": "뉴스",
@@ -106,18 +105,15 @@
    "featuring": [
     {
      "name": "김윤석",
-     "id": "dbc2b10a-2832-4806-bcd8-6235b08f9c51",
-     "auto": true
+     "id": "dbc2b10a-2832-4806-bcd8-6235b08f9c51"
     },
     {
      "name": "구교환",
-     "id": "ec177075-2a4a-4bf9-8def-d15f280c3555",
-     "auto": true
+     "id": "ec177075-2a4a-4bf9-8def-d15f280c3555"
     },
     {
      "name": "홍의정",
-     "id": "f3b908fb-2376-45b0-9b20-a1103f82e016",
-     "auto": true
+     "id": "f3b908fb-2376-45b0-9b20-a1103f82e016"
     }
    ],
    "other_fields": {},
@@ -145,18 +141,15 @@
    "featuring": [
     {
      "name": "김민호",
-     "id": "9f63fd28-6958-491a-8c9c-ef43c3a6d09b",
-     "auto": true
+     "id": "9f63fd28-6958-491a-8c9c-ef43c3a6d09b"
     },
     {
      "name": "류경수",
-     "id": "466a5597-e791-4da8-b161-eab55a041ef2",
-     "auto": true
+     "id": "466a5597-e791-4da8-b161-eab55a041ef2"
     },
     {
      "name": "정연",
-     "id": "c56cda34-fc17-4ba6-8d7f-fa0f82998aa3",
-     "auto": true
+     "id": "c56cda34-fc17-4ba6-8d7f-fa0f82998aa3"
     }
    ],
    "other_fields": {},
@@ -183,48 +176,40 @@
    "places": [
     {
      "name": "Amsterdam",
-     "id": "fa3725b6-0dfb-419a-81ac-6433175af464",
-     "auto": true
+     "id": "fa3725b6-0dfb-419a-81ac-6433175af464"
     }
    ],
    "featuring": [
     {
      "name": "이서진",
-     "id": "8d0a96a1-6687-4f83-a9b9-6a3a2e2b7c86",
-     "auto": true
+     "id": "8d0a96a1-6687-4f83-a9b9-6a3a2e2b7c86"
     },
     {
      "name": "한지민",
-     "id": "a97428eb-4558-4413-bfaa-2a95552f9df8",
-     "auto": true
+     "id": "a97428eb-4558-4413-bfaa-2a95552f9df8"
     },
     {
      "name": "김용건",
-     "id": "4f1a166d-d9a9-4177-91ed-f0f4840ab913",
-     "auto": true
+     "id": "4f1a166d-d9a9-4177-91ed-f0f4840ab913"
     },
     {
      "name": "박정수",
-     "id": "8f8c9415-02cf-4edb-bc5e-1407ce12ccb5",
-     "auto": true
+     "id": "8f8c9415-02cf-4edb-bc5e-1407ce12ccb5"
     },
     {
      "name": "주헌",
-     "id": "3aa3d969-d65c-417d-9ca3-f47cb236dae1",
-     "auto": true
+     "id": "3aa3d969-d65c-417d-9ca3-f47cb236dae1"
     },
     {
      "name": "정연",
-     "id": "c56cda34-fc17-4ba6-8d7f-fa0f82998aa3",
-     "auto": true
+     "id": "c56cda34-fc17-4ba6-8d7f-fa0f82998aa3"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "tvN",
-      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f",
-      "auto": true
+      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f"
      }
     ]
    },
@@ -252,21 +237,18 @@
    "featuring": [
     {
      "name": "코드 쿤스트",
-     "id": "439b1a63-5a82-4019-b365-f3b940074b48",
-     "auto": true
+     "id": "439b1a63-5a82-4019-b365-f3b940074b48"
     },
     {
      "name": "Young K",
-     "id": "fb7d623e-3ece-4f36-b5b9-356ad5a041c6",
-     "auto": true
+     "id": "fb7d623e-3ece-4f36-b5b9-356ad5a041c6"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "MBC",
-      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31",
-      "auto": true
+      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31"
      }
     ]
    },
@@ -293,38 +275,32 @@
    "places": [
     {
      "name": "용산구",
-     "id": "a4707cca-1300-4554-b621-58140e635c51",
-     "auto": true
+     "id": "a4707cca-1300-4554-b621-58140e635c51"
     }
    ],
    "featuring": [
     {
      "name": "표예진",
-     "id": "32268453-0525-4cb9-8163-5bc74cb21452",
-     "auto": true
+     "id": "32268453-0525-4cb9-8163-5bc74cb21452"
     },
     {
      "name": "이기택",
-     "id": "655ca6b2-ba2d-4f13-ac40-1631eec9d852",
-     "auto": true
+     "id": "655ca6b2-ba2d-4f13-ac40-1631eec9d852"
     },
     {
      "name": "주종혁",
-     "id": "f5d4bc35-bce9-4ae1-86ba-6a290aebac6e",
-     "auto": true
+     "id": "f5d4bc35-bce9-4ae1-86ba-6a290aebac6e"
     },
     {
      "name": "한예지",
-     "id": "9f0032c2-560d-4b2f-8982-0829dc5f5f43",
-     "auto": true
+     "id": "9f0032c2-560d-4b2f-8982-0829dc5f5f43"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "KBS",
-      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
-      "auto": true
+      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84"
      }
     ]
    },
@@ -355,8 +331,7 @@
     },
     {
      "name": "Korea",
-     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
-     "auto": true
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970"
     }
    ],
    "featuring": [],
@@ -421,25 +396,21 @@
    "places": [
     {
      "name": "Paris",
-     "id": "d4148993-96c8-44d5-bdfe-482a77f7d753",
-     "auto": true
+     "id": "d4148993-96c8-44d5-bdfe-482a77f7d753"
     }
    ],
    "featuring": [
     {
      "name": "지효",
-     "id": "3f070d0b-b17e-45bd-9d95-5928cdc7d2a8",
-     "auto": true
+     "id": "3f070d0b-b17e-45bd-9d95-5928cdc7d2a8"
     },
     {
      "name": "TOMORROW X TOGETHER",
-     "id": "ffdec012-4b44-473b-8ae3-dc944cb41c86",
-     "auto": true
+     "id": "ffdec012-4b44-473b-8ae3-dc944cb41c86"
     },
     {
      "name": "키스오브 라이프",
-     "id": "afffdeae-4e87-4845-b754-d5d9d84f894f",
-     "auto": true
+     "id": "afffdeae-4e87-4845-b754-d5d9d84f894f"
     }
    ],
    "other_fields": {},
@@ -466,20 +437,17 @@
    "places": [
     {
      "name": "Las Vegas",
-     "id": "8a795eea-2f7e-49fd-9fbe-97c844f4b290",
-     "auto": true
+     "id": "8a795eea-2f7e-49fd-9fbe-97c844f4b290"
     }
    ],
    "featuring": [
     {
      "name": "Blink-182",
-     "id": "ea4eb193-ffd2-4357-8e77-4c480063e70a",
-     "auto": true
+     "id": "ea4eb193-ffd2-4357-8e77-4c480063e70a"
     },
     {
      "name": "Pierce the Veil",
-     "id": "d4c3eb36-b89e-4648-bc13-fc82c2b79392",
-     "auto": true
+     "id": "d4c3eb36-b89e-4648-bc13-fc82c2b79392"
     }
    ],
    "other_fields": {},
@@ -507,22 +475,19 @@
    "featuring": [
     {
      "name": "Harry Styles",
-     "id": "fc92cef3-022f-4ef8-b503-378db309301f",
-     "auto": true
+     "id": "fc92cef3-022f-4ef8-b503-378db309301f"
     },
     {
      "name": "Billie Eilish",
-     "id": "64892262-cb8c-4aff-8011-d561cd60edfb",
-     "auto": true
+     "id": "64892262-cb8c-4aff-8011-d561cd60edfb"
     },
     {
      "name": "Sam Fender",
-     "id": "74bbfd72-6b51-45ed-b6e6-d14684d644e9",
-     "auto": true
+     "id": "74bbfd72-6b51-45ed-b6e6-d14684d644e9"
     },
     {
      "name": "Cher",
-     "id": null
+     "id": "00ca0134-0273-44cf-8399-515967cc7b29"
     }
    ],
    "other_fields": {},
@@ -550,26 +515,24 @@
    "featuring": [
     {
      "name": "이효리",
-     "id": "9573168e-26c1-4e35-acbb-4ad323daf371",
-     "auto": true
+     "id": "9573168e-26c1-4e35-acbb-4ad323daf371"
     },
     {
      "name": "옥주현",
-     "id": "e5a7f5d6-ae77-4b37-8ac6-902a549fbbe1",
-     "auto": true
+     "id": "e5a7f5d6-ae77-4b37-8ac6-902a549fbbe1"
     },
     {
      "name": "이진",
-     "id": "a7297b6a-9793-49ad-a3af-8a147d0d2f15",
-     "auto": true
+     "id": "a7297b6a-9793-49ad-a3af-8a147d0d2f15"
     },
     {
      "name": "성유리",
-     "id": "ff29a1d8-b494-44cc-ac28-ed6716e90c87",
-     "auto": true
+     "id": "ff29a1d8-b494-44cc-ac28-ed6716e90c87"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-19 · 스포츠조선 · https://www.chosun.com/entertainments/broadcast/2026/11/19/GJSWKNJVGM3GCOBYGE2TMYRWGQ/\n2026-11-19 · MBC · https://imnews.imbc.com/replay/2026/nwtoday/article/6866793_37012.html"
+   },
    "url": "https://www.chosun.com/entertainments/2026/11/18/VAX3FFIQ3ZBONO2TCCCNXWGMXQ/",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -603,7 +566,8 @@
       "name": "id:e8969ee4-1964-49ba-a40f-bfa8582ec050",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-19 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717071"
    },
    "url": "https://www.yna.co.kr/view/AKR20261118170400704",
    "source": "뉴스",
@@ -628,12 +592,13 @@
    "places": [
     {
      "name": "종로구",
-     "id": "95ee6ece-db01-495d-b63c-37c504ff65d4",
-     "auto": true
+     "id": "95ee6ece-db01-495d-b63c-37c504ff65d4"
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-19 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261119043500005"
+   },
    "url": "https://www.newsis.com/view/NISX20261118_0003873828",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -658,26 +623,22 @@
    "featuring": [
     {
      "name": "김명민",
-     "id": "f0b64e3f-ecba-43da-b09c-0f83faa67ec1",
-     "auto": true
+     "id": "f0b64e3f-ecba-43da-b09c-0f83faa67ec1"
     },
     {
      "name": "유재석",
-     "id": "cc2a2a65-7cbc-44ad-a0cc-2259cf892615",
-     "auto": true
+     "id": "cc2a2a65-7cbc-44ad-a0cc-2259cf892615"
     },
     {
      "name": "플라이투더스카이",
-     "id": "7661417a-3b7b-4517-8904-d9ebbf546955",
-     "auto": true
+     "id": "7661417a-3b7b-4517-8904-d9ebbf546955"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "tvN",
-      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f",
-      "auto": true
+      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f"
      }
     ]
    },
@@ -705,21 +666,18 @@
    "featuring": [
     {
      "name": "Shizuka Ishibashi",
-     "id": "6b0250e4-ca9c-4f1b-8a6c-6416620b888f",
-     "auto": true
+     "id": "6b0250e4-ca9c-4f1b-8a6c-6416620b888f"
     },
     {
      "name": "Shota Sometani",
-     "id": "23f1aa08-7d09-415a-a017-283afeaccda6",
-     "auto": true
+     "id": "23f1aa08-7d09-415a-a017-283afeaccda6"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "NHK",
-      "id": "0601cc15-f634-4a05-ab30-32f3651987bf",
-      "auto": true
+      "id": "0601cc15-f634-4a05-ab30-32f3651987bf"
      }
     ]
    },
@@ -747,16 +705,14 @@
    "featuring": [
     {
      "name": "홍진경",
-     "id": "e303bba4-0372-4ddb-927e-e941de1e6943",
-     "auto": true
+     "id": "e303bba4-0372-4ddb-927e-e941de1e6943"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "Disney+",
-      "id": "b84193c0-18fb-41f7-8572-b15060b4cf44",
-      "auto": true
+      "id": "b84193c0-18fb-41f7-8572-b15060b4cf44"
      }
     ]
    },
@@ -844,31 +800,26 @@
    "featuring": [
     {
      "name": "신민아",
-     "id": "6a78a2b5-ad01-49d5-b80b-f8c879d9b7cb",
-     "auto": true
+     "id": "6a78a2b5-ad01-49d5-b80b-f8c879d9b7cb"
     },
     {
      "name": "이종석",
-     "id": "0de747f5-64c0-4b87-8123-b8d5322cce84",
-     "auto": true
+     "id": "0de747f5-64c0-4b87-8123-b8d5322cce84"
     },
     {
      "name": "주지훈",
-     "id": "9ef7e36e-2d16-4e81-83f2-1f88164ed942",
-     "auto": true
+     "id": "9ef7e36e-2d16-4e81-83f2-1f88164ed942"
     },
     {
      "name": "이세영",
-     "id": "ff9b4a69-154a-4ed3-96bc-b0775518dec5",
-     "auto": true
+     "id": "ff9b4a69-154a-4ed3-96bc-b0775518dec5"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "Disney+",
-      "id": "b84193c0-18fb-41f7-8572-b15060b4cf44",
-      "auto": true
+      "id": "b84193c0-18fb-41f7-8572-b15060b4cf44"
      }
     ]
    },
@@ -947,16 +898,14 @@
    "featuring": [
     {
      "name": "Inde Navarrette",
-     "id": "284e351d-fa65-4ec8-8496-9ae5d4551a86",
-     "auto": true
+     "id": "284e351d-fa65-4ec8-8496-9ae5d4551a86"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "BAFTA",
-      "id": "e6931b37-fc48-4ff0-8859-778378c81f89",
-      "auto": true
+      "id": "e6931b37-fc48-4ff0-8859-778378c81f89"
      }
     ]
    },
@@ -984,16 +933,14 @@
    "featuring": [
     {
      "name": "Connor Storrie",
-     "id": "43531881-46c7-4b4b-95a6-dd540df8cc63",
-     "auto": true
+     "id": "43531881-46c7-4b4b-95a6-dd540df8cc63"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "BAFTA",
-      "id": "e6931b37-fc48-4ff0-8859-778378c81f89",
-      "auto": true
+      "id": "e6931b37-fc48-4ff0-8859-778378c81f89"
      }
     ]
    },
@@ -1023,10 +970,10 @@
     "orgs": [
      {
       "name": "Rockstar Games",
-      "id": "cbcf6bdd-8f2e-4626-812e-7201af457cc0",
-      "auto": true
+      "id": "cbcf6bdd-8f2e-4626-812e-7201af457cc0"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-19 · PBS(AP) · https://www.pbs.org/newshour/arts/grand-theft-auto-vi-arrives-with-enormous-hype-and-expectations-after-13-year-wait"
    },
    "url": "https://www.ign.com/articles/gta-6-new-zealand-trick-xbox-ps5-early-release-time",
    "source": "뉴스",
@@ -1082,18 +1029,17 @@
    "featuring": [
     {
      "name": "김민",
-     "id": "b3ec1cc7-426b-41e7-9890-b6c465300427",
-     "auto": true
+     "id": null
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "KBS",
-      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
-      "auto": true
+      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-19 · 뉴시스 · https://www.newsis.com/view/NISX20261119_0003874353"
    },
    "url": "https://www.newsis.com/view/NISX20261118_0003873146",
    "source": "뉴스",
@@ -1198,8 +1144,7 @@
    "places": [
     {
      "name": "Osaka",
-     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6",
-     "auto": true
+     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6"
     }
    ],
    "featuring": [],
@@ -1207,7 +1152,7 @@
     "orgs": [
      {
       "name": "MAMA AWARDS",
-      "id": null
+      "id": "fc99ac43-44a4-4360-8758-5ecbc0959d30"
      }
     ]
    },
@@ -1234,8 +1179,7 @@
    "places": [
     {
      "name": "구로구",
-     "id": "6d864c22-1fdb-40c4-b1c5-206cd2427469",
-     "auto": true
+     "id": "6d864c22-1fdb-40c4-b1c5-206cd2427469"
     }
    ],
    "featuring": [],
@@ -1273,13 +1217,11 @@
     "orgs": [
      {
       "name": "Rockstar Games",
-      "id": "cbcf6bdd-8f2e-4626-812e-7201af457cc0",
-      "auto": true
+      "id": "cbcf6bdd-8f2e-4626-812e-7201af457cc0"
      },
      {
       "name": "Sony Interactive Entertainment",
-      "id": "89d825fc-f879-4146-b93d-cf8a2ab680bc",
-      "auto": true
+      "id": "89d825fc-f879-4146-b93d-cf8a2ab680bc"
      }
     ]
    },
@@ -1307,8 +1249,7 @@
    "featuring": [
     {
      "name": "김태호",
-     "id": "1f4c9e78-a57a-41d0-ae64-e0a2c9563b0c",
-     "auto": true
+     "id": "1f4c9e78-a57a-41d0-ae64-e0a2c9563b0c"
     }
    ],
    "other_fields": {
@@ -1345,8 +1286,7 @@
     "orgs": [
      {
       "name": "VAST엔터테인먼트",
-      "id": "b9f2c530-5ffb-4cf0-b029-b071dd664221",
-      "auto": true
+      "id": "b9f2c530-5ffb-4cf0-b029-b071dd664221"
      }
     ]
    },
@@ -1373,43 +1313,36 @@
    "places": [
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [
     {
      "name": "Kohei Nagata",
-     "id": "4ff7d258-16d4-4d7d-bfd6-777b3a524536",
-     "auto": true
+     "id": "4ff7d258-16d4-4d7d-bfd6-777b3a524536"
     },
     {
      "name": "Enako",
-     "id": "22618d0b-289e-470d-b90f-60f759018629",
-     "auto": true
+     "id": "22618d0b-289e-470d-b90f-60f759018629"
     },
     {
      "name": "Kentaro Yasui",
-     "id": "9659cb3d-6b94-4415-8265-3cce9fb01011",
-     "auto": true
+     "id": "9659cb3d-6b94-4415-8265-3cce9fb01011"
     },
     {
      "name": "Reo Nagatsuma",
-     "id": "d9f5c451-6b2a-4949-b78e-e989b2669427",
-     "auto": true
+     "id": "d9f5c451-6b2a-4949-b78e-e989b2669427"
     },
     {
      "name": "Ryoshiro Tsuji",
-     "id": "80111465-0c04-4a0f-9645-e06e1695efa3",
-     "auto": true
+     "id": "80111465-0c04-4a0f-9645-e06e1695efa3"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "TV Asahi",
-      "id": "7e49628f-a2b5-414d-96c2-0415a2320b22",
-      "auto": true
+      "id": "7e49628f-a2b5-414d-96c2-0415a2320b22"
      }
     ]
    },
@@ -1458,7 +1391,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-19 · KBS · https://news.kbs.co.kr/news/view.do?ncd=8717163&ref=DA"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261118068000062",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -1506,16 +1441,14 @@
    "featuring": [
     {
      "name": "장동민",
-     "id": "4e3d7737-985c-4a9e-8c59-f8e35a888677",
-     "auto": true
+     "id": "4e3d7737-985c-4a9e-8c59-f8e35a888677"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "Netflix",
-      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "auto": true
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -1543,16 +1476,14 @@
    "featuring": [
     {
      "name": "Tame Impala",
-     "id": "3ab4702b-56fb-4147-b8a1-be0009d978be",
-     "auto": true
+     "id": "3ab4702b-56fb-4147-b8a1-be0009d978be"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "Billboard",
-      "id": "75ca54fe-16ba-431e-8f28-7f3f14926abb",
-      "auto": true
+      "id": "75ca54fe-16ba-431e-8f28-7f3f14926abb"
      }
     ]
    },
@@ -1578,7 +1509,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-19 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716978"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261118132100051",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -1632,23 +1565,20 @@
    "places": [
     {
      "name": "San Jose",
-     "id": "1a500b41-ff22-4167-bcff-399fc7384ef5",
-     "auto": true
+     "id": "1a500b41-ff22-4167-bcff-399fc7384ef5"
     }
    ],
    "featuring": [
     {
      "name": "Jensen Huang",
-     "id": "8505e922-0921-452c-8ce2-25c88f761d81",
-     "auto": true
+     "id": "8505e922-0921-452c-8ce2-25c88f761d81"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "Nvidia",
-      "id": "016de458-5e8d-421c-8654-0e9023f4b206",
-      "auto": true
+      "id": "016de458-5e8d-421c-8654-0e9023f4b206"
      }
     ]
    },
@@ -1699,8 +1629,7 @@
    "featuring": [
     {
      "name": "Jensen Huang",
-     "id": "8505e922-0921-452c-8ce2-25c88f761d81",
-     "auto": true
+     "id": "8505e922-0921-452c-8ce2-25c88f761d81"
     }
    ],
    "other_fields": {
@@ -1737,8 +1666,7 @@
     "orgs": [
      {
       "name": "Billboard",
-      "id": "75ca54fe-16ba-431e-8f28-7f3f14926abb",
-      "auto": true
+      "id": "75ca54fe-16ba-431e-8f28-7f3f14926abb"
      }
     ]
    },
@@ -1768,8 +1696,7 @@
     "orgs": [
      {
       "name": "YG엔터테인먼트",
-      "id": "58fa67e0-0896-4df4-a813-0caf371902e0",
-      "auto": true
+      "id": "58fa67e0-0896-4df4-a813-0caf371902e0"
      }
     ]
    },
@@ -1857,16 +1784,14 @@
    "featuring": [
     {
      "name": "Helen To",
-     "id": "fe9d596e-5068-4862-a184-7bec6db8c681",
-     "auto": true
+     "id": "fe9d596e-5068-4862-a184-7bec6db8c681"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "TVB",
-      "id": "a3d0cb51-8e91-45d3-8cb1-685c0dda663a",
-      "auto": true
+      "id": "a3d0cb51-8e91-45d3-8cb1-685c0dda663a"
      }
     ]
    },
@@ -1948,7 +1873,9 @@
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-19 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716915"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261118133800062",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -1991,7 +1918,7 @@
   {
    "id": "644c4e5f-07d5-446d-838e-4a0649d46764",
    "title": "경찰, 수능일 오전 6시부터 전국 경계강화",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-18",
    "parent": [
     {
@@ -2007,8 +1934,6 @@
    "places": [],
    "featuring": [],
    "other_fields": {
-    "prev_record": "f119742f-1cc7-4098-9cba-db6d5da8d931",
-    "prev_auto": "함께 [] · 단어 ['수능일', '오전', '전국']",
     "orgs": [
      {
       "name": "id:0a2bd45b-4ca4-46ac-9f01-6db6c7b0ce55",
@@ -2118,38 +2043,32 @@
    "places": [
     {
      "name": "수지구",
-     "id": "e2f08f42-a439-4b1f-9e76-6911405ab938",
-     "auto": true
+     "id": "e2f08f42-a439-4b1f-9e76-6911405ab938"
     }
    ],
    "featuring": [
     {
      "name": "고수",
-     "id": "e67f0dec-f15f-4df8-80ab-97a06ada82a3",
-     "auto": true
+     "id": "e67f0dec-f15f-4df8-80ab-97a06ada82a3"
     },
     {
      "name": "육성재",
-     "id": "0d90932d-9f78-4e52-a3f9-3a62756f5fd1",
-     "auto": true
+     "id": "0d90932d-9f78-4e52-a3f9-3a62756f5fd1"
     },
     {
      "name": "유재석",
-     "id": "cc2a2a65-7cbc-44ad-a0cc-2259cf892615",
-     "auto": true
+     "id": "cc2a2a65-7cbc-44ad-a0cc-2259cf892615"
     },
     {
      "name": "유연석",
-     "id": "9e3af939-7d66-4f81-a843-b61fa9f31512",
-     "auto": true
+     "id": "9e3af939-7d66-4f81-a843-b61fa9f31512"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "SBS",
-      "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02",
-      "auto": true
+      "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02"
      }
     ]
    },
@@ -2177,21 +2096,18 @@
    "featuring": [
     {
      "name": "Fuka Koshiba",
-     "id": "316bdcde-7ff6-457a-8d98-b1cfa6449d1a",
-     "auto": true
+     "id": "316bdcde-7ff6-457a-8d98-b1cfa6449d1a"
     },
     {
      "name": "Sota Fukushi",
-     "id": "7c20e6c8-0470-4c64-82dc-1223e227f205",
-     "auto": true
+     "id": "7c20e6c8-0470-4c64-82dc-1223e227f205"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "TBS Television",
-      "id": "cb616011-028d-4885-b642-5757de6104d0",
-      "auto": true
+      "id": "cb616011-028d-4885-b642-5757de6104d0"
      }
     ]
    },
@@ -2244,8 +2160,7 @@
     "orgs": [
      {
       "name": "CJ CGV",
-      "id": "fa0c5f61-f747-492e-868e-3f862f7ec633",
-      "auto": true
+      "id": "fa0c5f61-f747-492e-868e-3f862f7ec633"
      }
     ]
    },
@@ -2295,8 +2210,7 @@
    "places": [
     {
      "name": "Komatsushima",
-     "id": "28344234-a1d1-49fd-a244-87c160f49995",
-     "auto": true
+     "id": "28344234-a1d1-49fd-a244-87c160f49995"
     }
    ],
    "featuring": [],
@@ -2397,7 +2311,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-19 · KBS · https://news.kbs.co.kr/news/view.do?ncd=8716869&ref=DA"
+   },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716689",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -2450,21 +2366,18 @@
    "featuring": [
     {
      "name": "김강재",
-     "id": "f2020935-48d9-4263-9ea6-3e408512afe5",
-     "auto": true
+     "id": "f2020935-48d9-4263-9ea6-3e408512afe5"
     },
     {
      "name": "조진세",
-     "id": "1d6609d9-bcd7-48bc-b821-bb1f6cdac16d",
-     "auto": true
+     "id": "1d6609d9-bcd7-48bc-b821-bb1f6cdac16d"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "티빙",
-      "id": "a052d21c-bdec-42bb-8c9b-388a1f29e4cb",
-      "auto": true
+      "id": "a052d21c-bdec-42bb-8c9b-388a1f29e4cb"
      }
     ]
    },
@@ -2496,13 +2409,11 @@
     },
     {
      "name": "탁재훈",
-     "id": "74e852de-3595-41d4-9371-5e56d7bed04e",
-     "auto": true
+     "id": "74e852de-3595-41d4-9371-5e56d7bed04e"
     },
     {
      "name": "신규진",
-     "id": "a838de07-7ce1-49ca-8baf-57bda0960aec",
-     "auto": true
+     "id": "a838de07-7ce1-49ca-8baf-57bda0960aec"
     }
    ],
    "other_fields": {},
@@ -2560,26 +2471,22 @@
    "featuring": [
     {
      "name": "장나라",
-     "id": "b031c34e-00bf-4511-bafa-24b3d9c89870",
-     "auto": true
+     "id": "b031c34e-00bf-4511-bafa-24b3d9c89870"
     },
     {
      "name": "김혜윤",
-     "id": "5f6d4c88-231e-423c-90b9-90da965698fd",
-     "auto": true
+     "id": "5f6d4c88-231e-423c-90b9-90da965698fd"
     },
     {
      "name": "박해진",
-     "id": "a69bf4d9-22e3-4130-bfee-dd562963ab67",
-     "auto": true
+     "id": "a69bf4d9-22e3-4130-bfee-dd562963ab67"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "SBS",
-      "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02",
-      "auto": true
+      "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02"
      }
     ]
    },
@@ -2635,13 +2542,11 @@
    "featuring": [
     {
      "name": "Kazuya Ohashi",
-     "id": "1634c86c-6cbf-4dff-beba-f5fef7d64af9",
-     "auto": true
+     "id": "1634c86c-6cbf-4dff-beba-f5fef7d64af9"
     },
     {
      "name": "なにわ男子",
-     "id": "861a99b5-b678-401f-bd0b-3b4be1bfe3ac",
-     "auto": true
+     "id": "861a99b5-b678-401f-bd0b-3b4be1bfe3ac"
     }
    ],
    "other_fields": {},
@@ -2691,8 +2596,7 @@
    "places": [
     {
      "name": "Taipei City",
-     "id": "c90a4654-9e44-4805-b0fd-f0d8aad572d0",
-     "auto": true
+     "id": "c90a4654-9e44-4805-b0fd-f0d8aad572d0"
     }
    ],
    "featuring": [],
@@ -2817,8 +2721,7 @@
    "places": [
     {
      "name": "Los Angeles",
-     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
-     "auto": true
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
     }
    ],
    "featuring": [],
@@ -2847,41 +2750,34 @@
    "featuring": [
     {
      "name": "이현욱",
-     "id": "ae650ff5-b801-4777-bf00-347d33aa6e1d",
-     "auto": true
+     "id": "ae650ff5-b801-4777-bf00-347d33aa6e1d"
     },
     {
      "name": "장혁",
-     "id": "80d723b0-8fc5-4959-831c-650b5a89f648",
-     "auto": true
+     "id": "80d723b0-8fc5-4959-831c-650b5a89f648"
     },
     {
      "name": "김강우",
-     "id": "f9f38db6-6c1e-4edb-b5a7-4b46f21b40be",
-     "auto": true
+     "id": "f9f38db6-6c1e-4edb-b5a7-4b46f21b40be"
     },
     {
      "name": "박성웅",
-     "id": "f4d6810b-1a9c-42c3-bb75-0a97225158d6",
-     "auto": true
+     "id": "f4d6810b-1a9c-42c3-bb75-0a97225158d6"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "KBS",
-      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
-      "auto": true
+      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84"
      },
      {
       "name": "Netflix",
-      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "auto": true
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      },
      {
       "name": "웨이브",
-      "id": "3f13704b-436b-4983-b608-32f80994d782",
-      "auto": true
+      "id": "3f13704b-436b-4983-b608-32f80994d782"
      }
     ]
    },
@@ -2987,22 +2883,22 @@
    "places": [
     {
      "name": "Manhattan",
-     "id": "c3fba860-6d05-43ea-8902-c042359e2f51",
-     "auto": true
+     "id": "c3fba860-6d05-43ea-8902-c042359e2f51"
     }
    ],
    "featuring": [
     {
      "name": "Elon Musk",
-     "id": "cb501f5f-169b-4a28-92f5-c8fa2d68c7a9",
-     "auto": true
+     "id": "cb501f5f-169b-4a28-92f5-c8fa2d68c7a9"
     },
     {
      "name": "David Ellison",
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-18 · Hollywood Reporter · https://www.hollywoodreporter.com/business/business-news/david-ellisons-open-to-elon-musk-collaboration-it-would-be-a-privilege-1236758547/"
+   },
    "url": "https://variety.com/2026/tv/news/elon-musk-invested-skydance-david-ellison-dealbook-conference-1236951800/",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -3050,16 +2946,14 @@
    "featuring": [
     {
      "name": "송은이",
-     "id": "111a570b-fc19-40af-acb0-8c337d504873",
-     "auto": true
+     "id": "111a570b-fc19-40af-acb0-8c337d504873"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "Disney+",
-      "id": "b84193c0-18fb-41f7-8572-b15060b4cf44",
-      "auto": true
+      "id": "b84193c0-18fb-41f7-8572-b15060b4cf44"
      }
     ]
    },
@@ -3089,10 +2983,10 @@
     "orgs": [
      {
       "name": "S2엔터테인먼트",
-      "id": "791f86be-ab0d-494d-963a-94c26b002875",
-      "auto": true
+      "id": "791f86be-ab0d-494d-963a-94c26b002875"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-19 · 스포츠동아 · https://sports.donga.com/ent/article/all/20261119/135051569/1"
    },
    "url": "https://sports.donga.com/ent/article/all/20261118/135043512/1",
    "source": "뉴스",
@@ -3154,16 +3048,14 @@
    "featuring": [
     {
      "name": "Manni L. Perez",
-     "id": "4e57b162-1e11-4bc2-89b6-d30dfe7f59d4",
-     "auto": true
+     "id": "4e57b162-1e11-4bc2-89b6-d30dfe7f59d4"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "Rockstar Games",
-      "id": "cbcf6bdd-8f2e-4626-812e-7201af457cc0",
-      "auto": true
+      "id": "cbcf6bdd-8f2e-4626-812e-7201af457cc0"
      }
     ]
    },
@@ -3191,16 +3083,14 @@
    "featuring": [
     {
      "name": "Mackenyu",
-     "id": "cef67c1f-e4fa-40f4-899f-b316f6214b69",
-     "auto": true
+     "id": "cef67c1f-e4fa-40f4-899f-b316f6214b69"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "Fuji Television",
-      "id": "c830f7b0-7e8d-4445-a2f0-954fe93a5def",
-      "auto": true
+      "id": "c830f7b0-7e8d-4445-a2f0-954fe93a5def"
      }
     ]
    },
@@ -3278,8 +3168,7 @@
    ],
    "featuring": [],
    "other_fields": {
-    "prev_record": "6ca025c4-8d24-4a43-9e61-3abf78de31ca",
-    "prev_auto": "함께 [] · 단어 ['모자', '신호등', '횡단보도']"
+    "prev_record": "6ca025c4-8d24-4a43-9e61-3abf78de31ca"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715652",
    "source": "뉴스",
@@ -3340,8 +3229,7 @@
    "featuring": [
     {
      "name": "Jensen Huang",
-     "id": "8505e922-0921-452c-8ce2-25c88f761d81",
-     "auto": true
+     "id": "8505e922-0921-452c-8ce2-25c88f761d81"
     }
    ],
    "other_fields": {
@@ -3425,8 +3313,7 @@
     "orgs": [
      {
       "name": "빅히트 뮤직",
-      "id": "f0870011-8c4a-4665-8679-5c7b7158d701",
-      "auto": true
+      "id": "f0870011-8c4a-4665-8679-5c7b7158d701"
      }
     ]
    },
@@ -3484,8 +3371,7 @@
     "orgs": [
      {
       "name": "KBS",
-      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84",
-      "auto": true
+      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84"
      }
     ]
    },
@@ -3601,8 +3487,7 @@
    "featuring": [
     {
      "name": "Ren Meguro",
-     "id": "c867a2a4-168e-4c8e-9f70-5c24ce5160ad",
-     "auto": true
+     "id": "c867a2a4-168e-4c8e-9f70-5c24ce5160ad"
     }
    ],
    "other_fields": {},
@@ -3632,8 +3517,7 @@
     "orgs": [
      {
       "name": "Snow Man",
-      "id": "02fdcdc7-64e2-4897-8e4a-ea965ed829c3",
-      "auto": true
+      "id": "02fdcdc7-64e2-4897-8e4a-ea965ed829c3"
      }
     ]
    },
@@ -3661,8 +3545,7 @@
    "featuring": [
     {
      "name": "Denis Villeneuve",
-     "id": "041fc59a-6341-4542-bc77-5acd04b411b7",
-     "auto": true
+     "id": "041fc59a-6341-4542-bc77-5acd04b411b7"
     },
     {
      "name": "Jeff Bezos",
@@ -3674,13 +3557,11 @@
     "orgs": [
      {
       "name": "Amazon MGM Studios",
-      "id": "46fa196f-6b72-4883-a4fa-a64fc3d21681",
-      "auto": true
+      "id": "46fa196f-6b72-4883-a4fa-a64fc3d21681"
      },
      {
       "name": "Amazon",
-      "id": "4e080210-3649-4468-aa3a-59f71cb7472d",
-      "auto": true
+      "id": "4e080210-3649-4468-aa3a-59f71cb7472d"
      }
     ]
    },
@@ -3733,8 +3614,7 @@
     "orgs": [
      {
       "name": "Billboard",
-      "id": "75ca54fe-16ba-431e-8f28-7f3f14926abb",
-      "auto": true
+      "id": "75ca54fe-16ba-431e-8f28-7f3f14926abb"
      }
     ]
    },
@@ -3809,15 +3689,13 @@
    "places": [
     {
      "name": "제주시",
-     "id": "e8f06af8-3dca-4795-83d5-ca6bfb093ed3",
-     "auto": true
+     "id": "e8f06af8-3dca-4795-83d5-ca6bfb093ed3"
     }
    ],
    "featuring": [
     {
      "name": "박지윤",
-     "id": "4915aa93-7e12-4553-9045-295dda7d23cc",
-     "auto": true
+     "id": "4915aa93-7e12-4553-9045-295dda7d23cc"
     }
    ],
    "other_fields": {},
@@ -3845,8 +3723,7 @@
    "featuring": [
     {
      "name": "김성주",
-     "id": "21c4c158-f4e4-43e5-b199-26687349313f",
-     "auto": true
+     "id": "21c4c158-f4e4-43e5-b199-26687349313f"
     }
    ],
    "other_fields": {
@@ -3854,8 +3731,7 @@
     "orgs": [
      {
       "name": "MBC",
-      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31",
-      "auto": true
+      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31"
      }
     ]
    },
@@ -3885,8 +3761,7 @@
     "orgs": [
      {
       "name": "제이와이피엔터테인먼트",
-      "id": "1aeb981f-4786-4058-b502-23b5a981944b",
-      "auto": true
+      "id": "1aeb981f-4786-4058-b502-23b5a981944b"
      }
     ]
    },
@@ -3923,7 +3798,8 @@
       "name": "id:3ef6d4da-f065-4708-ae43-b87e02bff4f5",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-19 · 중앙일보 · https://www.joongang.co.kr/article/25479921"
    },
    "url": "https://www.yna.co.kr/view/AKR20261118151500055",
    "source": "뉴스",
@@ -4003,7 +3879,9 @@
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-19 · KBS · https://news.kbs.co.kr/news/view.do?ncd=8716821&ref=DA"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261118120300004",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -4056,16 +3934,14 @@
    "featuring": [
     {
      "name": "성준",
-     "id": "1b1f3008-5ad1-44ea-9a6f-ac75dfb8e459",
-     "auto": true
+     "id": "1b1f3008-5ad1-44ea-9a6f-ac75dfb8e459"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "MBC",
-      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31",
-      "auto": true
+      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31"
      }
     ]
    },
@@ -4120,8 +3996,7 @@
    ],
    "featuring": [],
    "other_fields": {
-    "prev_record": "4929b082-3b45-4163-b00d-f3b0264605f8",
-    "prev_auto": "함께 [] · 단어 ['세무사', '수사', '수석', '합격자']"
+    "prev_record": "4929b082-3b45-4163-b00d-f3b0264605f8"
    },
    "url": "https://www.yna.co.kr/view/AKR20261118074500004",
    "source": "뉴스",
@@ -4222,7 +4097,6 @@
    ],
    "other_fields": {
     "prev_record": "f119742f-1cc7-4098-9cba-db6d5da8d931",
-    "prev_auto": "함께 [] · 단어 ['8시', '발송', '수능', '않은', '오전', '위급재난문자', '휴대전화를']",
     "orgs": [
      {
       "name": "id:3856f802-843e-4b5a-8959-49739f0c2be0",
@@ -4262,7 +4136,8 @@
       "name": "id:3856f802-843e-4b5a-8959-49739f0c2be0",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-19 · SBS · https://news.sbs.co.kr/news/endPage.do?news_id=N1008852732&plink=ORI&cooper=ETC"
    },
    "url": "https://www.yna.co.kr/view/AKR20261118061800530",
    "source": "뉴스",
@@ -4339,13 +4214,11 @@
    "featuring": [
     {
      "name": "수지",
-     "id": "208dcf18-1047-43c1-a147-548eb2e0fa98",
-     "auto": true
+     "id": "208dcf18-1047-43c1-a147-548eb2e0fa98"
     },
     {
      "name": "이진욱",
-     "id": "9a910480-9c4a-4ebe-8858-36b198aa9f94",
-     "auto": true
+     "id": "9a910480-9c4a-4ebe-8858-36b198aa9f94"
     }
    ],
    "other_fields": {},
@@ -4375,8 +4248,7 @@
     "orgs": [
      {
       "name": "Sony Interactive Entertainment",
-      "id": "89d825fc-f879-4146-b93d-cf8a2ab680bc",
-      "auto": true
+      "id": "89d825fc-f879-4146-b93d-cf8a2ab680bc"
      }
     ]
    },
@@ -4427,16 +4299,14 @@
    "featuring": [
     {
      "name": "배두나",
-     "id": "08ad0bb5-8aab-4d69-83fa-f5f1e03f2cfd",
-     "auto": true
+     "id": "08ad0bb5-8aab-4d69-83fa-f5f1e03f2cfd"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "쿠팡플레이",
-      "id": "25282bad-76c8-4fb4-bfe6-1e1d6147da21",
-      "auto": true
+      "id": "25282bad-76c8-4fb4-bfe6-1e1d6147da21"
      }
     ]
    },
@@ -4466,8 +4336,7 @@
     "orgs": [
      {
       "name": "Disney+",
-      "id": "b84193c0-18fb-41f7-8572-b15060b4cf44",
-      "auto": true
+      "id": "b84193c0-18fb-41f7-8572-b15060b4cf44"
      }
     ]
    },
@@ -4495,21 +4364,18 @@
    "featuring": [
     {
      "name": "조인성",
-     "id": "3f5a7427-5f6d-4f0c-b77d-3317beabc043",
-     "auto": true
+     "id": "3f5a7427-5f6d-4f0c-b77d-3317beabc043"
     },
     {
      "name": "류승룡",
-     "id": "9e3c536d-6292-4405-a04c-1899df3a35a6",
-     "auto": true
+     "id": "9e3c536d-6292-4405-a04c-1899df3a35a6"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "Disney+",
-      "id": "b84193c0-18fb-41f7-8572-b15060b4cf44",
-      "auto": true
+      "id": "b84193c0-18fb-41f7-8572-b15060b4cf44"
      }
     ]
    },
@@ -4536,33 +4402,28 @@
    "places": [
     {
      "name": "통영시",
-     "id": "736127d2-e09c-46b4-830f-54ede9b89ebe",
-     "auto": true
+     "id": "736127d2-e09c-46b4-830f-54ede9b89ebe"
     }
    ],
    "featuring": [
     {
      "name": "고경표",
-     "id": "25867437-e0f5-4a05-ab65-dc2264452c44",
-     "auto": true
+     "id": "25867437-e0f5-4a05-ab65-dc2264452c44"
     },
     {
      "name": "박보검",
-     "id": "c405ad05-325f-459d-a0d3-d3d62d88bb72",
-     "auto": true
+     "id": "c405ad05-325f-459d-a0d3-d3d62d88bb72"
     },
     {
      "name": "이상이",
-     "id": "62990083-cd40-4258-8647-10d2085a0acb",
-     "auto": true
+     "id": "62990083-cd40-4258-8647-10d2085a0acb"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "tvN",
-      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f",
-      "auto": true
+      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f"
      }
     ]
    },
@@ -4735,8 +4596,7 @@
     },
     {
      "name": "Alaska",
-     "id": "7d5ebd59-1188-4c85-b0a7-d3f48c3ff7e8",
-     "auto": true
+     "id": "7d5ebd59-1188-4c85-b0a7-d3f48c3ff7e8"
     }
    ],
    "featuring": [
@@ -4796,20 +4656,17 @@
    "places": [
     {
      "name": "용산구",
-     "id": "a4707cca-1300-4554-b621-58140e635c51",
-     "auto": true
+     "id": "a4707cca-1300-4554-b621-58140e635c51"
     }
    ],
    "featuring": [
     {
      "name": "배종옥",
-     "id": "a4a4b80c-696c-4d74-92d9-b521d9aa491d",
-     "auto": true
+     "id": "a4a4b80c-696c-4d74-92d9-b521d9aa491d"
     },
     {
      "name": "장규리",
-     "id": "33d38129-e13b-4871-9adb-e8ddc5b8b787",
-     "auto": true
+     "id": "33d38129-e13b-4871-9adb-e8ddc5b8b787"
     }
    ],
    "other_fields": {},
@@ -5089,16 +4946,14 @@
    "featuring": [
     {
      "name": "Will Packer",
-     "id": "44230f85-e5b9-430a-be88-f7e6db8a5f8d",
-     "auto": true
+     "id": "44230f85-e5b9-430a-be88-f7e6db8a5f8d"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "HarbourView Equity Partners",
-      "id": "31c6a204-58bd-4317-87c8-afdd923995ae",
-      "auto": true
+      "id": "31c6a204-58bd-4317-87c8-afdd923995ae"
      }
     ]
    },
@@ -5126,21 +4981,18 @@
    "featuring": [
     {
      "name": "카이",
-     "id": "2d65e6e1-3610-44c9-ab8e-7feae4ad04b6",
-     "auto": true
+     "id": "2d65e6e1-3610-44c9-ab8e-7feae4ad04b6"
     },
     {
      "name": "세훈",
-     "id": "b0b38426-1954-4acb-b04b-ed27fac91ec8",
-     "auto": true
+     "id": "b0b38426-1954-4acb-b04b-ed27fac91ec8"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "SM엔터테인먼트",
-      "id": "62486fb6-e153-4ec9-bafa-5584719f7b4e",
-      "auto": true
+      "id": "62486fb6-e153-4ec9-bafa-5584719f7b4e"
      }
     ]
    },
@@ -5226,7 +5078,7 @@
   {
    "id": "400d8308-626b-4f3a-816e-14b54ced1409",
    "title": "이원택 지사, 선거법 위반 혐의 15시간 공소청 조사",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-18",
    "parent": [
     {
@@ -5246,10 +5098,7 @@
      "id": null
     }
    ],
-   "other_fields": {
-    "prev_record": "22741c68-a8ec-469a-9322-4c708a1ce299",
-    "prev_auto": "함께 [] · 단어 ['조사', '피의자', '혐의', '혐의로']"
-   },
+   "other_fields": {},
    "url": "https://www.yna.co.kr/view/AKR20261119002700055",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -5274,16 +5123,14 @@
    "featuring": [
     {
      "name": "이정재",
-     "id": "a6deac2e-ab25-4b2e-a3df-bf7542c9fe02",
-     "auto": true
+     "id": "a6deac2e-ab25-4b2e-a3df-bf7542c9fe02"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "디스패치",
-      "id": "3b5c956b-f6b1-4216-b1d2-d19019bcb020",
-      "auto": true
+      "id": "3b5c956b-f6b1-4216-b1d2-d19019bcb020"
      }
     ]
    },
@@ -5314,8 +5161,7 @@
     },
     {
      "name": "인천광역시",
-     "id": "14756088-cbac-44f8-8972-4fde15108c97",
-     "auto": true
+     "id": "14756088-cbac-44f8-8972-4fde15108c97"
     }
    ],
    "featuring": [],
@@ -5350,8 +5196,7 @@
    "places": [
     {
      "name": "Nagoya",
-     "id": "a2f64a0e-f2fc-4ad3-bffe-698fa01f0b9f",
-     "auto": true
+     "id": "a2f64a0e-f2fc-4ad3-bffe-698fa01f0b9f"
     }
    ],
    "featuring": [],
@@ -5379,8 +5224,7 @@
    "places": [
     {
      "name": "송파구",
-     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7",
-     "auto": true
+     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7"
     }
    ],
    "featuring": [],
@@ -5388,8 +5232,7 @@
     "orgs": [
      {
       "name": "SM엔터테인먼트",
-      "id": "62486fb6-e153-4ec9-bafa-5584719f7b4e",
-      "auto": true
+      "id": "62486fb6-e153-4ec9-bafa-5584719f7b4e"
      }
     ]
    },
@@ -5416,8 +5259,7 @@
    "places": [
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [],
@@ -5445,8 +5287,7 @@
    "places": [
     {
      "name": "Japan",
-     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
-     "auto": true
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e"
     }
    ],
    "featuring": [],
@@ -5479,7 +5320,8 @@
       "name": "id:5b33af02-c77b-4382-a6bc-fb8caaa9944e",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-19 · KBS · https://news.kbs.co.kr/news/view.do?ncd=8717240&ref=DA"
    },
    "url": "https://www.yna.co.kr/view/AKR20261118014051017",
    "source": "뉴스",
@@ -5505,18 +5347,15 @@
    "featuring": [
     {
      "name": "장나라",
-     "id": "b031c34e-00bf-4511-bafa-24b3d9c89870",
-     "auto": true
+     "id": "b031c34e-00bf-4511-bafa-24b3d9c89870"
     },
     {
      "name": "김혜윤",
-     "id": "5f6d4c88-231e-423c-90b9-90da965698fd",
-     "auto": true
+     "id": "5f6d4c88-231e-423c-90b9-90da965698fd"
     },
     {
      "name": "장도연",
-     "id": "61cc73d8-43f1-471a-94ed-a9ec46fdf7f4",
-     "auto": true
+     "id": "61cc73d8-43f1-471a-94ed-a9ec46fdf7f4"
     }
    ],
    "other_fields": {
@@ -5626,8 +5465,7 @@
    "places": [
     {
      "name": "Kaohsiung City",
-     "id": "fc0464bb-66dc-4a6b-a5d0-a8f8d323694e",
-     "auto": true
+     "id": "fc0464bb-66dc-4a6b-a5d0-a8f8d323694e"
     }
    ],
    "featuring": [],
@@ -5635,8 +5473,7 @@
     "orgs": [
      {
       "name": "Billboard",
-      "id": "75ca54fe-16ba-431e-8f28-7f3f14926abb",
-      "auto": true
+      "id": "75ca54fe-16ba-431e-8f28-7f3f14926abb"
      }
     ]
    },
@@ -5666,8 +5503,7 @@
     "orgs": [
      {
       "name": "SM엔터테인먼트",
-      "id": "62486fb6-e153-4ec9-bafa-5584719f7b4e",
-      "auto": true
+      "id": "62486fb6-e153-4ec9-bafa-5584719f7b4e"
      }
     ]
    },
@@ -5770,7 +5606,6 @@
    ],
    "other_fields": {
     "prev_record": "a5e2e069-5a0b-4c3b-b100-8eaf09d1d337",
-    "prev_auto": "함께 ['정점식'] · 단어 ['거부', '원내대표', '정점식', '조작기소', '특검']",
     "orgs": [
      {
       "name": "id:ad10c0cf-7884-490a-82b1-feb9d72682c2",
@@ -5785,7 +5620,7 @@
   {
    "id": "3da9bcc2-5682-412e-bc11-d0026fb1c71e",
    "title": "정청래 전 대표 「최민희 징계 강력 반대」",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-18",
    "parent": [
     {
@@ -5813,10 +5648,7 @@
      "id": null
     }
    ],
-   "other_fields": {
-    "prev_record": "bac08655-c951-47e1-9360-5e807fe5f4b2",
-    "prev_auto": "함께 ['김민석', '정청래'] · 단어 ['김민석', '대표', '의혹', '정청래', '제기', '책임을']"
-   },
+   "other_fields": {},
    "url": "https://www.yna.co.kr/view/AKR20261118115000001",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -5841,8 +5673,7 @@
    "featuring": [
     {
      "name": "장항준",
-     "id": "07fd8525-89d2-4b0c-8c74-7ef02a020cfd",
-     "auto": true
+     "id": "07fd8525-89d2-4b0c-8c74-7ef02a020cfd"
     }
    ],
    "other_fields": {},
@@ -5924,7 +5755,9 @@
      "id": null
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-18 · PBS(AP) · https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261119002051071",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -5949,8 +5782,7 @@
    "featuring": [
     {
      "name": "Jensen Huang",
-     "id": "8505e922-0921-452c-8ce2-25c88f761d81",
-     "auto": true
+     "id": "8505e922-0921-452c-8ce2-25c88f761d81"
     }
    ],
    "other_fields": {
@@ -5978,7 +5810,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-19 · 중앙일보 · https://www.joongang.co.kr/article/25479929"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261118006500091",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -6006,13 +5840,11 @@
     },
     {
      "name": "Japan",
-     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
-     "auto": true
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e"
     },
     {
      "name": "서울특별시",
-     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
-     "auto": true
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     }
    ],
    "featuring": [
@@ -6029,7 +5861,7 @@
   {
    "id": "e4725d68-6b7a-40ee-b3de-54f93edbcb1e",
    "title": "조태용 전 국정원장 징역 2년 6개월 확정",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-18",
    "parent": [
     {
@@ -6050,14 +5882,13 @@
    ],
    "featuring": [],
    "other_fields": {
-    "prev_record": "91ce614c-bcff-4378-856e-577b358a3bb2",
-    "prev_auto": "함께 [] · 단어 ['6개월', '징역', '혐의', '확정']",
     "orgs": [
      {
       "name": "id:fcfe443f-432b-4468-8d04-ef7b05764f8a",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-19 · MBC · https://imnews.imbc.com/replay/2026/nwtoday/article/6866806_37012.html"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716000",
    "source": "뉴스",
@@ -6082,8 +5913,7 @@
    "places": [
     {
      "name": "Hong Kong",
-     "id": "c7a0c821-1b4a-47ce-bc47-a059ada14ada",
-     "auto": true
+     "id": "c7a0c821-1b4a-47ce-bc47-a059ada14ada"
     }
    ],
    "featuring": [],
@@ -6116,7 +5946,8 @@
       "name": "id:b5a53446-9a45-4206-9482-17699beca2f9",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-19 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717199"
    },
    "url": "https://www.yna.co.kr/view/AKR20261118054700530",
    "source": "뉴스",
@@ -6206,7 +6037,7 @@
   {
    "id": "4b70140e-f57d-4623-b6ac-a8aad0140e1e",
    "title": "추경호 대구시장, 계엄 해제 표결 방해 혐의 1심 무죄",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-18",
    "parent": [
     {
@@ -6236,8 +6067,6 @@
     }
    ],
    "other_fields": {
-    "prev_record": "06d2502c-2653-4128-90e0-a3a3f0e31745",
-    "prev_auto": "함께 [] · 단어 ['내란', '무죄', '무죄를', '선고', '혐의']",
     "orgs": [
      {
       "name": "id:ad10c0cf-7884-490a-82b1-feb9d72682c2",
@@ -6404,8 +6233,7 @@
    "places": [
     {
      "name": "용산구",
-     "id": "a4707cca-1300-4554-b621-58140e635c51",
-     "auto": true
+     "id": "a4707cca-1300-4554-b621-58140e635c51"
     }
    ],
    "featuring": [],
@@ -6473,7 +6301,9 @@
    "content": null,
    "places": [],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-19 · KBS · https://news.kbs.co.kr/news/view.do?ncd=8716905&ref=DA"
+   },
    "url": "https://www.yna.co.kr/view/AKR20261118166300055",
    "source": "뉴스",
    "added_at": "2026-11-18T23:17:53.485620+00:00"
@@ -6561,16 +6391,14 @@
    "featuring": [
     {
      "name": "플레이브",
-     "id": "dffe01fb-4b7a-479e-815a-f3cbe33e03e5",
-     "auto": true
+     "id": "dffe01fb-4b7a-479e-815a-f3cbe33e03e5"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "SM엔터테인먼트",
-      "id": "62486fb6-e153-4ec9-bafa-5584719f7b4e",
-      "auto": true
+      "id": "62486fb6-e153-4ec9-bafa-5584719f7b4e"
      }
     ]
    },
@@ -6625,30 +6453,27 @@
    "places": [
     {
      "name": "Japan",
-     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
-     "auto": true
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e"
     }
    ],
    "featuring": [
     {
      "name": "Nogizaka46",
-     "id": "ad4a24ea-7c0b-4107-b3eb-ebf57ac7f223",
-     "auto": true
+     "id": "ad4a24ea-7c0b-4107-b3eb-ebf57ac7f223"
     },
     {
      "name": "SKE48",
-     "id": "3b990e59-a636-4e3a-a2e5-aa105515a6cd",
-     "auto": true
+     "id": "3b990e59-a636-4e3a-a2e5-aa105515a6cd"
     }
    ],
    "other_fields": {
     "orgs": [
      {
       "name": "KeyHolder",
-      "id": "52483d32-15dc-45a9-9d64-249d6c443297",
-      "auto": true
+      "id": "52483d32-15dc-45a9-9d64-249d6c443297"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-19 · 뉴시스 · https://www.newsis.com/view/NISX20261119_0003874121"
    },
    "url": "https://www.chosun.com/entertainments/music/2026/11/18/GIYDEN3EG44GIMJZGMYDONZQGM/",
    "source": "뉴스",
@@ -6673,20 +6498,17 @@
    "places": [
     {
      "name": "영등포구",
-     "id": "d8253a12-cdca-4362-9ffb-d7e5fed374da",
-     "auto": true
+     "id": "d8253a12-cdca-4362-9ffb-d7e5fed374da"
     }
    ],
    "featuring": [
     {
      "name": "김태호",
-     "id": "1f4c9e78-a57a-41d0-ae64-e0a2c9563b0c",
-     "auto": true
+     "id": "1f4c9e78-a57a-41d0-ae64-e0a2c9563b0c"
     },
     {
      "name": "송은이",
-     "id": "111a570b-fc19-40af-acb0-8c337d504873",
-     "auto": true
+     "id": "111a570b-fc19-40af-acb0-8c337d504873"
     }
    ],
    "other_fields": {},
@@ -9638,6 +9460,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q55734429",
    "links": [
     {
+     "id": "349b7ca5-fde6-4ba0-89e6-ad21aaf911ff",
+     "category": "단체",
+     "name": "메타코미디",
+     "rel": "MEMBER_OF"
+    },
+    {
      "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
      "category": "허브",
      "name": "한국 연예인",
@@ -9943,6 +9771,47 @@
     }
    ],
    "added_at": "2026-11-18T23:13:56.083419+00:00"
+  },
+  {
+   "id": "349b7ca5-fde6-4ba0-89e6-ad21aaf911ff",
+   "name": "메타코미디",
+   "category": "단체",
+   "alias": "메타 코미디",
+   "disambig": "대한민국의 연예 기획사",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "industry": "방송과엔터테인먼트",
+    "name_en": "Meta Comedy",
+    "real_name": "메타코미디",
+    "formation_date": "2021",
+    "founder": "정영준",
+    "ceo": "정영준",
+    "hq": "서울특별시 마포구 와우산로29다길 16 더느와르",
+    "website": "https://newsepoch.co.kr/news/2026040300026",
+    "listed_on": "비상장",
+    "summary": "피식대학·숏박스·장삐쭈 등이 소속된 국내 코미디 전문 레이블",
+    "sources": [
+     "https://newsepoch.co.kr/news/2026040300026",
+     "https://v.daum.net/v/20220713140017610",
+     "https://www.mksports.co.kr/news/entertain/11941472",
+     "https://news.nate.com/view/20260228n05340"
+    ],
+    "ai_model": "claude-opus-5-5",
+    "region_code": "1100000000"
+   },
+   "source_url": "https://newsepoch.co.kr/news/2026040300026",
+   "links": [
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-19T06:15:33.633114+00:00"
   }
  ],
  "bulk_added": []
