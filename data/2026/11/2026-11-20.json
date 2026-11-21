@@ -1,11 +1,11 @@
 {
  "date": "2026-11-20",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-20T02:38:03+00:00",
+ "exported_at": "2026-11-21T03:45:08+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
-  "updates": 327,
-  "new_planets": 93,
+  "updates": 326,
+  "new_planets": 102,
   "bulk_added": 0
  },
  "updates": [
@@ -108,15 +108,15 @@
    ],
    "summary": "EBSi 기준 국어 언어와 매체 1등급컷 91점 · 화법과 작문 96점으로 작년보다 6~7점 오를 것으로 추정",
    "why": "작년 「불수능」이던 국어가 비교적 쉽게 출제됨",
-   "how": "수학 1등급컷은 86~90점으로 작년(87~91점)보다 조금 낮음. 표준점수 최고점 국어 137점(작년 146점) · 수학 138점(작년 141점) 추정. 종로학원은 영어 1등급 비율을 8%로 추정",
+   "how": "수학 1등급컷은 86~90점으로 작년(87~91점)보다 조금 낮음. 표준점수 최고점 국어 137점(작년 146점) · 수학 138점(작년 141점) 추정. 영어 1등급은 18.8% 추정(작년 3.11%)",
    "content": null,
    "places": [],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:7e57e8ef-fe02-493c-8bc1-fc1006e3ebf2",
-      "id": null
+      "name": "한국교육방송공사",
+      "id": "7e57e8ef-fe02-493c-8bc1-fc1006e3ebf2"
      },
      {
       "name": "메가스터디",
@@ -146,7 +146,7 @@
    ],
    "summary": "4교시 기준 잠정 집계로 98명이 적발됐고 이 가운데 시험 중 스마트기기를 실제로 쓴 사례가 5건",
    "why": null,
-   "how": "전자기기 적발 44명(서울 18 · 경기 11 · 인천 6 · 대전 3 · 충남 3 · 경남 1), 재난문자 적발 49명. 5건은 천안 스마트안경, 용인 카메라 · 이어폰, 서울 문제지 촬영, 서울 · 경기 화장실 스마트폰. 최종 집계는 20일 발표, 심의는 12월 11일 성적 발표 전 마무리",
+   "how": "전자기기 적발 44명(서울 18 · 경기 11 · 인천 6 · 대전 3 · 충남 3 · 경남 1), 재난문자 적발 49명. 5건은 충남 스마트안경, 경기 카메라 · 이어폰, 서울 문제지 촬영, 서울 · 경기 화장실 스마트폰. 처리는 12월 11일 성적 발표 전 마무리",
    "content": null,
    "places": [
     {
@@ -163,10 +163,11 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:3856f802-843e-4b5a-8959-49739f0c2be0",
-      "id": null
+      "name": "교육부",
+      "id": "3856f802-843e-4b5a-8959-49739f0c2be0"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · 한겨레 · https://www.hani.co.kr/arti/society/schooling/1288248.html"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717511",
    "source": "뉴스",
@@ -186,7 +187,7 @@
    ],
    "summary": "강원석 시인의 시 「비상」 한 구절이 올해 필적 확인 문구로 쓰임",
    "why": "필적 확인 문구는 대리시험 등을 막으려 2006학년도부터 도입",
-   "how": "수능 샤프는 무궁화보라색. 부정행위 방지를 위해 필기구 지급을 넓힘",
+   "how": "수험생은 영역 시험이 시작될 때마다 답안지 필적 확인란에 문구를 쓰며, 문구는 출제위원들이 논의해 정함",
    "content": null,
    "places": [],
    "featuring": [
@@ -248,17 +249,12 @@
    "content": null,
    "places": [
     {
-     "name": "id:e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "id": null
+     "name": "Tokyo",
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     },
     {
      "name": "Japan",
      "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
-     "auto": true
-    },
-    {
-     "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
      "auto": true
     }
    ],
@@ -270,7 +266,7 @@
   },
   {
    "id": "1b542be8-a464-451e-84c1-a4210c9262c3",
-   "title": "2027학년도 수능 시행",
+   "title": "2027학년도 수능 1교시 결시율 9.97%",
    "type": "뉴스",
    "date": "2026-11-19",
    "parent": [
@@ -280,21 +276,17 @@
      "name": "Korea"
     }
    ],
-   "summary": "전국 85개 시험지구 1312개 시험장에서 55만1864명이 지원한 가운데 오전 8시 40분 시작",
-   "why": "AI 부정행위 우려로 스마트안경 전수검사 · 단추 스티커 · 위급재난문자 등 처음 쓰는 대책을 함께 시행",
-   "how": "1교시 국어 결시율 9.97%(지원 54만5253명 중 49만915명 응시)로 작년 9.4%보다 높음. 지역별로 인천 14.44%가 가장 높고 부산 6.84%가 가장 낮음. 성적표는 12월 11일 배부",
+   "summary": "19일 치러진 수능 1교시 지원자 54만5,253명 가운데 49만915명이 응시해 결시율 9.97%",
+   "why": "",
+   "how": "작년 9.4%보다 0.57%p 높음. 지역별로 인천 14.44%가 가장 높고 부산 6.84%가 가장 낮음(오후 1시 30분 집계)",
    "content": null,
    "places": [],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:3856f802-843e-4b5a-8959-49739f0c2be0",
-      "id": null
-     },
-     {
-      "name": "한국교육과정평가원",
-      "id": null
+      "name": "교육부",
+      "id": "3856f802-843e-4b5a-8959-49739f0c2be0"
      }
     ]
    },
@@ -316,7 +308,7 @@
    ],
    "summary": "사교육 문제풀이 훈련에 유리한 문항을 빼고 고교 교육과정만으로 변별력을 갖추도록 냈다고 평가원이 설명",
    "why": null,
-   "how": "김문희 평가원장과 오기영 출제위원장(한경국립대 교수)이 정부세종청사에서 브리핑. EBS 연계율은 50% 수준, 선택과목 유불리를 줄이고 영어는 1등급 비율이 안정되도록 난이도를 미세 조정했다고 밝힘",
+   "how": "김문희 평가원장과 오기영 출제위원장(한경국립대 교수)이 정부세종청사에서 브리핑. EBS 연계율은 문항 수 기준 50% 수준, 선택과목에 따른 유불리를 최소화하도록 냈다고 밝힘",
    "content": null,
    "places": [
     {
@@ -365,20 +357,20 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:f0b64e3f-ecba-43da-b09c-0f83faa67ec1",
-     "id": null
+     "name": "김명민",
+     "id": "f0b64e3f-ecba-43da-b09c-0f83faa67ec1"
     },
     {
-     "name": "id:cc2a2a65-7cbc-44ad-a0cc-2259cf892615",
-     "id": null
+     "name": "유재석",
+     "id": "cc2a2a65-7cbc-44ad-a0cc-2259cf892615"
     }
    ],
    "other_fields": {
     "prev_record": "1376a953-f3b6-4091-8b82-33ddbab8c5d6",
     "orgs": [
      {
-      "name": "id:e565fea1-b962-446d-b64b-8ad413e18b1f",
-      "id": null
+      "name": "tvN",
+      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f"
      }
     ]
    },
@@ -404,25 +396,16 @@
    "content": null,
    "places": [
     {
-     "name": "id:c8d2cb1c-5e86-424a-96e7-24f59e87e5c6",
-     "id": null
-    },
-    {
      "name": "Osaka",
-     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6",
-     "auto": true
+     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6"
     }
    ],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:fc99ac43-44a4-4360-8758-5ecbc0959d30",
-      "id": null
-     },
-     {
-      "name": "id:67eab608-a2dd-45bc-84c6-c0de157571cd",
-      "id": null
+      "name": "MAMA AWARDS",
+      "id": "fc99ac43-44a4-4360-8758-5ecbc0959d30"
      }
     ]
    },
@@ -444,32 +427,33 @@
    ],
    "summary": "강태구가 동료들의 10년을 빼앗았다는 죄책감에 개그 트리오 아수라 해체를 서둘렀다고 털어놓음",
    "why": null,
-   "how": "19일 4회 앞두고 한준서가 해체를 막으려는 모습 스틸 공개",
+   "how": "고은영이 버린 소품을 찾아 집 앞에 가져다 놓자 강태구가 「미안해서」라며 눈물. 4회는 19일 밤 10시 50분 방송",
    "content": null,
    "places": [],
    "featuring": [
     {
-     "name": "id:e79b41ab-717d-4377-8d53-4fd15f2e5bcc",
-     "id": null
+     "name": "강훈",
+     "id": "e79b41ab-717d-4377-8d53-4fd15f2e5bcc"
     },
     {
      "name": "이이담",
-     "id": null
+     "id": "708cf6de-4829-4615-9b4d-408b52966d29",
+     "auto": true
     },
     {
-     "name": "id:e554e121-c9f4-4bd7-8d71-19367aa6d182",
-     "id": null
+     "name": "조현철",
+     "id": "e554e121-c9f4-4bd7-8d71-19367aa6d182"
     },
     {
-     "name": "id:c17b206e-293b-4c6a-bc70-5ffc80fdc1fb",
-     "id": null
+     "name": "김정진",
+     "id": "c17b206e-293b-4c6a-bc70-5ffc80fdc1fb"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:e565fea1-b962-446d-b64b-8ad413e18b1f",
-      "id": null
+      "name": "tvN",
+      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f"
      }
     ]
    },
@@ -496,15 +480,15 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:df12ea88-820f-4aca-bad9-425a0874a6d4",
-     "id": null
+     "name": "채령",
+     "id": "df12ea88-820f-4aca-bad9-425a0874a6d4"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31",
-      "id": null
+      "name": "MBC",
+      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31"
      }
     ]
    },
@@ -535,19 +519,19 @@
      "id": null
     },
     {
-     "name": "id:169ce6fa-485e-4624-87b4-c8547d9ba2bc",
-     "id": null
+     "name": "최재명",
+     "id": "169ce6fa-485e-4624-87b4-c8547d9ba2bc"
     },
     {
-     "name": "id:5bd7abdd-57a3-41af-971c-8f31dc2b455e",
-     "id": null
+     "name": "추혁진",
+     "id": "5bd7abdd-57a3-41af-971c-8f31dc2b455e"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:7b24709a-0ff9-427f-8c99-eef6f914f412",
-      "id": null
+      "name": "TV CHOSUN",
+      "id": "7b24709a-0ff9-427f-8c99-eef6f914f412"
      }
     ]
    },
@@ -574,19 +558,19 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:ad800f1e-19ae-44bd-92cb-e188c3c787d4",
-     "id": null
+     "name": "이세돌",
+     "id": "ad800f1e-19ae-44bd-92cb-e188c3c787d4"
     },
     {
-     "name": "id:d193a16b-e234-4dd9-8690-02197928cac5",
-     "id": null
+     "name": "정재형",
+     "id": "d193a16b-e234-4dd9-8690-02197928cac5"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:2935a9ed-d83f-4d69-9598-2c17999ccb84",
-      "id": null
+      "name": "KBS",
+      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84"
      }
     ]
    },
@@ -613,8 +597,8 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:07fd8525-89d2-4b0c-8c74-7ef02a020cfd",
-     "id": null
+     "name": "장항준",
+     "id": "07fd8525-89d2-4b0c-8c74-7ef02a020cfd"
     },
     {
      "name": "이준혁",
@@ -628,8 +612,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02",
-      "id": null
+      "name": "SBS",
+      "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02"
      }
     ]
    },
@@ -656,27 +640,27 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:9ef7e36e-2d16-4e81-83f2-1f88164ed942",
-     "id": null
+     "name": "주지훈",
+     "id": "9ef7e36e-2d16-4e81-83f2-1f88164ed942"
     },
     {
-     "name": "id:6a78a2b5-ad01-49d5-b80b-f8c879d9b7cb",
-     "id": null
+     "name": "신민아",
+     "id": "6a78a2b5-ad01-49d5-b80b-f8c879d9b7cb"
     },
     {
-     "name": "id:ff9b4a69-154a-4ed3-96bc-b0775518dec5",
-     "id": null
+     "name": "이세영",
+     "id": "ff9b4a69-154a-4ed3-96bc-b0775518dec5"
     },
     {
-     "name": "id:0de747f5-64c0-4b87-8123-b8d5322cce84",
-     "id": null
+     "name": "이종석",
+     "id": "0de747f5-64c0-4b87-8123-b8d5322cce84"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:b84193c0-18fb-41f7-8572-b15060b4cf44",
-      "id": null
+      "name": "Disney+",
+      "id": "b84193c0-18fb-41f7-8572-b15060b4cf44"
      }
     ]
    },
@@ -696,32 +680,33 @@
      "name": "라이어"
     }
    ],
-   "summary": "20일 7회에서 경찰 이화영이 민준호를 쫓고, 강지선은 주변 사람들의 비밀을 알게 됨",
+   "summary": "20일 7회에서 경찰 이화영이 민준호의 뒤를 쫓으며 두 사람의 추격전이 펼쳐짐, 제작진은 19일 스틸을 공개",
    "why": null,
    "how": null,
    "content": null,
    "places": [],
    "featuring": [
     {
-     "name": "id:9e3af939-7d66-4f81-a843-b61fa9f31512",
-     "id": null
+     "name": "유연석",
+     "id": "9e3af939-7d66-4f81-a843-b61fa9f31512"
     },
     {
-     "name": "id:09e29001-101f-493e-8f28-9e3d0ee88d29",
-     "id": null
+     "name": "서현진",
+     "id": "09e29001-101f-493e-8f28-9e3d0ee88d29"
     },
     {
-     "name": "id:52330a2b-2923-4253-8df1-06661592c769",
-     "id": null
+     "name": "옥자연",
+     "id": "52330a2b-2923-4253-8df1-06661592c769"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31",
-      "id": null
+      "name": "MBC",
+      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · 스포츠동아 · https://sports.donga.com/ent/article/all/20261120/135060026/1"
    },
    "url": "https://sports.donga.com/ent/article/all/20261119/135051969/1",
    "source": "뉴스",
@@ -748,8 +733,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:018ff6ff-401f-4d4d-8076-d306f46b29e2",
-      "id": null
+      "name": "한국소비자원",
+      "id": "018ff6ff-401f-4d4d-8076-d306f46b29e2"
      }
     ]
    },
@@ -775,20 +760,20 @@
    "content": null,
    "places": [
     {
-     "name": "id:9abc9329-aa7c-4d65-9daf-468507b6ddb5",
-     "id": null
+     "name": "양구군",
+     "id": "9abc9329-aa7c-4d65-9daf-468507b6ddb5"
     },
     {
-     "name": "id:5c6e565c-7bd4-407d-8291-5b874419f5d8",
-     "id": null
+     "name": "울진군",
+     "id": "5c6e565c-7bd4-407d-8291-5b874419f5d8"
     }
    ],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:f8d379b2-0380-4a0c-a376-be4336dca932",
-      "id": null
+      "name": "기후에너지환경부",
+      "id": "f8d379b2-0380-4a0c-a376-be4336dca932"
      }
     ]
    },
@@ -808,7 +793,7 @@
      "name": "Korea"
     }
    ],
-   "summary": "EBS 현장교사단은 국어 · 영어는 작년보다 쉽고 수학은 비슷하다고 분석, 입시업계는 수학이 상위권을 가를 것으로 봄",
+   "summary": "EBS 현장교사단은 국어·영어는 작년 수능보다 쉽고 수학은 비슷하게 출제됐으나 변별력 확보엔 문제가 없을 것으로 분석",
    "why": null,
    "how": "영어는 작년 수능보다 쉽고 9월 모의평가보다 어려우며 신유형 없음. EBS 연계율은 영어 55.6% · 국어 53.3% · 수학 50%. 변별 문항으로 국어 독서 17번 · 문학 30번 등을 꼽음",
    "content": null,
@@ -822,10 +807,11 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:7e57e8ef-fe02-493c-8bc1-fc1006e3ebf2",
-      "id": null
+      "name": "한국교육방송공사",
+      "id": "7e57e8ef-fe02-493c-8bc1-fc1006e3ebf2"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · MBC · https://imnews.imbc.com/replay/2026/nwtoday/article/6867156_37012.html"
    },
    "url": "https://www.newsis.com/view/NISX20261119_0003875739",
    "source": "뉴스",
@@ -849,8 +835,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:38f05b99-2fd2-4ecd-b62e-b63175c8c33b",
-     "id": null
+     "name": "영암군",
+     "id": "38f05b99-2fd2-4ecd-b62e-b63175c8c33b"
     }
    ],
    "featuring": [],
@@ -866,9 +852,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
-     "category": "국가",
-     "name": "Korea"
+     "id": "b4be5090-8e96-4d9c-8ad8-677d0291165d",
+     "category": "단체",
+     "name": "IAEA"
     }
    ],
    "summary": "한국이 핵잠 관련 신고 의무를 이행했고 기술 협의에 만족한다며 비확산 공약 준수가 이어지길 기대",
@@ -880,12 +866,12 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:b4be5090-8e96-4d9c-8ad8-677d0291165d",
-      "id": null
+      "name": "IAEA",
+      "id": "b4be5090-8e96-4d9c-8ad8-677d0291165d"
      },
      {
-      "name": "id:de41e209-34fd-49c9-85c4-dcc697757ae5",
-      "id": null
+      "name": "외교부",
+      "id": "de41e209-34fd-49c9-85c4-dcc697757ae5"
      }
     ]
    },
@@ -923,9 +909,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "c3d0f96b-de56-4fab-8034-b2926dd6f2b9",
-     "category": "장소",
-     "name": "장안구"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "7월 법학적성시험에서 스마트 안경을 썼다 적발된 20대 여성이 변호인을 통해 혐의를 인정",
@@ -976,22 +962,22 @@
    "date": "2026-10-15",
    "parent": [
     {
-     "id": "79081771-0acd-4f5a-b7d4-82112ed3268e",
-     "category": "국가",
-     "name": "Indonesia"
+     "id": "82cb8ed4-1204-4497-997a-fe8c7773b31d",
+     "category": "단체",
+     "name": "MSCI"
     }
    ],
-   "summary": "성장률 5%대(3분기 5.47%)인데 환율·주가 동시 붕괴, MSCI가 프런티어도 건너뛴 두 단계 강등 의견 수렴에 들어감",
+   "summary": "MSCI 가 인도네시아 지수를 신흥시장에서 단독시장(Standalone)으로 낮추는 안에 대한 의견 수렴을 시작, 프런티어 강등으로는 문제의 깊이를 담지 못한다는 의견",
    "why": "지분 구조 불투명, 작전성 매매 의심, 개혁 발표 뒤에도 실제 단속이 없다는 투자자 지적",
-   "how": "의견은 2027-04-30까지 받고 2027년 6월 말까지 결정. 개선 증거 없으면 그대로 강등. 인니 종목 지수 변경 동결도 유지. 11-12 정기 검토에선 인니 종목 8개를 지수에서 빼고 1개를 소형주로 내림",
+   "how": "의견은 2027-04-30까지 받고 2027년 6월 30일까지 결정. 뚜렷한 개선 증거가 없으면 그대로 강등. 인니 종목 지수 변경 동결도 유지",
    "content": null,
    "places": [],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:82cb8ed4-1204-4497-997a-fe8c7773b31d",
-      "id": null
+      "name": "MSCI",
+      "id": "82cb8ed4-1204-4497-997a-fe8c7773b31d"
      }
     ]
    },
@@ -1018,19 +1004,19 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:c371b23d-8775-473a-8aee-1334db817779",
-     "id": null
+     "name": "이민호",
+     "id": "c371b23d-8775-473a-8aee-1334db817779"
     },
     {
-     "name": "id:a2eea868-4848-4e8e-8698-bc98767220e5",
-     "id": null
+     "name": "박규영",
+     "id": "a2eea868-4848-4e8e-8698-bc98767220e5"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02",
-      "id": null
+      "name": "SBS",
+      "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02"
      }
     ]
    },
@@ -1057,36 +1043,35 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:6eb59c7f-9839-4264-9852-65ae181f54af",
-     "id": null
+     "name": "윤도현",
+     "id": "6eb59c7f-9839-4264-9852-65ae181f54af"
     },
     {
-     "name": "id:dba44d50-2e85-41fe-b6d8-66e3cee165f1",
-     "id": null
+     "name": "이홍기",
+     "id": "dba44d50-2e85-41fe-b6d8-66e3cee165f1"
     },
     {
-     "name": "id:392c86cc-84ae-4003-bb08-3d32e5799309",
-     "id": null
+     "name": "적재",
+     "id": "392c86cc-84ae-4003-bb08-3d32e5799309"
     },
     {
-     "name": "id:a6108536-1351-413d-98fd-a697f2c0790d",
-     "id": null
+     "name": "김우성",
+     "id": "a6108536-1351-413d-98fd-a697f2c0790d"
     },
     {
-     "name": "id:c0516ddb-b26c-42b8-9525-99a0346a7262",
-     "id": null
+     "name": "강남",
+     "id": "c0516ddb-b26c-42b8-9525-99a0346a7262"
     },
     {
      "name": "강지영",
-     "id": "ba370ad7-cb4a-481e-9f40-191978a172f5",
-     "auto": true
+     "id": null
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02",
-      "id": null
+      "name": "SBS",
+      "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02"
      }
     ]
    },
@@ -1120,8 +1105,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:877de352-e596-47f0-9e11-c03161ba16bd",
-      "id": null
+      "name": "MSD",
+      "id": "877de352-e596-47f0-9e11-c03161ba16bd"
      }
     ]
    },
@@ -1147,8 +1132,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:431f60c3-df02-454d-92f3-027c76faf157",
-     "id": null
+     "name": "안양시",
+     "id": "431f60c3-df02-454d-92f3-027c76faf157"
     }
    ],
    "featuring": [],
@@ -1183,16 +1168,16 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:64195623-8a1e-4a74-ba02-5f9daaf27df2",
-     "id": null
+     "name": "테디",
+     "id": "64195623-8a1e-4a74-ba02-5f9daaf27df2"
     }
    ],
    "other_fields": {
     "prev_record": "0a2179a1-3f3c-4950-9188-1dc6d3c5b52d",
     "orgs": [
      {
-      "name": "id:a83697b5-b812-4d1f-a661-f4d4aa0194a4",
-      "id": null
+      "name": "더블랙레이블",
+      "id": "a83697b5-b812-4d1f-a661-f4d4aa0194a4"
      }
     ]
    },
@@ -1218,13 +1203,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:701995af-5ddd-4c45-ace1-65f35d106d58",
-     "id": null
-    },
-    {
      "name": "United States",
-     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
-     "auto": true
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
     }
    ],
    "featuring": [],
@@ -1252,12 +1232,7 @@
    "places": [],
    "featuring": [],
    "other_fields": {
-    "orgs": [
-     {
-      "name": "id:cc3a60f0-f108-4969-a903-21b2f1e43bc6",
-      "id": null
-     }
-    ]
+    "orgs": []
    },
    "url": "https://sports.donga.com/ent/article/all/20261119/135054549/1",
    "source": "뉴스",
@@ -1282,16 +1257,16 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:47d9e67f-0623-432a-8229-ab6156a2b29c",
-     "id": null
+     "name": "Tavia Yeung",
+     "id": "47d9e67f-0623-432a-8229-ab6156a2b29c"
     },
     {
-     "name": "id:2afa14da-df0a-4104-ad5f-155ddc7e291d",
-     "id": null
+     "name": "Kenneth Ma",
+     "id": "2afa14da-df0a-4104-ad5f-155ddc7e291d"
     },
     {
-     "name": "id:cd67c583-d4c3-49d9-853f-fb361b8c723d",
-     "id": null
+     "name": "Yvette Chan",
+     "id": "cd67c583-d4c3-49d9-853f-fb361b8c723d"
     }
    ],
    "other_fields": {},
@@ -1329,16 +1304,16 @@
       "id": null
      },
      {
-      "name": "id:73223290-920b-403e-be26-e5107d0b30b4",
-      "id": null
+      "name": "국민의힘",
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      },
      {
       "name": "부마민주항쟁기념사업회",
       "id": null
      },
      {
-      "name": "id:1c683f7e-5f00-436d-a2a5-4de4705cc059",
-      "id": null
+      "name": "진보당",
+      "id": "1c683f7e-5f00-436d-a2a5-4de4705cc059"
      }
     ]
    },
@@ -1387,8 +1362,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:edd93f1b-de4c-444a-a3aa-3df9dd550b08",
-     "id": null
+     "name": "무주읍",
+     "id": "edd93f1b-de4c-444a-a3aa-3df9dd550b08"
     }
    ],
    "featuring": [],
@@ -1423,19 +1398,19 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:b031c34e-00bf-4511-bafa-24b3d9c89870",
-     "id": null
+     "name": "장나라",
+     "id": "b031c34e-00bf-4511-bafa-24b3d9c89870"
     },
     {
-     "name": "id:26df98c9-6ac2-402f-9466-a1c67da9d152",
-     "id": null
+     "name": "지승현",
+     "id": "26df98c9-6ac2-402f-9466-a1c67da9d152"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:2935a9ed-d83f-4d69-9598-2c17999ccb84",
-      "id": null
+      "name": "KBS",
+      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84"
      }
     ]
    },
@@ -1461,8 +1436,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:be9cd81d-ced6-4424-868c-e3a1b1cd9192",
-     "id": null
+     "name": "경상남도",
+     "id": "be9cd81d-ced6-4424-868c-e3a1b1cd9192"
     }
    ],
    "featuring": [],
@@ -1503,8 +1478,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:75ca54fe-16ba-431e-8f28-7f3f14926abb",
-      "id": null
+      "name": "Billboard",
+      "id": "75ca54fe-16ba-431e-8f28-7f3f14926abb"
      }
     ]
    },
@@ -1531,8 +1506,8 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:3a3012ab-d3d4-44f2-8e6f-7bc9b8d972ac",
-     "id": null
+     "name": "서경석",
+     "id": "3a3012ab-d3d4-44f2-8e6f-7bc9b8d972ac"
     },
     {
      "name": "정준하",
@@ -1543,15 +1518,15 @@
      "id": null
     },
     {
-     "name": "id:d12e12b6-7974-47b2-9991-4b6c445b7362",
-     "id": null
+     "name": "솔라",
+     "id": "d12e12b6-7974-47b2-9991-4b6c445b7362"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:ba598f8d-91ad-4ca3-8d73-faa68f7fea1b",
-      "id": null
+      "name": "JTBC",
+      "id": "ba598f8d-91ad-4ca3-8d73-faa68f7fea1b"
      }
     ]
    },
@@ -1603,8 +1578,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "id": null
+      "name": "Netflix",
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -1630,8 +1605,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:1c3b244e-648a-4b9f-ac37-ee10f99710bf",
-     "id": null
+     "name": "진도읍",
+     "id": "1c3b244e-648a-4b9f-ac37-ee10f99710bf"
     }
    ],
    "featuring": [],
@@ -1659,8 +1634,8 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:fe9d596e-5068-4862-a184-7bec6db8c681",
-     "id": null
+     "name": "Helen To",
+     "id": "fe9d596e-5068-4862-a184-7bec6db8c681"
     }
    ],
    "other_fields": {},
@@ -1686,8 +1661,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:6e73b364-34e4-4ea3-9118-33b5596e9439",
-     "id": null
+     "name": "강서구",
+     "id": "6e73b364-34e4-4ea3-9118-33b5596e9439"
     }
    ],
    "featuring": [],
@@ -1698,8 +1673,8 @@
       "id": null
      },
      {
-      "name": "id:bf78e816-7c07-4957-9ecb-4b6b29cafdfa",
-      "id": null
+      "name": "대우건설",
+      "id": "bf78e816-7c07-4957-9ecb-4b6b29cafdfa"
      }
     ]
    },
@@ -1725,12 +1700,12 @@
    "content": null,
    "places": [
     {
-     "name": "id:64985b93-1f47-4d72-9361-ca37a2264f57",
-     "id": null
+     "name": "강릉시",
+     "id": "64985b93-1f47-4d72-9361-ca37a2264f57"
     },
     {
-     "name": "id:4ea645ed-5bae-44d9-8aeb-468b9f0a4589",
-     "id": null
+     "name": "춘천시",
+     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589"
     },
     {
      "name": "경포해변",
@@ -1745,8 +1720,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:b9f0b495-0d2d-4343-80a5-c00b61071800",
-      "id": null
+      "name": "문화체육관광부",
+      "id": "b9f0b495-0d2d-4343-80a5-c00b61071800"
      }
     ]
    },
@@ -1795,8 +1770,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:64985b93-1f47-4d72-9361-ca37a2264f57",
-     "id": null
+     "name": "강릉시",
+     "id": "64985b93-1f47-4d72-9361-ca37a2264f57"
     }
    ],
    "featuring": [
@@ -1806,20 +1781,19 @@
     },
     {
      "name": "이종석",
-     "id": "0de747f5-64c0-4b87-8123-b8d5322cce84",
-     "auto": true
+     "id": null
     }
    ],
    "other_fields": {
     "prev_record": "2ea781a2-c9e4-4d37-a7fe-f52fc9b8522f",
     "orgs": [
      {
-      "name": "id:73223290-920b-403e-be26-e5107d0b30b4",
-      "id": null
+      "name": "국민의힘",
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      },
      {
-      "name": "id:ad10c0cf-7884-490a-82b1-feb9d72682c2",
-      "id": null
+      "name": "더불어민주당",
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
      },
      {
       "name": "강원특별자치도의회",
@@ -1850,12 +1824,13 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:98d694f5-b72b-4c85-a417-14d1d5894565",
-     "id": null
+     "name": "안효섭 (Paul Ahn)",
+     "id": "98d694f5-b72b-4c85-a417-14d1d5894565"
     },
     {
      "name": "장영남",
-     "id": null
+     "id": "ef881f7e-37d8-49f9-b74f-6ae8cf58ff4a",
+     "auto": true
     },
     {
      "name": "차지연",
@@ -1865,8 +1840,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:ba598f8d-91ad-4ca3-8d73-faa68f7fea1b",
-      "id": null
+      "name": "JTBC",
+      "id": "ba598f8d-91ad-4ca3-8d73-faa68f7fea1b"
      }
     ]
    },
@@ -1893,16 +1868,16 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:dbc2b10a-2832-4806-bcd8-6235b08f9c51",
-     "id": null
+     "name": "김윤석",
+     "id": "dbc2b10a-2832-4806-bcd8-6235b08f9c51"
     },
     {
-     "name": "id:ec177075-2a4a-4bf9-8def-d15f280c3555",
-     "id": null
+     "name": "구교환",
+     "id": "ec177075-2a4a-4bf9-8def-d15f280c3555"
     },
     {
-     "name": "id:f3b908fb-2376-45b0-9b20-a1103f82e016",
-     "id": null
+     "name": "홍의정",
+     "id": "f3b908fb-2376-45b0-9b20-a1103f82e016"
     }
    ],
    "other_fields": {
@@ -1924,23 +1899,23 @@
      "name": "거제시"
     }
    ],
-   "summary": "인력난을 겪는 중소 조선소의 용접·도장 자동화와 AI·로봇 도입을 싸게 돕는 시설이 문을 엶",
-   "why": "조선업 활황에도 중소 조선소는 인력 구하기 어렵고 자동화 투자 여력이 없음",
-   "how": "경남도와 거제시가 장목면에서 준공식, 주변에 해양플랜트산업지원센터가 있음",
+   "summary": "중소형 조선소의 생산공정 자동화와 디지털 전환을 돕는 「중소형 조선소 생산기술혁신(DX) 센터」가 준공됨",
+   "why": "중소형 조선소의 인력 부족 해결·원가 절감·생산성 향상을 지원",
+   "how": "경남도와 거제시가 장목면에서 준공식. 산업부·경남도·거제시·중소조선연구원이 2023년부터 250억 원을 들여 연구동·실험동을 지음",
    "content": null,
    "places": [
     {
-     "name": "id:67224bee-0dd2-40b2-b8e5-5c2c5f17359b",
-     "id": null
+     "name": "경상남도",
+     "id": "be9cd81d-ced6-4424-868c-e3a1b1cd9192"
+    },
+    {
+     "name": "장목면",
+     "id": "67224bee-0dd2-40b2-b8e5-5c2c5f17359b"
     }
    ],
    "featuring": [],
    "other_fields": {
     "orgs": [
-     {
-      "name": "id:be9cd81d-ced6-4424-868c-e3a1b1cd9192",
-      "id": null
-     },
      {
       "name": "중소조선연구원",
       "id": null
@@ -1969,12 +1944,12 @@
    "content": null,
    "places": [
     {
-     "name": "id:f4312487-acc7-48df-a0af-4050d08911e3",
-     "id": null
+     "name": "용인시",
+     "id": "f4312487-acc7-48df-a0af-4050d08911e3"
     },
     {
-     "name": "id:b6c6844b-c377-48bb-9322-a4f29b7bbc80",
-     "id": null
+     "name": "수원시",
+     "id": "b6c6844b-c377-48bb-9322-a4f29b7bbc80"
     }
    ],
    "featuring": [],
@@ -2032,7 +2007,7 @@
    ],
    "summary": "경남도교육청 집계로 도내 부정행위는 17건으로 지난해 25건보다 8건 줄었고 AI 기기 활용은 없었음",
    "why": null,
-   "how": "1교시 결시율 8.77%",
+   "how": "반입·휴대 금지 물품 소지 11건이 가장 많았고 탐구영역 응시 규정 위반 4건, 종료령 뒤 답안 작성 2건",
    "content": null,
    "places": [],
    "featuring": [],
@@ -2173,8 +2148,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:3ef6d4da-f065-4708-ae43-b87e02bff4f5",
-      "id": null
+      "name": "국토교통부",
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
      }
     ]
    },
@@ -2203,12 +2178,45 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:0a2bd45b-4ca4-46ac-9f01-6db6c7b0ce55",
-      "id": null
+      "name": "경찰청",
+      "id": "0a2bd45b-4ca4-46ac-9f01-6db6c7b0ce55"
      }
     ]
    },
    "url": "https://www.ytn.co.kr/_ln/0103_202611191747231054",
+   "source": "뉴스",
+   "added_at": "2026-11-20T02:34:16.635973+00:00"
+  },
+  {
+   "id": "45af123b-7f90-4c17-9953-401e785b764f",
+   "title": "경찰 고위 간부 3명, 대통령 불법 도청 혐의 피의자로",
+   "type": "뉴스",
+   "date": "2026-11-03",
+   "parent": [
+    {
+     "id": "79081771-0acd-4f5a-b7d4-82112ed3268e",
+     "category": "국가",
+     "name": "Indonesia"
+    }
+   ],
+   "summary": "경찰 수사본부(Bareskrim)가 이니셜 LSP · ASN · EH 인 경찰 고위 간부 3명을 대통령 불법 도청 혐의 피의자로 지정",
+   "why": "프라보워 대통령 등 요인을 허가 없이 도청하고 전자 자료를 지운 혐의",
+   "how": "수사본부장 아셉 사프루딘은 이들이 2025년부터 대통령 · 장관 · 정치인 · 언론 전화를 불법 도청한 것으로 의심되며 2026년까지 이어졌다고 밝힘",
+   "content": null,
+   "places": [
+    {
+     "name": "DKI Jakarta",
+     "id": "f06e738e-58b8-4e47-92fe-153147f8e330"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "Prabowo Subianto",
+     "id": null
+    }
+   ],
+   "other_fields": {},
+   "url": "https://www.antaranews.com/berita/5831319/kasus-penyadapan-terhadap-presiden-masuk-abuse-of-power",
    "source": "뉴스",
    "added_at": "2026-11-20T02:34:16.635973+00:00"
   },
@@ -2230,8 +2238,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:f06e738e-58b8-4e47-92fe-153147f8e330",
-     "id": null
+     "name": "DKI Jakarta",
+     "id": "f06e738e-58b8-4e47-92fe-153147f8e330"
     }
    ],
    "featuring": [
@@ -2263,15 +2271,15 @@
    ],
    "summary": "순찰차 수송 · 에스코트 · 수험표 전달 등 수험생 편의를 121건 제공",
    "why": null,
-   "how": "전국 1312개 시험장 주변에 인력 4129명 · 장비 1615대를 배치해 큰 정체는 없었음. 대전에선 집에 둔 약을 가져와 수송, 인천경찰청은 112 신고 47건 중 수송 요청이 38건",
+   "how": "전국 1312개 시험장 주변에 인력 4129명 · 장비 1615대를 배치해 오전 중 큰 정체는 없었음. 대전에선 집에 둔 약을 가져와 수송, 경북 · 전북에서도 순찰차 수송",
    "content": null,
    "places": [],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:0a2bd45b-4ca4-46ac-9f01-6db6c7b0ce55",
-      "id": null
+      "name": "경찰청",
+      "id": "0a2bd45b-4ca4-46ac-9f01-6db6c7b0ce55"
      }
     ]
    },
@@ -2298,15 +2306,15 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:d6ea6631-e335-460a-ae26-c7700a599f13",
-     "id": null
+     "name": "Ayame Goriki",
+     "id": "d6ea6631-e335-460a-ae26-c7700a599f13"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:0863ae00-2112-4160-9a67-dd8af2d3cded",
-      "id": null
+      "name": "TV Tokyo",
+      "id": "0863ae00-2112-4160-9a67-dd8af2d3cded"
      }
     ]
    },
@@ -2321,9 +2329,9 @@
    "date": "2026-11-18",
    "parent": [
     {
-     "id": "68eecf17-743f-45d3-a79f-9e3554951343",
-     "category": "장소",
-     "name": "충주시"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "6·3 지방선거 허위사실 공표 혐의로 고발된 이동석 시장 사건을 경찰 불송치 뒤 공소청이 되돌려 보냄",
@@ -2351,7 +2359,8 @@
       "name": "충주경찰서",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718352"
    },
    "url": "https://www.yna.co.kr/view/AKR20261119068200064",
    "source": "뉴스",
@@ -2364,9 +2373,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "5ad902ef-4d5b-43e0-8715-bb10c1e52e9b",
-     "category": "단체",
-     "name": "투썸플레이스"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "본사가 시중보다 비싼 물품을 가맹점에 팔며 다른 곳 구매를 막았는지 가맹사업법 위반 여부 조사",
@@ -2383,12 +2392,12 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:d167f235-4b5e-4948-8434-dbdc25f353a9",
-      "id": null
+      "name": "공정거래위원회",
+      "id": "d167f235-4b5e-4948-8434-dbdc25f353a9"
      },
      {
-      "name": "id:ad10c0cf-7884-490a-82b1-feb9d72682c2",
-      "id": null
+      "name": "더불어민주당",
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
      }
     ]
    },
@@ -2408,9 +2417,9 @@
      "name": "광영동"
     }
    ],
-   "summary": "14일 낚시하러 나간 뒤 연락이 끊긴 50대 시민활동가가 18일 오후 광영동 보도교 근처에서 숨진 채 발견됨",
-   "why": "마지막으로 확인된 곳은 광영동 도촌포구 일대로, 사고 추정 지점에서 약 300m 떨어진 곳에서 발견됨",
-   "how": "여수해경이 경비함정과 구조대를 보내 수색한 끝에 시신을 수습. 고인은 광양참여연대 등 지역 시민단체에서 오래 활동했고, 광영동에서 지역 시민사회의 추모가 이어짐",
+   "summary": "14일 낚시하러 집을 나선 뒤 돌아오지 않은 광양 시민활동가 김상기 씨가 18일 오후 5시쯤 광영동 보도교 인근에서 숨진 채 발견됨",
+   "why": "",
+   "how": "해경이 경비함정과 구조대를 투입해 수색",
    "content": null,
    "places": [],
    "featuring": [],
@@ -2418,10 +2427,6 @@
     "orgs": [
      {
       "name": "여수해양경찰서",
-      "id": null
-     },
-     {
-      "name": "광양참여연대",
       "id": null
      }
     ]
@@ -2446,12 +2451,7 @@
    "why": "산업장관이 팹 배치를 이달 안에 마무리하겠다고 밝힌 뒤 두 회사가 250만 평 배분을 협의해 옴",
    "how": "교통이 좋은 북쪽을 SK하이닉스가 받은 것은 빠른 투자 의지 때문이라는 관측, 입주 협약 등 후속 절차가 빨라질 전망",
    "content": null,
-   "places": [
-    {
-     "name": "id:322e9157-ccf3-4912-9376-8bf9eb1ed624",
-     "id": null
-    }
-   ],
+   "places": [],
    "featuring": [
     {
      "name": "김정관",
@@ -2466,16 +2466,16 @@
     "prev_record": "c5ba3021-d5df-4215-917a-fa654e174af0",
     "orgs": [
      {
-      "name": "id:e0d7c013-beb1-427d-9073-1cb7535b24f6",
-      "id": null
+      "name": "삼성전자",
+      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6"
      },
      {
-      "name": "id:f38bbe00-4de8-42dc-871e-da97250df3a4",
-      "id": null
+      "name": "SK하이닉스",
+      "id": "f38bbe00-4de8-42dc-871e-da97250df3a4"
      },
      {
-      "name": "id:8370c3d8-9066-414e-a263-77190e0ffe09",
-      "id": null
+      "name": "산업통상부",
+      "id": "8370c3d8-9066-414e-a263-77190e0ffe09"
      }
     ]
    },
@@ -2499,12 +2499,7 @@
    "why": "11일 도의회 행정사무감사에서 교장 신분을 둔 채 파견으로 국장을 맡긴 건 법적 근거가 불명확하다는 지적",
    "how": "부교육감 직무대리는 최지윤 교육국장이 맡고 차기 정책국장 공모 절차를 밟을 예정",
    "content": null,
-   "places": [
-    {
-     "name": "id:c8706961-475a-4919-ad56-e516235e0c1a",
-     "id": null
-    }
-   ],
+   "places": [],
    "featuring": [
     {
      "name": "이영환",
@@ -2539,16 +2534,16 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:60b3f73a-1edd-4086-bab1-a4b52b8a6183",
-     "id": null
+     "name": "전현무",
+     "id": "60b3f73a-1edd-4086-bab1-a4b52b8a6183"
     },
     {
-     "name": "id:32a56b44-c303-4620-9e0f-e0eb9e9a3d63",
-     "id": null
+     "name": "이준",
+     "id": "32a56b44-c303-4620-9e0f-e0eb9e9a3d63"
     },
     {
-     "name": "id:0a3a620f-6be8-4b61-ab16-adde1eacc1b4",
-     "id": null
+     "name": "강미나",
+     "id": "0a3a620f-6be8-4b61-ab16-adde1eacc1b4"
     },
     {
      "name": "황재균",
@@ -2558,8 +2553,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:950a3028-8d2c-417a-bb80-22fc3f9b9600",
-      "id": null
+      "name": "MBN",
+      "id": "950a3028-8d2c-417a-bb80-22fc3f9b9600"
      }
     ]
    },
@@ -2580,34 +2575,34 @@
     }
    ],
    "summary": "새벽 2시 22분 아마쿠사·아시키타 지방 깊이 10km에서 지진, 구마무라·미나마타 등 5곳이 진도 5약",
-   "why": "기상청은 올해 7월 구마모토 지진의 이어진 활동으로 봄",
-   "how": "쓰나미 걱정은 없음. 1주일쯤 같은 규모 지진에 주의하라고 당부",
+   "why": "",
+   "how": "이 지진으로 인한 쓰나미 걱정은 없음, 기상청은 긴급지진속보를 발표",
    "content": null,
    "places": [
     {
-     "name": "id:59a09c0e-e0de-49be-8f79-72462bea8193",
-     "id": null
+     "name": "Kuma",
+     "id": "59a09c0e-e0de-49be-8f79-72462bea8193"
     },
     {
-     "name": "id:5a83895b-ba2e-4066-9794-fdd01d7d8f7c",
-     "id": null
+     "name": "Asagiri",
+     "id": "5a83895b-ba2e-4066-9794-fdd01d7d8f7c"
     },
     {
-     "name": "id:1b302e2a-b6ec-4f92-9372-76e6baa7bf11",
-     "id": null
+     "name": "Minamata",
+     "id": "1b302e2a-b6ec-4f92-9372-76e6baa7bf11"
     },
     {
-     "name": "id:f27785c5-8dca-48b9-b5fd-d131bc1d1577",
-     "id": null
+     "name": "Ashikita",
+     "id": "f27785c5-8dca-48b9-b5fd-d131bc1d1577"
     },
     {
-     "name": "id:d15d7d5d-2ae9-4b9c-8ad6-1b9c87dd5eac",
-     "id": null
+     "name": "Tsunagi",
+     "id": "d15d7d5d-2ae9-4b9c-8ad6-1b9c87dd5eac"
     }
    ],
    "featuring": [],
    "other_fields": {},
-   "url": "https://news.yahoo.co.jp/pickup/6603094",
+   "url": "https://news.yahoo.co.jp/articles/1d9e3bced02521b07302f292ca7b2c8f53f3709f",
    "source": "뉴스",
    "added_at": "2026-11-20T02:34:16.635973+00:00"
   },
@@ -2627,15 +2622,15 @@
    "why": null,
    "how": "경북도와 구미시는 지역 방산기업이 내구성 · 신뢰성 평가를 받을 수 있어 경쟁력이 오를 것이라고 설명",
    "content": null,
-   "places": [],
+   "places": [
+    {
+     "name": "경상북도",
+     "id": "22fe2cea-cdc5-4cbb-860f-5d652ddf2f46"
+    }
+   ],
    "featuring": [],
    "other_fields": {
-    "orgs": [
-     {
-      "name": "id:22fe2cea-cdc5-4cbb-860f-5d652ddf2f46",
-      "id": null
-     }
-    ]
+    "orgs": []
    },
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8717886&ref=DA",
    "source": "뉴스",
@@ -2654,7 +2649,7 @@
     }
    ],
    "summary": "고용노동부가 국가자격제도 점검 TF 첫 회의에서 부정행위자 응시제한을 10년으로 늘리고 형사처벌 근거를 두기로 함",
-   "why": "최근 세무사 시험 수석 합격자가 AI를 쓴 부정행위를 자백하면서 시험 관리에 대한 불신이 커짐",
+   "why": "최근 세무사 시험에서 AI를 활용한 부정행위가 확인됨",
    "how": "한국방송통신전파진흥원이 개발 중인 전파탐지기를 완성되는 대로 전 시험장에 두고, AI 인스펙터 확충·시험 전 무작위 전화로 휴대폰 꺼짐 확인·수석과 차석 점수 공개 의무화·CCTV와 제보센터 운영을 함께 추진",
    "content": null,
    "places": [],
@@ -2697,7 +2692,7 @@
      "name": "Korea"
     }
    ],
-   "summary": "정부 종합대책 TF 첫 회의에서 자격시험 감독을 수능처럼 바꾸고 이번 주말 경비지도사 시험부터 적용",
+   "summary": "정부 종합대책 TF 첫 회의에서 시험 직전 무작위 전화·전자기기 일괄 수거·임차 시험장 CCTV 확대 등 부정행위 방지책을 논의",
    "why": "세무사 시험 등에서 AI 부정행위가 드러남",
    "how": "응시생에게 무작위로 전화해 휴대전화 전원을 확인, 전자기기 일괄 수거 · 전파탐지기 도입 · 앞치마 지급, 임차 시험장 CCTV 확대. 수석 · 차석 점수 공개, 부정행위자 응시 제한 3년→10년",
    "content": null,
@@ -2713,8 +2708,8 @@
     "prev_auto": "함께 [] · 단어 ['국가자격시험', '부정행위', '시험', '자격시험']",
     "orgs": [
      {
-      "name": "id:5da9afa2-5ac4-478d-b9af-97e1f04a4604",
-      "id": null
+      "name": "고용노동부",
+      "id": "5da9afa2-5ac4-478d-b9af-97e1f04a4604"
      },
      {
       "name": "한국산업인력공단",
@@ -2738,7 +2733,7 @@
      "name": "전남광주통합특별시"
     }
    ],
-   "summary": "광주고법이 목포대 측의 추천 효력정지 항고를 기각해 통합시의 순천 쪽 추천이 유지됨",
+   "summary": "광주고법이 목포대 측의 국립의대 신설 후보대학 추천 집행정지 항고를 기각",
    "why": "목포대 측이 통합시의 국립의대 신설 후보대학 추천을 멈춰 달라고 신청함",
    "how": "재판부는 1심처럼 추천은 행정처분이 아니고 국립대인 신청인은 법률상 이익이 없다고 판단, 1심은 지난달 각하",
    "content": null,
@@ -2747,8 +2742,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:084a7bde-41b7-4838-bd10-4720547d0bc3",
-      "id": null
+      "name": "국립목포대학교",
+      "id": "084a7bde-41b7-4838-bd10-4720547d0bc3"
      },
      {
       "name": "광주고등법원",
@@ -2772,14 +2767,14 @@
      "name": "국립중앙박물관"
     }
    ],
-   "summary": "11월 18일까지 650만8,259명으로 지난해 연간 기록을 43일 앞서 넘김, 연말 700만 명 가까이 전망",
-   "why": "K컬처 관심과 전시·문화 행사가 관람객을 끈 것으로 박물관이 분석",
-   "how": "외국인 관람객은 40만5,768명으로 약 91% 늘어 비중 6.2%. 700만 명대면 지난해 바티칸박물관(693만 명)을 넘어설 수준",
+   "summary": "1월 1일부터 11월 18일까지 누적 관람객 650만8,259명으로 개관 이래 최다였던 작년(650만7,483명)을 넘음, 연말 700만 명 가까이 전망",
+   "why": "",
+   "how": "700만 명대면 아트 뉴스페이퍼 집계 기준 세계 2위 수준. 지난해는 루브르(904만6천명) · 바티칸(693만3,822명)에 이어 3위",
    "content": null,
    "places": [
     {
-     "name": "id:a4707cca-1300-4554-b621-58140e635c51",
-     "id": null
+     "name": "용산구",
+     "id": "a4707cca-1300-4554-b621-58140e635c51"
     }
    ],
    "featuring": [],
@@ -2795,27 +2790,27 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "08817f70-35f2-4eb8-b78a-797047cb2f7e",
-     "category": "장소",
-     "name": "서초구"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "강남권 재초환 1호 단지 반포현대에 대한 재건축 부담금을 올해 말까지 부과해야 한다고 국토부가 회신",
-   "why": "2024년 개정법으로 부과를 2029년까지 미룰 수 있다는 해석이 나와 서초구가 질의",
-   "how": "서초구는 179억원을 사전통지. 집주인들은 내년 6월까지 납부. 서울 46개 단지 예상 부담금 약 2조2천억원",
+   "why": "2024년 개정법 부칙 특례로 부과를 2029년 8월까지 할 수 있다는 해석과 연장이 아니라는 서초구 해석이 엇갈렸음",
+   "how": "서초구는 9일 반포현대 조합에 179억원(조합원당 평균 2억2천만원대) 예정액을 통지. 2021년 준공이라 12월 30일까지 부과해야 함",
    "content": null,
    "places": [
     {
-     "name": "id:26bac8d6-c460-487a-824d-e0abca9cd13d",
-     "id": null
+     "name": "반포동",
+     "id": "26bac8d6-c460-487a-824d-e0abca9cd13d"
     }
    ],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:3ef6d4da-f065-4708-ae43-b87e02bff4f5",
-      "id": null
+      "name": "국토교통부",
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
      }
     ]
    },
@@ -2830,19 +2825,19 @@
    "date": "2026-11-16",
    "parent": [
     {
-     "id": "08817f70-35f2-4eb8-b78a-797047cb2f7e",
-     "category": "장소",
-     "name": "서초구"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "부정청약 혐의로 송치된 이혜훈 전 의원 부부의 래미안원펜타스 소유권 이전 등기 금지와 계약 취소를 조합에 공문으로 요구",
    "why": "배우자가 2024년 청약 때 결혼한 장남을 부양가족에 넣어 최고 가점 74점으로 당첨된 혐의",
-   "how": "16일 재건축조합 청산위원회와 서초구청에 공문. 분양가 대비 40억원대 시세차익 예상",
+   "how": "16일 신반포15차 재건축조합 청산위원회에 공문. 분양가 36억7천840만원, 호가 84~86억원으로 40억원대 시세차익 예상",
    "content": null,
    "places": [
     {
-     "name": "id:26bac8d6-c460-487a-824d-e0abca9cd13d",
-     "id": null
+     "name": "반포동",
+     "id": "26bac8d6-c460-487a-824d-e0abca9cd13d"
     }
    ],
    "featuring": [
@@ -2855,8 +2850,8 @@
     "prev_record": "a75da0e7-6b4c-44f4-8a04-cb3bcb4de1b5",
     "orgs": [
      {
-      "name": "id:3ef6d4da-f065-4708-ae43-b87e02bff4f5",
-      "id": null
+      "name": "국토교통부",
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
      }
     ]
    },
@@ -2871,9 +2866,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2",
+     "id": "73223290-920b-403e-be26-e5107d0b30b4",
      "category": "단체",
-     "name": "더불어민주당"
+     "name": "국민의힘"
     }
    ],
    "summary": "BBQ 초청으로 FC바르셀로나-FC서울 경기를 공짜로 본 이강일 의원의 해명이 부족하다며 국민의힘이 논평을 냄",
@@ -2890,16 +2885,16 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:73223290-920b-403e-be26-e5107d0b30b4",
-      "id": null
+      "name": "국민의힘",
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      },
      {
       "name": "BBQ",
       "id": null
      },
      {
-      "name": "id:7e499946-aa2a-438d-8d3e-854662469ee5",
-      "id": null
+      "name": "FC 서울",
+      "id": "7e499946-aa2a-438d-8d3e-854662469ee5"
      },
      {
       "name": "FC Barcelona",
@@ -2930,21 +2925,16 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:30adb520-ef60-427c-b922-2cc25ac66083",
+     "name": "김현주",
      "id": null
     },
     {
-     "name": "id:0130cdcd-98d7-46c7-ab89-579f4feda727",
-     "id": null
+     "name": "배현성",
+     "id": "0130cdcd-98d7-46c7-ab89-579f4feda727"
     }
    ],
    "other_fields": {
-    "orgs": [
-     {
-      "name": "id:b29b586c-bcae-4518-b6ba-cc2df8d294bc",
-      "id": null
-     }
-    ]
+    "orgs": []
    },
    "url": "https://sports.donga.com/ent/article/all/20261119/135051640/1",
    "source": "뉴스",
@@ -2962,23 +2952,19 @@
      "name": "Indonesia"
     }
    ],
-   "summary": "국민협의회(MPR) 의장에게 「본인 요청으로 물러난다」는 서한을 냈고 프라보워 대통령이 받아들임",
-   "why": "고졸 학력 서류가 무효라는 대법원·헌재 판단 뒤 하원 전 정당이 탄핵 절차(HMP)에 나섬",
-   "how": "탄핵 본회의는 취소. MPR은 60일 안에 후임을 뽑아야 하고 대통령은 14일 안에 후보 2명을 내야 함",
+   "summary": "기브란 부통령이 「본인 요청으로 물러난다」는 서한을 MPR 에 냈고 무자니 MPR 의장이 서한 내용을 공개",
+   "why": "",
+   "how": "무자니 의장은 기브란이 특별한 사유를 밝히지 않았다며 부통령직이 비었다고 함. MPR 이 대통령에게 서한을 보내면 대통령은 14일 안에 부통령 후보를 내야 함",
    "content": null,
    "places": [
     {
-     "name": "id:f06e738e-58b8-4e47-92fe-153147f8e330",
-     "id": null
+     "name": "DKI Jakarta",
+     "id": "f06e738e-58b8-4e47-92fe-153147f8e330"
     }
    ],
    "featuring": [
     {
      "name": "Gibran Rakabuming Raka",
-     "id": null
-    },
-    {
-     "name": "Prabowo Subianto",
      "id": null
     },
     {
@@ -3013,15 +2999,14 @@
    "featuring": [
     {
      "name": "김민",
-     "id": "b3ec1cc7-426b-41e7-9890-b6c465300427",
-     "auto": true
+     "id": null
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:2935a9ed-d83f-4d69-9598-2c17999ccb84",
-      "id": null
+      "name": "KBS",
+      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84"
      }
     ]
    },
@@ -3084,23 +3069,23 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:6491e0dc-b548-42ea-9354-995a3d9e59f9",
-     "id": null
+     "name": "김신록",
+     "id": "6491e0dc-b548-42ea-9354-995a3d9e59f9"
     },
     {
-     "name": "id:c1cf95bd-b256-438f-bcc8-4ea27140aca0",
-     "id": null
+     "name": "공명",
+     "id": "c1cf95bd-b256-438f-bcc8-4ea27140aca0"
     },
     {
-     "name": "id:a72c038a-1021-4b40-8f40-c0e3ac8aaddc",
-     "id": null
+     "name": "한효주",
+     "id": "a72c038a-1021-4b40-8f40-c0e3ac8aaddc"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31",
-      "id": null
+      "name": "MBC",
+      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31"
      }
     ]
    },
@@ -3110,7 +3095,7 @@
   },
   {
    "id": "dd46254f-7283-4909-a3fa-61348c51139c",
-   "title": "김신영 수영 입문, TXT 연준 첫 자취집",
+   "title": "김신영 수영 입문",
    "type": "회차",
    "date": "2026-11-20",
    "parent": [
@@ -3120,30 +3105,22 @@
      "name": "나 혼자 산다"
     }
    ],
-   "summary": "20일 방송에서 수영 2주 차 김신영의 강습과 10년 숙소 생활을 끝낸 연준의 집을 공개",
+   "summary": "20일 방송에서 수영을 배운 지 2주 된 김신영의 좌충우돌 강습 현장을 공개",
    "why": null,
    "how": "김신영은 양희은의 추천으로 수영을 시작",
    "content": null,
    "places": [],
    "featuring": [
     {
-     "name": "id:0f43a418-6792-4d09-9c67-3f540addb82a",
-     "id": null
-    },
-    {
-     "name": "id:8e95f393-c109-48a4-a698-f5ec42c4abf9",
-     "id": null
-    },
-    {
-     "name": "id:f4a6dd21-cf57-409a-b2cb-c86f217dcbad",
-     "id": null
+     "name": "김신영",
+     "id": "0f43a418-6792-4d09-9c67-3f540addb82a"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31",
-      "id": null
+      "name": "MBC",
+      "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31"
      }
     ]
    },
@@ -3158,14 +3135,14 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
      "category": "국가",
-     "name": "Korea"
+     "name": "United States"
     }
    ],
    "summary": "트럼프 대통령이 미중러 회담 뒤 선전을 떠나며 거론되던 북미 정상 만남이 무산됨",
    "why": "북한은 핵보유국 인정과 대북 적대시 정책 철회를 대화 조건으로 내세워 왔음",
-   "how": "같은 날 북한 매체는 김정은이 17~18일 함경남도 리원군 · 락원군 양식장 · 온실농장과 함흥 김정숙해군대학을 현지지도했다고 보도. 지난해 경주 APEC 때에 이어 두 번째 불발. 청와대는 「여전히 미지의 영역」이라 함",
+   "how": "조선중앙통신은 김정은이 17~18일 함경남도 리원군 · 락원군 양식장 · 온실농장과 함흥 김정숙해군대학을 현지지도했다고 보도. 지난해 경주 APEC 때에 이어 2년 연속 불발",
    "content": null,
    "places": [
     {
@@ -3177,8 +3154,8 @@
      "id": null
     },
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     }
    ],
    "featuring": [
@@ -3198,7 +3175,8 @@
       "name": "조선중앙통신",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · YTN · https://www.ytn.co.kr/_ln/0101_202611201202083733"
    },
    "url": "https://www.yna.co.kr/view/AKR20261119177400504",
    "source": "뉴스",
@@ -3223,23 +3201,23 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:3bee9129-850a-47a1-9ae7-4acd11a97c7e",
-     "id": null
+     "name": "김종국",
+     "id": "3bee9129-850a-47a1-9ae7-4acd11a97c7e"
     },
     {
-     "name": "id:8d0a96a1-6687-4f83-a9b9-6a3a2e2b7c86",
-     "id": null
+     "name": "이서진",
+     "id": "8d0a96a1-6687-4f83-a9b9-6a3a2e2b7c86"
     },
     {
-     "name": "id:495cf1ef-5211-4e23-8b5a-13aaa2137844",
-     "id": null
+     "name": "김광규",
+     "id": "495cf1ef-5211-4e23-8b5a-13aaa2137844"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02",
-      "id": null
+      "name": "SBS",
+      "id": "c3e9d1a6-7f24-4b08-9a53-1b8e4c7d6f02"
      }
     ]
    },
@@ -3254,9 +3232,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "a8c2a936-b76a-446b-b326-6702ae267a09",
-     "category": "장소",
-     "name": "남양주시"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "영화감독을 폭행해 숨지게 한 30대 피고인 2명에게 법원이 중형과 실형을 각각 선고",
@@ -3271,7 +3249,8 @@
       "name": "의정부지방법원 남양주지원",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · SBS · https://news.sbs.co.kr/news/endPage.do?news_id=N1008854882"
    },
    "url": "https://www.yna.co.kr/view/AKR20261119061800060",
    "source": "뉴스",
@@ -3324,12 +3303,12 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:82266646-7078-4682-a361-748f101c1c16",
-     "id": null
+     "name": "박진영",
+     "id": "82266646-7078-4682-a361-748f101c1c16"
     },
     {
-     "name": "id:67a3548b-5195-478a-8671-e3163e21e532",
-     "id": null
+     "name": "진선규",
+     "id": "67a3548b-5195-478a-8671-e3163e21e532"
     }
    ],
    "other_fields": {},
@@ -3353,12 +3332,7 @@
    "why": "지난해 앙카라 국제 헬스테크 포럼 참가가 계기라고 남원시는 설명",
    "how": null,
    "content": null,
-   "places": [
-    {
-     "name": "Türkiye",
-     "id": null
-    }
-   ],
+   "places": [],
    "featuring": [
     {
      "name": "김종회",
@@ -3399,8 +3373,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:160088ca-7d5d-43d7-af82-d1c75b31bd1d",
-     "id": null
+     "name": "Broward County",
+     "id": "160088ca-7d5d-43d7-af82-d1c75b31bd1d"
     }
    ],
    "featuring": [],
@@ -3428,15 +3402,15 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:95021c57-0b0d-42ae-b151-3c38be92a153",
-     "id": null
+     "name": "Matt Wagner",
+     "id": "95021c57-0b0d-42ae-b151-3c38be92a153"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "id": null
+      "name": "Netflix",
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -3511,9 +3485,9 @@
    "date": "2026-11-18",
    "parent": [
     {
-     "id": "840299d9-0c99-4a5b-98f2-070927be2161",
+     "id": "c9c4a792-370e-4b03-9719-790e683205a3",
      "category": "단체",
-     "name": "Fox Corporation"
+     "name": "Newsmax"
     }
    ],
    "summary": "캘리포니아 연방법원에 낸 소송에서 220억 달러 인수가 무료 광고형 스트리밍(FAST) 경쟁을 해친다고 주장",
@@ -3526,12 +3500,12 @@
     "prev_record": "690a6740-3d02-41b0-a9a0-7a74178e88cf",
     "orgs": [
      {
-      "name": "id:c9c4a792-370e-4b03-9719-790e683205a3",
-      "id": null
+      "name": "Newsmax",
+      "id": "c9c4a792-370e-4b03-9719-790e683205a3"
      },
      {
-      "name": "id:0a1337a7-6490-4c08-b2ba-b4595343de14",
-      "id": null
+      "name": "Roku",
+      "id": "0a1337a7-6490-4c08-b2ba-b4595343de14"
      }
     ]
    },
@@ -3541,7 +3515,7 @@
   },
   {
    "id": "a9497898-f8f2-49c2-91cd-8fcfe60da76e",
-   "title": "다카이치 총리, 푸틴과 30분 대화 · 시진핑과 이틀 연속 악수",
+   "title": "다카이치 총리, 푸틴과 30분 비공식 대화",
    "type": "뉴스",
    "date": "2026-11-18",
    "parent": [
@@ -3551,14 +3525,14 @@
      "name": "Japan"
     }
    ],
-   "summary": "APEC 환영 만찬 뒤 푸틴 대통령과 비공식으로 30분 대화하고 러시아에 구금된 일본인 기자 문제를 꺼냄",
+   "summary": "교도통신에 따르면 다카이치 총리가 18일 푸틴 대통령과 약 30분 대화하며 러시아에 구금된 일본인 기자 문제와 관련해 일본 입장을 전함",
    "why": "크렘린궁은 정식 회담 계획이 없다고 밝혔음. 일본은 대러 제재 · 쿠릴열도 문제로 러시아와 갈등 중",
-   "how": "시 주석과 18 · 19일 이틀 악수해 일본 언론이 「최악은 면했다」고 평가. 미중러 회담 뒤 트럼프 대통령과 전화 협의 예정",
+   "how": "크렘린궁은 정식 회담 계획은 없다고 밝힘. 양국은 대러 제재 · 8월 푸틴의 쿠릴열도 방문 · 기자 구금으로 갈등 중",
    "content": null,
    "places": [
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     }
    ],
    "featuring": [
@@ -3568,10 +3542,6 @@
     },
     {
      "name": "블라디미르 푸틴",
-     "id": null
-    },
-    {
-     "name": "시진핑",
      "id": null
     }
    ],
@@ -3598,16 +3568,16 @@
    "content": null,
    "places": [
     {
-     "name": "id:22fe2cea-cdc5-4cbb-860f-5d652ddf2f46",
-     "id": null
+     "name": "경상북도",
+     "id": "22fe2cea-cdc5-4cbb-860f-5d652ddf2f46"
     }
    ],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:a54373ce-e4bc-48b4-8059-3023d6e74f99",
-      "id": null
+      "name": "한국은행",
+      "id": "a54373ce-e4bc-48b4-8059-3023d6e74f99"
      }
     ]
    },
@@ -3629,16 +3599,12 @@
    ],
    "summary": "한덕수 상고심에서 12·3 비상계엄을 헌법 질서를 어기고 기본권을 침해한 위헌·위법이자 내란으로 처음 판단",
    "why": "계엄 716일 만에 나온 내란 관련 첫 대법원 판단",
-   "how": "국가비상사태도 행정·사법 기능 마비 상황도 아니었다고 판단. 군·경으로 국회 권능을 정지하려 한 친위 쿠데타 성격의 내란이라고 밝힘",
+   "how": "국가비상사태도, 행정·사법 기능 수행이 현저히 곤란한 상황도 아니었다고 판단. 윤 전 대통령이 국무회의 심의도 실질적으로 거치지 않고 군·경으로 국회·언론사 장악을 꾀했다고 지적",
    "content": null,
    "places": [],
    "featuring": [
     {
      "name": "윤석열",
-     "id": null
-    },
-    {
-     "name": "조희대",
      "id": null
     },
     {
@@ -3649,8 +3615,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "id": null
+      "name": "대법원",
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      }
     ]
    },
@@ -3676,16 +3642,16 @@
    "content": null,
    "places": [
     {
-     "name": "id:64985b93-1f47-4d72-9361-ca37a2264f57",
-     "id": null
+     "name": "강릉시",
+     "id": "64985b93-1f47-4d72-9361-ca37a2264f57"
     }
    ],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "id": null
+      "name": "대법원",
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      },
      {
       "name": "춘천지방법원 강릉지원",
@@ -3709,16 +3675,11 @@
      "name": "Korea"
     }
    ],
-   "summary": "도이치모터스 주가조작·통일교 금품 알선수재 유죄를 인정한 원심을 대법원 전원합의체가 그대로 확정",
-   "why": "특검이 도이치모터스 주가조작·명태균 여론조사·통일교 금품수수 의혹으로 지난해 9월 구속 기소",
-   "how": "징역 4년·벌금 5천만원 확정. 명태균 무상 여론조사 정치자금법 위반은 무죄 확정(오경미·김성수 대법관 반대). 특검은 판단 존중, 변호인은 유감이나 재판소원은 안 한다고 밝힘",
+   "summary": "대법원 전원합의체가 「3대 의혹」으로 기소된 김건희 여사에게 징역 4년·벌금 5천만 원을 선고한 원심을 확정",
+   "why": "특검이 2025년 8월 29일 도이치모터스 주가조작·명태균 공천개입·통일교 청탁 의혹으로 구속 기소",
+   "how": "주심 박영재 대법관. 1심 징역 1년 8개월, 2심 징역 4년",
    "content": null,
-   "places": [
-    {
-     "name": "id:81278e15-b0b1-4a90-9428-749d7e823d07",
-     "id": null
-    }
-   ],
+   "places": [],
    "featuring": [
     {
      "name": "김건희",
@@ -3735,25 +3696,17 @@
     {
      "name": "박영재",
      "id": null
-    },
-    {
-     "name": "오경미",
-     "id": null
-    },
-    {
-     "name": "김성수",
-     "id": "4c10fbe5-4c92-4ff8-9584-4f34a5155279",
-     "auto": true
     }
    ],
    "other_fields": {
     "prev_record": "bad60e7c-7b83-4cb5-85e3-a893ad8b1a9a",
     "orgs": [
      {
-      "name": "id:fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "id": null
+      "name": "대법원",
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · KBS · https://news.kbs.co.kr/news/view.do?ncd=8718166&ref=DA"
    },
    "url": "https://www.yna.co.kr/view/AKR20261119138800004",
    "source": "뉴스",
@@ -3780,8 +3733,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "id": null
+      "name": "대법원",
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      }
     ]
    },
@@ -3821,27 +3774,23 @@
      "id": null
     },
     {
-     "name": "권영준",
-     "id": null
-    },
-    {
      "name": "윤석열",
      "id": null
     },
     {
      "name": "이상민",
-     "id": "e48f5049-3f46-4464-86f5-f2fab58407d3",
-     "auto": true
+     "id": null
     }
    ],
    "other_fields": {
     "prev_record": "bad60e7c-7b83-4cb5-85e3-a893ad8b1a9a",
     "orgs": [
      {
-      "name": "id:fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "id": null
+      "name": "대법원",
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · SBS · https://news.sbs.co.kr/news/endPage.do?news_id=N1008854864&plink=ORI&cooper=ETC"
    },
    "url": "https://www.yna.co.kr/view/AKR20261119151952004",
    "source": "뉴스",
@@ -3865,8 +3814,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:222776d7-142f-4b7d-9afc-607af0607393",
-     "id": null
+     "name": "대전 도시철도 2호선",
+     "id": "222776d7-142f-4b7d-9afc-607af0607393"
     },
     {
      "name": "유등교",
@@ -3897,8 +3846,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:222776d7-142f-4b7d-9afc-607af0607393",
-     "id": null
+     "name": "대전 도시철도 2호선",
+     "id": "222776d7-142f-4b7d-9afc-607af0607393"
     }
    ],
    "featuring": [
@@ -3941,8 +3890,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:a9104760-48c9-4f9a-9603-549ae72c8fca",
-     "id": null
+     "name": "홍성군",
+     "id": "a9104760-48c9-4f9a-9603-549ae72c8fca"
     }
    ],
    "featuring": [],
@@ -3989,9 +3938,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "128cb9fc-75dd-4f2f-941b-f0357e5c88d6",
-     "category": "장소",
-     "name": "대전광역시"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "대전조차장에 이어 경부선 대전역 0.4km 구간이 새로 들어가 대전 사업 구간이 두 곳으로 늘어남",
@@ -4012,10 +3961,11 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:3ef6d4da-f065-4708-ae43-b87e02bff4f5",
-      "id": null
+      "name": "국토교통부",
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718434"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717863",
    "source": "뉴스",
@@ -4085,21 +4035,16 @@
    "content": null,
    "places": [
     {
-     "name": "id:c8d2cb1c-5e86-424a-96e7-24f59e87e5c6",
-     "id": null
-    },
-    {
      "name": "Osaka",
-     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6",
-     "auto": true
+     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6"
     }
    ],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:fc99ac43-44a4-4360-8758-5ecbc0959d30",
-      "id": null
+      "name": "MAMA AWARDS",
+      "id": "fc99ac43-44a4-4360-8758-5ecbc0959d30"
      }
     ]
    },
@@ -4137,9 +4082,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "7250e6ab-33cc-4cbc-9dbe-7a3d960305d3",
-     "category": "장소",
-     "name": "제주특별자치도"
+     "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2",
+     "category": "단체",
+     "name": "더불어민주당"
     }
    ],
    "summary": "4·3 역사왜곡 처벌을 담은 개정안이 국민의힘 반대로 소위에 오르지 못하자 사과와 동참을 촉구",
@@ -4152,12 +4097,12 @@
     "prev_record": "0c8008cd-af29-461f-8dcc-3626c257526c",
     "orgs": [
      {
-      "name": "id:ad10c0cf-7884-490a-82b1-feb9d72682c2",
-      "id": null
+      "name": "더불어민주당",
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
      },
      {
-      "name": "id:73223290-920b-403e-be26-e5107d0b30b4",
-      "id": null
+      "name": "국민의힘",
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      }
     ]
    },
@@ -4203,9 +4148,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "23141fd0-9aed-4a76-ac3a-3f9f2c146890",
-     "category": "장소",
-     "name": "부천시"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "중환자실에 있던 20대 교사가 사직서를 낸 것처럼 꾸민 원장에게 징역 4개월·집유 1년",
@@ -4237,9 +4182,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
-     "category": "국가",
-     "name": "Korea"
+     "id": "44215e3d-3c20-4168-929c-552fe86092d8",
+     "category": "장소",
+     "name": "대구광역시"
     }
    ],
    "summary": "텔레그램으로 의뢰받아 전국 90여 명의 집·가게에 오물을 뿌리고 욕설을 쓴 조직 총책 등 8명 구속 송치",
@@ -4248,12 +4193,12 @@
    "content": null,
    "places": [
     {
-     "name": "id:aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
-     "id": null
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     },
     {
-     "name": "id:44215e3d-3c20-4168-929c-552fe86092d8",
-     "id": null
+     "name": "대구광역시",
+     "id": "44215e3d-3c20-4168-929c-552fe86092d8"
     }
    ],
    "featuring": [],
@@ -4263,7 +4208,8 @@
       "name": "대구경찰청",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718118"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717312",
    "source": "뉴스",
@@ -4310,8 +4256,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:2d926c32-fba1-4e7d-943e-5b5439f8e04f",
-     "id": null
+     "name": "Hackney",
+     "id": "2d926c32-fba1-4e7d-943e-5b5439f8e04f"
     }
    ],
    "featuring": [
@@ -4332,9 +4278,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "id": "fcf45173-26eb-468e-a18b-3c98124376a5",
      "category": "국가",
-     "name": "Korea"
+     "name": "Russia"
     }
    ],
    "summary": "17일에 이어 19일에도 러시아 군용기 여러 대가 동해 KADIZ에 들어왔다 나감, 영공 침범은 없었음",
@@ -4379,8 +4325,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:2d926c32-fba1-4e7d-943e-5b5439f8e04f",
-     "id": null
+     "name": "Hackney",
+     "id": "2d926c32-fba1-4e7d-943e-5b5439f8e04f"
     }
    ],
    "featuring": [
@@ -4408,12 +4354,12 @@
    ],
    "summary": "하노이 법원 재판에서 검찰이 므엉탄 그룹 회장에게 징역 30~36개월에 집행유예를 구형",
    "why": "하동 지역 아파트를 계획과 다르게 지어 소유권 증서를 받을 수 없는 519가구를 팔아 5,310억 동 넘게 부당 이득을 본 혐의",
-   "how": "함께 기소된 옛 낀흥동 간부 5명에게는 징역 24~30개월 집행유예 구형",
+   "how": "함께 기소된 옛 낀흥동 · 하동구 건설감찰 간부 5명 가운데 4명은 24~30개월, 1명은 18~24개월 집행유예 구형",
    "content": null,
    "places": [
     {
-     "name": "id:2be8a2c1-8d56-4ea9-a865-591ca5040d2d",
-     "id": null
+     "name": "Thanh pho Ha Noi",
+     "id": "2be8a2c1-8d56-4ea9-a865-591ca5040d2d"
     }
    ],
    "featuring": [
@@ -4431,7 +4377,7 @@
    "id": "dbb0212f-ff76-4fca-99f7-46f65be34b52",
    "title": "루피아, 달러당 18,259로 사상 최저",
    "type": "뉴스",
-   "date": "2026-11-13",
+   "date": "2026-11-12",
    "parent": [
     {
      "id": "79081771-0acd-4f5a-b7d4-82112ed3268e",
@@ -4440,18 +4386,13 @@
     }
    ],
    "summary": "루피아가 하루 동안 달러당 18,259까지 밀려 역대 가장 낮은 값을 기록",
-   "why": "미국 12월 금리 인상 기대로 달러 강세, MSCI 강등 우려와 부통령 사임 등 국내 정치 혼란",
-   "how": "10월 중순 심리선 18,000을 내준 뒤 계속 밀려 11-17엔 18,284까지 떨어짐. 수입업계는 19,000을 넘으면 도산이 잇따를 수 있다고 경고",
+   "why": "",
+   "how": "",
    "content": null,
    "places": [],
    "featuring": [],
    "other_fields": {
-    "orgs": [
-     {
-      "name": "Bank Indonesia",
-      "id": null
-     }
-    ]
+    "orgs": []
    },
    "url": "https://enamplus.liputan6.com/tv/read/8334980/rupiah-melemah-hingga-rp18259-per-dolar-as-terendah-sepanjang-sejarah",
    "source": "뉴스",
@@ -4476,20 +4417,20 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:bf310ea4-bda3-49cf-9efd-68eba853dfd9",
-     "id": null
-    },
-    {
-     "name": "id:0b37e3c6-04a5-4576-a989-208904e24411",
-     "id": null
+     "name": "Leigh Francis",
+     "id": "bf310ea4-bda3-49cf-9efd-68eba853dfd9"
     }
    ],
    "other_fields": {
     "prev_record": "5f047f90-aeab-4b6a-9ed5-e3f6fb614ab6",
     "orgs": [
      {
-      "name": "id:733bb341-81d0-4ea9-88a8-88f8d52cb014",
-      "id": null
+      "name": "Ant & Dec",
+      "id": "0b37e3c6-04a5-4576-a989-208904e24411"
+     },
+     {
+      "name": "ITV",
+      "id": "733bb341-81d0-4ea9-88a8-88f8d52cb014"
      }
     ]
    },
@@ -4516,60 +4457,23 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:2fad1ff9-d155-4db2-9b1d-af6dd061171e",
-     "id": null
+     "name": "미나미",
+     "id": "2fad1ff9-d155-4db2-9b1d-af6dd061171e"
     },
     {
-     "name": "id:24fd11b0-5180-470f-816a-f56bddacc5ce",
-     "id": null
+     "name": "리센느 RESCENE",
+     "id": "24fd11b0-5180-470f-816a-f56bddacc5ce"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:b84193c0-18fb-41f7-8572-b15060b4cf44",
-      "id": null
+      "name": "Disney+",
+      "id": "b84193c0-18fb-41f7-8572-b15060b4cf44"
      }
     ]
    },
    "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866792_37012.html",
-   "source": "뉴스",
-   "added_at": "2026-11-20T02:34:16.635973+00:00"
-  },
-  {
-   "id": "45af123b-7f90-4c17-9953-401e785b764f",
-   "title": "리스티오 대통령 비서실장(전 경찰청장), 대통령 도청 혐의 피의자로",
-   "type": "뉴스",
-   "date": "2026-11-03",
-   "parent": [
-    {
-     "id": "79081771-0acd-4f5a-b7d4-82112ed3268e",
-     "category": "국가",
-     "name": "Indonesia"
-    }
-   ],
-   "summary": "경찰 수사본부가 전 경찰청장인 리스티오 대통령실장 등 경찰 장성 3명을 대통령 불법 도청 혐의 피의자로 지정",
-   "why": "프라보워 대통령 등 요인을 허가 없이 도청하고 전자 자료를 지운 혐의",
-   "how": "11-05 대통령실장에서 해임, 피의자는 장성 4명으로 늘었고 2명은 파면. 경찰은 내란(마카르) 혐의 수사로 넓힘",
-   "content": null,
-   "places": [
-    {
-     "name": "id:f06e738e-58b8-4e47-92fe-153147f8e330",
-     "id": null
-    }
-   ],
-   "featuring": [
-    {
-     "name": "Listyo Sigit Prabowo",
-     "id": null
-    },
-    {
-     "name": "Prabowo Subianto",
-     "id": null
-    }
-   ],
-   "other_fields": {},
-   "url": "https://www.antaranews.com/berita/5831319/kasus-penyadapan-terhadap-presiden-masuk-abuse-of-power",
    "source": "뉴스",
    "added_at": "2026-11-20T02:34:16.635973+00:00"
   },
@@ -4580,23 +4484,23 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
-     "category": "국가",
-     "name": "Korea"
+     "id": "1fdf9d50-5c8a-47d0-9115-399126dd3e80",
+     "category": "장소",
+     "name": "강동구"
     }
    ],
    "summary": "공개검증 불참 몇 시간 뒤 강동구 천호동 숙박업소에서 숨진 채 발견, 현장 메모엔 부정 의혹 언급 없음",
    "why": null,
-   "how": "피의자 사망으로 고발 사건은 공소권 없음 종결이 전망되나 경찰은 실체 확인을 위해 수사를 이어간다는 입장. 고발 변호인은 정부 차원 진상조사 요구를 검토",
+   "how": "피의자 사망으로 고발 사건은 공소권 없음 종결 전망, 교육부 등 정부 차원 진상조사 가능성. 경찰은 관악 · 광진 · 송파 · 강동 CCTV 로 행적을 추적했음",
    "content": null,
    "places": [
     {
-     "name": "id:a4142cfd-5208-431f-8be3-057fcb275827",
-     "id": null
+     "name": "천호동",
+     "id": "a4142cfd-5208-431f-8be3-057fcb275827"
     },
     {
-     "name": "id:1fdf9d50-5c8a-47d0-9115-399126dd3e80",
-     "id": null
+     "name": "강동구",
+     "id": "1fdf9d50-5c8a-47d0-9115-399126dd3e80"
     }
    ],
    "featuring": [],
@@ -4635,8 +4539,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:2935a9ed-d83f-4d69-9598-2c17999ccb84",
-      "id": null
+      "name": "KBS",
+      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84"
      }
     ]
    },
@@ -4657,25 +4561,13 @@
     }
    ],
    "summary": "수능 국어 생중계 검증 약속 시간에 나타나지 않고 휴대전화가 꺼져 신변 우려 신고, 경찰이 수색",
-   "why": "AI 부정행위 의혹을 풀겠다며 공개 풀이를 예고했으나 전날 변호사들의 고발로 경찰 수사 대상이 됨",
-   "how": "경찰·소방이 관악구 자택을 찾았으나 없었고 광진·송파·강동구로 행적을 추적. 경찰은 2026학년도 수능 답안지 증거보전을 요청해 교육청이 보관 학교에 폐기 금지 안내",
+   "why": "AI 부정행위 의혹을 공개 검증으로 풀겠다고 했으나 나타나지 않음, 학원 측은 휴대전화가 전날부터 꺼져 있다고 함",
+   "how": "경찰 · 소방이 관악구 신림동 자택을 찾았으나 없었음. 고발 사건은 서울경찰청 광역수사단 금융범죄수사팀에 배당",
    "content": null,
    "places": [
     {
-     "name": "id:d99e571b-5a78-4c49-9e99-dcf1dd41db2e",
-     "id": null
-    },
-    {
-     "name": "id:66ab5483-055a-4100-8a14-42200226a61e",
-     "id": null
-    },
-    {
-     "name": "id:f22c280f-8e1b-4fc0-b277-e4b1b023f7f3",
-     "id": null
-    },
-    {
-     "name": "id:88a3f6f3-65d4-4ca4-8264-385bca0031d7",
-     "id": null
+     "name": "관악구",
+     "id": "66ab5483-055a-4100-8a14-42200226a61e"
     }
    ],
    "featuring": [],
@@ -4684,10 +4576,6 @@
     "orgs": [
      {
       "name": "서울경찰청",
-      "id": null
-     },
-     {
-      "name": "서울특별시교육청",
       "id": null
      }
     ]
@@ -4703,9 +4591,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "8da16a17-41be-4ccf-86da-2ab2599ada81",
-     "category": "장소",
-     "name": "마산합포구"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "창원지법이 4차 공모 참여업체 측의 사업신청 무효처분 취소 청구를 기각",
@@ -4714,6 +4602,10 @@
    "content": null,
    "places": [
     {
+     "name": "창원시",
+     "id": "6cc78e43-34d6-4ab3-82db-e09508c43ec1"
+    },
+    {
      "name": "마산해양신도시",
      "id": null
     }
@@ -4721,10 +4613,6 @@
    "featuring": [],
    "other_fields": {
     "orgs": [
-     {
-      "name": "id:6cc78e43-34d6-4ab3-82db-e09508c43ec1",
-      "id": null
-     },
      {
       "name": "창원지방법원",
       "id": null
@@ -4753,8 +4641,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:66ec212e-9704-42df-adf2-94a48e0fe51a",
-     "id": null
+     "name": "Merthyr Tydfil",
+     "id": "66ec212e-9704-42df-adf2-94a48e0fe51a"
     }
    ],
    "featuring": [],
@@ -4770,9 +4658,9 @@
    "date": "2026-11-18",
    "parent": [
     {
-     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
-     "category": "국가",
-     "name": "United States"
+     "id": "cb501f5f-169b-4a28-92f5-c8fa2d68c7a9",
+     "category": "인물",
+     "name": "Elon Musk"
     }
    ],
    "summary": "NYT 딜북 서밋에서 공화당을 돕느라 큰돈을 쓰고도 성과가 없었다며 돈을 덜 썼을 것이라고 말함",
@@ -4782,27 +4670,27 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:cb501f5f-169b-4a28-92f5-c8fa2d68c7a9",
-     "id": null
+     "name": "Elon Musk",
+     "id": "cb501f5f-169b-4a28-92f5-c8fa2d68c7a9"
     },
     {
-     "name": "id:8505e922-0921-452c-8ce2-25c88f761d81",
-     "id": null
+     "name": "Jensen Huang",
+     "id": "8505e922-0921-452c-8ce2-25c88f761d81"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:fe563a06-5b52-4369-a6ba-8e7488b5cbd2",
-      "id": null
+      "name": "Tesla",
+      "id": "fe563a06-5b52-4369-a6ba-8e7488b5cbd2"
      },
      {
-      "name": "id:e1eb70f3-6091-4e3b-bac9-46066ed84fed",
-      "id": null
+      "name": "SpaceX",
+      "id": "e1eb70f3-6091-4e3b-bac9-46066ed84fed"
      },
      {
-      "name": "id:191d4d6f-11f2-43e8-a504-083503708df1",
-      "id": null
+      "name": "Republican Party",
+      "id": "191d4d6f-11f2-43e8-a504-083503708df1"
      }
     ]
    },
@@ -4828,34 +4716,33 @@
    "content": null,
    "places": [
     {
-     "name": "id:c8d2cb1c-5e86-424a-96e7-24f59e87e5c6",
-     "id": null
+     "name": "Osaka",
+     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6"
     }
    ],
    "featuring": [
     {
      "name": "윤아",
-     "id": "3d9d63f4-a116-4d18-9fca-d87daae9bfcc",
-     "auto": true
-    },
-    {
-     "name": "id:efa958ae-8edf-4106-8c51-e6d71ff05a88",
      "id": null
     },
     {
-     "name": "id:ea67b558-fb5e-4e62-beff-722eddbf17ae",
-     "id": null
+     "name": "민주",
+     "id": "efa958ae-8edf-4106-8c51-e6d71ff05a88"
     },
     {
-     "name": "id:7371bc4a-870a-4800-bac0-6b1b9b665b62",
-     "id": null
+     "name": "원희",
+     "id": "ea67b558-fb5e-4e62-beff-722eddbf17ae"
+    },
+    {
+     "name": "이로하",
+     "id": "7371bc4a-870a-4800-bac0-6b1b9b665b62"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:8c39d89c-5297-47ea-96d7-073157b36270",
-      "id": null
+      "name": "빌리프랩",
+      "id": "8c39d89c-5297-47ea-96d7-073157b36270"
      }
     ]
    },
@@ -4886,12 +4773,11 @@
     },
     {
      "name": "지리산",
-     "id": "b8a8826e-602d-4953-aa5c-c43c80d1bf8e",
-     "auto": true
+     "id": null
     },
     {
-     "name": "id:90cad15e-a462-486c-baec-9fb8da3ab03b",
-     "id": null
+     "name": "구례군",
+     "id": "90cad15e-a462-486c-baec-9fb8da3ab03b"
     }
    ],
    "featuring": [],
@@ -4907,9 +4793,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "620d0d38-ca45-403b-93e6-e0da913b6bc5",
+     "id": "509d7331-fc74-473e-a943-7ba0cc300722",
      "category": "장소",
-     "name": "무주군"
+     "name": "무주덕유산리조트"
     }
    ],
    "summary": "새벽 기온이 영하 2도로 내려가자 일부 슬로프에서 제설을 시작하고 예년보다 일찍 문을 열기로 함",
@@ -4918,8 +4804,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:509d7331-fc74-473e-a943-7ba0cc300722",
-     "id": null
+     "name": "무주덕유산리조트",
+     "id": "509d7331-fc74-473e-a943-7ba0cc300722"
     }
    ],
    "featuring": [],
@@ -4981,7 +4867,7 @@
     }
    ],
    "summary": "이란 전쟁 이후 이란 정부와 친이란 해커들이 교통 · 금융 · 에너지 · 의료 · 수도 시스템을 노려 왔다고 밝힘",
-   "why": "트럼프 대통령 방중 기간 미국에서 MS 메일 · 공항 관제 · 대형 은행 · NSA 전산 장애가 잇따름",
+   "why": "최근 미국에서 MS · JP모건체이스 · 항공관제 시스템 · NSA 전산 장애가 잇따름",
    "how": "국가정보국 국장은 최근 장애가 유지관리 · 기술 변경 탓이지 국가 지원 공격이 아니라고 함. FBI는 이란 · 북한 · 러시아가 사이버 첩보를 벌인다고 증언",
    "content": null,
    "places": [],
@@ -5002,8 +4888,8 @@
       "id": null
      },
      {
-      "name": "id:cc7e98ef-3ecb-482a-9eb2-5feb3cd19fa8",
-      "id": null
+      "name": "Federal Bureau of Investigation",
+      "id": "cc7e98ef-3ecb-482a-9eb2-5feb3cd19fa8"
      }
     ]
    },
@@ -5025,14 +4911,9 @@
    ],
    "summary": "10년간 표결 없이 채택해 온 결의안에 미국이 표결을 요청한 뒤 국제형사재판소 문구를 이유로 기권",
    "why": "미국은 결의안 속 국제형사재판소(ICC) 언급을 모두 빼 달라고 요구해 왔음. 북미 대화를 의식했다는 해석도 나옴",
-   "how": "유엔총회 제3위원회에서 찬성 95 · 반대 14 · 기권 58로 채택. 한국 · 일본 · 영국 찬성, 북한 · 중국 · 러시아 반대. 결의안에 북한의 사이버 위협 규탄이 처음 들어감",
+   "how": "유엔총회 제3위원회에서 찬성 95 · 반대 14 · 기권 58로 채택. 한국 · 일본 · 영국 찬성, 북한 · 중국 · 러시아 반대. 2005년 첫 채택 뒤 미국 기권은 처음",
    "content": null,
-   "places": [
-    {
-     "name": "id:f02579db-1fc5-4376-995f-1ecc94a86a20",
-     "id": null
-    }
-   ],
+   "places": [],
    "featuring": [
     {
      "name": "댄 네그리아",
@@ -5046,8 +4927,8 @@
       "id": null
      },
      {
-      "name": "id:76c76a24-d3d5-49b3-b83b-5346a186e258",
-      "id": null
+      "name": "International Criminal Court",
+      "id": "76c76a24-d3d5-49b3-b83b-5346a186e258"
      }
     ]
    },
@@ -5132,23 +5013,23 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:ee97f583-9d8e-4da2-b2d2-de81178cf66c",
-     "id": null
+     "name": "Michelle Monaghan",
+     "id": "ee97f583-9d8e-4da2-b2d2-de81178cf66c"
     },
     {
-     "name": "id:3be07d2b-9b73-425c-b45d-0ec988697874",
-     "id": null
+     "name": "Justin Theroux",
+     "id": "3be07d2b-9b73-425c-b45d-0ec988697874"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:bcfa118c-11c4-46fb-8c66-1cbbf620a56f",
-      "id": null
+      "name": "Blumhouse Atomic",
+      "id": "bcfa118c-11c4-46fb-8c66-1cbbf620a56f"
      },
      {
-      "name": "id:f300f955-6c9e-4604-b0ef-47d574a6b415",
-      "id": null
+      "name": "Universal Pictures",
+      "id": "f300f955-6c9e-4604-b0ef-47d574a6b415"
      }
     ]
    },
@@ -5168,26 +5049,14 @@
      "name": "China"
     }
    ],
-   "summary": "세 정상이 선전 치린산장에서 1시간 반 회담하고 핵위험 감소 · 핵확산 방지 대화를 약속한 4개 항 선언을 냄",
-   "why": "트럼프 대통령은 중러가 가까워진 것을 3자 회담 추진 배경으로 들었음",
-   "how": "선언엔 핵전쟁 불가 재천명, 정제 석유 증산, ICC 관할권 남용 반대, 유엔 개혁이 담김. 감축 일정 · 우크라 · 이란 해법은 빠짐. 시 주석은 강대국 관계 4원칙 제시. 한반도도 논의했으나 내용 비공개",
+   "summary": "트럼프 · 시진핑 · 푸틴이 선전에서 사상 첫 3국 정상회의 뒤 핵위험 감소 · 핵확산 방지 대화를 약속한 4개 항 「미중러 정상 평화선언」을 발표",
+   "why": "",
+   "how": "선언엔 핵전쟁 불가 재천명, 정제 석유 증산 · 공급 확대, ICC 등의 관할권 남용 반대, 상임이사국으로서 유엔 개혁 추진이 담김(신화통신)",
    "content": null,
    "places": [
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
-    },
-    {
-     "name": "id:5a49540b-317b-404b-8f74-e04e0f561e9d",
-     "id": null
-    },
-    {
-     "name": "id:701995af-5ddd-4c45-ace1-65f35d106d58",
-     "id": null
-    },
-    {
-     "name": "id:fcf45173-26eb-468e-a18b-3c98124376a5",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     }
    ],
    "featuring": [
@@ -5208,8 +5077,8 @@
     "prev_record": "f5bdb5b6-7c7e-466a-8440-70dbac9d84b3",
     "orgs": [
      {
-      "name": "id:76c76a24-d3d5-49b3-b83b-5346a186e258",
-      "id": null
+      "name": "International Criminal Court",
+      "id": "76c76a24-d3d5-49b3-b83b-5346a186e258"
      }
     ]
    },
@@ -5229,23 +5098,19 @@
      "name": "Germany"
     }
    ],
-   "summary": "독일 · 프랑스 · 영국이 주재해 휴전 뒤 안전보장 약속과 종전 협상에서 유럽의 역할 강화를 다룸",
+   "summary": "메르츠 독일 총리 주재로 베를린에서 유럽 중심 약 20명 정상이 참석하는 우크라이나 지원 「의지의 연합」 정상회의가 열림",
    "why": "미중러가 유럽 · 우크라이나를 빼고 종전 향방을 정할 수 있다는 위기감",
-   "how": "젤렌스키 대통령과 유럽 정상, 나토 · EU 수뇌부 등이 참석하고 윗코프 특사 · 쿠슈너도 합류 예정. 다국적군 배치 계획도 의제",
+   "how": "윗코프 특사 · 쿠슈너도 참석 예정(DPA), 버넘 영국 총리 참석 확인. 우크라이나 다국적군(MNF-U) 배치 계획도 주요 의제",
    "content": null,
    "places": [
     {
-     "name": "id:e41df436-0f58-4348-926c-a08bdb95a5a9",
-     "id": null
+     "name": "Berlin",
+     "id": "e41df436-0f58-4348-926c-a08bdb95a5a9"
     }
    ],
    "featuring": [
     {
      "name": "프리드리히 메르츠",
-     "id": null
-    },
-    {
-     "name": "볼로디미르 젤렌스키",
      "id": null
     },
     {
@@ -5321,8 +5186,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:44215e3d-3c20-4168-929c-552fe86092d8",
-     "id": null
+     "name": "대구광역시",
+     "id": "44215e3d-3c20-4168-929c-552fe86092d8"
     }
    ],
    "featuring": [
@@ -5338,12 +5203,12 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:73223290-920b-403e-be26-e5107d0b30b4",
-      "id": null
+      "name": "국민의힘",
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      },
      {
-      "name": "id:9b43b636-c02c-4687-a5db-09b61b99ca01",
-      "id": null
+      "name": "경북대학교",
+      "id": "9b43b636-c02c-4687-a5db-09b61b99ca01"
      }
     ]
    },
@@ -5353,7 +5218,7 @@
   },
   {
    "id": "439f29e3-5680-4ab8-a448-d78dd1a06cae",
-   "title": "민주유공자법 본회의 상정에 필리버스터",
+   "title": "민주유공자법 상정 시 필리버스터 예고",
    "type": "뉴스",
    "date": "2026-11-19",
    "parent": [
@@ -5363,7 +5228,7 @@
      "name": "국민의힘"
     }
    ],
-   "summary": "민주당이 처리를 예고한 민주유공자법이 본회의에 오르자 서일준 의원을 첫 주자로 무제한 토론에 들어감",
+   "summary": "민주당이 본회의 처리를 예고한 민주유공자법을 「운동권 세탁 · 특혜법」이라 비판하며 상정되면 필리버스터를 하겠다고 예고",
    "why": "운동권 세탁·특혜법이라며 유공자 기준이 모호하고 보훈제도 신뢰를 해친다고 반대",
    "how": "정점식 원내대표는 의총에서 유공자 자녀 대입 특별전형 등 특혜를 문제 삼음",
    "content": null,
@@ -5375,10 +5240,6 @@
    ],
    "featuring": [
     {
-     "name": "서일준",
-     "id": null
-    },
-    {
      "name": "정점식",
      "id": null
     }
@@ -5386,8 +5247,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:ad10c0cf-7884-490a-82b1-feb9d72682c2",
-      "id": null
+      "name": "더불어민주당",
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
      }
     ]
    },
@@ -5455,8 +5316,8 @@
       "id": null
      },
      {
-      "name": "id:0a2bd45b-4ca4-46ac-9f01-6db6c7b0ce55",
-      "id": null
+      "name": "경찰청",
+      "id": "0a2bd45b-4ca4-46ac-9f01-6db6c7b0ce55"
      }
     ]
    },
@@ -5490,12 +5351,12 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:e5eed119-8891-4a91-94cf-2e099524dc12",
-      "id": null
+      "name": "하이브",
+      "id": "e5eed119-8891-4a91-94cf-2e099524dc12"
      },
      {
-      "name": "id:583170fc-ddd2-4bc5-a6da-e401ba5d6f2a",
-      "id": null
+      "name": "어도어",
+      "id": "583170fc-ddd2-4bc5-a6da-e401ba5d6f2a"
      }
     ]
    },
@@ -5517,12 +5378,12 @@
    ],
    "summary": "첫 독립 가게를 내려고 3만 파운드 킥스타터 모금을 시작, 내년 봄 문을 열 계획",
    "why": null,
-   "how": "매일 생면을 뽑아 파스타 5~6가지와 장작 화덕 요리를 낼 계획. 방코네 손수건 파스타도 다시 냄",
+   "how": "매일 생면 파스타 5~6가지와 벽돌 그릴 불에 굽는 생선·새끼돼지 요리를 낼 계획. 킥스타터는 12월 10일 마감",
    "content": null,
    "places": [
     {
-     "name": "id:336c7c9e-7978-46da-80b4-7a116fe75954",
-     "id": null
+     "name": "Southwark",
+     "id": "336c7c9e-7978-46da-80b4-7a116fe75954"
     }
    ],
    "featuring": [
@@ -5543,9 +5404,9 @@
    "date": "2026-11-18",
    "parent": [
     {
-     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
-     "category": "국가",
-     "name": "Korea"
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시"
     }
    ],
    "summary": "캄보디아서 검거돼 송환된 뒤 자본시장법 위반·횡령·배임 혐의로 서울남부지방공소청에 넘겨짐",
@@ -5598,8 +5459,8 @@
     "prev_record": "e5215624-8760-4833-9b88-a59bff339414",
     "orgs": [
      {
-      "name": "id:a9b81ba4-3948-4481-8972-9bd2fb40f4a4",
-      "id": null
+      "name": "법무부",
+      "id": "a9b81ba4-3948-4481-8972-9bd2fb40f4a4"
      }
     ]
    },
@@ -5626,15 +5487,15 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:041fc59a-6341-4542-bc77-5acd04b411b7",
-     "id": null
+     "name": "Denis Villeneuve",
+     "id": "041fc59a-6341-4542-bc77-5acd04b411b7"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:4e080210-3649-4468-aa3a-59f71cb7472d",
-      "id": null
+      "name": "Amazon",
+      "id": "4e080210-3649-4468-aa3a-59f71cb7472d"
      }
     ]
    },
@@ -5656,16 +5517,16 @@
    ],
    "summary": "선전 APEC 정상회의 폐막 때 또 럼 서기장 겸 주석이 시진핑 주석에게서 의장국 역할을 넘겨받음",
    "why": null,
-   "how": "2027년 정상회의는 푸꾸옥에서. 18일 푸틴 대통령·이재명 대통령·IMF 총재를 따로 만나 APEC 2027 지지를 부탁, 푸틴을 푸꾸옥에 초청",
+   "how": "이양식은 21개 회원 경제 정상이 지켜봄. 2027년 APEC 정상회의 주간은 푸꾸옥에서. 시 주석은 베트남의 성공 개최를 믿는다고 말함",
    "content": null,
    "places": [
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     },
     {
-     "name": "id:bd1edefb-7c2e-4e01-8447-3021d957a646",
-     "id": null
+     "name": "Dac khu Phu Quoc",
+     "id": "bd1edefb-7c2e-4e01-8447-3021d957a646"
     }
    ],
    "featuring": [
@@ -5676,25 +5537,13 @@
     {
      "name": "Xi Jinping",
      "id": null
-    },
-    {
-     "name": "Vladimir Putin",
-     "id": null
-    },
-    {
-     "name": "Lee Jae Myung",
-     "id": null
-    },
-    {
-     "name": "Kristalina Georgieva",
-     "id": null
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:c8759f98-53fd-44e1-903b-27a85667e4e7",
-      "id": null
+      "name": "APEC",
+      "id": "c8759f98-53fd-44e1-903b-27a85667e4e7"
      }
     ]
    },
@@ -5720,8 +5569,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:2ba449ad-068a-4350-8495-062b59c75429",
-     "id": null
+     "name": "봉천동",
+     "id": "2ba449ad-068a-4350-8495-062b59c75429"
     }
    ],
    "featuring": [],
@@ -5742,7 +5591,7 @@
      "name": "부산광역시"
     }
    ],
-   "summary": "같은 시스템을 쓰는 부산대·한국해양대·동의대 산학협력단 관련 학번·이름 등 천여 건이 새어 나감",
+   "summary": "같은 시스템을 쓰는 부산대 · 한국해양대 · 동의대 산학협력단 관련 직원번호 · 학번 · 이름 등 2천여 건이 새어 나감(부산대 500 · 동의대 530 · 해양대 1,359)",
    "why": "14일 대학들이 함께 쓰는 연구비관리시스템이 해킹당함",
    "how": "대학들은 외부 접속 제한·비밀번호 초기화. 앞서 부경대 등록금 시스템 해킹(5천여 명), 부산외대 악성코드 의심도 조사 중",
    "content": null,
@@ -5751,16 +5600,16 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:9c2f4330-16cc-494e-a19b-9fa6788fc131",
-      "id": null
+      "name": "부산대학교",
+      "id": "9c2f4330-16cc-494e-a19b-9fa6788fc131"
      },
      {
-      "name": "id:9ed2e574-e539-45e6-8012-ceed3b7cfa12",
-      "id": null
+      "name": "국립한국해양대학교",
+      "id": "9ed2e574-e539-45e6-8012-ceed3b7cfa12"
      },
      {
-      "name": "id:f50bd969-7ba9-411b-865a-13c71eb306da",
-      "id": null
+      "name": "동의대학교",
+      "id": "f50bd969-7ba9-411b-865a-13c71eb306da"
      },
      {
       "name": "국립부경대학교",
@@ -5770,7 +5619,8 @@
       "name": "부산외국어대학교",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · KBS · https://news.kbs.co.kr/news/view.do?ncd=8718337&ref=DA"
    },
    "url": "https://www.yna.co.kr/view/AKR20261119069700051",
    "source": "뉴스",
@@ -5794,8 +5644,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:33199aa7-1e6d-490f-9b04-36f679cd1ec7",
-     "id": null
+     "name": "사하구",
+     "id": "33199aa7-1e6d-490f-9b04-36f679cd1ec7"
     },
     {
      "name": "홍티항",
@@ -5822,7 +5672,7 @@
    ],
    "summary": "배영숙 시의원이 부산 관광자원을 다른 지자체와 묶어 공동 코스·상품을 만드는 조례 제정을 추진",
    "why": "행정구역 경계를 넘는 연계로 관광 경쟁력을 높이고 지역경제에 보탬이 되려는 것",
-   "how": "5년 단위 기본계획(공동 홍보·재원·성과관리), 공동 코스 개발·국내외 공동 마케팅·축제 연계·스마트관광·공동 예약 플랫폼, 기관·대학·업계와 협약 및 예산 지원, 성과평가를 다음 계획에 반영하는 내용",
+   "how": "5년마다 기본계획(연계전략 · 공동 홍보 · 재원 · 성과관리), 공동 코스 · 콘텐츠 개발 · 국내외 공동 마케팅 · 축제 연계 · 스마트관광 · 관광정보 공동 플랫폼, 기관 · 대학 · 업계와 협약 및 예산 지원, 성과평가 반영",
    "content": null,
    "places": [],
    "featuring": [
@@ -5874,10 +5724,11 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:3ef6d4da-f065-4708-ae43-b87e02bff4f5",
-      "id": null
+      "name": "국토교통부",
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718144"
    },
    "url": "https://www.yna.co.kr/view/AKR20261119080400003",
    "source": "뉴스",
@@ -5937,15 +5788,15 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:e3db3333-c213-4605-8abc-d9749edb7d39",
-     "id": null
+     "name": "Hayato Sano",
+     "id": "e3db3333-c213-4605-8abc-d9749edb7d39"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:0194427e-ab8f-403d-8a60-c29e83c82749",
-      "id": null
+      "name": "Nippon Television",
+      "id": "0194427e-ab8f-403d-8a60-c29e83c82749"
      }
     ]
    },
@@ -6010,8 +5861,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:594d76c1-e39d-40f7-8e70-d20e54c9067f",
-     "id": null
+     "name": "증산동",
+     "id": "594d76c1-e39d-40f7-8e70-d20e54c9067f"
     },
     {
      "name": "쏠비치 삼척",
@@ -6042,12 +5893,14 @@
    "content": null,
    "places": [
     {
-     "name": "id:72e2f310-eda4-4481-a9a0-b6211d683107",
-     "id": null
+     "name": "상계동",
+     "id": "72e2f310-eda4-4481-a9a0-b6211d683107"
     }
    ],
    "featuring": [],
-   "other_fields": {},
+   "other_fields": {
+    "related_coverage": "2026-11-19 · MBC · https://imnews.imbc.com/replay/2026/nwtoday/article/6867124_37012.html"
+   },
    "url": "https://www.ytn.co.kr/_ln/0102_202611192328244276",
    "source": "뉴스",
    "added_at": "2026-11-20T02:34:16.635973+00:00"
@@ -6105,8 +5958,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:f584a3d5-d2d2-4e74-80fa-0c9f3e6a704d",
-     "id": null
+     "name": "새만금국제공항",
+     "id": "f584a3d5-d2d2-4e74-80fa-0c9f3e6a704d"
     }
    ],
    "featuring": [
@@ -6119,8 +5972,8 @@
     "prev_record": "715f0255-8d83-4674-865b-381ebca1a6fe",
     "orgs": [
      {
-      "name": "id:3ef6d4da-f065-4708-ae43-b87e02bff4f5",
-      "id": null
+      "name": "국토교통부",
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
      }
     ]
    },
@@ -6146,12 +5999,12 @@
    "content": null,
    "places": [
     {
-     "name": "id:1e048f0b-187e-4d9c-a5e8-3cf8ab483d15",
-     "id": null
+     "name": "서귀포시",
+     "id": "1e048f0b-187e-4d9c-a5e8-3cf8ab483d15"
     },
     {
-     "name": "id:e8f06af8-3dca-4795-83d5-ca6bfb093ed3",
-     "id": null
+     "name": "제주시",
+     "id": "e8f06af8-3dca-4795-83d5-ca6bfb093ed3"
     }
    ],
    "featuring": [],
@@ -6189,18 +6042,17 @@
    "content": null,
    "places": [
     {
-     "name": "id:8f9a3a5b-356a-4c37-a2e9-a163ccaf46ed",
-     "id": null
+     "name": "제주특별자치도",
+     "id": "7250e6ab-33cc-4cbc-9dbe-7a3d960305d3"
+    },
+    {
+     "name": "호근동",
+     "id": "8f9a3a5b-356a-4c37-a2e9-a163ccaf46ed"
     }
    ],
    "featuring": [],
    "other_fields": {
-    "orgs": [
-     {
-      "name": "id:7250e6ab-33cc-4cbc-9dbe-7a3d960305d3",
-      "id": null
-     }
-    ]
+    "orgs": []
    },
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8717869&ref=DA",
    "source": "뉴스",
@@ -6287,9 +6139,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "6841d579-60bc-4f66-a770-fa5b0e9f8efe",
-     "category": "단체",
-     "name": "서울교통공사"
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시"
     }
    ],
    "summary": "노조원이 작업 수칙을 빠짐없이 지키는 방식으로 열차 지연이 예상됨",
@@ -6298,8 +6150,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
-     "id": null
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     }
    ],
    "featuring": [],
@@ -6311,15 +6163,45 @@
    "added_at": "2026-11-20T02:34:16.635973+00:00"
   },
   {
+   "id": "a50c3c88-0658-4eb8-bca7-acd49af910e9",
+   "title": "서초구 수능 시험장 부정행위 적발, 경찰 진술 청취",
+   "type": "뉴스",
+   "date": "2026-11-19",
+   "parent": [
+    {
+     "id": "08817f70-35f2-4eb8-b78a-797047cb2f7e",
+     "category": "장소",
+     "name": "서초구"
+    }
+   ],
+   "summary": "서초구 한 고교 수능 시험장에서 부정행위 신고가 들어와 경찰이 출동, 적발된 수험생은 시험에서 배제됨",
+   "why": null,
+   "how": "서초경찰서가 진술을 들은 뒤 입건 여부를 정하기로 함",
+   "content": null,
+   "places": [],
+   "featuring": [],
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "서초경찰서",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.ytn.co.kr/_ln/0103_202611191607314574",
+   "source": "뉴스",
+   "added_at": "2026-11-20T02:34:16.635973+00:00"
+  },
+  {
    "id": "0ecb67ae-111d-4072-9699-0f797288e8dd",
    "title": "선전 APEC 폐막, 「2026 APEC 정상 선전 전망」 채택",
    "type": "뉴스",
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "49386dfc-092b-4a70-ae69-e361d1116300",
-     "category": "국가",
-     "name": "China"
+     "id": "c8759f98-53fd-44e1-903b-27a85667e4e7",
+     "category": "단체",
+     "name": "APEC"
     }
    ],
    "summary": "정상들이 데이터 유출 · 온라인 사기 등 디지털 기술 위험에 공동 대응하기로 한 23개 항 합의문을 냄",
@@ -6328,16 +6210,16 @@
    "content": null,
    "places": [
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     }
    ],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:c8759f98-53fd-44e1-903b-27a85667e4e7",
-      "id": null
+      "name": "APEC",
+      "id": "c8759f98-53fd-44e1-903b-27a85667e4e7"
      }
     ]
    },
@@ -6352,35 +6234,22 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
-     "category": "국가",
-     "name": "Korea"
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시"
     }
    ],
    "summary": "압수물 포렌식 참관을 위해 이틀 만에 다시 출석, 경찰은 현재까지 공범 정황이 없다고 봄",
-   "why": "18일 중랑구 주거지 압수수색으로 추가 증거물 확보",
-   "how": "개조 계산기 등 기기 대부분을 자수 전 스스로 부숴 파손 기기 포렌식 진행. 법무부는 출국금지 승인. 한국산업인력공단 관계자는 고소인으로 조사받음",
+   "why": "경찰이 한씨 진술과 증거물을 검토한 결과 지금까지 공범 정황이 없음",
+   "how": "개조 계산기 등 기기 대부분을 자수 전 스스로 부숴 파손 기기 포렌식 진행. 17일 첫 피의자 조사",
    "content": null,
-   "places": [
-    {
-     "name": "id:e5305c1e-512c-4cd6-92c2-91d41f063f69",
-     "id": null
-    }
-   ],
+   "places": [],
    "featuring": [],
    "other_fields": {
     "prev_record": "57c71b7a-9e73-4467-917b-2ed3452c977a",
     "orgs": [
      {
       "name": "서울경찰청",
-      "id": null
-     },
-     {
-      "name": "한국산업인력공단",
-      "id": null
-     },
-     {
-      "name": "id:a9b81ba4-3948-4481-8972-9bd2fb40f4a4",
       "id": null
      }
     ]
@@ -6396,9 +6265,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
-     "category": "국가",
-     "name": "Korea"
+     "id": "a62cf552-d221-4b98-a886-aabddebae1ba",
+     "category": "단체",
+     "name": "한국세무사회"
     }
    ],
    "summary": "부정행위자가 정식 세무사가 되지 않도록 평가 시험에 주관식을 넣고 구술시험도 검토",
@@ -6416,8 +6285,8 @@
     "prev_record": "57c71b7a-9e73-4467-917b-2ed3452c977a",
     "orgs": [
      {
-      "name": "id:a62cf552-d221-4b98-a886-aabddebae1ba",
-      "id": null
+      "name": "한국세무사회",
+      "id": "a62cf552-d221-4b98-a886-aabddebae1ba"
      }
     ]
    },
@@ -6444,15 +6313,15 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:d60e4449-6b76-4257-bfc0-e63b52f5e380",
-     "id": null
+     "name": "Sesuji",
+     "id": "d60e4449-6b76-4257-bfc0-e63b52f5e380"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:ca1a1e6a-1021-459e-987f-e008e1ee9001",
-      "id": null
+      "name": "KADOKAWA",
+      "id": "ca1a1e6a-1021-459e-987f-e008e1ee9001"
      }
     ]
    },
@@ -6467,9 +6336,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "2b00f9c7-fc73-4fc3-bf37-934066598071",
-     "category": "장소",
-     "name": "세종특별자치시"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "세종시와 세종시교육청 보통교부금 재정 특례를 2029년까지 3년 연장하는 개정안이 법안소위를 통과",
@@ -6513,12 +6382,12 @@
    "content": null,
    "places": [
     {
-     "name": "id:8fd3f3a6-6f80-4e77-a35b-8ff98bd9ce53",
-     "id": null
+     "name": "Pas-de-Calais",
+     "id": "8fd3f3a6-6f80-4e77-a35b-8ff98bd9ce53"
     },
     {
-     "name": "id:4008cb03-db5a-49c9-804a-b69cdaa0d37b",
-     "id": null
+     "name": "Somme",
+     "id": "4008cb03-db5a-49c9-804a-b69cdaa0d37b"
     }
    ],
    "featuring": [],
@@ -6552,12 +6421,12 @@
    "content": null,
    "places": [
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     },
     {
-     "name": "id:ba258690-4136-4fcb-a336-c1b06caca711",
-     "id": null
+     "name": "Ciudad de Mexico",
+     "id": "ba258690-4136-4fcb-a336-c1b06caca711"
     }
    ],
    "featuring": [
@@ -6590,12 +6459,12 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:675080f8-363b-41b5-9476-077360c664cd",
-     "id": null
+     "name": "Matt Dawson",
+     "id": "675080f8-363b-41b5-9476-077360c664cd"
     },
     {
-     "name": "id:6c5ba143-7886-40e4-be15-61f1a9cd489e",
-     "id": null
+     "name": "Phil Tufnell",
+     "id": "6c5ba143-7886-40e4-be15-61f1a9cd489e"
     }
    ],
    "other_fields": {},
@@ -6616,20 +6485,11 @@
     }
    ],
    "summary": "국민권익위원회가 20일부터 내년 1월 19일까지 첨단기기 수능 부정행위 집중 신고를 받고 건당 최대 1억 원을 줌",
-   "why": "이재명 대통령이 신고 포상 1억 원 이상과 공동 부정 신고자 감면 도입을 지시",
+   "why": "수능 부정행위 적발 98명은 4교시 기준 잠정치로 더 늘 수 있음",
    "how": "비실명 대리신고 가능, 가담자가 자진 신고하면 처벌을 줄이거나 면제. 정부는 20일부터 범정부 수능 부정행위 대응 TF를 본격 가동하고 응시 정지 최대 10년 법 개정을 올해 적발자부터 적용할 방침",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "이재명",
-     "id": null
-    },
-    {
-     "name": "한성숙",
-     "id": null
-    }
-   ],
+   "featuring": [],
    "other_fields": {
     "prev_record": "7bffe15e-9fbc-4276-b8b2-551678da8fe6",
     "orgs": [
@@ -6637,7 +6497,8 @@
       "name": "국민권익위원회",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · YTN · https://www.ytn.co.kr/_ln/0101_202611200008307584"
    },
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854519&plink=ORI&cooper=ETC",
    "source": "뉴스",
@@ -6645,24 +6506,24 @@
   },
   {
    "id": "16607100-b37a-46a9-a06a-0423e2188be6",
-   "title": "수능 수학 시간 초소형 카메라 · 이어폰 소지 수험생 적발",
+   "title": "수능 수학 시간 카메라 · 이어폰 소지 수험생 적발",
    "type": "뉴스",
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "69ab9360-4cf8-40d2-9487-8ff09436250c",
+     "id": "f4312487-acc7-48df-a0af-4050d08911e3",
      "category": "장소",
-     "name": "처인구"
+     "name": "용인시"
     }
    ],
-   "summary": "용인 처인구 한 시험장에서 2교시 도중 20대 재수생이 카메라와 블루투스 이어폰을 지닌 채 감독관에게 적발됨",
+   "summary": "용인시 한 시험장에서 2교시 수학 시험 도중 졸업생 수험생이 옷 속 카메라와 블루투스 이어폰을 지닌 채 감독관에게 적발됨",
    "why": null,
-   "how": "복도에 둔 가방에서 태블릿PC도 나옴. 경기남부경찰청이 신병을 넘겨받아 위계에 의한 공무집행방해 혐의로 조사하며 실제 사용 · 외부 전송 여부를 확인. 해당 시험장은 3교시부터 금속탐지기 검사",
+   "how": "복도에 둔 가방에서 태블릿PC도 나옴. 경기남부경찰청 사이버범죄수사대가 직접 맡아 실제 사용 · 외부 전송 여부를 확인하고 위계에 의한 공무집행방해 혐의 적용을 검토",
    "content": null,
    "places": [
     {
-     "name": "id:f4312487-acc7-48df-a0af-4050d08911e3",
-     "id": null
+     "name": "용인시",
+     "id": "f4312487-acc7-48df-a0af-4050d08911e3"
     }
    ],
    "featuring": [],
@@ -6670,10 +6531,6 @@
     "orgs": [
      {
       "name": "경기남부경찰청",
-      "id": null
-     },
-     {
-      "name": "경기도교육청",
       "id": null
      }
     ]
@@ -6689,69 +6546,31 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "9fdb4832-12bb-4b0e-9896-3cf97aae30af",
+     "id": "a39c4652-bafb-44b7-9e38-2c90b4ef88a7",
      "category": "장소",
-     "name": "서북구"
+     "name": "충청남도"
     }
    ],
    "summary": "천안 신당고 시험장에서 졸업생 수험생이 스마트안경을 지니고 있다가 적발돼 부정행위로 처리됨",
    "why": null,
-   "how": "오후 1시 56분께 감독관이 정황을 발견해 경찰에 신고. 충남교육청은 실제 사용 여부를 확인 중이며 경찰 조사 결과에 따라 후속 조치하기로 함",
+   "how": "충남교육청은 고3 아닌 졸업생으로 알려졌다며 실제 사용 여부를 확인 중이고 경찰 조사 결과에 따라 후속 조치하겠다고 함",
    "content": null,
    "places": [
     {
-     "name": "id:98677a26-9cf3-417e-970d-b9d2be9f1dbc",
-     "id": null
-    },
-    {
-     "name": "신당고등학교",
-     "id": null
+     "name": "천안시",
+     "id": "98677a26-9cf3-417e-970d-b9d2be9f1dbc"
     }
    ],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:e6e69398-bf18-4c26-bac7-4819a4b421d4",
-      "id": null
-     },
-     {
-      "name": "충남경찰청",
-      "id": null
+      "name": "충청남도교육청",
+      "id": "e6e69398-bf18-4c26-bac7-4819a4b421d4"
      }
     ]
    },
    "url": "https://www.newsis.com/view/NISX20261119_0003875656",
-   "source": "뉴스",
-   "added_at": "2026-11-20T02:34:16.635973+00:00"
-  },
-  {
-   "id": "a50c3c88-0658-4eb8-bca7-acd49af910e9",
-   "title": "수능 시험장서 신발에 휴대전화 숨긴 수험생 적발",
-   "type": "뉴스",
-   "date": "2026-11-19",
-   "parent": [
-    {
-     "id": "08817f70-35f2-4eb8-b78a-797047cb2f7e",
-     "category": "장소",
-     "name": "서초구"
-    }
-   ],
-   "summary": "서초구 한 고교 시험장에서 수험생이 신발에 휴대전화를 숨겼다가 적발돼 시험에서 배제됨",
-   "why": null,
-   "how": "학교의 112 신고로 서초경찰서가 출동해 진술을 들은 뒤 입건 여부를 정하기로 함",
-   "content": null,
-   "places": [],
-   "featuring": [],
-   "other_fields": {
-    "orgs": [
-     {
-      "name": "서초경찰서",
-      "id": null
-     }
-    ]
-   },
-   "url": "https://www.ytn.co.kr/_ln/0103_202611191607314574",
    "source": "뉴스",
    "added_at": "2026-11-20T02:34:16.635973+00:00"
   },
@@ -6785,7 +6604,7 @@
   },
   {
    "id": "54a0f425-4b0d-4a0d-bf93-b4956a483cd7",
-   "title": "수능 위급재난문자 세 차례 발송, 스마트폰 49대 적발",
+   "title": "수능 위급재난문자 세 차례 발송, 49명 적발",
    "type": "경과",
    "date": "2026-11-19",
    "parent": [
@@ -6795,9 +6614,9 @@
      "name": "Korea"
     }
    ],
-   "summary": "전 국민에게 10.5초 경보음이 울린 위급재난문자로 제출하지 않은 스마트폰을 찾아냄",
-   "why": "AI 부정행위에 쓸 수 있는 몰래 반입 휴대전화를 가려내려는 조치. 수능 날 전 국민 대상 발송은 2017년 도입 뒤 처음",
-   "how": "오전 8시 30분 31명, 오후 2시 21분 11명, 2시 57분 7명 적발(마지막은 한국사 시험 중). 시험 지연 사례는 없었고, 온라인의 「못 받았다」 주장에 행정안전부는 확인된 미수신 사례가 없다고 밝힘",
+   "summary": "수능 중 세 차례 위급재난문자를 보내 휴대전화를 내지 않은 수험생 49명을 적발했다고 교육부가 밝힘",
+   "why": "이번 수능 부정행위 적발자는 4교시 기준 모두 98명",
+   "how": "오전 8시 30분 31명, 오후 2시 21분 11명, 2시 57분 7명. 와이파이 신호 탐지로 서울에서 2명 추가 적발, 최은옥 차관이 정부세종청사 브리핑",
    "content": null,
    "places": [],
    "featuring": [
@@ -6810,12 +6629,8 @@
     "prev_record": "f119742f-1cc7-4098-9cba-db6d5da8d931",
     "orgs": [
      {
-      "name": "id:3856f802-843e-4b5a-8959-49739f0c2be0",
-      "id": null
-     },
-     {
-      "name": "id:b5a53446-9a45-4206-9482-17699beca2f9",
-      "id": null
+      "name": "교육부",
+      "id": "3856f802-843e-4b5a-8959-49739f0c2be0"
      }
     ]
    },
@@ -6844,8 +6659,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:dcc1c797-1f2e-4650-8597-9430de63f1ae",
-      "id": null
+      "name": "Spotify",
+      "id": "dcc1c797-1f2e-4650-8597-9430de63f1ae"
      }
     ]
    },
@@ -6872,12 +6687,8 @@
    "places": [],
    "featuring": [],
    "other_fields": {
-    "orgs": [
-     {
-      "name": "id:8c39d89c-5297-47ea-96d7-073157b36270",
-      "id": null
-     }
-    ]
+    "orgs": [],
+    "related_coverage": "2026-11-20 · 뉴시스 · https://www.newsis.com/view/NISX20261120_0003876899\n2026-11-20 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261120122300005"
    },
    "url": "https://sports.donga.com/ent/article/all/20261119/135052298/1",
    "source": "뉴스",
@@ -6902,19 +6713,19 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:bd7532ba-fb0e-4d4c-a9a0-1ddb7e8a4b15",
-     "id": null
+     "name": "Eddie Redmayne",
+     "id": "bd7532ba-fb0e-4d4c-a9a0-1ddb7e8a4b15"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:5f9770c5-9f35-4a85-8480-e20ff4f3e436",
-      "id": null
+      "name": "Peacock",
+      "id": "5f9770c5-9f35-4a85-8480-e20ff4f3e436"
      },
      {
-      "name": "id:e1366dd0-9bbe-49de-86ab-b5f8ca6ceb10",
-      "id": null
+      "name": "Sky Group",
+      "id": "e1366dd0-9bbe-49de-86ab-b5f8ca6ceb10"
      }
     ]
    },
@@ -6943,8 +6754,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "id": null
+      "name": "Netflix",
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -6973,8 +6784,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:3f13704b-436b-4983-b608-32f80994d782",
-      "id": null
+      "name": "웨이브",
+      "id": "3f13704b-436b-4983-b608-32f80994d782"
      }
     ]
    },
@@ -7001,23 +6812,24 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:08ad0bb5-8aab-4d69-83fa-f5f1e03f2cfd",
-     "id": null
+     "name": "배두나",
+     "id": "08ad0bb5-8aab-4d69-83fa-f5f1e03f2cfd"
     },
     {
-     "name": "id:81eb51bf-a9fa-44ae-aee2-c5d755944d8a",
-     "id": null
+     "name": "백윤식",
+     "id": "81eb51bf-a9fa-44ae-aee2-c5d755944d8a"
     },
     {
      "name": "박병은",
-     "id": null
+     "id": "d3723a2b-41ec-48c9-bf09-df1857292899",
+     "auto": true
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:25282bad-76c8-4fb4-bfe6-1e1d6147da21",
-      "id": null
+      "name": "쿠팡플레이",
+      "id": "25282bad-76c8-4fb4-bfe6-1e1d6147da21"
      }
     ]
    },
@@ -7044,39 +6856,39 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:3eb9c060-88a8-4c07-bb6f-eecd222064a8",
-     "id": null
+     "name": "이시아",
+     "id": "3eb9c060-88a8-4c07-bb6f-eecd222064a8"
     },
     {
-     "name": "id:7355b39f-c44a-4c58-a6d5-31f3d6698184",
-     "id": null
+     "name": "김지수",
+     "id": "7355b39f-c44a-4c58-a6d5-31f3d6698184"
     },
     {
-     "name": "id:e249b66e-845c-4f55-ad0b-946771dfdb43",
-     "id": null
+     "name": "클라라",
+     "id": "e249b66e-845c-4f55-ad0b-946771dfdb43"
     },
     {
-     "name": "id:cbc2eff2-e21b-4209-a704-cd81acfc8318",
-     "id": null
+     "name": "유이",
+     "id": "cbc2eff2-e21b-4209-a704-cd81acfc8318"
     },
     {
-     "name": "id:9e23a838-a258-47dd-92b5-acc622d0ceda",
-     "id": null
+     "name": "신동엽",
+     "id": "9e23a838-a258-47dd-92b5-acc622d0ceda"
     },
     {
-     "name": "id:cafcd48d-194c-44f7-9112-b3f0af62f0cd",
-     "id": null
+     "name": "조윤희",
+     "id": "cafcd48d-194c-44f7-9112-b3f0af62f0cd"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:9a5f4b0c-aa89-44a0-b06f-794c628d6c78",
-      "id": null
+      "name": "SBS Plus",
+      "id": "9a5f4b0c-aa89-44a0-b06f-794c628d6c78"
      },
      {
-      "name": "id:6919f9d6-5b81-4d7e-baeb-29b91a8a8fc2",
-      "id": null
+      "name": "E채널",
+      "id": "6919f9d6-5b81-4d7e-baeb-29b91a8a8fc2"
      }
     ]
    },
@@ -7103,15 +6915,15 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:4e3d7737-985c-4a9e-8c59-f8e35a888677",
-     "id": null
+     "name": "장동민",
+     "id": "4e3d7737-985c-4a9e-8c59-f8e35a888677"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "id": null
+      "name": "Netflix",
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -7138,19 +6950,19 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:ffe4aae5-957d-42ef-a722-8c12ae597ac2",
-     "id": null
+     "name": "백종원",
+     "id": "ffe4aae5-957d-42ef-a722-8c12ae597ac2"
     },
     {
-     "name": "id:8a0a72f3-2cac-45a2-a3f8-81dfe6a04626",
-     "id": null
+     "name": "안성재",
+     "id": "8a0a72f3-2cac-45a2-a3f8-81dfe6a04626"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "id": null
+      "name": "Netflix",
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -7177,27 +6989,27 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:61a51174-6755-40ef-8278-510c2cadb786",
-     "id": null
+     "name": "설인아",
+     "id": "61a51174-6755-40ef-8278-510c2cadb786"
     },
     {
-     "name": "id:395ae7fe-9a9e-4939-9734-c645d4955ef2",
-     "id": null
+     "name": "금새록",
+     "id": "395ae7fe-9a9e-4939-9734-c645d4955ef2"
     },
     {
-     "name": "id:e8bd8fc6-02a8-4fab-ab5f-d4e038a24366",
-     "id": null
+     "name": "한지현",
+     "id": "e8bd8fc6-02a8-4fab-ab5f-d4e038a24366"
     },
     {
-     "name": "id:e1b1a692-7b16-4ce5-aae9-ae8e49eea0f7",
-     "id": null
+     "name": "연우",
+     "id": "e1b1a692-7b16-4ce5-aae9-ae8e49eea0f7"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:e565fea1-b962-446d-b64b-8ad413e18b1f",
-      "id": null
+      "name": "tvN",
+      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f"
      }
     ]
    },
@@ -7223,8 +7035,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     }
    ],
    "featuring": [
@@ -7236,10 +7048,11 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:c8759f98-53fd-44e1-903b-27a85667e4e7",
-      "id": null
+      "name": "APEC",
+      "id": "c8759f98-53fd-44e1-903b-27a85667e4e7"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · 중앙일보 · https://www.joongang.co.kr/article/25480336"
    },
    "url": "https://www.yna.co.kr/view/AKR20261119088200089",
    "source": "뉴스",
@@ -7263,8 +7076,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:b0324106-e720-4f21-bff1-515c85278ff8",
-     "id": null
+     "name": "월곶동",
+     "id": "b0324106-e720-4f21-bff1-515c85278ff8"
     }
    ],
    "featuring": [],
@@ -7287,19 +7100,15 @@
    ],
    "summary": "해외에서 사 온 GLP-1 비만치료제를 되팔거나 지인에게 나눠 주는 행위까지 집중 단속",
    "why": "비만치료제 온라인 거래가 급증",
-   "how": "카페·블로그 판매 소개, 중고거래, SNS 1대1 채팅 유도 게시물이 대상. 약사법 위반 시 5년 이하 징역 또는 5천만 원 이하 벌금, 게시물은 방미심위에 차단 요청",
+   "how": "카페 · 블로그 판매 소개, 중고거래, SNS 1대1 채팅 유도 게시물이 대상. 불법이 확인되면 수사 의뢰 · 고발",
    "content": null,
    "places": [],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:f7c79246-30c2-4dd0-955e-c59b3c149f8a",
-      "id": null
-     },
-     {
-      "name": "방송미디어통신심의위원회",
-      "id": null
+      "name": "식품의약품안전처",
+      "id": "f7c79246-30c2-4dd0-955e-c59b3c149f8a"
      }
     ]
    },
@@ -7325,21 +7134,21 @@
    "content": null,
    "places": [
     {
-     "name": "id:fa69b970-c167-4311-8fa9-6ed475139c1a",
-     "id": null
+     "name": "Yamanashi",
+     "id": "fa69b970-c167-4311-8fa9-6ed475139c1a"
     }
    ],
    "featuring": [
     {
-     "name": "id:7ad8b05a-e058-4b78-a936-116313e6587e",
-     "id": null
+     "name": "심형탁",
+     "id": "7ad8b05a-e058-4b78-a936-116313e6587e"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:2935a9ed-d83f-4d69-9598-2c17999ccb84",
-      "id": null
+      "name": "KBS",
+      "id": "2935a9ed-d83f-4d69-9598-2c17999ccb84"
      }
     ]
    },
@@ -7393,8 +7202,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:f06d3152-bf8c-43bd-a51e-d9aed60804b4",
-     "id": null
+     "name": "경주시",
+     "id": "f06d3152-bf8c-43bd-a51e-d9aed60804b4"
     }
    ],
    "featuring": [],
@@ -7471,13 +7280,13 @@
     }
    ],
    "summary": "공모가를 희망 범위 70~78달러보다 높은 83달러로 정하고 19일(현지) 나스닥에 상장",
-   "why": "공모 수요가 예상보다 많아 공모가를 10달러가량 올림",
-   "how": "기업가치 약 1조5천억 달러, 조달액은 지난 6월 스페이스X 기록(862억 달러)을 넘을 전망. 상장 기대에 뉴욕증시 기술주가 상승 출발",
+   "why": "",
+   "how": "기업가치 약 1조5천억 달러. 공모가가 예상을 웃돌자 뉴욕증시가 기술주 중심으로 상승 출발(나스닥 1.90%)",
    "content": null,
    "places": [
     {
-     "name": "id:701995af-5ddd-4c45-ace1-65f35d106d58",
-     "id": null
+     "name": "United States",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
     }
    ],
    "featuring": [],
@@ -7485,31 +7294,6 @@
     "prev_record": "e03c2638-5cf9-4110-8dcd-769df357cbdb"
    },
    "url": "https://www.yna.co.kr/view/AKR20261119186000009",
-   "source": "뉴스",
-   "added_at": "2026-11-20T02:34:16.635973+00:00"
-  },
-  {
-   "id": "33b0de09-702c-4735-b770-5de8a3d08e18",
-   "title": "앤트로픽 나스닥 상장, 첫날 17% 올라",
-   "type": "기타",
-   "date": "2026-11-19",
-   "parent": [
-    {
-     "id": "d1028b0c-a81d-4140-8f46-d27b67ebc7c3",
-     "category": "단체",
-     "name": "Anthropic"
-    }
-   ],
-   "summary": "공모가 83달러, 공모·사모 합쳐 1,000억 달러 넘게 모은 사상 최대 IPO. 첫날 97.17달러로 마감",
-   "why": null,
-   "how": "공모가는 희망 범위(70~78달러)를 넘김. 111.50달러에 시작해 몸값은 약 1.5조 달러. 종목 코드 ANT",
-   "content": null,
-   "places": [],
-   "featuring": [],
-   "other_fields": {
-    "prev_record": "e03c2638-5cf9-4110-8dcd-769df357cbdb"
-   },
-   "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
    "source": "뉴스",
    "added_at": "2026-11-20T02:34:16.635973+00:00"
   },
@@ -7532,19 +7316,19 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:13b728ad-c3d9-48dd-a8c6-1c78c91a3eec",
-     "id": null
+     "name": "서인영",
+     "id": "13b728ad-c3d9-48dd-a8c6-1c78c91a3eec"
     },
     {
-     "name": "id:cf96a7da-4938-4582-8ff0-788c8adce317",
-     "id": null
+     "name": "양상국",
+     "id": "cf96a7da-4938-4582-8ff0-788c8adce317"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:6919f9d6-5b81-4d7e-baeb-29b91a8a8fc2",
-      "id": null
+      "name": "E채널",
+      "id": "6919f9d6-5b81-4d7e-baeb-29b91a8a8fc2"
      }
     ]
    },
@@ -7570,23 +7354,18 @@
    "content": null,
    "places": [
     {
-     "name": "id:c7a0c821-1b4a-47ce-bc47-a059ada14ada",
-     "id": null
-    },
-    {
      "name": "Hong Kong",
-     "id": "c7a0c821-1b4a-47ce-bc47-a059ada14ada",
-     "auto": true
+     "id": "c7a0c821-1b4a-47ce-bc47-a059ada14ada"
     }
    ],
    "featuring": [
     {
-     "name": "id:c9cc18e2-38be-4eb4-a6e2-42cd815f9ff4",
-     "id": null
+     "name": "G-DRAGON",
+     "id": "c9cc18e2-38be-4eb4-a6e2-42cd815f9ff4"
     },
     {
-     "name": "id:f0c7629c-abc7-4e4e-9923-5f9ea8d61d9c",
-     "id": null
+     "name": "대성",
+     "id": "f0c7629c-abc7-4e4e-9923-5f9ea8d61d9c"
     },
     {
      "name": "양현석",
@@ -7596,8 +7375,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:58fa67e0-0896-4df4-a813-0caf371902e0",
-      "id": null
+      "name": "YG엔터테인먼트",
+      "id": "58fa67e0-0896-4df4-a813-0caf371902e0"
      }
     ]
    },
@@ -7629,24 +7408,24 @@
    ],
    "featuring": [
     {
-     "name": "id:fdd83b18-0668-4ef2-94c0-97f50f02361f",
-     "id": null
+     "name": "박훈정",
+     "id": "fdd83b18-0668-4ef2-94c0-97f50f02361f"
     },
     {
-     "name": "id:dfd834f2-b307-4ff2-b743-1844754c958e",
-     "id": null
+     "name": "이신영",
+     "id": "dfd834f2-b307-4ff2-b743-1844754c958e"
     },
     {
-     "name": "id:f0b64e3f-ecba-43da-b09c-0f83faa67ec1",
-     "id": null
+     "name": "김명민",
+     "id": "f0b64e3f-ecba-43da-b09c-0f83faa67ec1"
     },
     {
-     "name": "id:4d7e9a28-105a-4f8e-a8fc-05f435c8963c",
-     "id": null
+     "name": "박유림",
+     "id": "4d7e9a28-105a-4f8e-a8fc-05f435c8963c"
     },
     {
-     "name": "id:ddf20a70-22c4-4b8d-b885-3f595c680170",
-     "id": null
+     "name": "박해수",
+     "id": "ddf20a70-22c4-4b8d-b885-3f595c680170"
     }
    ],
    "other_fields": {},
@@ -7672,8 +7451,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
-     "id": null
+     "name": "Los Angeles",
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
     }
    ],
    "featuring": [
@@ -7709,8 +7488,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
-     "id": null
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     }
    ],
    "featuring": [
@@ -7776,7 +7555,7 @@
    "content": null,
    "places": [
     {
-     "name": "id:36898709-c1ac-4c04-867b-6d9f9f4f8685",
+     "name": "북구",
      "id": null
     }
    ],
@@ -7813,7 +7592,7 @@
      "name": "영암군"
     }
    ],
-   "summary": "H5형 항원이 나온 영암 오리 농장이 고병원성으로 확진돼 올겨울 열 번째 사례가 됨",
+   "summary": "영암군 육용 오리 농장에서 검출된 조류인플루엔자가 고병원성으로 확진됨",
    "why": null,
    "how": "반경 10km 가금 농장 70여 곳 정밀검사, 전남광주 모든 오리 농장을 28일까지 일제 검사",
    "content": null,
@@ -7888,12 +7667,12 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:a9edd59c-dcc4-4991-acbf-a410fac9a5f9",
-     "id": null
+     "name": "Shun Oguri",
+     "id": "a9edd59c-dcc4-4991-acbf-a410fac9a5f9"
     },
     {
-     "name": "id:3d8c3e53-0e77-4b4b-8aaa-e1244e1fd30f",
-     "id": null
+     "name": "Ai Hashimoto",
+     "id": "3d8c3e53-0e77-4b4b-8aaa-e1244e1fd30f"
     }
    ],
    "other_fields": {},
@@ -7961,8 +7740,8 @@
       "id": null
      },
      {
-      "name": "id:b980baae-467e-457a-9a3d-a40cf2cfd8f9",
-      "id": null
+      "name": "전국공무원노동조합",
+      "id": "b980baae-467e-457a-9a3d-a40cf2cfd8f9"
      }
     ]
    },
@@ -8044,7 +7823,7 @@
    ],
    "summary": "울산 수능 결시율이 1교시 7.75% · 3교시 8.20%로 작년보다 늘었고 AI 부정행위 112 신고는 없었음",
    "why": null,
-   "how": "응시 인원 1만1246명. 시교육청은 감독관 83명을 더 배치했으나 일부 수험생은 예고된 교시별 안경 점검이 없었다고 말함",
+   "how": "울산교육청은 감독관 83명을 더 배치했으나 일부 수험생은 예고된 교시별 안경 점검이 없었다고 말함. 3교시 영어 결시자 907명",
    "content": null,
    "places": [],
    "featuring": [
@@ -8085,8 +7864,7 @@
    "featuring": [
     {
      "name": "김대영",
-     "id": "a622ae6f-0673-47a5-bc28-5bb66f09f672",
-     "auto": true
+     "id": null
     }
    ],
    "other_fields": {},
@@ -8115,8 +7893,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:c8d8e685-45e8-45a4-8108-8e922c080445",
-      "id": null
+      "name": "국가데이터처",
+      "id": "c8d8e685-45e8-45a4-8108-8e922c080445"
      }
     ]
    },
@@ -8185,16 +7963,16 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:f8d379b2-0380-4a0c-a376-be4336dca932",
-      "id": null
+      "name": "기후에너지환경부",
+      "id": "f8d379b2-0380-4a0c-a376-be4336dca932"
      },
      {
-      "name": "id:37aedfed-2011-449a-bf61-fb8c4cc9fe03",
-      "id": null
+      "name": "한국전력공사",
+      "id": "37aedfed-2011-449a-bf61-fb8c4cc9fe03"
      },
      {
-      "name": "id:1beec75a-0c6b-476c-9cd5-4b49a3cfcd38",
-      "id": null
+      "name": "한국수력원자력",
+      "id": "1beec75a-0c6b-476c-9cd5-4b49a3cfcd38"
      },
      {
       "name": "전력거래소",
@@ -8254,8 +8032,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:fc0464bb-66dc-4a6b-a5d0-a8f8d323694e",
-     "id": null
+     "name": "Kaohsiung City",
+     "id": "fc0464bb-66dc-4a6b-a5d0-a8f8d323694e"
     }
    ],
    "featuring": [],
@@ -8313,8 +8091,8 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:2cb79429-a636-49f6-90f0-ba82d06d8656",
-     "id": null
+     "name": "기안84",
+     "id": "2cb79429-a636-49f6-90f0-ba82d06d8656"
     }
    ],
    "other_fields": {},
@@ -8341,19 +8119,19 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:bd0401b9-d0f4-4e3c-8580-21315e1b0b19",
-     "id": null
+     "name": "윤균상",
+     "id": "bd0401b9-d0f4-4e3c-8580-21315e1b0b19"
     },
     {
-     "name": "id:c5b5984e-d510-4ac7-b8d4-c8d124e85d77",
-     "id": null
+     "name": "수현",
+     "id": "c5b5984e-d510-4ac7-b8d4-c8d124e85d77"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:ba598f8d-91ad-4ca3-8d73-faa68f7fea1b",
-      "id": null
+      "name": "JTBC",
+      "id": "ba598f8d-91ad-4ca3-8d73-faa68f7fea1b"
      }
     ]
    },
@@ -8391,8 +8169,8 @@
       "id": null
      },
      {
-      "name": "id:fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "id": null
+      "name": "대법원",
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      }
     ]
    },
@@ -8407,9 +8185,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "a953b0b6-debe-4200-ab14-65e8da833b8f",
-     "category": "장소",
-     "name": "남구"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "울산 남구에서 차량번호 인식기를 들이받은 뒤 집에서 막걸리 2병을 더 마신 운전자에 징역 2년·집유 4년",
@@ -8418,8 +8196,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:2fe09321-a0ad-46d6-91de-13af845996e5",
-     "id": null
+     "name": "울산광역시",
+     "id": "2fe09321-a0ad-46d6-91de-13af845996e5"
     }
    ],
    "featuring": [],
@@ -8471,13 +8249,13 @@
     }
    ],
    "summary": "다자주의 무역 질서 수호 · 공급망 협력을 강조하고 한반도 평화를 아태 번영의 조건으로 내세움",
-   "why": "사상 첫 미중러 정상회담을 앞두고 주요국 정상 앞에서 한반도 평화 공존 의지를 알림",
-   "how": "「함께 번영하는 아태 공동체」 3대 비전을 제안하고 지난해 경주에서 채택한 APEC AI 이니셔티브를 들어 「AI 기본 사회」를 강조. 3박 4일 순방을 마치고 19일 밤 귀국 일정",
+   "why": "자유무역 질서 격변 · 세계 경제 불확실성 속에 한반도 평화가 아태 공동 번영의 필수 조건이라며 회원국 지지를 당부",
+   "how": "경주 APEC 에서 한국 제안으로 의제가 된 AI · 인구구조 변화 공동 대응을 거듭 강조. 3박 4일 순방을 마치고 19일 밤 귀국 예정",
    "content": null,
    "places": [
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     }
    ],
    "featuring": [
@@ -8505,14 +8283,14 @@
      "name": "Korea"
     }
    ],
-   "summary": "APEC 환영 만찬 뒤 10여 분 선 채로 대화하며 한러 관계와 북한 핵 문제를 다룸",
+   "summary": "시진핑 주석이 주최한 만찬에서 자연스럽게 만나 10여 분 대화하며 한러 관계와 북한 핵 문제를 다룸",
    "why": null,
    "how": "청와대는 여건상 쉽지 않지만 문제없는 영역에서 협력을 찾아 관계를 관리하자는 데 의견이 모였고 한반도 긴장 완화 필요성에도 공감했다고 밝힘. 북핵 문제는 길게 다뤄지지 않았다고 설명",
    "content": null,
    "places": [
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     }
    ],
    "featuring": [
@@ -8567,7 +8345,7 @@
    ],
    "summary": "순방 중 재가한 조작기소 특검법이 관보에 실려 공포와 함께 바로 시행",
    "why": "윤석열 정부 검찰·국정원·감사원 등의 조작수사·조작기소 의혹 진상규명",
-   "how": "청와대는 17일 재가하고 관보 게재가 늦었다는 보도를 부인",
+   "how": "정부는 17일 국무회의에서 의결. 청와대는 17일 재가 뒤 관보 게재를 미뤘다는 보도를 「사실과 다르다」고 부인, 재가 시점은 확인이 어렵다고 함",
    "content": null,
    "places": [],
    "featuring": [
@@ -8585,7 +8363,7 @@
   },
   {
    "id": "aefb7623-bc33-47e4-8206-cecd828b431f",
-   "title": "이탈리아 샌드위치 「산토 시엘로」, 홀번에 두 번째 가게",
+   "title": "이탈리아 샌드위치 「산토 시엘로」, 홀번에 두 번째 가게 연다",
    "type": "개장",
    "date": "2026-11-18",
    "parent": [
@@ -8595,14 +8373,14 @@
      "name": "Santo Cielo"
     }
    ],
-   "summary": "엑스머스마켓 가게로 이름난 스키아치아타 샌드위치집이 홀번 시실리언애비뉴에 새 가게를 냄",
+   "summary": "엑스머스마켓 가게로 이름난 스키아치아타 샌드위치집이 12월부터 홀번 시실리언애비뉴에 새 가게를 열 예정",
    "why": null,
    "how": null,
    "content": null,
    "places": [
     {
-     "name": "id:debbabbe-a63a-4fa0-8641-89063a6f3f2a",
-     "id": null
+     "name": "London",
+     "id": "debbabbe-a63a-4fa0-8641-89063a6f3f2a"
     }
    ],
    "featuring": [],
@@ -8623,26 +8401,26 @@
      "name": "Indonesia"
     }
    ],
-   "summary": "개장 직후 8% 넘게 빠져 거래가 멈췄고 5,185로 마감, 연초부터 10월까지 41.52% 하락해 아시아 최악",
+   "summary": "개장 직후 8% 넘게 빠져 거래가 멈췄고 11.57% 떨어진 5,185.11로 마감",
    "why": "MSCI가 인니 증시를 신흥시장에서 단독시장으로 낮추는 의견 수렴을 발표",
-   "how": "외국인 주식 순매도는 11-19 기준 올해 81.6조 루피아(인니 중앙은행). 11-19 지수는 5,194로 1.02% 하락 마감",
+   "how": "MSCI는 2027년 4월 30일까지 의견을 받고 6월 30일 이전에 결정을 발표",
    "content": null,
    "places": [
     {
-     "name": "id:f06e738e-58b8-4e47-92fe-153147f8e330",
-     "id": null
+     "name": "DKI Jakarta",
+     "id": "f06e738e-58b8-4e47-92fe-153147f8e330"
     }
    ],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:9b75bb91-066d-4366-a3df-291ebf6cccd4",
-      "id": null
+      "name": "Indonesia Stock Exchange",
+      "id": "9b75bb91-066d-4366-a3df-291ebf6cccd4"
      },
      {
-      "name": "id:82cb8ed4-1204-4497-997a-fe8c7773b31d",
-      "id": null
+      "name": "MSCI",
+      "id": "82cb8ed4-1204-4497-997a-fe8c7773b31d"
      }
     ]
    },
@@ -8664,7 +8442,7 @@
    ],
    "summary": "11월 이사회에서 기준금리를 5.75%에서 6%로 올림, 데스트리 총재는 선제 조치라고 설명",
    "why": "미 연준의 12월·내년 인상 가능성에 맞서 루피아 자산 매력을 지키고 물가를 목표(1.5~3.5%) 안에 묶으려 함",
-   "how": "금리와 함께 환헤지 비용 지원 등 비전통 수단도 씀. 발표 당일 루피아는 18,232로 소폭 반등",
+   "how": "금리와 함께 환헤지 비용 지원 등 비전통 수단도 씀. 예금·대출 금리도 0.25%p씩 올려 5.25%·6.75%",
    "content": null,
    "places": [],
    "featuring": [
@@ -8687,7 +8465,7 @@
   },
   {
    "id": "1c1b2dcf-04c0-4709-92fa-fa5d39b2d9ab",
-   "title": "인도네시아 하원, 범죄수익 몰수법 18년 만에 통과",
+   "title": "인도네시아 하원, 범죄수익 몰수법 통과",
    "type": "뉴스",
    "date": "2026-11-19",
    "parent": [
@@ -8698,13 +8476,13 @@
     }
    ],
    "summary": "부패 등 범죄와 얽힌 재산을 몰수하는 법안이 본회의에서 만장일치로 가결",
-   "why": "18년 동안 국회에 묶여 있던 법안. 18일 법사위(3위원회)가 정부와 합의해 본회의로 넘김",
-   "how": "푸안 의장은 여론 압박 때문이 아니라 충분한 논의와 국민 참여의 결과라고 말함",
+   "why": "2010년 국회에 제출된 법안. 18일 하원 3위원회와 정부가 1차 논의를 마치고 본회의로 넘기기로 합의",
+   "how": "푸안 마하라니 의장이 교섭단체와 의원들에게 두 번 동의를 묻고 「찬성」 답을 받아 의사봉을 두드림",
    "content": null,
    "places": [
     {
-     "name": "id:f06e738e-58b8-4e47-92fe-153147f8e330",
-     "id": null
+     "name": "DKI Jakarta",
+     "id": "f06e738e-58b8-4e47-92fe-153147f8e330"
     }
    ],
    "featuring": [
@@ -8736,8 +8514,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:0d188568-0e98-4a9e-a7f1-ec4d97e5550a",
-     "id": null
+     "name": "구월동",
+     "id": "0d188568-0e98-4a9e-a7f1-ec4d97e5550a"
     }
    ],
    "featuring": [],
@@ -8774,8 +8552,8 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:060741eb-27b3-4570-9f00-b214bcb1a1d3",
-     "id": null
+     "name": "비",
+     "id": "060741eb-27b3-4570-9f00-b214bcb1a1d3"
     },
     {
      "name": "인탁",
@@ -8805,13 +8583,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
-     "id": null
-    },
-    {
      "name": "Japan",
-     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
-     "auto": true
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e"
     }
    ],
    "featuring": [],
@@ -8838,26 +8611,16 @@
    "content": null,
    "places": [
     {
-     "name": "id:e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "id": null
+     "name": "Tokyo",
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     },
     {
-     "name": "id:c8d2cb1c-5e86-424a-96e7-24f59e87e5c6",
-     "id": null
+     "name": "Osaka",
+     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6"
     },
     {
      "name": "Japan",
      "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
-     "auto": true
-    },
-    {
-     "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
-    },
-    {
-     "name": "Osaka",
-     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6",
      "auto": true
     }
    ],
@@ -8888,8 +8651,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:13d486c7-e762-44c5-8abe-61fd70fe1320",
-      "id": null
+      "name": "금융감독원",
+      "id": "13d486c7-e762-44c5-8abe-61fd70fe1320"
      }
     ]
    },
@@ -8915,8 +8678,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:4ea645ed-5bae-44d9-8aeb-468b9f0a4589",
-     "id": null
+     "name": "춘천시",
+     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589"
     }
    ],
    "featuring": [],
@@ -8962,8 +8725,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:73223290-920b-403e-be26-e5107d0b30b4",
-      "id": null
+      "name": "국민의힘",
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      }
     ]
    },
@@ -8978,9 +8741,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "5531e306-6726-4316-95e5-fd7b32e53a14",
+     "id": "b8dc39d2-e5a5-46a6-8622-512fc5c216af",
      "category": "장소",
-     "name": "북구"
+     "name": "전남광주통합특별시"
     }
    ],
    "summary": "국토부 철도지하화 통합개발 종합계획 공청회에서 광주역 일대 철로 지하화와 상부 약 16만㎡ 복합개발을 건의",
@@ -8989,8 +8752,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:b8dc39d2-e5a5-46a6-8622-512fc5c216af",
-     "id": null
+     "name": "전남광주통합특별시",
+     "id": "b8dc39d2-e5a5-46a6-8622-512fc5c216af"
     }
    ],
    "featuring": [],
@@ -9022,9 +8785,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "b8dc39d2-e5a5-46a6-8622-512fc5c216af",
-     "category": "장소",
-     "name": "전남광주통합특별시"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "통합특별시장이 통합지방정부 지원기금을 관리·운용하는 개정안이 민주당 주도로 법안소위를 넘음",
@@ -9046,12 +8809,12 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:ad10c0cf-7884-490a-82b1-feb9d72682c2",
-      "id": null
+      "name": "더불어민주당",
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
      },
      {
-      "name": "id:73223290-920b-403e-be26-e5107d0b30b4",
-      "id": null
+      "name": "국민의힘",
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      }
     ]
    },
@@ -9086,7 +8849,7 @@
    "id": "8103d6f3-623c-47b2-bfae-96ce863cbeb2",
    "title": "전북교육청 통학차량 관리시스템 해킹, 9천900여 명 정보 유출",
    "type": "뉴스",
-   "date": "2026-11-19",
+   "date": "2026-11-15",
    "parent": [
     {
      "id": "7ec2e086-a7f2-4b1a-b32f-334ca160d5e1",
@@ -9100,8 +8863,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:652f61b7-7013-436c-adda-7b76f78fab66",
-     "id": null
+     "name": "전주시",
+     "id": "652f61b7-7013-436c-adda-7b76f78fab66"
     }
    ],
    "featuring": [],
@@ -9201,8 +8964,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:334bc996-5344-4cbe-b375-626a8eb1c598",
-     "id": null
+     "name": "상림동",
+     "id": "334bc996-5344-4cbe-b375-626a8eb1c598"
     }
    ],
    "featuring": [],
@@ -9246,20 +9009,11 @@
      "name": "전주시"
     }
    ],
-   "summary": "지난해보다 14일, 평년보다 열흘 이른 첫눈으로 정읍·순창에서도 관측됨",
+   "summary": "전주에 올겨울 첫눈이 관측됨, 지난해(12월 3일)보다 14일 · 평년(11월 29일)보다 열흘 빠름",
    "why": null,
-   "how": null,
+   "how": "전북 동부에 대설 예비특보, 20일까지 남부내륙 · 북동부 3~8cm 예상",
    "content": null,
-   "places": [
-    {
-     "name": "id:1334a292-b835-490e-96a6-5af428b05301",
-     "id": null
-    },
-    {
-     "name": "id:332d7da8-0db3-4a6b-a7e2-a8b72eb6c78f",
-     "id": null
-    }
-   ],
+   "places": [],
    "featuring": [],
    "other_fields": {},
    "url": "https://www.yna.co.kr/view/AKR20261119085900055",
@@ -9354,8 +9108,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:f06e738e-58b8-4e47-92fe-153147f8e330",
-     "id": null
+     "name": "DKI Jakarta",
+     "id": "f06e738e-58b8-4e47-92fe-153147f8e330"
     }
    ],
    "featuring": [
@@ -9427,24 +9181,24 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:ec177075-2a4a-4bf9-8def-d15f280c3555",
-     "id": null
+     "name": "구교환",
+     "id": "ec177075-2a4a-4bf9-8def-d15f280c3555"
     },
     {
-     "name": "id:03190c38-7bf8-48a9-8dcd-585fc9e63788",
-     "id": null
+     "name": "유해진",
+     "id": "03190c38-7bf8-48a9-8dcd-585fc9e63788"
     },
     {
-     "name": "id:3f5a7427-5f6d-4f0c-b77d-3317beabc043",
-     "id": null
+     "name": "조인성",
+     "id": "3f5a7427-5f6d-4f0c-b77d-3317beabc043"
     },
     {
-     "name": "id:68cccf0a-0cf2-458c-8830-03ed76238f84",
-     "id": null
+     "name": "박해일",
+     "id": "68cccf0a-0cf2-458c-8830-03ed76238f84"
     },
     {
-     "name": "id:280b5719-d897-4003-b901-d2f83def621b",
-     "id": null
+     "name": "설경구",
+     "id": "280b5719-d897-4003-b901-d2f83def621b"
     }
    ],
    "other_fields": {},
@@ -9466,50 +9220,43 @@
    ],
    "summary": "랭글리가 올해의 엔터테이너·여성 보컬·앨범(Dandelion)·싱글·노래(Choosin' Texas) 등 6개를 받아 한 해 최다 기록",
    "why": null,
-   "how": "신인상은 스티븐 윌슨 주니어. 테일러 스위프트는 13년 만에 CMA 무대에서 키스 어번 밴조 반주로 「I Knew It, I Knew You」와 「Our Song」을 부르고 브룩스 앤 던에게 공로상을 건넴. 진행 레이니 윌슨",
+   "how": "신인상은 스티븐 윌슨 주니어. 테일러 스위프트는 키스 어번과 「I Knew It, I Knew You」 · 「Our Song」을 부르고 브룩스 앤 던에게 공로상을 건넴. 진행 레이니 윌슨",
    "content": null,
-   "places": [
-    {
-     "name": "id:616be355-292c-44a5-a81e-87f7dd693ff6",
-     "id": null
-    },
-    {
-     "name": "Texas",
-     "id": "c45c1404-ee08-4e7a-b6f3-dbcd01e86807",
-     "auto": true
-    }
-   ],
+   "places": [],
    "featuring": [
     {
-     "name": "id:91a96a37-791a-466d-b390-23ed9c2a32fb",
-     "id": null
+     "name": "Ella Langley",
+     "id": "91a96a37-791a-466d-b390-23ed9c2a32fb"
     },
     {
-     "name": "id:d4b91005-dac8-4f1c-8b1e-4299bf9a5268",
-     "id": null
+     "name": "Miranda Lambert",
+     "id": "d4b91005-dac8-4f1c-8b1e-4299bf9a5268"
     },
     {
-     "name": "id:003d24f6-0402-427b-bccd-cf4a69a934ff",
-     "id": null
+     "name": "Stephen Wilson Jr.",
+     "id": "003d24f6-0402-427b-bccd-cf4a69a934ff"
     },
     {
-     "name": "id:b910b5a3-99dd-4233-9b0f-3945c9555342",
-     "id": null
+     "name": "Taylor Swift",
+     "id": "b910b5a3-99dd-4233-9b0f-3945c9555342"
     },
     {
-     "name": "id:f29d3d7b-22fb-4f57-9cf5-0635d43a6095",
-     "id": null
+     "name": "Keith Urban",
+     "id": "f29d3d7b-22fb-4f57-9cf5-0635d43a6095"
     },
     {
-     "name": "id:0958f8b1-430a-43dd-8792-057748db389e",
-     "id": null
-    },
-    {
-     "name": "id:051a4fbe-e259-4203-aeb1-9215e1ef5b3f",
-     "id": null
+     "name": "Lainey Wilson",
+     "id": "051a4fbe-e259-4203-aeb1-9215e1ef5b3f"
     }
    ],
-   "other_fields": {},
+   "other_fields": {
+    "orgs": [
+     {
+      "name": "Brooks & Dunn",
+      "id": "0958f8b1-430a-43dd-8792-057748db389e"
+     }
+    ]
+   },
    "url": "https://variety.com/2026/music/news/cma-awards-winners-2026-complete-list-1236952628/",
    "source": "뉴스",
    "added_at": "2026-11-20T02:34:16.635973+00:00"
@@ -9534,19 +9281,22 @@
    "featuring": [
     {
      "name": "Jason Momoa",
-     "id": null
+     "id": "148b7085-5443-4ac4-8843-8c3c64818b78",
+     "auto": true
     },
     {
      "name": "Florence Pugh",
-     "id": null
+     "id": "4498f2e0-bddd-4366-bfb9-c19b35a7539a",
+     "auto": true
     },
     {
      "name": "Anya Taylor-Joy",
-     "id": null
+     "id": "d902e8d1-f0b5-4da9-93cd-9bdc1b152b9b",
+     "auto": true
     },
     {
-     "name": "id:041fc59a-6341-4542-bc77-5acd04b411b7",
-     "id": null
+     "name": "Denis Villeneuve",
+     "id": "041fc59a-6341-4542-bc77-5acd04b411b7"
     }
    ],
    "other_fields": {},
@@ -9589,9 +9339,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "7250e6ab-33cc-4cbc-9dbe-7a3d960305d3",
-     "category": "장소",
-     "name": "제주특별자치도"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "법무부·해수부·경찰청·제주도 등이 입국심사·단속 강화와 부작용 최소화를 논의",
@@ -9609,16 +9359,16 @@
     "prev_record": "8c379c55-d885-4847-b2b1-ba4a71b9ee89",
     "orgs": [
      {
-      "name": "id:a9b81ba4-3948-4481-8972-9bd2fb40f4a4",
-      "id": null
+      "name": "법무부",
+      "id": "a9b81ba4-3948-4481-8972-9bd2fb40f4a4"
      },
      {
-      "name": "id:5ed4d347-4872-4220-863e-1a9adfd65d1e",
-      "id": null
+      "name": "해양수산부",
+      "id": "5ed4d347-4872-4220-863e-1a9adfd65d1e"
      },
      {
-      "name": "id:0a2bd45b-4ca4-46ac-9f01-6db6c7b0ce55",
-      "id": null
+      "name": "경찰청",
+      "id": "0a2bd45b-4ca4-46ac-9f01-6db6c7b0ce55"
      }
     ]
    },
@@ -9673,9 +9423,9 @@
      "name": "더불어민주당"
     }
    ],
-   "summary": "한덕수 파기환송 직후 비상 의원총회에서 두 시간 넘는 격론 끝에 조 대법원장 탄핵을 결정하고 내용·절차는 지도부에 위임",
+   "summary": "한덕수 2심 판결이 대법원에서 일부 무죄 취지로 파기환송되자 비공개 의원총회에서 격론 끝에 조희대 대법원장 탄핵 방침을 정하고 절차는 지도부에 위임",
    "why": "대법원이 한덕수 사건을 일부 무죄 취지로 파기환송하자 내란 정당화라며 반발",
-   "how": "김민석 대표는 역사적 기회주의자를 위한 변명이라고 비판. 법조인 출신 의원들의 반대도 있었음. 국민의힘은 보복 탄핵이라 반발하고 여야 대표가 SNS로 충돌",
+   "how": "김민석 대표는 「역사적 반역」 판결이라 비판. 김남희 · 김기표 등 법조인 출신 의원들은 반대 의견. 20일 의총에서 당론 채택 예정. 국민의힘은 「의회 쿠데타 선언」이라 반발",
    "content": null,
    "places": [
     {
@@ -9695,22 +9445,18 @@
     {
      "name": "조희대",
      "id": null
-    },
-    {
-     "name": "장동혁",
-     "id": null
     }
    ],
    "other_fields": {
     "prev_record": "c74861c8-4431-47bd-91ae-d4b2e54e6a90",
     "orgs": [
      {
-      "name": "id:fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "id": null
+      "name": "대법원",
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      },
      {
-      "name": "id:73223290-920b-403e-be26-e5107d0b30b4",
-      "id": null
+      "name": "국민의힘",
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      }
     ]
    },
@@ -9730,7 +9476,7 @@
      "name": "조국혁신당"
     }
    ],
-   "summary": "한덕수 파기환송에 대법원을 내란 세탁원이라 비판하며 다음 주까지 탄핵안 통과를 요구하고 국회 앞 촛불집회",
+   "summary": "한덕수 파기환송에 대법원을 「내란 세탁원」이라 비판하며 다음 주까지 탄핵안 통과를 요구하고 국회 앞에서 응원봉 비상행동 집회",
    "why": "대법원이 한덕수 내란 혐의 일부를 무죄 취지로 파기환송",
    "how": "진보당도 조희대 사법부를 공범이라며 탄핵을 주장",
    "content": null,
@@ -9753,12 +9499,12 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:1c683f7e-5f00-436d-a2a5-4de4705cc059",
-      "id": null
+      "name": "진보당",
+      "id": "1c683f7e-5f00-436d-a2a5-4de4705cc059"
      },
      {
-      "name": "id:fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "id": null
+      "name": "대법원",
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      }
     ]
    },
@@ -9773,9 +9519,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58",
      "category": "국가",
-     "name": "Korea"
+     "name": "United States"
     }
    ],
    "summary": "제35방공포병여단 예하 델타 포대가 여러 탐지 · 요격 자산을 한 망으로 묶는 IBCS 운용 인증을 마침",
@@ -9865,12 +9611,12 @@
    "content": null,
    "places": [
     {
-     "name": "id:21af5027-9852-4836-8d5c-a2b95a350cb6",
-     "id": null
+     "name": "벡스코",
+     "id": "21af5027-9852-4836-8d5c-a2b95a350cb6"
     },
     {
-     "name": "id:31e8453e-81c6-4253-b100-84a1940bb3f7",
-     "id": null
+     "name": "해운대구",
+     "id": "31e8453e-81c6-4253-b100-84a1940bb3f7"
     },
     {
      "name": "부산광역시",
@@ -9880,8 +9626,8 @@
    ],
    "featuring": [
     {
-     "name": "id:5504ee2e-1b09-4291-b5a5-aa7eb5086685",
-     "id": null
+     "name": "QWER",
+     "id": "5504ee2e-1b09-4291-b5a5-aa7eb5086685"
     }
    ],
    "other_fields": {
@@ -9891,8 +9637,8 @@
       "id": null
      },
      {
-      "name": "id:6286e584-2e77-4ea0-ab84-d512d9ae3f40",
-      "id": null
+      "name": "크래프톤",
+      "id": "6286e584-2e77-4ea0-ab84-d512d9ae3f40"
      }
     ]
    },
@@ -9918,8 +9664,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:fa69b970-c167-4311-8fa9-6ed475139c1a",
-     "id": null
+     "name": "Yamanashi",
+     "id": "fa69b970-c167-4311-8fa9-6ed475139c1a"
     },
     {
      "name": "Japan",
@@ -9929,21 +9675,20 @@
    ],
    "featuring": [
     {
-     "name": "id:426ff288-ce55-4ba1-bd2b-c9a6e4b1e14c",
-     "id": null
+     "name": "지창욱",
+     "id": "426ff288-ce55-4ba1-bd2b-c9a6e4b1e14c"
     },
     {
-     "name": "id:71b6711f-2d2f-4d77-9607-370a1a6ea8ce",
-     "id": null
+     "name": "시온",
+     "id": "71b6711f-2d2f-4d77-9607-370a1a6ea8ce"
+    },
+    {
+     "name": "NCT WISH",
+     "id": "50dacf9d-bfad-4951-81f5-6390cac6f865"
     }
    ],
    "other_fields": {
-    "orgs": [
-     {
-      "name": "id:50dacf9d-bfad-4951-81f5-6390cac6f865",
-      "id": null
-     }
-    ]
+    "orgs": []
    },
    "url": "https://sports.donga.com/ent/article/all/20261119/135051906/1",
    "source": "뉴스",
@@ -9967,8 +9712,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:2ed8ea83-8562-4fce-ad9e-177c3c09b327",
-     "id": null
+     "name": "마령면",
+     "id": "2ed8ea83-8562-4fce-ad9e-177c3c09b327"
     }
    ],
    "featuring": [],
@@ -9984,9 +9729,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "6cc78e43-34d6-4ab3-82db-e09508c43ec1",
-     "category": "장소",
-     "name": "창원시"
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea"
     }
    ],
    "summary": "17년 검역 협상 끝에 처음 수출된 창원 단감 19.6톤이 상하이 도매시장과 현지 60여 매장에서 팔리기 시작",
@@ -9995,16 +9740,16 @@
    "content": null,
    "places": [
     {
-     "name": "id:86593309-64b6-4880-92d7-d5eeb20c0c5f",
-     "id": null
+     "name": "Shanghai",
+     "id": "86593309-64b6-4880-92d7-d5eeb20c0c5f"
     }
    ],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:4ab7382f-c86d-438c-b7e0-3ffe2acc4079",
-      "id": null
+      "name": "농림축산식품부",
+      "id": "4ab7382f-c86d-438c-b7e0-3ffe2acc4079"
      },
      {
       "name": "한국농수산식품유통공사",
@@ -10172,38 +9917,38 @@
      "name": "The Comeback King"
     }
    ],
-   "summary": "한물간 컨트리 스타가 대학으로 돌아가는 이야기, 글렌 파월과 저드 애퍼타우가 함께 각본",
+   "summary": "여자친구의 거짓 바람 주장으로 경력이 무너진 컨트리 스타가 재기하는 이야기, 글렌 파월과 저드 애퍼타우가 함께 각본",
    "why": null,
    "how": "애퍼타우가 감독, 유니버설 배급. 팝스타 여자친구 역 매들린 클라인, 크리스틴 밀리오티 출연. 미란다 램버트·크리스 스테이플턴 등 컨트리 가수들이 본인으로 나옴. 애퍼타우의 2022년 「더 버블」 뒤 첫 영화",
    "content": null,
    "places": [],
    "featuring": [
     {
-     "name": "id:8db2dc37-14bb-44de-a13b-b0e6be86310a",
-     "id": null
+     "name": "Glen Powell",
+     "id": "8db2dc37-14bb-44de-a13b-b0e6be86310a"
     },
     {
-     "name": "id:834582f0-f8c4-4fc5-8d26-c09d10b9b61d",
-     "id": null
+     "name": "Judd Apatow",
+     "id": "834582f0-f8c4-4fc5-8d26-c09d10b9b61d"
     },
     {
-     "name": "id:f8e8dd5f-03e8-4eb8-8c99-2c34c87d6d57",
-     "id": null
+     "name": "Madelyn Cline",
+     "id": "f8e8dd5f-03e8-4eb8-8c99-2c34c87d6d57"
     },
     {
-     "name": "id:180e43bf-79b5-4609-80e5-861d2d5e92e1",
-     "id": null
+     "name": "Cristin Milioti",
+     "id": "180e43bf-79b5-4609-80e5-861d2d5e92e1"
     },
     {
-     "name": "id:d4b91005-dac8-4f1c-8b1e-4299bf9a5268",
-     "id": null
+     "name": "Miranda Lambert",
+     "id": "d4b91005-dac8-4f1c-8b1e-4299bf9a5268"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:f300f955-6c9e-4604-b0ef-47d574a6b415",
-      "id": null
+      "name": "Universal Pictures",
+      "id": "f300f955-6c9e-4604-b0ef-47d574a6b415"
      }
     ]
    },
@@ -10264,16 +10009,16 @@
    "content": null,
    "places": [
     {
-     "name": "id:7ef8c76b-c462-46c1-b0af-baf99363bacc",
-     "id": null
+     "name": "안덕면",
+     "id": "7ef8c76b-c462-46c1-b0af-baf99363bacc"
     }
    ],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:31af608e-6af7-4f4f-82c1-c0cb14e8fd3f",
-      "id": null
+      "name": "국가유산청",
+      "id": "31af608e-6af7-4f4f-82c1-c0cb14e8fd3f"
      }
     ]
    },
@@ -10283,9 +10028,9 @@
   },
   {
    "id": "c18242dc-f26d-4adb-aaa3-984156834a16",
-   "title": "청와대 「한한령 어느 정도 진전」, 엔터 · 미디어주 급등",
+   "title": "청와대 「한한령 어느 정도 진전」, 콘텐츠 최혜국 대우 확인",
    "type": "경과",
-   "date": "2026-11-19",
+   "date": "2026-11-18",
    "parent": [
     {
      "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
@@ -10295,16 +10040,12 @@
    ],
    "summary": "한중 FTA 서비스 · 투자 협상 타결로 한국 콘텐츠의 최혜국 대우를 확인했다며 한한령 완화 기대에 힘을 실음",
    "why": "협상 개시 8년 8개월 만에 콘텐츠 · 관광 · 법률 등 서비스 시장 진출 여건 개선과 최혜국 대우 의무 도입에 합의",
-   "how": "하준경 정책실장은 「한중 정상회담 경제 분야 최대 성과」라 평가. 공동제작을 드라마 · 예능 · 애니메이션까지 넓히는 부속서도 합의. 19일 스튜디오드래곤 상한가, JYP · 에스엠 · 하이브 등 일제히 상승",
+   "how": "하준경 정책실장은 FTA 서비스 · 투자 후속협상이 개시 8년 8개월 만에 타결돼 콘텐츠 · 관광 · 법률 분야 진출 여건을 넓혔다고 설명. 공연은 FTA에 명시되지 않아 부족하다는 평가도 함께",
    "content": null,
    "places": [
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
-    },
-    {
-     "name": "id:49386dfc-092b-4a70-ae69-e361d1116300",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     }
    ],
    "featuring": [
@@ -10315,24 +10056,7 @@
    ],
    "other_fields": {
     "prev_record": "23cfa68c-a501-46f2-8021-6d7d39922e45",
-    "orgs": [
-     {
-      "name": "id:1aeb981f-4786-4058-b502-23b5a981944b",
-      "id": null
-     },
-     {
-      "name": "id:e5eed119-8891-4a91-94cf-2e099524dc12",
-      "id": null
-     },
-     {
-      "name": "id:62486fb6-e153-4ec9-bafa-5584719f7b4e",
-      "id": null
-     },
-     {
-      "name": "스튜디오드래곤",
-      "id": null
-     }
-    ]
+    "orgs": []
    },
    "url": "https://www.newsis.com/view/NISX20261119_0003874098",
    "source": "뉴스",
@@ -10345,9 +10069,9 @@
    "date": "2026-11-19",
    "parent": [
     {
-     "id": "9c9257c1-4b6f-44f5-a1d3-d915c08cb27d",
+     "id": "09717372-08d9-4d15-bd31-70f274f85ce1",
      "category": "장소",
-     "name": "청원구"
+     "name": "청주시"
     }
    ],
    "summary": "내수읍 배드민턴체육관이 12월 1일부터 정식 운영에 들어감",
@@ -10356,18 +10080,17 @@
    "content": null,
    "places": [
     {
-     "name": "id:b5ace42f-3c15-4e45-abf5-3dcc92e915e8",
-     "id": null
+     "name": "청주시",
+     "id": "09717372-08d9-4d15-bd31-70f274f85ce1"
+    },
+    {
+     "name": "내수읍",
+     "id": "b5ace42f-3c15-4e45-abf5-3dcc92e915e8"
     }
    ],
    "featuring": [],
    "other_fields": {
-    "orgs": [
-     {
-      "name": "id:09717372-08d9-4d15-bd31-70f274f85ce1",
-      "id": null
-     }
-    ]
+    "orgs": []
    },
    "url": "https://www.yna.co.kr/view/AKR20261119058400064",
    "source": "뉴스",
@@ -10402,8 +10125,8 @@
       "id": null
      },
      {
-      "name": "id:21539af1-8960-4e59-a628-033d4361593c",
-      "id": null
+      "name": "전국민주노동조합총연맹",
+      "id": "21539af1-8960-4e59-a628-033d4361593c"
      }
     ]
    },
@@ -10423,8 +10146,8 @@
      "name": "Korea"
     }
    ],
-   "summary": "한성숙 총리가 작년 수능 시험지를 보관하고 부정행위 의혹을 철저히 밝히라고 긴급 지시",
-   "why": "AI 부정행위 의혹이 작년 수능까지 번질 수 있어 증거가 될 시험지를 남기려는 것",
+   "summary": "한성숙 총리가 지난해 수능 시험지를 보관하라고 긴급 지시",
+   "why": "",
    "how": null,
    "content": null,
    "places": [],
@@ -10436,7 +10159,8 @@
    ],
    "other_fields": {
     "prev_record": "11a8d9f8-294f-4990-ac39-4e152e83ba82",
-    "prev_auto": "함께 ['한성숙'] · 단어 ['보관', '수능', '총리']"
+    "prev_auto": "함께 ['한성숙'] · 단어 ['보관', '수능', '총리']",
+    "related_coverage": "2026-11-20 · MBC · https://imnews.imbc.com/replay/2026/nwtoday/article/6867149_37012.html"
    },
    "url": "https://www.yna.co.kr/view/AKR20261119096600001",
    "source": "뉴스",
@@ -10444,7 +10168,7 @@
   },
   {
    "id": "66d78004-212c-4350-ba84-00d8eac6c255",
-   "title": "최동석과 소송에 장문 입장문, 최동석 재반박",
+   "title": "최동석과 소송에 장문 입장문으로 반박",
    "type": "논란",
    "date": "2026-11-19",
    "parent": [
@@ -10454,15 +10178,15 @@
      "name": "박지윤"
     }
    ],
-   "summary": "박지윤은 부정행위 상대로 지목된 지인이 성소수자라며 반박, 최동석은 법원 판단을 외면한 주장이라 맞섬",
+   "summary": "박지윤이 SNS 장문 입장문에서 최동석이 부정행위 상대로 지목한 지인 A씨는 사실혼 배우자가 있는 남성 성소수자라고 반박",
    "why": "16일 상간자 소송 항소심이 지인에게 위자료 3000만원 지급을 명함",
-   "how": "박지윤은 최동석이 딸에게 6000만원을 주며 항소 포기 설득을 시켰다고 주장, 최동석은 대화 맥락을 왜곡한 일방적 주장이라며 법적 조치 검토",
+   "how": "박지윤은 최동석이 큰딸에게 6000만원을 줄 테니 항소 포기를 설득하라고 했다고 주장, 딸이 거절하자 SNS 를 차단해 면접교섭이 끊겼다고 밝힘",
    "content": null,
    "places": [],
    "featuring": [
     {
-     "name": "id:c12f3c87-d53d-4755-b118-582a163f814f",
-     "id": null
+     "name": "최동석",
+     "id": "c12f3c87-d53d-4755-b118-582a163f814f"
     }
    ],
    "other_fields": {},
@@ -10488,8 +10212,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:64985b93-1f47-4d72-9361-ca37a2264f57",
-     "id": null
+     "name": "강릉시",
+     "id": "64985b93-1f47-4d72-9361-ca37a2264f57"
     }
    ],
    "featuring": [
@@ -10517,14 +10241,9 @@
    ],
    "summary": "장동혁 대표 쪽이 한동훈 의원 등 친한계를 여권 내란 공세에 동조한 세력으로 몰며 공세, 친한계는 반발",
    "why": "추경호 대구시장이 계엄 해제 표결 방해 혐의 1심에서 무죄",
-   "how": "안철수·윤상현 의원도 가세. 대구에선 국민의힘이 특검 사과를, 민주당 대구시당이 특검 항소를 요구",
+   "how": "안철수 의원이 공세에 합류했고, 윤상현 의원은 지금은 단죄가 아니라 통합을 말할 때라고 반박",
    "content": null,
-   "places": [
-    {
-     "name": "id:44215e3d-3c20-4168-929c-552fe86092d8",
-     "id": null
-    }
-   ],
+   "places": [],
    "featuring": [
     {
      "name": "추경호",
@@ -10551,8 +10270,8 @@
     "prev_record": "4b70140e-f57d-4623-b6ac-a8aad0140e1e",
     "orgs": [
      {
-      "name": "id:ad10c0cf-7884-490a-82b1-feb9d72682c2",
-      "id": null
+      "name": "더불어민주당",
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
      }
     ]
    },
@@ -10604,15 +10323,15 @@
    ],
    "summary": "센서타워 추정, 내려받기 전용판이 하루 만에 2459만 장 팔렸고 75%가 플레이스테이션",
    "why": null,
-   "how": "출시 직전 몇 시간 새 7억 1천만 달러가 늘어남. 2013년 GTA V 첫날 기록 8억 달러의 세 배 가까이. 동시 시청자는 트위치·유튜브·킥 합쳐 최고 791만 명, 인터넷 교환 업체 DE-CIX 는 처리량 신기록(초당 33.03테라비트)",
+   "how": "출시 직전 몇 시간 새 7억 1천만 달러가 늘어남. 2013년 GTA V 첫날 기록 8억 달러를 크게 넘었고 몇 주 안에 30억 달러에 이를 전망",
    "content": null,
    "places": [],
    "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:cbcf6bdd-8f2e-4626-812e-7201af457cc0",
-      "id": null
+      "name": "Rockstar Games",
+      "id": "cbcf6bdd-8f2e-4626-812e-7201af457cc0"
      }
     ]
    },
@@ -10668,8 +10387,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:6b0f221f-15ec-4af3-9209-c68e914870f1",
-     "id": null
+     "name": "장안면",
+     "id": "6b0f221f-15ec-4af3-9209-c68e914870f1"
     }
    ],
    "featuring": [],
@@ -10719,18 +10438,17 @@
    "content": null,
    "places": [
     {
-     "name": "id:0d653f26-728d-4b86-958e-18b1a2fcbcd4",
-     "id": null
+     "name": "충청북도",
+     "id": "8ebdcce2-d86a-40a1-92ae-0ab743d808e3"
+    },
+    {
+     "name": "주덕읍",
+     "id": "0d653f26-728d-4b86-958e-18b1a2fcbcd4"
     }
    ],
    "featuring": [],
    "other_fields": {
-    "orgs": [
-     {
-      "name": "id:8ebdcce2-d86a-40a1-92ae-0ab743d808e3",
-      "id": null
-     }
-    ]
+    "orgs": []
    },
    "url": "https://www.yna.co.kr/view/AKR20261119038200064",
    "source": "뉴스",
@@ -10759,8 +10477,8 @@
      "id": null
     },
     {
-     "name": "id:8505e922-0921-452c-8ce2-25c88f761d81",
-     "id": null
+     "name": "Jensen Huang",
+     "id": "8505e922-0921-452c-8ce2-25c88f761d81"
     }
    ],
    "other_fields": {
@@ -10836,8 +10554,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:f02579db-1fc5-4376-995f-1ecc94a86a20",
-     "id": null
+     "name": "New York City",
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20"
     }
    ],
    "featuring": [
@@ -10881,15 +10599,15 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:76a66018-e1ea-41d5-a155-d73f29b16676",
-     "id": null
+     "name": "Chris Pratt",
+     "id": "76a66018-e1ea-41d5-a155-d73f29b16676"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:4d9849ef-b432-4b88-9c32-4629c6ccc21c",
-      "id": null
+      "name": "Paramount Pictures",
+      "id": "4d9849ef-b432-4b88-9c32-4629c6ccc21c"
      }
     ]
    },
@@ -10951,8 +10669,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:64985b93-1f47-4d72-9361-ca37a2264f57",
-     "id": null
+     "name": "강릉시",
+     "id": "64985b93-1f47-4d72-9361-ca37a2264f57"
     }
    ],
    "featuring": [],
@@ -10984,30 +10702,12 @@
      "name": "태안군"
     }
    ],
-   "summary": "7명이 탄 7.93t 통발어선이 서격렬비도 해상에서 신호가 끊긴 뒤 흔적조차 발견되지 않음",
-   "why": "17일 새벽 4시 32분 마지막 위치 확인 뒤 신호 소실, 경보 시스템이 없어 신고까지 20시간 넘게 걸림",
-   "how": "해경이 함선 45척·항공기 8대로 수색 범위를 남북 80·동서 50마일로 넓혔으나 부유물·기름띠 없음. 이재명 대통령이 순방 중 수색 최선·실종 가족 지원 지시. 선원은 한국인 3명·인도네시아인 4명",
+   "summary": "7명이 탄 7.93t 어선 해광호가 태안 앞바다에서 신호가 끊긴 지 사흘째 흔적을 찾지 못함",
+   "why": "17일 새벽 4시 32분 마지막 신호 뒤 자동 경보 시스템이 없어 연락 두절 신고까지 20시간 넘게 걸림(18일 새벽 1시쯤 신고)",
+   "how": "태안해경이 주변 약 60마일을 집중 수색했으나 유류품 · 부유물 · 기름띠 없음. 동료 선주들은 상선 충돌 가능성을 제기",
    "content": null,
-   "places": [
-    {
-     "name": "id:40bcc104-3d66-4d05-a069-fd384029a802",
-     "id": null
-    },
-    {
-     "name": "서격렬비도",
-     "id": null
-    },
-    {
-     "name": "안흥외항",
-     "id": null
-    }
-   ],
-   "featuring": [
-    {
-     "name": "이재명",
-     "id": null
-    }
-   ],
+   "places": [],
+   "featuring": [],
    "other_fields": {
     "orgs": [
      {
@@ -11050,8 +10750,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:bf606813-e3c0-4504-9f4d-e1ac8ef9f575",
-      "id": null
+      "name": "국방부",
+      "id": "bf606813-e3c0-4504-9f4d-e1ac8ef9f575"
      },
      {
       "name": "해군잠수함사령부",
@@ -11081,16 +10781,16 @@
    "content": null,
    "places": [
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     },
     {
-     "name": "id:5a49540b-317b-404b-8f74-e04e0f561e9d",
-     "id": null
+     "name": "치린산장",
+     "id": "5a49540b-317b-404b-8f74-e04e0f561e9d"
     },
     {
-     "name": "id:49386dfc-092b-4a70-ae69-e361d1116300",
-     "id": null
+     "name": "China",
+     "id": "49386dfc-092b-4a70-ae69-e361d1116300"
     }
    ],
    "featuring": [
@@ -11120,14 +10820,14 @@
      "name": "Russia"
     }
    ],
-   "summary": "지난해 8월 알래스카 회담 이후 처음 만나 우크라이나 전쟁을 주로 논의했다고 러시아가 밝힘",
+   "summary": "트럼프가 APEC이 열린 선전에서 푸틴과 약 40분 약식 회동, 러시아 쪽은 우크라이나 전쟁이 주된 의제였다고 밝힘",
    "why": null,
-   "how": "크렘린궁은 시간 부족으로 정식 회담 대신 짧은 회동이 된다고 설명. 이 회동으로 미중 정상회담이 40여 분 늦게 시작됨",
+   "how": "같은 날 세 정상은 선전에서 사상 첫 미·중·러 정상회담을 열고 평화선언을 발표",
    "content": null,
    "places": [
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     }
    ],
    "featuring": [
@@ -11163,8 +10863,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:f9c4bce4-dd68-46ca-93d4-0fb22ea594f1",
-     "id": null
+     "name": "Shenzhen",
+     "id": "f9c4bce4-dd68-46ca-93d4-0fb22ea594f1"
     }
    ],
    "featuring": [
@@ -11192,18 +10892,9 @@
    ],
    "summary": "NYT 보도, 이란 미사일 · 드론 전력 재건 경고에 공습 여부를 저울질하나 결정은 아직",
    "why": "네타냐후 이스라엘 총리가 4~7일 합동 공습을 강하게 요구. 중간선거 참패로 유가 · 물가 불만도 부담",
-   "how": "쿠퍼 중부사령관이 18일 이스라엘을 찾아 군 참모총장 · 모사드 국장과 회동. 국방부는 「모든 선택지가 테이블 위에 있다」고 밝힘. 행정부 안에서도 견해차",
+   "how": "미군은 명령이 내려지면 단기간에 이란 에너지·드론·미사일 시설을 칠 준비를 마쳤고, 행정부 안에선 정보 신뢰성과 재공격을 놓고 견해차",
    "content": null,
-   "places": [
-    {
-     "name": "Israel",
-     "id": null
-    },
-    {
-     "name": "Iran",
-     "id": null
-    }
-   ],
+   "places": [],
    "featuring": [
     {
      "name": "도널드 트럼프",
@@ -11212,19 +10903,10 @@
     {
      "name": "베냐민 네타냐후",
      "id": null
-    },
-    {
-     "name": "브래드 쿠퍼",
-     "id": null
     }
    ],
    "other_fields": {
-    "orgs": [
-     {
-      "name": "미국 중부사령부",
-      "id": null
-     }
-    ]
+    "orgs": []
    },
    "url": "https://www.yna.co.kr/view/AKR20261119122800009",
    "source": "뉴스",
@@ -11289,21 +10971,16 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:9f63fd28-6958-491a-8c9c-ef43c3a6d09b",
-     "id": null
+     "name": "김민호",
+     "id": "9f63fd28-6958-491a-8c9c-ef43c3a6d09b"
     },
     {
-     "name": "id:466a5597-e791-4da8-b161-eab55a041ef2",
-     "id": null
+     "name": "류경수",
+     "id": "466a5597-e791-4da8-b161-eab55a041ef2"
     }
    ],
    "other_fields": {
-    "orgs": [
-     {
-      "name": "KT스튜디오지니",
-      "id": null
-     }
-    ]
+    "orgs": []
    },
    "url": "https://sports.donga.com/ent/article/all/20261119/135051629/1",
    "source": "뉴스",
@@ -11362,8 +11039,8 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
-      "id": null
+      "name": "Netflix",
+      "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba"
      }
     ]
    },
@@ -11413,28 +11090,25 @@
      "name": "포항시"
     }
    ],
-   "summary": "포스코 · 포스텍 · 철강협회 등이 철강 제조 현장의 공정 자동화 · 품질 · 안전 관리에 AI 를 접목하도록 돕기로 함",
+   "summary": "경북도가 포항시청에서 도 · 포항시 · 한국철강협회 · 포스텍 · 철강·AI 기업 30곳이 참여하는 철강산업 AI 융합 지원 협의체를 출범",
    "why": "공급과잉 · 보호무역 · 탄소 규제로 철강산업이 어려움",
-   "how": "2030년까지 240억 원을 들여 블루밸리국가산단에 AI 연산 기반시설을 짓는 실증허브 사업과 연계",
+   "how": "현장 AI 과제 발굴 · 기업 간 기술 연계 지원, 우수사례 DB화. 2030년까지 블루밸리 국가산단에 철강 AI 융합 실증센터 건립 계획",
    "content": null,
-   "places": [],
+   "places": [
+    {
+     "name": "경상북도",
+     "id": "22fe2cea-cdc5-4cbb-860f-5d652ddf2f46"
+    }
+   ],
    "featuring": [],
    "other_fields": {
     "orgs": [
-     {
-      "name": "id:fc4682f4-5aec-4a2a-8978-a34fefd460cb",
-      "id": null
-     },
      {
       "name": "포스텍",
       "id": null
      },
      {
       "name": "한국철강협회",
-      "id": null
-     },
-     {
-      "name": "id:22fe2cea-cdc5-4cbb-860f-5d652ddf2f46",
       "id": null
      }
     ]
@@ -11468,12 +11142,12 @@
       "id": null
      },
      {
-      "name": "id:ba97711e-2aa1-43d1-b967-7649075c6e84",
-      "id": null
+      "name": "Democratic Party",
+      "id": "ba97711e-2aa1-43d1-b967-7649075c6e84"
      },
      {
-      "name": "id:191d4d6f-11f2-43e8-a504-083503708df1",
-      "id": null
+      "name": "Republican Party",
+      "id": "191d4d6f-11f2-43e8-a504-083503708df1"
      }
     ]
    },
@@ -11584,52 +11258,43 @@
    ],
    "summary": "반도체 호조로 미국·중국·독일에 이어 세계 네 번째로 연간 수출 1조 달러 고지에 오름",
    "why": "삼성전자·SK하이닉스 등 반도체 수출이 크게 늘고 석유제품 등 다른 품목 수출도 증가",
-   "how": "경제 6단체는 공동 환영 메시지에서 투자·일자리로 이어지는 선순환을 당부. 이소영 중기부 장관은 법인 파산 신청이 3년 새 두 배 넘게 늘었다며 이면의 어려움을 살피겠다고 밝힘",
+   "how": "경제 6단체는 공동 환영 메시지에서 수출이 투자 · 일자리 · 지역경제로 이어지는 선순환을 당부하고 정부에 예측 가능한 경영 환경을 요청",
    "content": null,
    "places": [],
-   "featuring": [
-    {
-     "name": "이소영",
-     "id": null
-    }
-   ],
+   "featuring": [],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:e0d7c013-beb1-427d-9073-1cb7535b24f6",
-      "id": null
+      "name": "삼성전자",
+      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6"
      },
      {
-      "name": "id:f38bbe00-4de8-42dc-871e-da97250df3a4",
-      "id": null
+      "name": "SK하이닉스",
+      "id": "f38bbe00-4de8-42dc-871e-da97250df3a4"
      },
      {
-      "name": "id:e7fa4fbf-dd4b-4d52-a8e1-15ba1a782777",
-      "id": null
+      "name": "한국무역협회",
+      "id": "e7fa4fbf-dd4b-4d52-a8e1-15ba1a782777"
      },
      {
-      "name": "id:7ffb8fdf-6174-4afc-81db-7c902bad0ccb",
-      "id": null
+      "name": "대한상공회의소",
+      "id": "7ffb8fdf-6174-4afc-81db-7c902bad0ccb"
      },
      {
-      "name": "id:b32d4a1e-a61a-4858-918f-1bea26d8a291",
-      "id": null
+      "name": "한국경제인협회",
+      "id": "b32d4a1e-a61a-4858-918f-1bea26d8a291"
      },
      {
-      "name": "id:73810ff8-046e-4c58-a5cd-3a20fb629023",
-      "id": null
+      "name": "중소기업중앙회",
+      "id": "73810ff8-046e-4c58-a5cd-3a20fb629023"
      },
      {
-      "name": "id:fd396936-9891-452a-90b9-c5bf8a98b507",
-      "id": null
+      "name": "한국경영자총협회",
+      "id": "fd396936-9891-452a-90b9-c5bf8a98b507"
      },
      {
-      "name": "id:a25bfcec-cfe1-489d-9334-9b616ae56d11",
-      "id": null
-     },
-     {
-      "name": "중소벤처기업부",
-      "id": null
+      "name": "한국중견기업연합회",
+      "id": "a25bfcec-cfe1-489d-9334-9b616ae56d11"
      }
     ]
    },
@@ -11650,7 +11315,7 @@
     }
    ],
    "summary": "판결을 내란몰이에 대한 사법부의 철퇴라고 환영하고 범여권의 조희대 탄핵 추진은 보복 탄핵이라 비판",
-   "why": "전날 추경호 1심 무죄에 이어 한덕수 사건도 일부 무죄 취지 파기환송",
+   "why": "대법원이 한덕수 전 총리 2심 판결을 일부 무죄 취지로 파기환송",
    "how": "장동혁 대표는 또 하나의 조작기소가 드러났다고 주장. 정점식 원내대표는 보복 탄핵 중단과 대통령 재판 재개를 요구",
    "content": null,
    "places": [],
@@ -11675,12 +11340,12 @@
    "other_fields": {
     "orgs": [
      {
-      "name": "id:fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "id": null
+      "name": "대법원",
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      },
      {
-      "name": "id:ad10c0cf-7884-490a-82b1-feb9d72682c2",
-      "id": null
+      "name": "더불어민주당",
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
      }
     ]
    },
@@ -11702,7 +11367,7 @@
    ],
    "summary": "삼각봉 4.4㎝·남벽 3.8㎝ 등 해발 1천200m 넘는 산지에 눈이 쌓임",
    "why": null,
-   "how": "돈내코 탐방로 전면 통제, 영실·어리목·관음사·성판악 부분 통제. 설경을 보러 온 탐방객이 이어짐",
+   "how": "돈내코 탐방로 전면 통제, 영실 · 어리목 · 관음사 · 성판악 부분 통제. 21일까지 산지 3~8cm 적설 예상",
    "content": null,
    "places": [
     {
@@ -11735,8 +11400,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
-     "id": null
+     "name": "Los Angeles",
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
     }
    ],
    "featuring": [],
@@ -11763,8 +11428,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
-     "id": null
+     "name": "Los Angeles",
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
     }
    ],
    "featuring": [],
@@ -11791,14 +11456,14 @@
    "content": null,
    "places": [
     {
-     "name": "id:42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
-     "id": null
+     "name": "Los Angeles",
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
     }
    ],
    "featuring": [
     {
-     "name": "id:ecd43757-60a7-4106-bcbb-92ab8596ebf6",
-     "id": null
+     "name": "Jack Antonoff",
+     "id": "ecd43757-60a7-4106-bcbb-92ab8596ebf6"
     }
    ],
    "other_fields": {},
@@ -11824,8 +11489,8 @@
    "content": null,
    "places": [
     {
-     "name": "id:42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
-     "id": null
+     "name": "Los Angeles",
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
     }
    ],
    "featuring": [],
@@ -11911,19 +11576,19 @@
    "places": [],
    "featuring": [
     {
-     "name": "id:c4a7655e-5198-4385-aaa6-2a417f79b359",
-     "id": null
+     "name": "김유정",
+     "id": "c4a7655e-5198-4385-aaa6-2a417f79b359"
     },
     {
-     "name": "id:82266646-7078-4682-a361-748f101c1c16",
-     "id": null
+     "name": "박진영",
+     "id": "82266646-7078-4682-a361-748f101c1c16"
     }
    ],
    "other_fields": {
     "orgs": [
      {
-      "name": "id:e565fea1-b962-446d-b64b-8ad413e18b1f",
-      "id": null
+      "name": "tvN",
+      "id": "e565fea1-b962-446d-b64b-8ad413e18b1f"
      }
     ]
    },
@@ -11945,7 +11610,7 @@
    ],
    "summary": "1위 이나토미 슈지 후보가 23.23%에 그쳐 유효표 4분의 1을 못 넘었고 재선거가 정해짐",
    "why": null,
-   "how": "5위 이하 후보는 공탁금 몰수. 1억6,760만 엔 들인 벽보판 1,824곳을 다 걷고 두 달 안에 다시 세워야 해 낭비라는 목소리",
+   "how": "이나토미 후보는 13만7667표를 얻었으나 유효표 4분의 1에 못 미침. 5위 이하 후보는 공탁금 240만 엔 몰수",
    "content": null,
    "places": [],
    "featuring": [
@@ -15785,6 +15450,518 @@
     }
    ],
    "added_at": "2026-11-20T02:27:38.544292+00:00"
+  },
+  {
+   "id": "d902e8d1-f0b5-4da9-93cd-9bdc1b152b9b",
+   "name": "Anya Taylor-Joy",
+   "category": "인물",
+   "alias": "안야 테일러조이, 애니아 테일러조이, Anya-Josephine Marie Taylor-Joy, アニヤ・テイラー＝ジョイ",
+   "disambig": "미국 · 영국의 배우, 「퀸스 갬빗」 주연",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Anya-Josephine Marie Taylor-Joy",
+    "name_ko": "안야 테일러조이",
+    "name_en": "Anya Taylor-Joy",
+    "birth_date": "1996-04-16",
+    "birthplace": "미국 플로리다주 마이애미",
+    "nationality": "미국, 영국",
+    "gender": "여성",
+    "occupation": "배우, 모델",
+    "debut_date": "2015",
+    "debut_work": "The Witch",
+    "notable_works": "The Witch, Split, Peaky Blinders, Emma, The Queen's Gambit(베스 하먼), Last Night in Soho, The Menu, Furiosa: A Mad Max Saga(퓨리오사), The Super Mario Bros. Movie(피치 공주 목소리), The Gorge, Dune: Part Three(알리아 아트레이드)",
+    "sns": "https://www.instagram.com/anyataylorjoy",
+    "awards": "골든글로브 미니시리즈 · TV영화 부문 여우주연상, 미국 배우조합상 여우주연상(The Queen's Gambit)",
+    "summary": "마이애미에서 태어나 부에노스아이레스 · 런던에서 자란 배우, 「퀸스 갬빗」으로 골든글로브를 받았고 「Dune: Part Three」에서 알리아 역",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Anya_Taylor-Joy",
+     "https://www.wikidata.org/wiki/Q20882479",
+     "https://ko.wikipedia.org/wiki/안야_테일러조이",
+     "https://editorial.rottentomatoes.com/article/everything-we-know-about-dune-part-three/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q20882479",
+   "links": [
+    {
+     "id": "7aa40c6f-b289-4e72-8971-d8e555c340a1",
+     "category": "작품",
+     "name": "Furiosa: A Mad Max Saga",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "1edaa491-bf68-4f13-bff5-84798e8f5fed",
+     "category": "장소",
+     "name": "Miami",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "26242c8a-8714-4695-b2fe-25b14c5c1c46",
+     "category": "작품",
+     "name": "Dune: Part Three",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "f9fd1fdc-1ee8-4c49-92a2-b5da0e03afe4",
+     "category": "작품",
+     "name": "The Super Mario Galaxy Movie",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-20T03:03:46.584367+00:00"
+  },
+  {
+   "id": "4498f2e0-bddd-4366-bfb9-c19b35a7539a",
+   "name": "Florence Pugh",
+   "category": "인물",
+   "alias": "플로렌스 퓨, Florence Rose Pugh, フローレンス・ピュー",
+   "disambig": "영국의 배우",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "real_name": "Florence Rose Pugh",
+    "name_ko": "플로렌스 퓨",
+    "name_en": "Florence Pugh",
+    "birth_date": "1996-01-03",
+    "birthplace": "영국 잉글랜드 옥스퍼드",
+    "nationality": "영국",
+    "gender": "여성",
+    "occupation": "배우",
+    "debut_date": "2014",
+    "debut_work": "The Falling",
+    "notable_works": "Lady Macbeth, Midsommar, Little Women, Black Widow(옐레나 벨로바), Oppenheimer, Dune: Part Two(이룰란 공주), Thunderbolts*, We Live in Time, Spider-Man: Brand New Day",
+    "sns": "https://www.instagram.com/florencepugh",
+    "awards": "아카데미 여우조연상 후보(Little Women), 크리틱스 초이스 어워즈 3회, 영국 독립영화상",
+    "summary": "「미드소마」 · 「작은 아씨들」로 떠오른 영국 배우, 마블 옐레나 벨로바 역 · 「Dune: Part Three」에서 이룰란 공주 역",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Florence_Pugh",
+     "https://www.wikidata.org/wiki/Q22277803",
+     "https://ko.wikipedia.org/wiki/플로렌스_퓨",
+     "https://editorial.rottentomatoes.com/article/everything-we-know-about-dune-part-three/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q22277803",
+   "links": [
+    {
+     "id": "hub_united_kingdom_entertainer_1a9528",
+     "category": "허브",
+     "name": "United Kingdom Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "754053fa-2ef6-494c-87a8-d5c454874799",
+     "category": "작품",
+     "name": "Oppenheimer",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "275702fa-0057-4ced-9dad-6c14c7e049a8",
+     "category": "작품",
+     "name": "Spider-Man: Brand New Day",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "26242c8a-8714-4695-b2fe-25b14c5c1c46",
+     "category": "작품",
+     "name": "Dune: Part Three",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "6b702b0d-0bce-4981-a3c7-490d5a83cac1",
+     "category": "장소",
+     "name": "Oxford",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-11-20T03:03:46.584367+00:00"
+  },
+  {
+   "id": "148b7085-5443-4ac4-8843-8c3c64818b78",
+   "name": "Jason Momoa",
+   "category": "인물",
+   "alias": "제이슨 모모아, Joseph Jason Namakaeha Momoa, ジェイソン・モモア",
+   "disambig": "미국의 배우, 영화 제작자",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Joseph Jason Namakaeha Momoa",
+    "name_ko": "제이슨 모모아",
+    "name_en": "Jason Momoa",
+    "birth_date": "1979-08-01",
+    "birthplace": "미국 하와이주 호놀룰루",
+    "nationality": "미국",
+    "gender": "남성",
+    "occupation": "배우, 영화 제작자",
+    "debut_date": "1999",
+    "debut_work": "Baywatch: Hawaii",
+    "notable_works": "Game of Thrones(칼 드로고), Aquaman(아쿠아맨), Dune(덩컨 아이다호), See, A Minecraft Movie, Chief of War, Dune: Part Three(헤이트)",
+    "sns": "https://www.instagram.com/prideofgypsies",
+    "summary": "「왕좌의 게임」 칼 드로고 · DC 아쿠아맨으로 알려진 배우, 2026년 「Dune: Part Three」에서 덩컨 아이다호의 복제인간 헤이트 역",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Jason_Momoa",
+     "https://www.wikidata.org/wiki/Q315271",
+     "https://ko.wikipedia.org/wiki/제이슨_모모아",
+     "https://editorial.rottentomatoes.com/article/everything-we-know-about-dune-part-three/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q315271",
+   "links": [
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "26242c8a-8714-4695-b2fe-25b14c5c1c46",
+     "category": "작품",
+     "name": "Dune: Part Three",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "a1a8ab8a-c89a-4965-858e-e58447d41c58",
+     "category": "장소",
+     "name": "Honolulu County",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-11-20T03:03:46.584367+00:00"
+  },
+  {
+   "id": "57ff09ff-4995-47b1-98ce-1eda13e565be",
+   "name": "Jelly Roll",
+   "category": "인물",
+   "alias": "젤리 롤, Jason Bradley DeFord, JellyRoll",
+   "disambig": "미국의 가수, 래퍼",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Jason Bradley DeFord",
+    "name_ko": "젤리 롤",
+    "name_en": "Jelly Roll",
+    "birth_date": "1984-12-04",
+    "birthplace": "미국 테네시주 내슈빌(앤티오크)",
+    "nationality": "미국",
+    "gender": "남성",
+    "occupation": "가수, 래퍼, 작곡가",
+    "debut_date": "2003",
+    "notable_works": "Son of a Sinner, Need a Favor, Beautifully Broken",
+    "website": "https://jellyroll615.com",
+    "sns": "https://www.instagram.com/jellyroll615",
+    "awards": "CMA 신인상(2023), 그래미 3개 부문(2026, Beautifully Broken 등)",
+    "summary": "래퍼로 시작해 「Son of a Sinner」로 떠오른 컨트리 가수, 2027년 영화 「The Comeback King」에 짧게 출연",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Jelly_Roll_(singer)",
+     "https://www.wikidata.org/wiki/Q6176881",
+     "https://ko.wikipedia.org/wiki/젤리_롤",
+     "https://holler.country/news/breaking/jelly-roll-reveals-he-miranda-lambert-and-brad-paisley-feature-in-glen-powells-new-film-the-comeback-king/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q6176881",
+   "links": [
+    {
+     "id": "616be355-292c-44a5-a81e-87f7dd693ff6",
+     "category": "장소",
+     "name": "Davidson County",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "d988a94a-7456-4bdb-9b2a-dc80e2393373",
+     "category": "작품",
+     "name": "The Comeback King",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-20T03:03:46.584367+00:00"
+  },
+  {
+   "id": "d3723a2b-41ec-48c9-bf09-df1857292899",
+   "name": "박병은",
+   "category": "인물",
+   "alias": "Park Byung-eun, Park Byeong-eun",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_ko": "박병은",
+    "name_en": "Park Byung-eun",
+    "birth_date": "1977-07-14",
+    "birthplace": "서울특별시",
+    "nationality": "대한민국",
+    "gender": "남성",
+    "education": "안양예술고등학교, 중앙대학교 연극영화학과",
+    "occupation": "배우",
+    "organization": "호두앤유엔터테인먼트",
+    "debut_date": "2000",
+    "debut_work": "신 귀공자",
+    "notable_works": "암살(카와구치), 이번 생은 처음이라(마상구), 킹덤 시즌 2, 인간실격, 무빙, 선산, 하이퍼나이프, 아파트(이충원)",
+    "summary": "오랜 조연 끝에 「암살」 카와구치 역으로 이름을 알린 배우, 쿠팡플레이 「가족계획」 시즌 2에 백철용 역으로 합류",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/박병은",
+     "https://namu.wiki/w/박병은",
+     "https://www.wikidata.org/wiki/Q16081558",
+     "https://sbsstar.net/article/N1008308602/park-byungeun-signs-with-hoduu-joining-kim-hyesoo-shin-hakyun",
+     "https://www.tenasia.com/tv/2026041782044"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q16081558",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "ac3a3c80-065f-479c-9fb4-fccd33e78963",
+     "category": "작품",
+     "name": "아파트",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "fc923dfd-d70b-49b1-be33-616b129d1add",
+     "category": "작품",
+     "name": "결혼의 완성",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "9ea3a5a8-7988-4f9e-85eb-7deb4d4dc873",
+     "category": "단체",
+     "name": "호두앤유엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
+     "id": "6c9e98bf-9c4b-495e-9e21-78e428baf6ae",
+     "category": "작품",
+     "name": "무빙",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "e9c4da7c-7c9f-4497-a1ec-de06950f9b56",
+     "category": "작품",
+     "name": "로비",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
+     "category": "장소",
+     "name": "서울특별시",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-11-20T03:03:46.584367+00:00"
+  },
+  {
+   "id": "708cf6de-4829-4615-9b4d-408b52966d29",
+   "name": "이이담",
+   "category": "인물",
+   "alias": "Lee E-dam, Lee Yi-dam, Lee I-dam, 백혜원",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "real_name": "백혜원",
+    "name_ko": "이이담",
+    "name_en": "Lee E-dam",
+    "birth_date": "1996-05-20",
+    "birthplace": "서울특별시 서초구",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "education": "서문여자고등학교",
+    "occupation": "배우",
+    "organization": "고스트 스튜디오",
+    "debut_date": "2017",
+    "debut_work": "두개의 빛: 릴루미노",
+    "notable_works": "공작도시(김이설), 정신병동에도 아침이 와요(민들레), 원경(채령), 뜨거운 안녕(고은영)",
+    "summary": "JTBC 「공작도시」 · tvN 「원경」으로 알려진 배우, 2026년 tvN 「뜨거운 안녕」에서 고은영 역 주연",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/이이담",
+     "https://namu.wiki/w/이이담",
+     "https://www.wikidata.org/wiki/Q109535522",
+     "https://news.tf.co.kr/read/ogmeta/2386838.htm",
+     "https://www.wikitree.co.kr/articles/1174053"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q109535522",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "08817f70-35f2-4eb8-b78a-797047cb2f7e",
+     "category": "장소",
+     "name": "서초구",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "927d775f-18bc-4d0e-a64d-6334bc2b9782",
+     "category": "작품",
+     "name": "뜨거운 안녕",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "e8939bd1-9e13-41d7-8c77-2c373f0dc761",
+     "category": "작품",
+     "name": "원경",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "9b65bff7-2cab-4e93-84a8-07c5e2c80727",
+     "category": "단체",
+     "name": "고스트 스튜디오",
+     "rel": "MEMBER_OF"
+    }
+   ],
+   "added_at": "2026-11-20T03:03:46.584367+00:00"
+  },
+  {
+   "id": "ef881f7e-37d8-49f9-b74f-6ae8cf58ff4a",
+   "name": "장영남",
+   "category": "인물",
+   "alias": "Jang Young-nam, Jang Yeong-nam, 張榮男",
+   "disambig": "대한민국의 배우",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_ko": "장영남",
+    "name_en": "Jang Young-nam",
+    "birth_date": "1973-11-25",
+    "birthplace": "서울특별시 관악구",
+    "nationality": "대한민국",
+    "gender": "여성",
+    "education": "계원예술고등학교 연극영화과, 서울예술전문대학 연극과",
+    "occupation": "배우",
+    "organization": "앤드마크",
+    "debut_date": "1995",
+    "debut_work": "로미오와 줄리엣(연극, 극단 목화)",
+    "notable_works": "늑대소년, 국제시장, 공조, 해를 품은 달, 왕이 된 남자(대비), 사이코지만 괜찮아(박행자), 파이널 테이블(문해선)",
+    "summary": "극단 목화 출신 연극 · 영화 · 드라마 배우, 2026년 JTBC 「파이널 테이블」에서 평연그룹 회장 문해선 역",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/장영남",
+     "https://namu.wiki/w/장영남",
+     "https://www.wikidata.org/wiki/Q498061",
+     "https://sports.khan.co.kr/article/202607161430003",
+     "https://tvreport.co.kr/broadcast/article/1087419/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q498061",
+   "links": [
+    {
+     "id": "03b73279-53b3-4e53-81d9-641fc6975bd2",
+     "category": "허브",
+     "name": "한국 연예인",
+     "rel": "IS_A"
+    },
+    {
+     "id": "3cc31f5c-488f-4516-bcfe-584db8580ccf",
+     "category": "작품",
+     "name": "파이널 테이블",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "66ab5483-055a-4100-8a14-42200226a61e",
+     "category": "장소",
+     "name": "관악구",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-11-20T03:03:46.584367+00:00"
+  },
+  {
+   "id": "abdf349e-c3cd-4b75-81ad-a768c0867865",
+   "name": "구름이 구르미",
+   "category": "작품",
+   "alias": "구름이구르미",
+   "disambig": "2027년 공개 예정 한국 하이틴 로맨스 영화, 트와이스 다현 · 차우민 주연",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "영화",
+    "genre": "멜로/로맨스, 드라마",
+    "production": "테이크원스튜디오, SLL",
+    "director": "최선민",
+    "creator": "신현지",
+    "cast": "다현(구름), 차우민(준산)",
+    "synopsis": "하반신 마비로 평생 휠체어를 타 온 밝은 미술부 고등학생 구름이, 선배와 다투고 훈련에서 쫓겨난 수영 유망주 준산의 봉사활동 멘토가 된다. 서로 정반대인 두 사람이 가까워지며 첫사랑을 겪고 함께 자라는 하이틴 로맨스다.",
+    "summary": "휠체어 소녀와 수영 유망주 소년의 첫사랑 성장기를 그린 한국 영화. 테이크원컴퍼니 제공, 2027년 공개 목표로 촬영 중",
+    "sources": [
+     "https://www.bntnews.co.kr/article/view/bnt202610220106",
+     "https://www.specialtimes.co.kr/news/articleView.html?idxno=476583",
+     "https://enews.imbc.com/News/RetrieveNewsInfo/521900"
+    ]
+   },
+   "source_url": "https://www.bntnews.co.kr/article/view/bnt202610220106",
+   "links": [
+    {
+     "id": "18fea518-c6b2-4cb1-8f6d-06c0f5b1156e",
+     "category": "허브",
+     "name": "한국 영화",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-20T09:26:50.102030+00:00"
+  },
+  {
+   "id": "ad95f47a-f0e0-4d3d-95d3-9c21660b875a",
+   "name": "언내추럴",
+   "category": "작품",
+   "alias": "언내추럴(가제), 한국판 언내추럴",
+   "disambig": "2027년 첫 방송 예정 tvN 드라마, 일본 TBS 「Unnatural」(2018) 한국판 리메이크",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "medium": "드라마",
+    "genre": "미스터리, 드라마",
+    "platform": "tvN",
+    "production": "스튜디오드래곤, 빅웨이브엔터테인먼트",
+    "director": "박유영",
+    "creator": "민지은(극본), 노기 아키코(원작 각본)",
+    "source_material": "Unnatural(アンナチュラル, TBS 2018)",
+    "source_medium": "드라마",
+    "cast": "임윤아(송도은), 이진욱(구승혁)",
+    "synopsis": "국과수 부속 가상의 부검 · 감정 기관 U.D.I를 무대로, 법의관들이 부자연스러운 죽음 뒤에 숨은 진실을 밝혀 나간다. 망자의 마지막 목소리를 놓치지 않으려는 법의관 송도은과, 3천 건 넘는 부검 경험을 지닌 냉철한 법의관 구승혁이 중심에 선다.",
+    "summary": "일본 TBS 법의학 드라마 「Unnatural」(2018)을 리메이크한 tvN 드라마. 2027년 첫 방송 목표, 제목은 가제",
+    "sources": [
+     "https://www.yna.co.kr/view/AKR20261022054600005",
+     "https://isplus.com/article/view/isp202610220106",
+     "https://www.wikitree.co.kr/articles/1160612",
+     "https://www.wikitree.co.kr/articles/1163106"
+    ]
+   },
+   "source_url": "https://www.yna.co.kr/view/AKR20261022054600005",
+   "links": [
+    {
+     "id": "5bc503ce-8afc-4fd8-9473-a14f1f4104bc",
+     "category": "허브",
+     "name": "한국 드라마",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-20T09:26:50.102030+00:00"
   }
  ],
  "bulk_added": []
