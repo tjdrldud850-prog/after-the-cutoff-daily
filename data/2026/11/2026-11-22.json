@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-22T01:42:35+00:00",
+ "exported_at": "2026-11-22T23:45:17+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 152,
@@ -151,7 +151,8 @@
       "name": "MAMA AWARDS",
       "id": "fc99ac43-44a4-4360-8758-5ecbc0959d30"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-22 · 스포츠동아 · https://sports.donga.com/ent/article/all/202611222/135065658/1"
    },
    "url": "https://www.chosun.com/entertainments/2026/11/21/INUIC7YDLVHWLASQVGQ2TJZMDI/",
    "source": "뉴스",
@@ -207,7 +208,8 @@
       "name": "MAMA AWARDS",
       "id": "fc99ac43-44a4-4360-8758-5ecbc0959d30"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-22 · 스포츠조선(OSEN) · https://www.chosun.com/entertainments/music/2026/11/22/MQYDOZRQGBRTGYRTGJSWINTFMY/"
    },
    "url": "https://www.chosun.com/entertainments/music/2026/11/21/MQ4DAMLFGBTDGZBTMQZTSOBRHE/",
    "source": "뉴스",
@@ -256,7 +258,8 @@
       "name": "MAMA AWARDS",
       "id": "fc99ac43-44a4-4360-8758-5ecbc0959d30"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-21 · 스포츠조선(OSEN) · https://www.chosun.com/entertainments/music/2026/11/22/MNSGEY3GG5QTOYRXHFSTENZWME/\n2026-11-22 · 뉴시스 · https://www.newsis.com/view/NISX20261122_0003877935\n2026-11-22 · 스포츠동아 · https://sports.donga.com/ent/article/all/202611222/135065612/1"
    },
    "url": "https://www.chosun.com/entertainments/2026/11/21/INUIC7YDLVHWLASQVGQ2TJZMDI/",
    "source": "뉴스",
@@ -317,7 +320,8 @@
       "name": "하이브",
       "id": "e5eed119-8891-4a91-94cf-2e099524dc12"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-22 · 스포츠조선 · https://www.chosun.com/entertainments/music/2026/11/22/G43DMNDEGVQTOYZQHAZTOZBWMQ/"
    },
    "url": "https://www.chosun.com/entertainments/2026/11/21/INUIC7YDLVHWLASQVGQ2TJZMDI/",
    "source": "뉴스",
@@ -761,7 +765,8 @@
       "name": "고용노동부",
       "id": "5da9afa2-5ac4-478d-b9af-97e1f04a4604"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-22 · YTN · https://www.ytn.co.kr/_ln/0134_202611221111190862"
    },
    "url": "https://www.yna.co.kr/view/AKR20261121051700530",
    "source": "뉴스",
@@ -1254,7 +1259,8 @@
       "name": "MBC",
       "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-21 · 스포츠조선(OSEN) · https://www.chosun.com/entertainments/broadcast/2026/11/22/GVRGIYZTGIYDCMRVMUZTAMRZG4/"
    },
    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MZSDONRZGI4DSMJRMFSDOYJWMU/",
    "source": "뉴스",
@@ -1585,7 +1591,8 @@
       "name": "데블스 플랜",
       "id": "d6a19c8e-5365-4764-82bd-eb289987275d"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-22 · 뉴시스 · https://www.newsis.com/view/NISX20261122_0003877878"
    },
    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MFSTEZDGG42TMN3EMZRTOZBWMM/",
    "source": "뉴스",
@@ -1888,7 +1895,8 @@
       "name": "국토교통부",
       "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-22 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261122005400063\n2026-11-22 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719304"
    },
    "url": "https://www.yna.co.kr/view/AKR20261121012752061",
    "source": "뉴스",
@@ -2425,7 +2433,8 @@
       "name": "SK그룹",
       "id": "83eda128-8925-4d86-84cb-127ee5eaac52"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-22 · KBS · https://news.kbs.co.kr/news/view.do?ncd=8719475&ref=DA"
    },
    "url": "https://www.yna.co.kr/view/AKR20261121033700001",
    "source": "뉴스",
@@ -2537,7 +2546,8 @@
       "name": "The Walt Disney Company",
       "id": "13736a10-5f9b-477b-87ad-84d7e48f18ce"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-22 · 스포츠동아 · https://sports.donga.com/ent/article/all/202611222/135067168/1"
    },
    "url": "https://variety.com/2026/film/news/home-alone-reboot-disney-macaulay-culkin-seth-rogen-1236954344/",
    "source": "뉴스",
@@ -3775,7 +3785,8 @@
       "name": "교육부",
       "id": "3856f802-843e-4b5a-8959-49739f0c2be0"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-22 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719301\n2026-11-22 · 한겨레 · https://www.hani.co.kr/arti/society/society_general/1288515.html"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719187",
    "source": "뉴스",
@@ -4919,7 +4930,8 @@
       "name": "빌리프랩",
       "id": "8c39d89c-5297-47ea-96d7-073157b36270"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-22 · 스포츠동아 · https://sports.donga.com/ent/article/all/202611222/135065962/1"
    },
    "url": "https://www.newsis.com/view/NISX20261121_0003877848",
    "source": "뉴스",
@@ -5738,7 +5750,8 @@
    "other_fields": {
     "sources": [
      "https://www.yna.co.kr/view/AKR20261121006000071"
-    ]
+    ],
+    "related_coverage": "2026-11-20 · CNN · https://www.cnn.com/2026/11/20/politics/live-news/trump-white-house-press-conference"
    },
    "url": "https://www.yna.co.kr/view/AKR20261121006000071",
    "source": "뉴스",
@@ -5940,7 +5953,8 @@
    "other_fields": {
     "sources": [
      "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719267"
-    ]
+    ],
+    "related_coverage": "2026-11-22 · SBS · https://news.sbs.co.kr/news/endPage.do?news_id=N1008857888&plink=ORI&cooper=ETC"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719267",
    "source": "뉴스",
@@ -6203,7 +6217,8 @@
       "name": "대원미디어",
       "id": "65bd7e55-b5c6-4d36-89b4-ee0ea31ecb3e"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-22 · 스포츠동아 · https://sports.donga.com/ent/article/all/202611222/135065866/1"
    },
    "url": "https://www.yna.co.kr/view/AKR20261121027500005",
    "source": "뉴스",
@@ -6370,7 +6385,8 @@
     "sources": [
      "https://www.yna.co.kr/view/AKR20261121049151004",
      "https://www.yna.co.kr/view/AKR20261121049100004"
-    ]
+    ],
+    "related_coverage": "2026-11-22 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719348"
    },
    "url": "https://www.yna.co.kr/view/AKR20261121049151004",
    "source": "뉴스",
@@ -6929,6 +6945,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q246782",
    "links": [
+    {
+     "id": "62fd1785-336a-44f3-8b1c-6664cd776516",
+     "category": "단체",
+     "name": "Major League Baseball",
+     "rel": "MEMBER_OF"
+    },
     {
      "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7",
      "category": "장소",
