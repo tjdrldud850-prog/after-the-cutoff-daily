@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-21T03:45:10+00:00",
+ "exported_at": "2026-11-22T00:56:12+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 356,
@@ -204,7 +204,8 @@
       "name": "MAMA AWARDS",
       "id": "fc99ac43-44a4-4360-8758-5ecbc0959d30"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-21 · 스포츠동아 · https://sports.donga.com/ent/article/all/20261121/135064659/1"
    },
    "url": "https://www.newsis.com/view/NISX20261120_0003877477",
    "source": "뉴스",
@@ -235,8 +236,7 @@
    "featuring": [
     {
      "name": "ALLDAY PROJECT",
-     "id": "78bae1ec-48bb-4312-b4ca-369fe67efaec",
-     "auto": true
+     "id": "78bae1ec-48bb-4312-b4ca-369fe67efaec"
     },
     {
      "name": "패닉",
@@ -564,13 +564,11 @@
    "featuring": [
     {
      "name": "Mamoru Oshii",
-     "id": "e27e399b-b895-46b1-ad96-18233c504725",
-     "auto": true
+     "id": "e27e399b-b895-46b1-ad96-18233c504725"
     },
     {
      "name": "Miyuki Sawashiro",
-     "id": "7769b6a9-2b62-45ec-b340-176f6f72f7cf",
-     "auto": true
+     "id": "7769b6a9-2b62-45ec-b340-176f6f72f7cf"
     },
     {
      "name": "Mabuki Ando",
@@ -586,8 +584,7 @@
     "orgs": [
      {
       "name": "Sunrise",
-      "id": "71c9ab1f-cfde-49c1-b222-2d5ead59b499",
-      "auto": true
+      "id": "71c9ab1f-cfde-49c1-b222-2d5ead59b499"
      }
     ]
    },
@@ -728,8 +725,7 @@
    "featuring": [
     {
      "name": "강지우",
-     "id": "7d689dcf-a113-4cc2-9b6f-8a6748a2a2b8",
-     "auto": true
+     "id": "7d689dcf-a113-4cc2-9b6f-8a6748a2a2b8"
     },
     {
      "name": "김강우",
@@ -952,7 +948,8 @@
       "name": "그립",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-21 · 스포츠조선(OSEN) · https://www.chosun.com/entertainments/broadcast/2026/11/21/G5SDIODEGM4WENBTMZTDCOBTHA/"
    },
    "url": "https://www.newsis.com/view/NISX20261120_0003876105",
    "source": "뉴스",
@@ -1133,13 +1130,11 @@
    "featuring": [
     {
      "name": "Gabrielle Creevy",
-     "id": "9d328800-5d37-4ab8-afc0-c083f7a29ae3",
-     "auto": true
+     "id": "9d328800-5d37-4ab8-afc0-c083f7a29ae3"
     },
     {
      "name": "Michael Socha",
-     "id": "7cb5caf6-6959-470c-831a-e8d6ee44fd03",
-     "auto": true
+     "id": "7cb5caf6-6959-470c-831a-e8d6ee44fd03"
     },
     {
      "name": "Lewin Lloyd",
@@ -1147,8 +1142,7 @@
     },
     {
      "name": "Danny Robins",
-     "id": "cc7d0d52-2eee-4a70-a7c0-83773349b924",
-     "auto": true
+     "id": "cc7d0d52-2eee-4a70-a7c0-83773349b924"
     }
    ],
    "other_fields": {
@@ -1160,8 +1154,7 @@
     "orgs": [
      {
       "name": "BBC",
-      "id": "1c6f5958-c4c1-4e5a-8923-d401d280c83e",
-      "auto": true
+      "id": "1c6f5958-c4c1-4e5a-8923-d401d280c83e"
      }
     ]
    },
@@ -1236,8 +1229,7 @@
    "featuring": [
     {
      "name": "George Lam",
-     "id": "47d9a8b6-0383-4f8b-9c0b-fe8b73b1c12b",
-     "auto": true
+     "id": "47d9a8b6-0383-4f8b-9c0b-fe8b73b1c12b"
     }
    ],
    "other_fields": {
@@ -1405,8 +1397,7 @@
     "orgs": [
      {
       "name": "LG헬로비전",
-      "id": "0bfbe9bc-c7ad-4109-83cc-d33a31788c38",
-      "auto": true
+      "id": "0bfbe9bc-c7ad-4109-83cc-d33a31788c38"
      },
      {
       "name": "서울서부지방법원",
@@ -1438,13 +1429,11 @@
    "featuring": [
     {
      "name": "Shunta Sono",
-     "id": "7936141a-8eaa-4f61-908b-00eb156b5a8d",
-     "auto": true
+     "id": "7936141a-8eaa-4f61-908b-00eb156b5a8d"
     },
     {
      "name": "Kota Nomura",
-     "id": "514aed3c-e64a-4a9e-93cf-ed939c8d8238",
-     "auto": true
+     "id": "514aed3c-e64a-4a9e-93cf-ed939c8d8238"
     },
     {
      "name": "M!LK",
@@ -1622,8 +1611,7 @@
     "orgs": [
      {
       "name": "키옥시아",
-      "id": "01afaf94-3ab2-4e62-9007-b94bcc9bc84b",
-      "auto": true
+      "id": "01afaf94-3ab2-4e62-9007-b94bcc9bc84b"
      },
      {
       "name": "베인캐피털",
@@ -1834,8 +1822,7 @@
    "featuring": [
     {
      "name": "Owen Cooper",
-     "id": "7559233c-03a1-4f6d-a20e-d8029b569128",
-     "auto": true
+     "id": "7559233c-03a1-4f6d-a20e-d8029b569128"
     }
    ],
    "other_fields": {
@@ -1873,13 +1860,11 @@
    "featuring": [
     {
      "name": "Shōhei Manabe",
-     "id": "46055759-d00b-4379-a6f3-a0c6cba2627d",
-     "auto": true
+     "id": "46055759-d00b-4379-a6f3-a0c6cba2627d"
     },
     {
      "name": "Yōichi Okano",
-     "id": "3729801a-603c-4d50-a3fc-e7abe9515945",
-     "auto": true
+     "id": "3729801a-603c-4d50-a3fc-e7abe9515945"
     },
     {
      "name": "森田哲矢",
@@ -1893,8 +1878,7 @@
     "orgs": [
      {
       "name": "さらば青春の光",
-      "id": "09565720-da3a-4af9-a867-59bdcf107f6f",
-      "auto": true
+      "id": "09565720-da3a-4af9-a867-59bdcf107f6f"
      },
      {
       "name": "ABEMA",
@@ -1926,13 +1910,11 @@
    "featuring": [
     {
      "name": "Kelly Fu",
-     "id": "92c305de-9a88-4d78-8e65-f8ec8bf10733",
-     "auto": true
+     "id": "92c305de-9a88-4d78-8e65-f8ec8bf10733"
     },
     {
      "name": "Yoyo Chen",
-     "id": "e8297422-bc9e-41af-811c-a775b01817e4",
-     "auto": true
+     "id": "e8297422-bc9e-41af-811c-a775b01817e4"
     }
    ],
    "other_fields": {
@@ -2089,13 +2071,11 @@
    "featuring": [
     {
      "name": "Harry Shum Jr.",
-     "id": "a6335a16-89ba-4116-98d4-9d497845d82c",
-     "auto": true
+     "id": "a6335a16-89ba-4116-98d4-9d497845d82c"
     },
     {
      "name": "Jenna Johnson",
-     "id": "738db1aa-6342-4e82-baf7-6a28eb81a57c",
-     "auto": true
+     "id": "738db1aa-6342-4e82-baf7-6a28eb81a57c"
     },
     {
      "name": "Amber Glenn",
@@ -2107,18 +2087,15 @@
     },
     {
      "name": "Connor Wood",
-     "id": "e4e05140-a522-4d66-a4dc-4dbc9ab194ef",
-     "auto": true
+     "id": "e4e05140-a522-4d66-a4dc-4dbc9ab194ef"
     },
     {
      "name": "Tatyana Ali",
-     "id": "f594641e-2a5d-457e-8e0d-fa31e140c938",
-     "auto": true
+     "id": "f594641e-2a5d-457e-8e0d-fa31e140c938"
     },
     {
      "name": "Maura Higgins",
-     "id": "0a07baae-92d0-4783-a801-b1e2f468aba2",
-     "auto": true
+     "id": "0a07baae-92d0-4783-a801-b1e2f468aba2"
     }
    ],
    "other_fields": {
@@ -2157,8 +2134,7 @@
    "featuring": [
     {
      "name": "샘 킴",
-     "id": "3bf5a9c6-3f51-43d6-880a-deb474be5908",
-     "auto": true
+     "id": "3bf5a9c6-3f51-43d6-880a-deb474be5908"
     },
     {
      "name": "정지선",
@@ -2288,8 +2264,7 @@
    "featuring": [
     {
      "name": "Tōru Hotohara",
-     "id": "07bd6919-6dee-4b21-830f-dfe0ec6c51fc",
-     "auto": true
+     "id": "07bd6919-6dee-4b21-830f-dfe0ec6c51fc"
     },
     {
      "name": "太田博久",
@@ -2303,13 +2278,11 @@
     "orgs": [
      {
       "name": "ジャングルポケット",
-      "id": "73a546f1-8717-42c7-bd63-7721b59e7ce1",
-      "auto": true
+      "id": "73a546f1-8717-42c7-bd63-7721b59e7ce1"
      },
      {
       "name": "さらば青春の光",
-      "id": "09565720-da3a-4af9-a867-59bdcf107f6f",
-      "auto": true
+      "id": "09565720-da3a-4af9-a867-59bdcf107f6f"
      },
      {
       "name": "TV Asahi",
@@ -2341,23 +2314,19 @@
    "featuring": [
     {
      "name": "Steven Yeun",
-     "id": "8558a6d6-16fe-4b4c-9091-b7c4d05bbbf4",
-     "auto": true
+     "id": "8558a6d6-16fe-4b4c-9091-b7c4d05bbbf4"
     },
     {
      "name": "Sandra Oh",
-     "id": "985e4caf-2a4f-43eb-9869-0f7ca5ff8baf",
-     "auto": true
+     "id": "985e4caf-2a4f-43eb-9869-0f7ca5ff8baf"
     },
     {
      "name": "J.K. Simmons",
-     "id": "3250528e-b4fc-490e-af31-e28e1490949b",
-     "auto": true
+     "id": "3250528e-b4fc-490e-af31-e28e1490949b"
     },
     {
      "name": "Robert Kirkman",
-     "id": "002e6428-4c2f-4511-a9fd-437af226be64",
-     "auto": true
+     "id": "002e6428-4c2f-4511-a9fd-437af226be64"
     }
    ],
    "other_fields": {
@@ -2367,8 +2336,7 @@
     "orgs": [
      {
       "name": "Skybound Entertainment",
-      "id": "ee66ffd9-ac45-4ae5-8e22-473dcf24dabd",
-      "auto": true
+      "id": "ee66ffd9-ac45-4ae5-8e22-473dcf24dabd"
      },
      {
       "name": "Prime Video",
@@ -2489,8 +2457,7 @@
     "orgs": [
      {
       "name": "가로세로연구소",
-      "id": "1c0153fd-6333-4226-ac2c-8d020543f526",
-      "auto": true
+      "id": "1c0153fd-6333-4226-ac2c-8d020543f526"
      }
     ]
    },
@@ -2656,8 +2623,7 @@
     "orgs": [
      {
       "name": "강원대학교",
-      "id": "904901c2-fb8a-45eb-9548-0815339f199d",
-      "auto": true
+      "id": "904901c2-fb8a-45eb-9548-0815339f199d"
      }
     ]
    },
@@ -2755,8 +2721,7 @@
    "places": [
     {
      "name": "Gelora Bung Karno Madya Stadium",
-     "id": "ab4d87a9-36d4-426a-8dcd-c5c43021078d",
-     "auto": true
+     "id": "ab4d87a9-36d4-426a-8dcd-c5c43021078d"
     }
    ],
    "featuring": [
@@ -3122,8 +3087,7 @@
      },
      {
       "name": "에이아이스페라",
-      "id": "aefb628f-b7d0-4aaf-ac19-e00f686b7fea",
-      "auto": true
+      "id": "aefb628f-b7d0-4aaf-ac19-e00f686b7fea"
      }
     ]
    },
@@ -3223,28 +3187,23 @@
    "featuring": [
     {
      "name": "Playboi Carti",
-     "id": "b9886aff-24f6-4a7c-9c61-4a717579bfab",
-     "auto": true
+     "id": "b9886aff-24f6-4a7c-9c61-4a717579bfab"
     },
     {
      "name": "Cardi B",
-     "id": "13388543-e2df-4c0f-a978-6d6be31bc1ce",
-     "auto": true
+     "id": "13388543-e2df-4c0f-a978-6d6be31bc1ce"
     },
     {
      "name": "Lana Del Rey",
-     "id": "c38c0f80-3f5a-4633-a571-fff284fe773f",
-     "auto": true
+     "id": "c38c0f80-3f5a-4633-a571-fff284fe773f"
     },
     {
      "name": "Bad Bunny",
-     "id": "6c2a7248-4f88-44a0-800a-543f51f0321e",
-     "auto": true
+     "id": "6c2a7248-4f88-44a0-800a-543f51f0321e"
     },
     {
      "name": "Travis Scott",
-     "id": "d2c2ecff-7141-49ba-babb-70c7ab8979a7",
-     "auto": true
+     "id": "d2c2ecff-7141-49ba-babb-70c7ab8979a7"
     },
     {
      "name": "Dua Lipa",
@@ -3290,13 +3249,11 @@
    "featuring": [
     {
      "name": "Cardi B",
-     "id": "13388543-e2df-4c0f-a978-6d6be31bc1ce",
-     "auto": true
+     "id": "13388543-e2df-4c0f-a978-6d6be31bc1ce"
     },
     {
      "name": "Travis Scott",
-     "id": "d2c2ecff-7141-49ba-babb-70c7ab8979a7",
-     "auto": true
+     "id": "d2c2ecff-7141-49ba-babb-70c7ab8979a7"
     },
     {
      "name": "제니",
@@ -3384,18 +3341,15 @@
     "orgs": [
      {
       "name": "한화솔루션",
-      "id": "ef48f9eb-e690-4c98-b1bf-842540de4404",
-      "auto": true
+      "id": "ef48f9eb-e690-4c98-b1bf-842540de4404"
      },
      {
       "name": "HD현대에너지솔루션",
-      "id": "1b924426-f9fd-461e-a1c4-200fdcae8507",
-      "auto": true
+      "id": "1b924426-f9fd-461e-a1c4-200fdcae8507"
      },
      {
       "name": "한솔테크닉스",
-      "id": "f3e10865-bb75-4c22-9981-567b339c1b54",
-      "auto": true
+      "id": "f3e10865-bb75-4c22-9981-567b339c1b54"
      },
      {
       "name": "공정거래위원회",
@@ -3607,8 +3561,7 @@
     "orgs": [
      {
       "name": "전국교직원노동조합",
-      "id": "ddc7a4b6-76a9-4d89-b4a7-7949d4863bca",
-      "auto": true
+      "id": "ddc7a4b6-76a9-4d89-b4a7-7949d4863bca"
      },
      {
       "name": "국가교육위원회",
@@ -3670,8 +3623,7 @@
     },
     {
      "name": "종묘",
-     "id": "4d617ccd-a478-4bc9-870d-22fa3dbf6b56",
-     "auto": true
+     "id": "4d617ccd-a478-4bc9-870d-22fa3dbf6b56"
     },
     {
      "name": "서울특별시",
@@ -3790,7 +3742,8 @@
       "name": "고용노동부",
       "id": "5da9afa2-5ac4-478d-b9af-97e1f04a4604"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-21 · YTN · https://www.ytn.co.kr/_ln/0115_202611210943326692"
    },
    "url": "https://www.yna.co.kr/view/AKR20261120176900055",
    "source": "뉴스",
@@ -4035,8 +3988,7 @@
     "orgs": [
      {
       "name": "Michelin Guide",
-      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601",
-      "auto": true
+      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601"
      }
     ]
    },
@@ -4513,8 +4465,7 @@
     "orgs": [
      {
       "name": "Lee & Man Paper",
-      "id": "08d6cc2c-0945-4997-8770-322fee9960b4",
-      "auto": true
+      "id": "08d6cc2c-0945-4997-8770-322fee9960b4"
      }
     ]
    },
@@ -4703,8 +4654,7 @@
     "orgs": [
      {
       "name": "Michelin Guide",
-      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601",
-      "auto": true
+      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601"
      }
     ]
    },
@@ -4770,28 +4720,23 @@
    "featuring": [
     {
      "name": "Foo Fighters",
-     "id": "b3ad4dfe-3d9c-4ee9-8a35-17fac844eca1",
-     "auto": true
+     "id": "b3ad4dfe-3d9c-4ee9-8a35-17fac844eca1"
     },
     {
      "name": "The Who",
-     "id": "fe6c2b16-e80e-4e54-974b-0662065305b0",
-     "auto": true
+     "id": "fe6c2b16-e80e-4e54-974b-0662065305b0"
     },
     {
      "name": "James Taylor",
-     "id": "8ce670fe-3949-40a3-9edb-a3a5624e84f8",
-     "auto": true
+     "id": "8ce670fe-3949-40a3-9edb-a3a5624e84f8"
     },
     {
      "name": "Gwen Stefani",
-     "id": "717aa147-6339-498c-ab36-a8edcc9ce832",
-     "auto": true
+     "id": "717aa147-6339-498c-ab36-a8edcc9ce832"
     },
     {
      "name": "LL Cool J",
-     "id": "7997c5bf-0a75-4fb1-9dbf-54c603df1bf1",
-     "auto": true
+     "id": "7997c5bf-0a75-4fb1-9dbf-54c603df1bf1"
     },
     {
      "name": "Noah Kahan",
@@ -5138,8 +5083,7 @@
    "places": [
     {
      "name": "대전신세계 아트앤사이언스",
-     "id": "497ea75b-2bd0-46ec-86ad-9e1b459b9bf0",
-     "auto": true
+     "id": "497ea75b-2bd0-46ec-86ad-9e1b459b9bf0"
     }
    ],
    "featuring": [],
@@ -5150,8 +5094,7 @@
     "orgs": [
      {
       "name": "티파니앤코",
-      "id": "93fa6889-8691-499c-96a3-95f2e766da8c",
-      "auto": true
+      "id": "93fa6889-8691-499c-96a3-95f2e766da8c"
      },
      {
       "name": "신세계백화점",
@@ -5232,18 +5175,15 @@
     "orgs": [
      {
       "name": "뤼튼",
-      "id": "9ac13ff0-d75a-4df8-9572-b1a840b58c3c",
-      "auto": true
+      "id": "9ac13ff0-d75a-4df8-9572-b1a840b58c3c"
      },
      {
       "name": "넥슨",
-      "id": "aa29bd50-6ed3-4188-84e6-e66f708a8eda",
-      "auto": true
+      "id": "aa29bd50-6ed3-4188-84e6-e66f708a8eda"
      },
      {
       "name": "넷마블",
-      "id": "d9ca44a3-8d59-4839-9377-db22056aa512",
-      "auto": true
+      "id": "d9ca44a3-8d59-4839-9377-db22056aa512"
      },
      {
       "name": "엔씨소프트",
@@ -5496,8 +5436,7 @@
    "featuring": [
     {
      "name": "Rosario Dawson",
-     "id": "f5d91179-6e6e-4e4b-bc53-d1ba7306848a",
-     "auto": true
+     "id": "f5d91179-6e6e-4e4b-bc53-d1ba7306848a"
     },
     {
      "name": "Tom Holland",
@@ -5592,8 +5531,7 @@
     "orgs": [
      {
       "name": "Michelin Guide",
-      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601",
-      "auto": true
+      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601"
      }
     ]
    },
@@ -5690,7 +5628,7 @@
   {
    "id": "db4d042b-7132-405f-9bed-a0725021d94b",
    "title": "만취해 70대 택시기사 폭행한 50대, 항소심도 징역 12년",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-20",
    "parent": [
     {
@@ -5715,8 +5653,6 @@
    ],
    "featuring": [],
    "other_fields": {
-    "prev_record": "c3adf672-2e5a-4340-8273-30dfc96bba70",
-    "prev_auto": "함께 [] · 단어 ['12년', '1심', '징역', '형을']",
     "sources": [
      "https://www.yna.co.kr/view/AKR20261120090600063"
     ],
@@ -5852,8 +5788,7 @@
    "featuring": [
     {
      "name": "Haruki Murakami",
-     "id": "d6c18bba-37a2-419a-82d8-919b6ce97588",
-     "auto": true
+     "id": "d6c18bba-37a2-419a-82d8-919b6ce97588"
     }
    ],
    "other_fields": {
@@ -6126,8 +6061,7 @@
     },
     {
      "name": "대전광역시",
-     "id": "128cb9fc-75dd-4f2f-941b-f0357e5c88d6",
-     "auto": true
+     "id": "128cb9fc-75dd-4f2f-941b-f0357e5c88d6"
     }
    ],
    "featuring": [
@@ -6244,7 +6178,8 @@
       "name": "국민의힘",
       "id": "73223290-920b-403e-be26-e5107d0b30b4"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-21 · MBC · https://imnews.imbc.com/replay/2026/nwtoday/article/6867427_37012.html"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718491",
    "source": "뉴스",
@@ -6571,8 +6506,7 @@
    "featuring": [
     {
      "name": "A2O LITE 보라",
-     "id": "0b18b9bd-a80b-458d-be37-8a1e86a63031",
-     "auto": true
+     "id": "0b18b9bd-a80b-458d-be37-8a1e86a63031"
     }
    ],
    "other_fields": {
@@ -6615,8 +6549,7 @@
    "featuring": [
     {
      "name": "Kento Yamazaki",
-     "id": "8b56ab10-0107-4387-9347-5bb78b6ced98",
-     "auto": true
+     "id": "8b56ab10-0107-4387-9347-5bb78b6ced98"
     },
     {
      "name": "Emi Takei",
@@ -6624,8 +6557,7 @@
     },
     {
      "name": "The Rolling Stones",
-     "id": "b4678093-4330-45d0-b114-f700a378e7ce",
-     "auto": true
+     "id": "b4678093-4330-45d0-b114-f700a378e7ce"
     },
     {
      "name": "Kōhei Matsushita",
@@ -6793,7 +6725,6 @@
    ],
    "other_fields": {
     "prev_record": "edaecfba-af6d-47ed-aa29-a4a428168c2b",
-    "prev_auto": "함께 [] · 단어 ['교육청', '내년', '부산시의회', '예산안']",
     "sources": [
      "https://www.yna.co.kr/view/AKR20261120069900051"
     ],
@@ -6966,23 +6897,19 @@
    "featuring": [
     {
      "name": "Joseph Zada",
-     "id": "71be8d8f-d5bb-40ae-b51d-37e12bf87a8f",
-     "auto": true
+     "id": "71be8d8f-d5bb-40ae-b51d-37e12bf87a8f"
     },
     {
      "name": "Jesse Plemons",
-     "id": "70eab222-9e62-4a95-8250-6e52d3c70bfe",
-     "auto": true
+     "id": "70eab222-9e62-4a95-8250-6e52d3c70bfe"
     },
     {
      "name": "Elle Fanning",
-     "id": "05d59aae-d78b-492e-9279-337d624e2ba8",
-     "auto": true
+     "id": "05d59aae-d78b-492e-9279-337d624e2ba8"
     },
     {
      "name": "Francis Lawrence",
-     "id": "9c57d3e8-2add-4e80-b809-0e950368dfe0",
-     "auto": true
+     "id": "9c57d3e8-2add-4e80-b809-0e950368dfe0"
     },
     {
      "name": "Mckenna Grace",
@@ -7147,8 +7074,7 @@
    "featuring": [
     {
      "name": "Hiyori Sakurada",
-     "id": "70e5f692-5306-4eb8-a5f3-6a317b1d6ad9",
-     "auto": true
+     "id": "70e5f692-5306-4eb8-a5f3-6a317b1d6ad9"
     }
    ],
    "other_fields": {
@@ -7186,8 +7112,7 @@
    "places": [
     {
      "name": "Ujung Kulon National Park",
-     "id": "dca47597-50d5-4da5-907d-ccb42261647c",
-     "auto": true
+     "id": "dca47597-50d5-4da5-907d-ccb42261647c"
     }
    ],
    "featuring": [
@@ -7352,18 +7277,15 @@
    "featuring": [
     {
      "name": "Go Ayano",
-     "id": "14b3265a-53a4-42c6-82ce-1b88eefc356e",
-     "auto": true
+     "id": "14b3265a-53a4-42c6-82ce-1b88eefc356e"
     },
     {
      "name": "Etsushi Toyokawa",
-     "id": "fa0e1866-4156-4376-a7db-26bcd025f64e",
-     "auto": true
+     "id": "fa0e1866-4156-4376-a7db-26bcd025f64e"
     },
     {
      "name": "Hitoshi Ōne",
-     "id": "ed3ac19e-5a83-45aa-ac93-2f8ca58cdf00",
-     "auto": true
+     "id": "ed3ac19e-5a83-45aa-ac93-2f8ca58cdf00"
     }
    ],
    "other_fields": {
@@ -7779,8 +7701,7 @@
     "orgs": [
      {
       "name": "Komeito",
-      "id": "97c60da3-0798-4ab8-9026-3fad915744a1",
-      "auto": true
+      "id": "97c60da3-0798-4ab8-9026-3fad915744a1"
      }
     ]
    },
@@ -7860,8 +7781,7 @@
     "orgs": [
      {
       "name": "Michelin Guide",
-      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601",
-      "auto": true
+      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601"
      }
     ]
    },
@@ -7904,8 +7824,7 @@
     "orgs": [
      {
       "name": "Michelin Guide",
-      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601",
-      "auto": true
+      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601"
      }
     ]
    },
@@ -7952,8 +7871,7 @@
     "orgs": [
      {
       "name": "Michelin Guide",
-      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601",
-      "auto": true
+      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601"
      }
     ]
    },
@@ -8131,8 +8049,7 @@
    "places": [
     {
      "name": "송상현광장",
-     "id": "99d9baab-ee41-4786-a32c-14e961ae3afe",
-     "auto": true
+     "id": "99d9baab-ee41-4786-a32c-14e961ae3afe"
     }
    ],
    "featuring": [],
@@ -8207,8 +8124,7 @@
     "orgs": [
      {
       "name": "스토리제이컴퍼니",
-      "id": "5fc4e8ed-d954-42d2-bd95-77aa62ae56e6",
-      "auto": true
+      "id": "5fc4e8ed-d954-42d2-bd95-77aa62ae56e6"
      }
     ]
    },
@@ -8219,7 +8135,7 @@
   {
    "id": "9985b7ea-4819-4afa-ac28-d95a6f80c4ca",
    "title": "스토킹 신고한 전 연인 살해 40대 구속기소",
-   "type": "경과",
+   "type": "뉴스",
    "date": "2026-11-20",
    "parent": [
     {
@@ -8240,8 +8156,6 @@
    ],
    "featuring": [],
    "other_fields": {
-    "prev_record": "c3adf672-2e5a-4340-8273-30dfc96bba70",
-    "prev_auto": "함께 [] · 단어 ['살해', '숨지게', '폭행']",
     "sources": [
      "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718705"
     ],
@@ -8282,8 +8196,7 @@
     "orgs": [
      {
       "name": "스튜디오앤뉴",
-      "id": "e3b71d45-51ac-4619-8d28-09c7933c6c2b",
-      "auto": true
+      "id": "e3b71d45-51ac-4619-8d28-09c7933c6c2b"
      },
      {
       "name": "NEW",
@@ -8515,13 +8428,11 @@
    "featuring": [
     {
      "name": "Rachel Brosnahan",
-     "id": "c1b2b4e0-c020-4c68-adba-4c0d1c3cc74e",
-     "auto": true
+     "id": "c1b2b4e0-c020-4c68-adba-4c0d1c3cc74e"
     },
     {
      "name": "Matthew Rhys",
-     "id": "fbb110cf-49f2-4c2c-8f03-c2c51626e759",
-     "auto": true
+     "id": "fbb110cf-49f2-4c2c-8f03-c2c51626e759"
     },
     {
      "name": "David E. Kelley",
@@ -8542,7 +8453,8 @@
       "name": "Apple TV",
       "id": "7b9a88cf-b297-44db-ae0a-34c497a7e882"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-20 · Hollywood Reporter · https://www.hollywoodreporter.com/tv/tv-news/presumed-innocent-season-2-brosnahan-rhys-1236760022/\n2026-11-20 · Deadline · https://deadline.com/2026/11/presumed-innocent-season-2-release-date-photos-teaser-1237229678/"
    },
    "url": "https://variety.com/2026/tv/news/presumed-innocent-season-2-release-date-trailer-1236953834/",
    "source": "뉴스",
@@ -8580,7 +8492,8 @@
       "name": "MBC",
       "id": "a7b2f0c4-3d51-4a9e-8c17-5e0d9f6b2a31"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-21 · 스포츠조선(OSEN) · https://www.chosun.com/entertainments/broadcast/2026/11/21/GBQTEMRQHAYGIMJXGRSTSOJTMQ/\n2026-11-21 · 스포츠동아 · https://sports.donga.com/ent/article/all/20261121/135065032/1"
    },
    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/HFTDCZJYGA2WKOJTMYZTIZRSGA/",
    "source": "뉴스",
@@ -8606,13 +8519,11 @@
    "featuring": [
     {
      "name": "정샘물",
-     "id": "997cdf99-eeca-4cae-b61d-a6fefd8b1b96",
-     "auto": true
+     "id": "997cdf99-eeca-4cae-b61d-a6fefd8b1b96"
     },
     {
      "name": "이사배",
-     "id": "03a5ec0d-025b-4db4-9072-1d27ef929aa1",
-     "auto": true
+     "id": "03a5ec0d-025b-4db4-9072-1d27ef929aa1"
     },
     {
      "name": "태연",
@@ -9132,8 +9043,7 @@
     "orgs": [
      {
       "name": "Michelin Guide",
-      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601",
-      "auto": true
+      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601"
      }
     ]
    },
@@ -9428,8 +9338,7 @@
    "places": [
     {
      "name": "오호항",
-     "id": "1600acff-c61f-4b12-ba80-8da20d420170",
-     "auto": true
+     "id": "1600acff-c61f-4b12-ba80-8da20d420170"
     },
     {
      "name": "죽왕면",
@@ -9783,8 +9692,7 @@
    "places": [
     {
      "name": "울산공항",
-     "id": "3c14d1b7-374f-4c81-b1e3-d939b2919cc6",
-     "auto": true
+     "id": "3c14d1b7-374f-4c81-b1e3-d939b2919cc6"
     }
    ],
    "featuring": [],
@@ -9979,8 +9887,7 @@
     "orgs": [
      {
       "name": "Michelin Guide",
-      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601",
-      "auto": true
+      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601"
      }
     ]
    },
@@ -10527,8 +10434,7 @@
    "featuring": [
     {
      "name": "이우제",
-     "id": "587355ff-6f9b-4781-9089-2b82626029e8",
-     "auto": true
+     "id": "587355ff-6f9b-4781-9089-2b82626029e8"
     }
    ],
    "other_fields": {
@@ -11071,8 +10977,7 @@
    "places": [
     {
      "name": "장호항",
-     "id": "4bbc750a-f63e-475b-a540-e088dfea971b",
-     "auto": true
+     "id": "4bbc750a-f63e-475b-a540-e088dfea971b"
     }
    ],
    "featuring": [],
@@ -11776,13 +11681,11 @@
    "featuring": [
     {
      "name": "김무열",
-     "id": "86e9150d-da36-47d3-a05e-813cc2b8b0af",
-     "auto": true
+     "id": "86e9150d-da36-47d3-a05e-813cc2b8b0af"
     },
     {
      "name": "황인엽",
-     "id": "a68ec231-1b08-4f4b-856c-829801648169",
-     "auto": true
+     "id": "a68ec231-1b08-4f4b-856c-829801648169"
     },
     {
      "name": "류승룡",
@@ -11832,8 +11735,7 @@
    "featuring": [
     {
      "name": "고아성",
-     "id": "ce07e6ab-89d9-4ca5-a4d0-443c1822cba0",
-     "auto": true
+     "id": "ce07e6ab-89d9-4ca5-a4d0-443c1822cba0"
     },
     {
      "name": "문가영",
@@ -11890,28 +11792,23 @@
    "featuring": [
     {
      "name": "Paul Anka",
-     "id": "b5b09b09-f0cf-4a79-9d66-4e058b4c1e9c",
-     "auto": true
+     "id": "b5b09b09-f0cf-4a79-9d66-4e058b4c1e9c"
     },
     {
      "name": "David Foster",
-     "id": "16121924-e2f3-4010-8831-fe55fa33d8f5",
-     "auto": true
+     "id": "16121924-e2f3-4010-8831-fe55fa33d8f5"
     },
     {
      "name": "Andy Garcia",
-     "id": "e8dea976-d428-494e-b934-3fba7343abee",
-     "auto": true
+     "id": "e8dea976-d428-494e-b934-3fba7343abee"
     },
     {
      "name": "David Mamet",
-     "id": "e552f839-6356-4c75-b620-f5543c4771ff",
-     "auto": true
+     "id": "e552f839-6356-4c75-b620-f5543c4771ff"
     },
     {
      "name": "Barbara Mandrell",
-     "id": "abc6c22d-62bd-4da9-998f-26a7cd1fd3e3",
-     "auto": true
+     "id": "abc6c22d-62bd-4da9-998f-26a7cd1fd3e3"
     },
     {
      "name": "Donald Trump",
@@ -12404,7 +12301,8 @@
       "name": "충청남도교육청",
       "id": "e6e69398-bf18-4c26-bac7-4819a4b421d4"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-21 · MBC · https://imnews.imbc.com/replay/2026/nwtoday/article/6867423_37012.html"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718234",
    "source": "뉴스",
@@ -12772,8 +12670,7 @@
    "featuring": [
     {
      "name": "임정식",
-     "id": "27c64f20-1786-4671-905a-14dd08408949",
-     "auto": true
+     "id": "27c64f20-1786-4671-905a-14dd08408949"
     }
    ],
    "other_fields": {
@@ -12783,8 +12680,7 @@
     "orgs": [
      {
       "name": "Michelin Guide",
-      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601",
-      "auto": true
+      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601"
      }
     ]
    },
@@ -13199,8 +13095,7 @@
     "orgs": [
      {
       "name": "Kalshi",
-      "id": "898dce9e-0635-4def-9bd0-e5a6ea72265f",
-      "auto": true
+      "id": "898dce9e-0635-4def-9bd0-e5a6ea72265f"
      }
     ]
    },
@@ -13333,8 +13228,7 @@
     },
     {
      "name": "Ryan Coogler",
-     "id": "78752443-0c2d-4588-a059-821534659cac",
-     "auto": true
+     "id": "78752443-0c2d-4588-a059-821534659cac"
     },
     {
      "name": "Zinzi Coogler",
@@ -13603,8 +13497,7 @@
    "featuring": [
     {
      "name": "펀치",
-     "id": "60252259-f489-435a-b654-7d18dd747bb9",
-     "auto": true
+     "id": "60252259-f489-435a-b654-7d18dd747bb9"
     }
    ],
    "other_fields": {
@@ -13735,8 +13628,7 @@
     "orgs": [
      {
       "name": "한화호텔앤드리조트",
-      "id": "fe48f926-a83f-4586-be0f-5923a65d9d6a",
-      "auto": true
+      "id": "fe48f926-a83f-4586-be0f-5923a65d9d6a"
      },
      {
       "name": "포항하나원",
@@ -14280,8 +14172,7 @@
    "featuring": [
     {
      "name": "Daniel Humm",
-     "id": "ab930fb3-fac4-46f7-aa88-6f57c90103f1",
-     "auto": true
+     "id": "ab930fb3-fac4-46f7-aa88-6f57c90103f1"
     }
    ],
    "other_fields": {
@@ -14291,8 +14182,7 @@
     "orgs": [
      {
       "name": "Michelin Guide",
-      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601",
-      "auto": true
+      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601"
      }
     ]
    },
@@ -14335,8 +14225,7 @@
     "orgs": [
      {
       "name": "Michelin Guide",
-      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601",
-      "auto": true
+      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601"
      }
     ]
    },
@@ -14379,8 +14268,7 @@
     "orgs": [
      {
       "name": "Michelin Guide",
-      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601",
-      "auto": true
+      "id": "3404aaf7-0a45-4a4e-8039-cf5648673601"
      }
     ]
    },
@@ -14407,8 +14295,7 @@
    "places": [
     {
      "name": "ICE BSD",
-     "id": "9516328c-6fdd-4a8c-88be-50d3763c3cf6",
-     "auto": true
+     "id": "9516328c-6fdd-4a8c-88be-50d3763c3cf6"
     }
    ],
    "featuring": [
@@ -14533,8 +14420,7 @@
    "places": [
     {
      "name": "모나용평",
-     "id": "97e1067a-85a2-4421-b562-bc28c5939c69",
-     "auto": true
+     "id": "97e1067a-85a2-4421-b562-bc28c5939c69"
     },
     {
      "name": "휘닉스 파크",
@@ -15460,8 +15346,7 @@
      "https://en.wikipedia.org/wiki/Fangchengbao_Bao_5",
      "https://en.wikipedia.org/wiki/Denza",
      "https://carnewschina.com/2026/11/18/byds-denza-b5-tows-boeing-747-while-driving-on-two-wheels/"
-    ],
-    "product_type": "자동차"
+    ]
    },
    "source_url": "https://www.wikidata.org/wiki/Q123643637",
    "links": [
@@ -15523,7 +15408,6 @@
     "name_en": "Elder",
     "menu": "빈달루 버크셔 돼지 립찹, 탄두르 구운 채소, 치킨 룰라드 티카 마살라",
     "opened_date": "2026-08-06",
-    "operator": "Sujan Sarkar",
     "summary": "셰프 수잔 사르카르가 런던 찹하우스를 인도 양념 · 장작불 요리로 풀어낸 식당(약 100석), 위층은 같은 셰프의 Indienne NYC. 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가",
     "sources": [
      "https://ny.eater.com/news/414985/michelin-guide-new-york-additions-2026-bib-gourmands-michelin-recommendations",
@@ -15795,9 +15679,8 @@
     "hours": "수~일 10:00~15:00(저녁은 12월부터)",
     "restday": "월 · 화",
     "opened_date": "2026-11-18",
-    "operator": "Benjamin Laufer",
     "website": "https://www.garnet.nyc/",
-    "summary": "옛 Clover Hill 자리의 식당, 낮에는 메인 · 반찬 · 빵을 쟁반에 담는 구내식당식 점심과 수프 · 스튜 · 샐러드 · 빵",
+    "summary": "옛 Clover Hill 자리의 식당, 낮에는 메인 · 반찬 · 빵을 쟁반에 담는 구내식당식 점심과 수프 · 스튜 · 샐러드 · 빵. 운영 Benjamin Laufer",
     "sources": [
      "https://ny.eater.com/maps/nyc-new-restaurant-openings-2026",
      "https://www.garnet.nyc/"
@@ -16106,8 +15989,6 @@
     "gender": "남성",
     "occupation": "작가",
     "active_years": "1979~",
-    "debut_date": "1979",
-    "debut_work": "風の歌を聴け",
     "notable_works": "風の歌を聴け, 羊をめぐる冒険, ノルウェイの森, ねじまき鳥クロニクル, 海辺のカフカ, 1Q84, 騎士団長殺し",
     "education": "早稲田大学",
     "awards": "군조 신인문학상, 다니자키 준이치로상, 요미우리 문학상, 세계 환상문학상, 프랭크 오코너 국제 단편상, 프란츠 카프카상, 예루살렘상, 아스투리아스 공주상",
@@ -16301,7 +16182,6 @@
     "hours": "매일 17:00~22:00",
     "menu": "장작 콜리플라워(토마토 라구), 가지 밀라네제, 킹크랩 탈리아텔레, 오리 오 푸아브르",
     "opened_date": "2026-10-10",
-    "operator": "Daniel Humm Hospitality",
     "website": "https://www.hummnyc.com",
     "amenities": "예약 가능",
     "summary": "일레븐 매디슨 파크 셰프 다니엘 흄의 이름을 딴 새 식당, 옛 En Japanese Brasserie 자리. 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가",
@@ -16343,8 +16223,7 @@
      "https://otomotif.antaranews.com/berita/5866879/hyundai-buka-pemesanan-suv-listrik-neira-mulai-rp388-juta",
      "https://electrive.com/2026/08/03/hyundai-unveils-neira-electric-mpv-for-indonesia",
      "https://www.carscoops.com/2026/07/hyundai-neira-rebadged-kia/"
-    ],
-    "product_type": "자동차"
+    ]
    },
    "source_url": "https://otomotif.antaranews.com/berita/5866879/hyundai-buka-pemesanan-suv-listrik-neira-mulai-rp388-juta",
    "links": [
@@ -16411,9 +16290,8 @@
     "price_range": "테이스팅 메뉴 1인 $195(채식 · 비건 $175)",
     "menu": "굴 파니푸리(패션프루트 · 오이), 치킨 마카니",
     "opened_date": "2026-05-28",
-    "operator": "ABV Hospitality(Sujan Sarkar)",
     "website": "https://www.indiennenyc.com",
-    "summary": "미쉐린 1스타 시카고 Indienne의 뉴욕 분점, 인도 지방 요리 · 길거리 음식을 바탕으로 한 테이스팅 메뉴(채식 · 비건 · 해산물 선택). 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가",
+    "summary": "미쉐린 1스타 시카고 Indienne의 뉴욕 분점, 인도 지방 요리 · 길거리 음식을 바탕으로 한 테이스팅 메뉴(채식 · 비건 · 해산물 선택). 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가. 셰프 수잔 사르카르(ABV Hospitality)",
     "sources": [
      "https://ny.eater.com/news/414985/michelin-guide-new-york-additions-2026-bib-gourmands-michelin-recommendations",
      "https://www.indiennenyc.com",
@@ -16466,6 +16344,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q55614601",
    "links": [
+    {
+     "id": "1b74e9a2-ce3d-41f8-a000-3c9b5eadfe6e",
+     "category": "단체",
+     "name": "Prime Video",
+     "rel": "RELATED_TO"
+    },
     {
      "id": "4bcb6730-93ef-4eec-96a9-26d51861de26",
      "category": "허브",
@@ -16896,7 +16780,6 @@
     "price_range": "가이세키 코스 1인 $350(주류 페어링 $225/$450/$800, 무알코올 $150)",
     "menu": "가이세키 코스(24절기에 맞춰 약 2주마다 바뀜)",
     "opened_date": "2026-11-18",
-    "operator": "Chikara Sono",
     "website": "https://www.kapposono.com",
     "summary": "셰프 소노 지카라의 10석 카운터 가이세키(약 2시간 반), 2022년 처음 문 열고 유니언 스퀘어 자리를 닫은 뒤 원 브라이언트 파크로 옮겨 다시 엶",
     "sources": [
@@ -16935,12 +16818,10 @@
     "gender": "남성",
     "occupation": "작가",
     "active_years": "1985~2026",
-    "debut_date": "1985",
-    "debut_work": "放課後",
     "notable_works": "放課後, 秘密, 白夜行, 容疑者Xの献身, ナミヤ雑貨店の奇蹟, ガリレオ 시리즈, 加賀恭一郎 시리즈",
     "education": "大阪府立大学 공학부",
     "awards": "에도가와 란포상(1985, 放課後), 일본추리작가협회상(1999, 秘密), 나오키상(2006, 容疑者Xの献身), 본격 미스터리 대상, 시바타 렌자부로상, 요시카와 에이지 문학상, 기쿠치 간상, 자수포장",
-    "summary": "「용의자 X의 헌신」으로 나오키상을 받은 추리 소설가, 책 106권 중 스무 편 가까이 영상화. 2026년 7월 대장암으로 세상을 떠남",
+    "summary": "「용의자 X의 헌신」으로 나오키상을 받은 추리 소설가, 책 106권 중 스무 편 가까이 영상화. 2026년 7월 대장암으로 세상을 떠남. 1985년 「放課後」로 데뷔",
     "sources": [
      "https://www.wikidata.org/wiki/Q125970",
      "https://en.wikipedia.org/wiki/Keigo_Higashino",
@@ -17061,6 +16942,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q1738793",
    "links": [
+    {
+     "id": "f2de7b99-cbba-4c5f-9def-61bd207952bf",
+     "category": "단체",
+     "name": "CBS",
+     "rel": "RELATED_TO"
+    },
     {
      "id": "581ee91c-b523-4768-b4e6-b255b33621b5",
      "category": "허브",
@@ -17412,8 +17299,7 @@
     "name_en": "Levant",
     "menu": "페티르(손으로 늘인 반죽 파이, 짭짤 · 달콤)",
     "menu_all": "페티르, 후무스, 꼬치, 샐러드, 랩, 바클라바, 쿠나파, 라이스 푸딩",
-    "operator": "Youssef Mubarez",
-    "summary": "애스토리아 「리틀 이집트」 스타인웨이 거리의 이집트 페티르 전문 식당. 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가",
+    "summary": "애스토리아 「리틀 이집트」 스타인웨이 거리의 이집트 페티르 전문 식당. 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가. 운영 Youssef Mubarez",
     "sources": [
      "https://ny.eater.com/news/414985/michelin-guide-new-york-additions-2026-bib-gourmands-michelin-recommendations",
      "https://www.timeout.com/newyork/restaurants/levant-1"
@@ -17446,7 +17332,6 @@
     "name_en": "Little Banchan Shop",
     "menu": "반찬, 비빔밥, 매운 돼지고기 국수, 떡국, 불고기 덮밥",
     "opened_date": "2022-08",
-    "operator": "후니 김(Hooni Kim)",
     "website": "https://littlebanchanshop.com",
     "summary": "제임스 비어드상 수상 셰프 후니 김의 한국 식료품 · 반찬 가게 겸 작은 식당, 뒤편 숨은 문 안에 한식 코스 카운터 Meju. 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가",
     "sources": [
@@ -17553,7 +17438,7 @@
     "name_en": "Lufthansa",
     "name_ko": "루프트한자",
     "org_type": "기업",
-    "industry": "항공",
+    "industry": "항공사",
     "formation_date": "1953-01-06",
     "hq": "Köln",
     "website": "https://www.lufthansa.com",
@@ -17968,7 +17853,6 @@
     "price_range": "8코스 테이스팅 1인 $150(와인 페어링 +$115)",
     "menu": "방어(코코넛 · 발효 토마토), 연어 레드 커리와 코끼리조개",
     "opened_date": "2026-07-02",
-    "operator": "임정식(Jungsik Yim)",
     "website": "https://www.mujenyc.com",
     "summary": "정식당 임정식 셰프가 옛 Sea by Jungsik 자리에 연 아시아 코스 식당, 이름은 「무제(無題)」. 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가",
     "sources": [
@@ -18089,8 +17973,7 @@
     "address": "137 Sullivan Street, New York, NY (Prince · Houston Street 사이, SoHo)",
     "name_en": "Noury",
     "menu": "고등어 사바 샌드위치(차이브 버터, $26), 치킨 가스(잭 치즈 · 고추 · 미소 소스)",
-    "operator": "Lina Goujjane · Alex Chang(Kiko)",
-    "summary": "허드슨 스퀘어 Kiko 부부 팀의 두 번째 가게, 계절 작은 접시를 바꿔 내는 39석 이자카야 겸 와인 · 사케 바. 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가",
+    "summary": "허드슨 스퀘어 Kiko 부부 팀의 두 번째 가게, 계절 작은 접시를 바꿔 내는 39석 이자카야 겸 와인 · 사케 바. 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가. 운영 Lina Goujjane · Alex Chang",
     "sources": [
      "https://ny.eater.com/news/414985/michelin-guide-new-york-additions-2026-bib-gourmands-michelin-recommendations",
      "https://blog.resy.com/2026/06/noury-nyc/",
@@ -18125,7 +18008,6 @@
     "hours": "월~토 17:00~23:00",
     "menu": "예루살렘 베이글과 딥(바바 가누쉬 · 마트부하 · 민트 차지키), 할루미 페이스트리(자타르 · 핫 허니), 양고기 케밥, 와규 뉴욕 스트립",
     "opened_date": "2026-02-10",
-    "operator": "Catch Hospitality Group(셰프 Nadav Greenberg)",
     "summary": "Catch Hospitality Group이 셰프 나다브 그린버그와 연 레반트풍 숯불 요리 식당, 메뉴 약 70%를 숯불 그릴로 냄. 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가",
     "sources": [
      "https://ny.eater.com/news/414985/michelin-guide-new-york-additions-2026-bib-gourmands-michelin-recommendations",
@@ -18161,7 +18043,6 @@
     "name_en": "Oriana",
     "menu": "연어, 행어 스테이크, 돼지 갈비 찹, 숯불 브로콜리니, 숯에 구운 감자",
     "opened_date": "2026-05-28",
-    "operator": "Andrew Quinn · Cedric Nicaise(The Noortwyck)",
     "summary": "웨스트빌리지 The Noortwyck 팀(셰프 앤드루 퀸 · 소믈리에 세드릭 니케즈)의 장작 그릴 스테이크하우스. 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가",
     "sources": [
      "https://ny.eater.com/news/414985/michelin-guide-new-york-additions-2026-bib-gourmands-michelin-recommendations",
@@ -18467,6 +18348,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q116736420",
    "links": [
     {
+     "id": "7b9a88cf-b297-44db-ae0a-34c497a7e882",
+     "category": "단체",
+     "name": "Apple TV",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "db7a65aa-620f-4dcf-96e9-6b371b0e09d3",
      "category": "허브",
      "name": "United States Drama",
@@ -18730,9 +18617,8 @@
     "restday": "월요일",
     "menu": "살루미 · 치즈, 카르보나라, 카초 에 페페, 미트볼과 폴렌타",
     "opened_date": "2023-07",
-    "operator": "Likeminded Hospitality(Alessandro Pepe · Ariel Arce)",
     "website": "https://rosciolinyc.com",
-    "summary": "로마 Roscioli의 첫 해외 분점, 위층은 식료품점(알리멘타리) · 아래층은 촛불 와인 셀러 식당, 옛 Niche Niche 자리. 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가",
+    "summary": "로마 Roscioli의 첫 해외 분점, 위층은 식료품점(알리멘타리) · 아래층은 촛불 와인 셀러 식당, 옛 Niche Niche 자리. 2026-11 미쉐린 가이드 뉴욕 추천 목록에 추가. 운영 Likeminded Hospitality(Alessandro Pepe · Ariel Arce)",
     "sources": [
      "https://ny.eater.com/news/414985/michelin-guide-new-york-additions-2026-bib-gourmands-michelin-recommendations",
      "https://rosciolinyc.com",
@@ -18908,7 +18794,7 @@
     "name_en": "Guangzhou Shunchangyuan Wine & Spirits Co., Ltd.",
     "real_name": "广州市顺昌源酒业有限公司",
     "org_type": "기업",
-    "industry": "주류",
+    "industry": "음료",
     "formation_date": "1997",
     "hq": "Conghua, Guangzhou",
     "summary": "리치주 · 매실주 등 아시아 과일주를 만드는 광저우 회사, 20여 개 나라에 수출",
@@ -19006,12 +18892,10 @@
     "nationality": "일본",
     "gender": "남성",
     "occupation": "작가",
-    "debut_date": "1993",
-    "debut_work": "ハトくん",
     "notable_works": "闇金ウシジマくん(2004~2019), 九条の大罪, THE END, スマグラー",
     "awards": "쇼가쿠칸 만화상(2010, 闇金ウシジマくん), 문화청 미디어예술제 소셜 임팩트상(2020)",
     "sns": "https://x.com/shoheimanabe",
-    "summary": "뒷골목 사람들을 직접 취재해 그리는 만화가, 「闇金ウシジマくん」 · 「九条の大罪」",
+    "summary": "뒷골목 사람들을 직접 취재해 그리는 만화가, 「闇金ウシジマくん」 · 「九条の大罪」. 1993년 「ハトくん」으로 데뷔",
     "sources": [
      "https://ja.wikipedia.org/wiki/真鍋昌平",
      "https://www.wikidata.org/wiki/Q11583610",
@@ -19157,6 +19041,12 @@
    },
    "source_url": "https://sports.donga.com/ent/article/all/20261120/135064037/1",
    "links": [
+    {
+     "id": "21ca772b-28ad-4cee-a14d-ca0631e15747",
+     "category": "단체",
+     "name": "위엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
     {
      "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
      "category": "허브",
@@ -19368,7 +19258,6 @@
     "menu": "Erewhon State of Mind 스무디(뉴욕 한정, 사과 주스 · 겨울 향신료 · 구기자)",
     "menu_all": "스무디, 토닉, 볼, 주스, 커피",
     "opened_date": "2026-11-20",
-    "operator": "Erewhon",
     "website": "https://erewhon.com/",
     "summary": "LA 식료품점 에레혼의 뉴욕 첫 일반 공개 토닉 바, Kith Women 매장 안에서 꽃집 Plantshed와 자리를 함께 씀",
     "sources": [
@@ -19418,6 +19307,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q141490661",
    "links": [
+    {
+     "id": "d9ccc554-25d1-494d-8b13-c6b361e8c405",
+     "category": "단체",
+     "name": "NBC",
+     "rel": "RELATED_TO"
+    },
     {
      "id": "581ee91c-b523-4768-b4e6-b255b33621b5",
      "category": "허브",
@@ -19486,7 +19381,7 @@
     "director": "Stacey Gregg",
     "creator": "Danny Robins",
     "source_material": "The Witch Farm(BBC Radio 4 팟캐스트, Danny Robins)",
-    "source_medium": "기타",
+    "source_medium": "그 밖에",
     "cast": "Gabrielle Creevy(Liz), Michael Socha(Bill), Lewin Lloyd(Jonathan), Sian Gibson(Bethan), Jeremy Swift(Eddie Burks), Edward Holcroft(Max), Robert Pugh, Suzanne Packer, Roger Evans",
     "length": "4부작(회당 60분)",
     "synopsis": "1989년, 빌과 리즈 부부와 십대 아들 조너선은 런던을 떠나 웨일스 브레컨비컨스 기슭의 외딴 농가로 이사한다. 새 삶을 꿈꾸던 집에서 설명할 수 없는 일이 하나둘 일어나기 시작한다.",
@@ -19610,10 +19505,8 @@
     "nationality": "일본",
     "gender": "남성",
     "occupation": "코미디언, MC",
-    "activity": "솔로",
     "active_years": "1989~",
     "organization": "吉本興業",
-    "group": "雨上がり決死隊(1989~2021)",
     "notable_works": "アメトーーク!(2003~ MC), 世界の何だコレ!?ミステリー, さんまのお笑い向上委員会",
     "summary": "콤비 「雨上がり決死隊」로 활동하다 2021년 해체 뒤 혼자 활동하는 개그맨, 2003년부터 「아메토크!」 MC",
     "sources": [
@@ -19760,7 +19653,6 @@
     "nationality": "일본",
     "gender": "남성",
     "occupation": "코미디언",
-    "activity": "솔로",
     "organization": "プロダクション人力舎",
     "notable_works": "巨匠(콤비, ~2016), 最高の人間(유닛), キングオブコント 결승(2014 · 2015 · 2022), R-1ぐらんぷり2019 결승, さらばの合法オークション",
     "summary": "콤비 「巨匠」 해체 뒤 혼자 활동하는 콩트 개그맨, 「킹 오브 콩트」 결승 세 번",
@@ -19860,6 +19752,12 @@
    "source_url": "https://www.cyberagent.co.jp/news/detail/id=33979",
    "links": [
     {
+     "id": "8cbf3f52-51d7-40b2-adfd-dced4f18bf58",
+     "category": "단체",
+     "name": "ABEMA",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "715e2158-31f3-4e6a-be77-09cb8840496a",
      "category": "허브",
      "name": "Japan Variety Show",
@@ -19882,7 +19780,6 @@
     "name_en": "Saraba Seishun no Hikari",
     "org_type": "기타",
     "formation_date": "2008-08",
-    "members": "森田哲矢, 東ブクロ",
     "hq": "ザ・森東(개인 사무소, 2013년 松竹芸能에서 독립)",
     "founder": "森田哲矢, 東ブクロ",
     "website": "https://www.sarabaseisyunnohikari.com/",
@@ -19951,6 +19848,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q11125976",
    "links": [
     {
+     "id": "7e49628f-a2b5-414d-96c2-0415a2320b22",
+     "category": "단체",
+     "name": "TV Asahi",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "715e2158-31f3-4e6a-be77-09cb8840496a",
      "category": "허브",
      "name": "Japan Variety Show",
@@ -19973,12 +19876,10 @@
     "name_en": "Jungle Pocket",
     "org_type": "기타",
     "formation_date": "2006",
-    "members": "太田博久, おたけ",
-    "former_members": "斉藤慎二",
     "hq": "吉本興業(東京)",
     "website": "https://profile.yoshimoto.co.jp/talent/detail?id=2534",
     "sns": "https://x.com/jungle_pocket, https://www.youtube.com/channel/UCOTWVP-EpyVD6SyA3PdgIJw",
-    "summary": "NSC 도쿄 12기 출신 요시모토흥업 개그 그룹. 2006년 트리오로 결성해 2024년 10월부터 오타 히로히사 · 오타케 2인 콤비. 킹 오브 콩트 2016 준우승",
+    "summary": "NSC 도쿄 12기 출신 요시모토흥업 개그 그룹. 2006년 트리오로 결성해 2024년 10월부터 오타 히로히사 · 오타케 2인 콤비. 킹 오브 콩트 2016 준우승. 옛 멤버 斉藤慎二(2024년 탈퇴)",
     "sources": [
      "https://www.wikidata.org/wiki/Q11310149",
      "https://ja.wikipedia.org/wiki/ジャングルポケット_(お笑い)",
@@ -20113,6 +20014,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q126688841",
    "links": [
+    {
+     "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
+     "category": "단체",
+     "name": "Netflix",
+     "rel": "RELATED_TO"
+    },
     {
      "id": "8bffbfb1-e40d-4a24-aa8b-8687a513562f",
      "category": "허브",
@@ -20493,6 +20400,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q484182",
    "links": [
+    {
+     "id": "ba598f8d-91ad-4ca3-8d73-faa68f7fea1b",
+     "category": "단체",
+     "name": "JTBC",
+     "rel": "RELATED_TO"
+    },
     {
      "id": "92547cdc-63a9-4ea5-8778-766838bfd131",
      "category": "허브",
@@ -21230,6 +21143,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q35101861",
    "links": [
     {
+     "id": "a708e427-7dae-4d95-9deb-0cd8d03e5d06",
+     "category": "단체",
+     "name": "케이아이엔터테인먼트",
+     "rel": "MEMBER_OF"
+    },
+    {
      "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
      "category": "허브",
      "name": "한국 가수",
@@ -21866,6 +21785,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q28032336",
    "links": [
+    {
+     "id": "d427e69c-0140-44e9-80bb-3eb399b67018",
+     "category": "단체",
+     "name": "슈퍼벨컴퍼니",
+     "rel": "MEMBER_OF"
+    },
     {
      "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
      "category": "허브",
