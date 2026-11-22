@@ -1,11 +1,11 @@
 {
  "date": "2026-11-22",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-22T00:56:13+00:00",
+ "exported_at": "2026-11-22T01:42:35+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 152,
-  "new_planets": 92,
+  "new_planets": 149,
   "bulk_added": 0
  },
  "updates": [
@@ -531,7 +531,8 @@
    "places": [
     {
      "name": "양백리",
-     "id": null
+     "id": "0e0d3281-5c4c-4396-b764-fb0b98e675f3",
+     "auto": true
     }
    ],
    "featuring": [],
@@ -732,7 +733,8 @@
    "places": [
     {
      "name": "용산철도고등학교",
-     "id": null
+     "id": "7fff7e2b-bb31-478e-beda-1de72b8e8c3d",
+     "auto": true
     }
    ],
    "featuring": [
@@ -790,7 +792,8 @@
     "orgs": [
      {
       "name": "Cienco4",
-      "id": null
+      "id": "9e6213a9-2207-495e-847b-64897887798c",
+      "auto": true
      }
     ]
    },
@@ -861,11 +864,13 @@
    "featuring": [
     {
      "name": "諫早幸作",
-     "id": null
+     "id": "43aaaf84-1e59-4f90-aff8-7bf832171c2f",
+     "auto": true
     },
     {
      "name": "EOW",
-     "id": null
+     "id": "de3d1021-fbe1-4f03-aff6-ca3527fb8c54",
+     "auto": true
     }
    ],
    "other_fields": {
@@ -958,7 +963,8 @@
     "orgs": [
      {
       "name": "Financial Times",
-      "id": null
+      "id": "31ed8f18-ee19-4963-9417-c2a03ba85595",
+      "auto": true
      }
     ]
    },
@@ -1018,7 +1024,8 @@
    "places": [
     {
      "name": "Commerce",
-     "id": null
+     "id": "58612142-3d23-4960-b6a9-8255ec605733",
+     "auto": true
     }
    ],
    "featuring": [
@@ -1173,7 +1180,8 @@
     "orgs": [
      {
       "name": "The Washington Post",
-      "id": null
+      "id": "f3b85243-fbdc-4e10-beaf-b6c1b816b1e8",
+      "auto": true
      }
     ]
    },
@@ -1271,7 +1279,8 @@
    "places": [
     {
      "name": "JIExpo Kemayoran",
-     "id": null
+     "id": "1b0a341a-4102-4817-a005-229360e46a6b",
+     "auto": true
     },
     {
      "name": "Indonesia",
@@ -1282,7 +1291,8 @@
    "featuring": [
     {
      "name": "Aming",
-     "id": null
+     "id": "df266fda-cace-4365-b8d6-9940cfe212d7",
+     "auto": true
     },
     {
      "name": "Ical Tanjung",
@@ -1309,7 +1319,8 @@
     "orgs": [
      {
       "name": "Festival Film Indonesia",
-      "id": null
+      "id": "c2b38c2c-1cfa-4021-a478-3e54830fc498",
+      "auto": true
      }
     ]
    },
@@ -1409,7 +1420,8 @@
    "places": [
     {
      "name": "JIExpo Kemayoran",
-     "id": null
+     "id": "1b0a341a-4102-4817-a005-229360e46a6b",
+     "auto": true
     },
     {
      "name": "Indonesia",
@@ -1431,7 +1443,8 @@
     "orgs": [
      {
       "name": "Festival Film Indonesia",
-      "id": null
+      "id": "c2b38c2c-1cfa-4021-a478-3e54830fc498",
+      "auto": true
      }
     ]
    },
@@ -1469,7 +1482,8 @@
     "orgs": [
      {
       "name": "川上庵",
-      "id": null
+      "id": "0d7cc6ee-503e-41f3-9a36-9a9a42ce8148",
+      "auto": true
      }
     ]
    },
@@ -1839,7 +1853,8 @@
    "places": [
     {
      "name": "소정리역",
-     "id": null
+     "id": "0d9f1cdc-3008-4869-830c-27182981ea65",
+     "auto": true
     },
     {
      "name": "소정면",
@@ -1898,7 +1913,8 @@
    "places": [
     {
      "name": "관음봉",
-     "id": null
+     "id": "9c9caacd-2f29-4ee2-92f2-ed863058deb9",
+     "auto": true
     }
    ],
    "featuring": [],
@@ -1974,7 +1990,8 @@
    "places": [
     {
      "name": "세운4구역",
-     "id": null
+     "id": "e5504703-bc30-4877-8fe8-a243492f2333",
+     "auto": true
     },
     {
      "name": "서울특별시",
@@ -2187,7 +2204,8 @@
    "featuring": [
     {
      "name": "Graham Moore",
-     "id": null
+     "id": "3447dd90-b34f-4b8f-8f4d-0978a067ae59",
+     "auto": true
     },
     {
      "name": "Jacqueline Hoyt",
@@ -2195,7 +2213,8 @@
     },
     {
      "name": "James Ponsoldt",
-     "id": null
+     "id": "99403d41-721d-481a-8f42-be23890c04a0",
+     "auto": true
     },
     {
      "name": "Anthony Boyle",
@@ -2278,7 +2297,8 @@
    "featuring": [
     {
      "name": "神谷皓",
-     "id": null
+     "id": "49afa18b-8f69-4f57-9f51-1b694f79013e",
+     "auto": true
     }
    ],
    "other_fields": {
@@ -2702,7 +2722,8 @@
    "places": [
     {
      "name": "JIExpo Kemayoran",
-     "id": null
+     "id": "1b0a341a-4102-4817-a005-229360e46a6b",
+     "auto": true
     }
    ],
    "featuring": [],
@@ -2714,7 +2735,8 @@
     "orgs": [
      {
       "name": "Festival Film Indonesia",
-      "id": null
+      "id": "c2b38c2c-1cfa-4021-a478-3e54830fc498",
+      "auto": true
      }
     ]
    },
@@ -3046,7 +3068,8 @@
     "orgs": [
      {
       "name": "University College Birmingham",
-      "id": null
+      "id": "4c76ee10-437e-4d8a-8f7e-d7c3e82da3be",
+      "auto": true
      }
     ]
    },
@@ -3183,7 +3206,8 @@
    "places": [
     {
      "name": "호도",
-     "id": null
+     "id": "8cd6a08c-a9ff-4273-bb8f-043ba8edd428",
+     "auto": true
     },
     {
      "name": "대천항",
@@ -3309,7 +3333,8 @@
    "places": [
     {
      "name": "북항친수공원",
-     "id": null
+     "id": "f74aa7cd-b1f5-48a8-b0e6-34eb634991ec",
+     "auto": true
     }
    ],
    "featuring": [
@@ -3500,7 +3525,8 @@
    "places": [
     {
      "name": "북항 친수공원",
-     "id": null
+     "id": "f74aa7cd-b1f5-48a8-b0e6-34eb634991ec",
+     "auto": true
     }
    ],
    "featuring": [],
@@ -3638,7 +3664,8 @@
    "featuring": [
     {
      "name": "Charbel Hayek",
-     "id": null
+     "id": "0f6c45d1-8fdb-4823-ace7-385f781b7bae",
+     "auto": true
     }
    ],
    "other_fields": {
@@ -3680,7 +3707,8 @@
     "orgs": [
      {
       "name": "The Information",
-      "id": null
+      "id": "c93436cd-8325-476b-acdc-585b41611aee",
+      "auto": true
      },
      {
       "name": "SK하이닉스",
@@ -3711,11 +3739,13 @@
    "places": [
     {
      "name": "경희대학교",
-     "id": null
+     "id": "2d00c760-4d73-429f-ad65-588b5ab01b96",
+     "auto": true
     },
     {
      "name": "성균관대학교",
-     "id": null
+     "id": "d3d1bb89-34db-47ca-9d75-2c6632720ba7",
+     "auto": true
     }
    ],
    "featuring": [],
@@ -3728,15 +3758,18 @@
     "orgs": [
      {
       "name": "경희대학교",
-      "id": null
+      "id": "2d00c760-4d73-429f-ad65-588b5ab01b96",
+      "auto": true
      },
      {
       "name": "성균관대학교",
-      "id": null
+      "id": "d3d1bb89-34db-47ca-9d75-2c6632720ba7",
+      "auto": true
      },
      {
       "name": "서강대학교",
-      "id": null
+      "id": "8c3b7d43-2a0b-446a-b793-8c968805c700",
+      "auto": true
      },
      {
       "name": "교육부",
@@ -3982,7 +4015,8 @@
    "featuring": [
     {
      "name": "岡田賢一郎",
-     "id": null
+     "id": "3c6956f4-c1f5-4a56-911b-c09cf96a18e4",
+     "auto": true
     }
    ],
    "other_fields": {
@@ -4174,11 +4208,13 @@
    "featuring": [
     {
      "name": "渡邉直子",
-     "id": null
+     "id": "f81172bf-085f-469a-81ee-2e453c93160b",
+     "auto": true
     },
     {
      "name": "吉田羊",
-     "id": null
+     "id": "01650c1a-9599-4285-8809-781f686d8d6c",
+     "auto": true
     },
     {
      "name": "Katsuya Maiguma",
@@ -4198,7 +4234,8 @@
     "orgs": [
      {
       "name": "キノフィルムズ",
-      "id": null
+      "id": "7abace0b-9259-447d-9d2e-9afdff32252b",
+      "auto": true
      }
     ]
    },
@@ -4241,11 +4278,13 @@
     "orgs": [
      {
       "name": "Mediawan",
-      "id": null
+      "id": "43c1b381-3d15-4e35-a5e8-1028586feda4",
+      "auto": true
      },
      {
       "name": "Candle Media",
-      "id": null
+      "id": "9d85b918-911f-46b8-a0fb-5a0518bcbbab",
+      "auto": true
      }
     ]
    },
@@ -4667,7 +4706,8 @@
    "places": [
     {
      "name": "장성대교",
-     "id": null
+     "id": "a81e18a8-6338-4c16-911a-ad73489cbb75",
+     "auto": true
     },
     {
      "name": "장성읍",
@@ -5057,7 +5097,8 @@
    "places": [
     {
      "name": "중부고속도로",
-     "id": null
+     "id": "f84be01e-a1d4-4e92-821b-fd9ff0c5b516",
+     "auto": true
     },
     {
      "name": "진천읍",
@@ -5125,7 +5166,8 @@
    "places": [
     {
      "name": "합정역",
-     "id": null
+     "id": "50daf1de-8a33-4d1f-b2d3-1516faa28cd9",
+     "auto": true
     },
     {
      "name": "마포구",
@@ -5290,11 +5332,13 @@
     "orgs": [
      {
       "name": "Cancer Research UK",
-      "id": null
+      "id": "f19f0f55-6fb5-4dc1-b9d7-45ddf86a2e5f",
+      "auto": true
      },
      {
       "name": "Memorial Sloan Kettering Cancer Center",
-      "id": null
+      "id": "b967b585-bf6b-4122-8324-83e01c56f290",
+      "auto": true
      }
     ]
    },
@@ -5327,7 +5371,8 @@
    "featuring": [
     {
      "name": "Paulo Airaudo",
-     "id": null
+     "id": "457c873e-76b3-4a19-9577-fc74677f5e01",
+     "auto": true
     }
    ],
    "other_fields": {
@@ -5417,11 +5462,13 @@
     "orgs": [
      {
       "name": "Chicago White Sox",
-      "id": null
+      "id": "676138db-0472-4ac1-82f2-0cb8f5c18abf",
+      "auto": true
      },
      {
       "name": "Washington Nationals",
-      "id": null
+      "id": "d9ff8963-9844-4d4b-9229-625abd4ac552",
+      "auto": true
      }
     ]
    },
@@ -5565,7 +5612,8 @@
    "places": [
     {
      "name": "Huntsville",
-     "id": null
+     "id": "b27447c5-87f2-4319-a5ca-bb1afbfe5048",
+     "auto": true
     }
    ],
    "featuring": [],
@@ -5773,7 +5821,8 @@
     "orgs": [
      {
       "name": "Unapologetic Foods",
-      "id": null
+      "id": "e850ce72-7f2b-4c39-9468-157bc2214131",
+      "auto": true
      }
     ]
    },
@@ -5990,7 +6039,8 @@
    "featuring": [
     {
      "name": "Jimmy Ophorst",
-     "id": null
+     "id": "dbd7947e-9cb8-49b0-bf19-dc7016c1bec3",
+     "auto": true
     }
    ],
    "other_fields": {
@@ -6033,7 +6083,8 @@
    "featuring": [
     {
      "name": "Brigi Stamber",
-     "id": null
+     "id": "7738e183-984e-443e-9a28-85e09f557b83",
+     "auto": true
     }
    ],
    "other_fields": {
@@ -6043,7 +6094,8 @@
     "orgs": [
      {
       "name": "Pizzaface",
-      "id": null
+      "id": "b48e9776-9627-4044-a15f-412b481c092a",
+      "auto": true
      }
     ]
    },
@@ -6070,7 +6122,8 @@
    "places": [
     {
      "name": "Hoan Kiem Lake",
-     "id": null
+     "id": "4b66d3cd-fd8c-4354-8bdc-193beb3fcd82",
+     "auto": true
     }
    ],
    "featuring": [
@@ -6175,7 +6228,8 @@
    "places": [
     {
      "name": "서격렬비열도",
-     "id": null
+     "id": "82b3b706-3dab-4f2c-9161-e57eb2d348fa",
+     "auto": true
     },
     {
      "name": "신진도",
@@ -6307,7 +6361,8 @@
    "places": [
     {
      "name": "홍대입구역",
-     "id": null
+     "id": "6c763284-a861-41aa-8ea5-dc8acadc1e40",
+     "auto": true
     }
    ],
    "featuring": [],
@@ -6825,9 +6880,9 @@
    "source_url": "https://www.wikidata.org/wiki/Q10479",
    "links": [
     {
-     "id": "860abe36-6554-419a-9021-7be14c191ffa",
-     "category": "국가",
-     "name": "United Kingdom",
+     "id": "d5e5999d-5a2e-4266-aafe-5a33cdd6586c",
+     "category": "허브",
+     "name": "United Kingdom Royal Family",
      "rel": "IS_A"
     },
     {
@@ -7229,6 +7284,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q39070714",
    "links": [
     {
+     "id": "43c1b381-3d15-4e35-a5e8-1028586feda4",
+     "category": "단체",
+     "name": "Mediawan",
+     "rel": "MEMBER_OF"
+    },
+    {
      "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
      "category": "장소",
      "name": "Los Angeles",
@@ -7618,6 +7679,12 @@
    "source_url": "https://news.tv-asahi.co.jp/news_geinou/articles/900204801.html",
    "links": [
     {
+     "id": "de3d1021-fbe1-4f03-aff6-ca3527fb8c54",
+     "category": "단체",
+     "name": "EOW",
+     "rel": "MEMBER_OF"
+    },
+    {
      "id": "36d595fd-7469-4c5a-94e5-52b2d0eb3e58",
      "category": "장소",
      "name": "Hyogo",
@@ -7799,6 +7866,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q6711974",
    "links": [
+    {
+     "id": "7e49628f-a2b5-414d-96c2-0415a2320b22",
+     "category": "단체",
+     "name": "TV Asahi",
+     "rel": "RELATED_TO"
+    },
     {
      "id": "715e2158-31f3-4e6a-be77-09cb8840496a",
      "category": "허브",
@@ -9191,6 +9264,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q135470331",
    "links": [
     {
+     "id": "9ec00e43-cc7f-4967-9b8a-eb0554c95cba",
+     "category": "단체",
+     "name": "Netflix",
+     "rel": "RELATED_TO"
+    },
+    {
      "id": "db7a65aa-620f-4dcf-96e9-6b371b0e09d3",
      "category": "허브",
      "name": "United States Drama",
@@ -9461,6 +9540,12 @@
    },
    "source_url": "https://www.wikidata.org/wiki/Q241257",
    "links": [
+    {
+     "id": "cb616011-028d-4885-b642-5757de6104d0",
+     "category": "단체",
+     "name": "TBS Television",
+     "rel": "RELATED_TO"
+    },
     {
      "id": "715e2158-31f3-4e6a-be77-09cb8840496a",
      "category": "허브",
@@ -10219,6 +10304,1986 @@
     }
    ],
    "added_at": "2026-11-22T00:38:33.130423+00:00"
+  },
+  {
+   "id": "21813394-c325-40c5-9a5f-4c7be91259b4",
+   "name": "Japan Imperial Family",
+   "category": "허브",
+   "alias": "일본 황실, Japanese Imperial Family, 皇室, 日本皇室",
+   "disambig": "일본 황실",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "hub_type": "왕실",
+    "hub_parent": "Japan",
+    "sources": [
+     "https://www.kunaicho.go.jp/"
+    ]
+   },
+   "source_url": "https://www.kunaicho.go.jp/",
+   "links": [
+    {
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
+     "category": "국가",
+     "name": "Japan",
+     "rel": "PART_OF"
+    }
+   ],
+   "added_at": "2026-11-22T01:11:32.877248+00:00"
+  },
+  {
+   "id": "f89d7a8d-7a74-40bf-8f86-b0734690690d",
+   "name": "Malaysia Royal Family",
+   "category": "허브",
+   "alias": "말레이시아 왕실, Malaysian Royal Families, Kerabat Diraja, マレーシア王室",
+   "disambig": "말레이시아 왕실",
+   "country_tags": [
+    "Malaysia"
+   ],
+   "fields": {
+    "hub_type": "왕실",
+    "hub_parent": "Malaysia",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Monarchies_of_Malaysia"
+    ]
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Monarchies_of_Malaysia",
+   "links": [
+    {
+     "id": "3ff1d11f-206f-4e52-b10c-e45288904c39",
+     "category": "국가",
+     "name": "Malaysia",
+     "rel": "PART_OF"
+    }
+   ],
+   "added_at": "2026-11-22T01:11:32.877248+00:00"
+  },
+  {
+   "id": "b2b95062-4c04-4edd-b37e-613bd668033c",
+   "name": "Netherlands Royal Family",
+   "category": "허브",
+   "alias": "네덜란드 왕실, Dutch Royal Family, Koninklijk Huis, オランダ王室",
+   "disambig": "네덜란드 왕실",
+   "country_tags": [
+    "Netherlands"
+   ],
+   "fields": {
+    "hub_type": "왕실",
+    "hub_parent": "Netherlands",
+    "sources": [
+     "https://www.royal-house.nl/"
+    ]
+   },
+   "source_url": "https://www.royal-house.nl/",
+   "links": [
+    {
+     "id": "618d9f9d-1024-45be-8694-11bf60042233",
+     "category": "국가",
+     "name": "Netherlands",
+     "rel": "PART_OF"
+    }
+   ],
+   "added_at": "2026-11-22T01:11:32.877248+00:00"
+  },
+  {
+   "id": "2fb1c55b-3f7b-4637-8c79-0ee255119ae4",
+   "name": "Spain Royal Family",
+   "category": "허브",
+   "alias": "스페인 왕실, Spanish Royal Family, Familia Real Española, スペイン王室",
+   "disambig": "스페인 왕실",
+   "country_tags": [
+    "Spain"
+   ],
+   "fields": {
+    "hub_type": "왕실",
+    "hub_parent": "Spain",
+    "sources": [
+     "https://www.casareal.es/"
+    ]
+   },
+   "source_url": "https://www.casareal.es/",
+   "links": [
+    {
+     "id": "42091f3e-92cd-4a3a-8452-a46e96b84f30",
+     "category": "국가",
+     "name": "Spain",
+     "rel": "PART_OF"
+    }
+   ],
+   "added_at": "2026-11-22T01:11:32.877248+00:00"
+  },
+  {
+   "id": "5a2f4e91-2ded-49c8-aa4e-8f54a878f88d",
+   "name": "Sweden Royal Family",
+   "category": "허브",
+   "alias": "스웨덴 왕실, Swedish Royal Family, Kungahuset, スウェーデン王室",
+   "disambig": "스웨덴 왕실",
+   "country_tags": [
+    "Sweden"
+   ],
+   "fields": {
+    "hub_type": "왕실",
+    "hub_parent": "Sweden",
+    "sources": [
+     "https://www.kungahuset.se/"
+    ]
+   },
+   "source_url": "https://www.kungahuset.se/",
+   "links": [
+    {
+     "id": "8485e4d2-24f2-4a94-8184-e0a4b241e518",
+     "category": "국가",
+     "name": "Sweden",
+     "rel": "PART_OF"
+    }
+   ],
+   "added_at": "2026-11-22T01:11:32.877248+00:00"
+  },
+  {
+   "id": "006ae207-53c9-4992-959f-52b64afd5f68",
+   "name": "Thailand Royal Family",
+   "category": "허브",
+   "alias": "태국 왕실, Thai Royal Family, ราชวงศ์จักรี, タイ王室",
+   "disambig": "태국 왕실",
+   "country_tags": [
+    "Thailand"
+   ],
+   "fields": {
+    "hub_type": "왕실",
+    "hub_parent": "Thailand",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Chakri_dynasty"
+    ]
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Chakri_dynasty",
+   "links": [
+    {
+     "id": "c3f258b6-0a5a-4a76-b1eb-f53978b923c2",
+     "category": "국가",
+     "name": "Thailand",
+     "rel": "PART_OF"
+    }
+   ],
+   "added_at": "2026-11-22T01:11:32.877248+00:00"
+  },
+  {
+   "id": "456d04f5-63cb-4719-83ec-c7609d06207c",
+   "name": "United Arab Emirates Royal Family",
+   "category": "허브",
+   "alias": "아랍에미리트 왕실, UAE Royal Families, アラブ首長国連邦王室",
+   "disambig": "아랍에미리트 왕실",
+   "country_tags": [
+    "United Arab Emirates"
+   ],
+   "fields": {
+    "hub_type": "왕실",
+    "hub_parent": "United Arab Emirates",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Federal_Supreme_Council"
+    ]
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Federal_Supreme_Council",
+   "links": [
+    {
+     "id": "f789ac20-af9a-4e37-91d1-b88c0230fd86",
+     "category": "국가",
+     "name": "United Arab Emirates",
+     "rel": "PART_OF"
+    }
+   ],
+   "added_at": "2026-11-22T01:11:32.877248+00:00"
+  },
+  {
+   "id": "d5e5999d-5a2e-4266-aafe-5a33cdd6586c",
+   "name": "United Kingdom Royal Family",
+   "category": "허브",
+   "alias": "영국 왕실, British Royal Family, 英国王室, イギリス王室",
+   "disambig": "영국 왕실",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "hub_type": "왕실",
+    "hub_parent": "United Kingdom",
+    "sources": [
+     "https://www.royal.uk/"
+    ]
+   },
+   "source_url": "https://www.royal.uk/",
+   "links": [
+    {
+     "id": "860abe36-6554-419a-9021-7be14c191ffa",
+     "category": "국가",
+     "name": "United Kingdom",
+     "rel": "PART_OF"
+    }
+   ],
+   "added_at": "2026-11-22T01:11:32.877248+00:00"
+  },
+  {
+   "id": "df266fda-cace-4365-b8d6-9940cfe212d7",
+   "name": "Aming",
+   "category": "인물",
+   "alias": "아밍, Aming Sugandhi, Aming Supriatna Sugandhi",
+   "disambig": "인도네시아의 배우 · 코미디언, 「Ghost in The Cell」 FFI 2026 남우조연상",
+   "country_tags": [
+    "Indonesia"
+   ],
+   "fields": {
+    "real_name": "Aming Supriatna Sugandhi",
+    "name_ko": "아밍",
+    "name_en": "Aming",
+    "birth_date": "1980-11-07",
+    "birthplace": "Jakarta, 인도네시아",
+    "nationality": "인도네시아",
+    "gender": "남성",
+    "occupation": "배우, 코미디언",
+    "education": "Bandung Institute of Technology(공예 학사)",
+    "active_years": "2004~",
+    "notable_works": "Extravaganza(TV), Comedy Island Indonesia(내레이션, 2023), Ghost in The Cell(Tokek, 2026)",
+    "awards": "피알라 치트라 남우조연상(Ghost in The Cell, FFI 2026)",
+    "sns": "Instagram @amingisback",
+    "summary": "반둥 고교 카바레 패러디 팀에서 시작한 순다계 코미디언 · 배우, TV 코미디 「Extravaganza」로 알려졌고 2026년 「Ghost in The Cell」로 인도네시아 영화제 남우조연상",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q14917290",
+     "https://id.wikipedia.org/wiki/Aming",
+     "https://www.viva.co.id/siapa/read/339-aming-supriatna-sugandhi",
+     "https://www.kapanlagi.com/aming/profil/",
+     "https://www.beritasatu.com/lifestyle/3042704/daftar-pemenang-ffi-2026-ghost-in-the-cell-borong-piala"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q14917290",
+   "links": [
+    {
+     "id": "hub_indonesia_entertainer_5236c4",
+     "category": "허브",
+     "name": "Indonesia Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "f06e738e-58b8-4e47-92fe-153147f8e330",
+     "category": "장소",
+     "name": "DKI Jakarta",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "6d04cdae-4336-4a36-bd37-acd565839150",
+     "category": "작품",
+     "name": "Ghost in The Cell",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "7738e183-984e-443e-9a28-85e09f557b83",
+   "name": "Brigi Stamber",
+   "category": "인물",
+   "alias": "브리기 스탐버",
+   "disambig": "헝가리 출신 영국 피자 셰프, 호브 「Stretch」",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "name_ko": "브리기 스탐버",
+    "name_en": "Brigi Stamber",
+    "nationality": "헝가리",
+    "gender": "여성",
+    "occupation": "셰프",
+    "awards": "PAPA Industry Awards 피자 셰프 상(2023), National Pizza Awards 피자 셰프 상(2024)",
+    "summary": "헝가리 출신으로 브라이턴 피자 체인 Pizzaface 에서 지배인으로 시작해 주방으로 옮겼고 10년 만에 나와 2026-11 웨스트 호브에 20석 피자집 「Stretch」를 열었다",
+    "sources": [
+     "https://www.restaurantonline.co.uk/Article/2026/11/20/chef-brigi-stamber-launches-hove-pizza-restaurant-stretch/"
+    ],
+    "notable_works": "Stretch(웨스트 호브, 2026~), Pizzaface(약 10년)"
+   },
+   "source_url": "https://www.restaurantonline.co.uk/Article/2026/11/20/chef-brigi-stamber-launches-hove-pizza-restaurant-stretch/",
+   "links": [
+    {
+     "id": "hub_united_kingdom_entertainer_1a9528",
+     "category": "허브",
+     "name": "United Kingdom Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "f19f0f55-6fb5-4dc1-b9d7-45ddf86a2e5f",
+   "name": "Cancer Research UK",
+   "category": "단체",
+   "alias": "CRUK, 영국 암연구소, 캔서 리서치 UK, 王立がん研究基金",
+   "disambig": "영국의 암 연구 자선단체",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "name_ko": "영국 암연구소",
+    "name_en": "Cancer Research UK",
+    "org_type": "비영리단체",
+    "formation_date": "2002-02-04",
+    "hq": "2 Redman Place, London E20 1JQ",
+    "website": "https://www.cancerresearchuk.org",
+    "sns": "https://x.com/CR_UK, https://www.instagram.com/cr_uk",
+    "summary": "2002년 Cancer Research Campaign 과 Imperial Cancer Research Fund 가 합쳐 생긴 세계 최대 독립 암 연구 단체, 잉글랜드 · 웨일스 자선단체 등록번호 1089464. 연구비는 거의 다 시민 기부로 마련한다",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q326079",
+     "https://en.wikipedia.org/wiki/Cancer_Research_UK",
+     "https://www.cancerresearchuk.org/about-us/contact-us",
+     "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q326079",
+   "links": [
+    {
+     "id": "33b07d1f-ff69-4a33-a5ef-2e4577976c63",
+     "category": "장소",
+     "name": "Newham",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "9d85b918-911f-46b8-a0fb-5a0518bcbbab",
+   "name": "Candle Media",
+   "category": "단체",
+   "alias": "캔들 미디어, Candle Media LLC",
+   "disambig": "미국 로스앤젤레스의 미디어 회사(블랙스톤 투자)",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Candle Media, LLC",
+    "name_ko": "캔들 미디어",
+    "org_type": "기업",
+    "formation_date": "2021",
+    "founder": "Kevin A. Mayer, Thomas O. Staggs",
+    "industry": "방송과엔터테인먼트",
+    "hq": "미국 캘리포니아주 로스앤젤레스",
+    "subsidiaries": "Moonbug Entertainment, Faraway Road Productions",
+    "summary": "디즈니 임원 출신 케빈 메이어 · 톰 스택스가 2021년 세운 미디어 회사, 블랙스톤이 돈을 댔다. 2021년 Hello Sunshine 을 9억 달러에, 코코멜론의 Moonbug 를 약 30억 달러에 샀다. 2026-10 Hello Sunshine 을 위더스푼 · Mediawan 에 되팔았다",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q110588868",
+     "https://en.wikipedia.org/wiki/Candle_Media",
+     "https://www.hollywoodreporter.com/business/business-news/lauren-neustadter-leaving-hello-sunshine-1236760220/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q110588868",
+   "links": [
+    {
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6",
+     "category": "장소",
+     "name": "Los Angeles",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "0f6c45d1-8fdb-4823-ace7-385f781b7bae",
+   "name": "Charbel Hayek",
+   "category": "인물",
+   "alias": "샤르벨 하이엑, 샤르벨 하이에크",
+   "disambig": "레바논 출신 로스앤젤레스 셰프, 「Top Chef」 아랍판 시즌 5 우승",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "샤르벨 하이엑",
+    "name_en": "Charbel Hayek",
+    "birthplace": "Beirut, 레바논",
+    "nationality": "레바논",
+    "gender": "남성",
+    "occupation": "셰프",
+    "notable_works": "Ladyhawk(웨스트할리우드), Laya(할리우드 · 샌디에이고), BarVera(스탬퍼드), Laya Café(산타모니카, 2026)",
+    "awards": "Top Chef 아랍판 시즌 5 우승(2021)",
+    "summary": "베이루트에서 나고 파리에서 요리를 배운 뒤 LA 미쉐린 2스타 Mélisse 에서 3년 가까이 일했다. 2021년 아랍판 Top Chef 우승 뒤 Top Chef: World All-Stars 출연, 레바논 · 레반트 요리 식당 Ladyhawk · Laya 를 열었다",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q133405705",
+     "https://en.wikipedia.org/wiki/Charbel_Hayek",
+     "https://la.eater.com/restaurant-openings/308618/laya-cafe-santa-monica-restaurant-opening-chef-charbel-hayek-lebanese-middle-eastern"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q133405705",
+   "links": [
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "676138db-0472-4ac1-82f2-0cb8f5c18abf",
+   "name": "Chicago White Sox",
+   "category": "단체",
+   "alias": "시카고 화이트삭스, 화이트삭스, White Sox, ChiSox, South Siders, シカゴ・ホワイトソックス",
+   "disambig": "미국 MLB 시카고 화이트삭스(아메리칸리그 중부 지구)",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "시카고 화이트삭스",
+    "name_en": "Chicago White Sox",
+    "org_type": "스포츠팀",
+    "formation_date": "1894",
+    "league": "MLB 아메리칸리그 중부 지구",
+    "sport": "야구",
+    "hq": "미국 일리노이주 시카고 Rate Field",
+    "website": "https://www.mlb.com/whitesox",
+    "sns": "https://x.com/whitesox, https://www.instagram.com/whitesox",
+    "summary": "1894년 웨스턴리그 수시티 콘허스커스로 시작해 1900년 시카고로 옮겨 1901년 아메리칸리그 창립 구단이 됐고 1904년부터 화이트삭스. 홈구장은 시카고 사우스사이드의 Rate Field(옛 코미스키 파크)",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q335169",
+     "https://en.wikipedia.org/wiki/Chicago_White_Sox",
+     "https://www.mlb.com/news/joey-bart-deal-with-cubs"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q335169",
+   "links": [
+    {
+     "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7",
+     "category": "장소",
+     "name": "Chicago",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "9e6213a9-2207-495e-847b-64897887798c",
+   "name": "Cienco4",
+   "category": "단체",
+   "alias": "Tập đoàn Cienco4, CIENCO4, CIENCO 4 Group, Công ty cổ phần Tập đoàn CIENCO4, Tổng công ty Xây dựng công trình giao thông 4",
+   "disambig": "베트남의 교통 인프라 건설 · BOT 투자 그룹",
+   "country_tags": [
+    "Vietnam"
+   ],
+   "fields": {
+    "real_name": "Công ty cổ phần Tập đoàn CIENCO4",
+    "org_type": "기업",
+    "formation_date": "1962-12-27",
+    "industry": "건설",
+    "listed_on": "해외상장",
+    "hq": "Tầng 10-11, Tòa nhà ICON4, Số 243A Đê La Thành, Phường Láng, Hà Nội",
+    "website": "https://cienco4.vn",
+    "summary": "1962년 교통부 공정국에서 시작해 1995년 교통공사 4총공사(CIENCO4), 2014년 교통 부문 첫 주식회사 전환, 2017년 그룹으로. 교통 · 민간 건설과 BT · BOT 도로 투자, 2018-12부터 UPCoM(C4G) 거래. 응에안 빈 우회도로 BOT 벤투이 1 · 2 요금소 투자자",
+    "sources": [
+     "https://simplize.vn/co-phieu/C4G/ho-so-doanh-nghiep",
+     "https://24hmoney.vn/stock/c4g",
+     "https://cienco4.vn/",
+     "https://thanhnien.vn/bot-ben-thuy-1-va-ben-thuy-2-thu-phi-tro-lai-tu-ngay-2511-185261121105732032.htm"
+    ]
+   },
+   "source_url": "https://simplize.vn/co-phieu/C4G/ho-so-doanh-nghiep",
+   "links": [
+    {
+     "id": "508598cf-01d9-4e3b-b8af-ee193114d4ee",
+     "category": "장소",
+     "name": "Phuong Lang",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "58612142-3d23-4960-b6a9-8255ec605733",
+   "name": "Commerce",
+   "category": "장소",
+   "alias": "커머스, Commerce CA, City of Commerce, コマース, 0614974",
+   "disambig": "미국 캘리포니아주 Los Angeles County의 도시",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "행정구역",
+    "region_code": "US.0614974",
+    "admin_type": "City",
+    "admin_kind": "City",
+    "gov_code": "0614974",
+    "path": "United States › California › Los Angeles County › Commerce",
+    "name_ko": "커머스",
+    "name_en": "Commerce",
+    "area": "16.92 km²",
+    "population": "12,378 (2020 인구조사)",
+    "website": "https://www.commerceca.gov",
+    "summary": "캘리포니아주 Los Angeles County의 도시. 1960년 1월 28일 시로 출범, 별칭은 「The Model City」",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Commerce,_California",
+     "https://www.wikidata.org/wiki/Q917540"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q917540",
+   "links": [
+    {
+     "id": "e478176f-057c-43f8-b866-ce7ef3779e70",
+     "category": "장소",
+     "name": "Los Angeles County",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "de3d1021-fbe1-4f03-aff6-ca3527fb8c54",
+   "name": "EOW",
+   "category": "단체",
+   "alias": "이오더블유",
+   "disambig": "일본의 5인조 팝 밴드, 보컬 Laco",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "real_name": "EOW",
+    "org_type": "음악그룹",
+    "group_type": "밴드",
+    "formation_date": "2019",
+    "active_years": "2019~",
+    "members": "Laco(보컬), Tomoaki(기타), Yutaro(베이스), mamushi(키보드), Otake(드럼)",
+    "summary": "2019년에 시작한 밴드로 Tomoaki 가 2020년 들어와 지금의 5인이 됐다. 팝에 록 · 펑크 · R&B 를 섞은 「eowtional pop」, 2024년 EP 「T.G.I.F!」(草野華余子 참여)",
+    "sources": [
+     "https://realsound.jp/2024/11/post-1837688.html",
+     "https://www.tunecore.co.jp/artists/EOW?lang=en",
+     "https://news.tv-asahi.co.jp/news_geinou/articles/900204801.html"
+    ]
+   },
+   "source_url": "https://realsound.jp/2024/11/post-1837688.html",
+   "links": [
+    {
+     "id": "ea9ba2ee-8781-4076-9d7d-736040917f47",
+     "category": "허브",
+     "name": "Japan Singer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "c2b38c2c-1cfa-4021-a478-3e54830fc498",
+   "name": "Festival Film Indonesia",
+   "category": "작품",
+   "alias": "FFI, Indonesian Film Festival, 인도네시아 영화제, Piala Citra, Citra Award, Pekan Apresiasi Film Nasional",
+   "disambig": "인도네시아 영화 시상식 · 영화제(1955~, 시트라상)",
+   "country_tags": [
+    "Indonesia"
+   ],
+   "fields": {
+    "name_en": "Indonesian Film Festival",
+    "name_ko": "인도네시아 영화제",
+    "medium": "기타",
+    "release_date": "1955",
+    "production": "인도네시아 문화부 · 인도네시아 영화위원회(주최)",
+    "website": "https://festivalfilm.id",
+    "synopsis": "한 해 인도네시아 영화의 성취를 기리는 연례 시상식으로, 수상작에 시트라상(Piala Citra) 트로피를 준다. 1955년 「전국 영화 감상 주간」으로 시작해 1973년 지금 이름이 됐고, 1993~2003년엔 열리지 않았다.",
+    "summary": "2026년 시상식은 11-20 자카르타 JIExpo Kemayoran 에서 열려 「Para Perasuk」가 장편 극영화상, 「Ghost in The Cell」이 5관왕",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q286060",
+     "https://en.wikipedia.org/wiki/Indonesian_Film_Festival",
+     "https://www.beritasatu.com/lifestyle/3042704/daftar-pemenang-ffi-2026-ghost-in-the-cell-borong-piala"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q286060",
+   "links": [
+    {
+     "id": "f518774e-5ccd-46b5-889c-179fdd460968",
+     "category": "허브",
+     "name": "Indonesia Film",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "31ed8f18-ee19-4963-9417-c2a03ba85595",
+   "name": "Financial Times",
+   "category": "단체",
+   "alias": "파이낸셜타임스, 파이낸셜 타임스, FT, The Financial Times, フィナンシャル・タイムズ",
+   "disambig": "영국 런던의 경제 일간지",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "name_ko": "파이낸셜타임스",
+    "name_en": "Financial Times",
+    "org_type": "기업",
+    "formation_date": "1888-01-09",
+    "parent_company": "Nikkei Inc.(닛케이, 2015년 피어슨에서 인수)",
+    "industry": "출판",
+    "hq": "영국 런던 시티 Bracken House",
+    "website": "https://www.ft.com",
+    "sns": "https://x.com/FT, https://www.instagram.com/financialtimes",
+    "summary": "1888년 창간한 영국 경제 · 금융 일간지. 1957년부터 피어슨 소유였다가 2015년 일본 닛케이가 8억 4,400만 파운드에 샀다. 2023년 구독자 130만(디지털 120만)",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q183399",
+     "https://en.wikipedia.org/wiki/Financial_Times",
+     "https://www.yna.co.kr/view/AKR20261121004000085"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q183399",
+   "links": [
+    {
+     "id": "e291889c-19e8-4d99-9e40-9641204df6f6",
+     "category": "장소",
+     "name": "City of London",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "3447dd90-b34f-4b8f-8f4d-0978a067ae59",
+   "name": "Graham Moore",
+   "category": "인물",
+   "alias": "그레이엄 무어, グレアム・ムーア",
+   "disambig": "미국의 각본가 · 소설가 · 영화감독, 「The Imitation Game」 각본 · 「The Altruists」 크리에이터",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "그레이엄 무어",
+    "name_en": "Graham Moore",
+    "birth_date": "1981-10-18",
+    "birthplace": "Chicago, Illinois, 미국",
+    "nationality": "미국",
+    "gender": "남성",
+    "occupation": "작가, 영화감독",
+    "education": "Columbia University(종교사 학사, 2003), University of Chicago Laboratory Schools",
+    "notable_works": "The Sherlockian(소설), The Imitation Game(각본, 2014), The Last Days of Night(소설), The Outfit(감독 · 각본, 2022), The Altruists(크리에이터, 2026)",
+    "awards": "아카데미 각색상(The Imitation Game, 2015)",
+    "website": "https://mrgrahammoore.com/",
+    "sns": "X @MrGrahamMoore",
+    "summary": "시카고 출신 각본가 · 소설가. 「The Imitation Game」 각본으로 아카데미 각색상을 받았고 「The Outfit」으로 감독 데뷔, 2026년 넷플릭스 한정 시리즈 「The Altruists」를 만들었다",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q15429387",
+     "https://en.wikipedia.org/wiki/Graham_Moore_(filmmaker)",
+     "https://www.netflix.com/tudum/articles/the-altruists-cast-release-date-news"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q15429387",
+   "links": [
+    {
+     "id": "18d096cf-1aa5-4ef9-903a-d29c8d6d8a31",
+     "category": "허브",
+     "name": "United States Writer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "5a7e1dbc-251b-4a83-bbbb-98abfec30bba",
+     "category": "작품",
+     "name": "The Altruists",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7",
+     "category": "장소",
+     "name": "Chicago",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "4b66d3cd-fd8c-4354-8bdc-193beb3fcd82",
+   "name": "Hoan Kiem Lake",
+   "category": "장소",
+   "alias": "Hồ Hoàn Kiếm, Hồ Gươm, Sword Lake, 호안끼엠 호수, 還劍湖, ホアンキエム湖, Hồ Tả Vọng",
+   "disambig": "하노이 호안끼엠 동의 호수",
+   "country_tags": [
+    "Vietnam"
+   ],
+   "fields": {
+    "place_type": "자연지형",
+    "name_ko": "호안끼엠 호수",
+    "name_en": "Hoàn Kiếm Lake",
+    "address": "Phường Hoàn Kiếm, Hà Nội",
+    "summary": "하노이 옛 도심 한가운데의 약 12ha 민물 호수. 레러이 황제가 금거북에게 신검을 돌려줬다는 전설에서 「검을 돌려준 호수」라는 이름이 왔고 호검(Hồ Gươm)이라고도 한다. 2026-11-21~24 「베트남 문화의 날」 무대가 호수 둘레에 섰다",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q1151254",
+     "https://en.wikipedia.org/wiki/Hoàn_Kiếm_Lake",
+     "https://thanhtra.com.vn/van-hoa-the-thao-BE2162E3A/ha-noi-khai-mac-ngay-van-hoa-viet-nam-mo-loat-san-khau-quanh-ho-guom-492b5c9a8.html"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q1151254",
+   "links": [
+    {
+     "id": "c8662d00-b406-4e40-940b-22cdb1066fda",
+     "category": "장소",
+     "name": "Phuong Hoan Kiem",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "b27447c5-87f2-4319-a5ca-bb1afbfe5048",
+   "name": "Huntsville",
+   "category": "장소",
+   "alias": "헌츠빌, Huntsville TX, ハンツヴィル市, 4835528",
+   "disambig": "미국 텍사스주 Walker County의 도시(군청 소재지)",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "place_type": "행정구역",
+    "region_code": "US.4835528",
+    "admin_type": "City",
+    "admin_kind": "City",
+    "gov_code": "4835528",
+    "path": "United States › Texas › Walker County › Huntsville",
+    "name_ko": "헌츠빌",
+    "name_en": "Huntsville",
+    "area": "112.47 km²",
+    "population": "45,941 (2020 인구조사)",
+    "website": "https://www.huntsvilletx.gov/",
+    "summary": "텍사스주 Walker County의 도시이자 군청 소재지. 시 안의 텍사스 형사사법부 교도소 Huntsville Unit에 주 사형 집행실이 있다. 캐나다 온타리오주의 Huntsville과 다른 곳",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Huntsville,_Texas",
+     "https://www.wikidata.org/wiki/Q864885"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q864885",
+   "links": [
+    {
+     "id": "3025fac8-0ee4-4ebd-a7e0-7ef8bb430a93",
+     "category": "장소",
+     "name": "Walker County",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "1b0a341a-4102-4817-a005-229360e46a6b",
+   "name": "JIExpo Kemayoran",
+   "category": "장소",
+   "alias": "JIExpo, Jakarta International Expo, 자카르타 국제 엑스포, Arena PRJ Kemayoran",
+   "disambig": "자카르타 북부 파데망안의 전시 · 공연장",
+   "country_tags": [
+    "Indonesia"
+   ],
+   "fields": {
+    "place_type": "건물·시설",
+    "name_en": "Jakarta International Expo",
+    "address": "Jl. Benyamin Sueb No. 1, Pademangan, Jakarta Utara",
+    "opened_date": "2010",
+    "operator": "Central Cipta Murdaya 그룹(개발)",
+    "summary": "옛 크마요란 공항 터 약 44ha에 2010년 문 연 전시 · 컨벤션 · 공연 단지. 전시장 5개 · 볼룸 2개 · 2,500석 극장, 인도네시아 최대 박람회 자카르타 페어의 유일한 개최지. 2026-11-20 인도네시아 영화제 시상식 장소",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Jakarta_International_Expo",
+     "https://www.beritasatu.com/lifestyle/3042704/daftar-pemenang-ffi-2026-ghost-in-the-cell-borong-piala"
+    ]
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Jakarta_International_Expo",
+   "links": [
+    {
+     "id": "0734264f-5e0b-412b-8081-8ff2e1338ce2",
+     "category": "장소",
+     "name": "Pademangan",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "99403d41-721d-481a-8f42-be23890c04a0",
+   "name": "James Ponsoldt",
+   "category": "인물",
+   "alias": "제임스 폰설트, James Adam Ponsoldt, ジェームズ・ポンソルト",
+   "disambig": "미국의 영화감독 · 각본가, 「The Spectacular Now」",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "James Adam Ponsoldt",
+    "name_ko": "제임스 폰설트",
+    "name_en": "James Ponsoldt",
+    "birth_date": "1978-09-05",
+    "birthplace": "Athens, Georgia, 미국",
+    "nationality": "미국",
+    "gender": "남성",
+    "occupation": "영화감독, 작가, 배우",
+    "education": "Yale University(학사), Columbia University(연출 MFA), UCLA 각본 · 제작 과정",
+    "debut_date": "2006",
+    "debut_work": "Off the Black(장편 각본 · 감독)",
+    "notable_works": "Off the Black, Smashed, The Spectacular Now, The End of the Tour, The Circle, The Altruists(연출, 2026)",
+    "summary": "조지아주 애선스 출신 감독 · 각본가. 선댄스 출신 장편 「Smashed」 「The Spectacular Now」 「The End of the Tour」를 찍었고 넷플릭스 「The Altruists」 연출에 참여",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q1680997",
+     "https://en.wikipedia.org/wiki/James_Ponsoldt",
+     "https://www.netflix.com/tudum/articles/the-altruists-cast-release-date-news"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q1680997",
+   "links": [
+    {
+     "id": "a006ca71-e152-45f0-b290-e94b47512c0a",
+     "category": "허브",
+     "name": "United States Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "4887f8f6-4f48-4db7-a7b0-ca3c1e5576f0",
+     "category": "장소",
+     "name": "Clarke County",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "5a7e1dbc-251b-4a83-bbbb-98abfec30bba",
+     "category": "작품",
+     "name": "The Altruists",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "dbd7947e-9cb8-49b0-bf19-dc7016c1bec3",
+   "name": "Jimmy Ophorst",
+   "category": "인물",
+   "alias": "지미 오포르스트, Jim Ophorst",
+   "disambig": "네덜란드 셰프, 푸껫 「PRU」(미쉐린 2스타)",
+   "country_tags": [
+    "Netherlands"
+   ],
+   "fields": {
+    "name_ko": "지미 오포르스트",
+    "name_en": "Jimmy Ophorst",
+    "nationality": "네덜란드",
+    "gender": "남성",
+    "occupation": "셰프",
+    "notable_works": "PRU(푸껫 트리사라, 2016~)",
+    "awards": "미쉐린 가이드 태국 1스타(PRU, 2019) · 그린 스타(2021) · 2스타(2026)",
+    "summary": "헤이그 근처 온실 농가에서 자란 네덜란드 셰프. 트리사라 호텔 자문으로 푸껫에 와 2016년 PRU 를 열었고 자기 농장 재료로 현대 태국 요리를 낸다. 2026년 방콕 밖 첫 미쉐린 2스타",
+    "sources": [
+     "https://guide.michelin.com/en/article/people/meet-phuket-s-newest-star-chef-jimmy-ophorst-from-pru",
+     "https://e.vnexpress.net/news/travel/food-recipes/chiang-mai-gets-first-michelin-starred-restaurant-phuket-earns-two-stars-5146625.html",
+     "https://luxecityguides.com/luxe-chats-with-jimmy-ophorst-executive-chef-and-co-founder-of-pru-phuket/"
+    ]
+   },
+   "source_url": "https://guide.michelin.com/en/article/people/meet-phuket-s-newest-star-chef-jimmy-ophorst-from-pru",
+   "links": [
+    {
+     "id": "hub_netherlands_entertainer_55138b",
+     "category": "허브",
+     "name": "Netherlands Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "211d03de-8e7e-4421-a1d4-ca2fbc211b56",
+   "name": "Karma Beach Bali",
+   "category": "장소",
+   "alias": "Karma Beach, 카르마 비치 발리, Karma Beach Bali at Karma Kandara",
+   "disambig": "발리 쿠타 슬라탄(웅아산)의 비치클럽",
+   "country_tags": [
+    "Indonesia"
+   ],
+   "fields": {
+    "place_type": "여행·레저",
+    "address": "Karma Kandara, Jl. Villa Kandara, Banjar Wijaya Kusuma, Ungasan, Kuta Selatan, Badung, Bali 80362",
+    "operator": "Karma Group",
+    "website": "https://karmagroup.com/find-destination/karma-resorts/karma-kandara/",
+    "summary": "Karma Group 의 카르마 칸다라 리조트 절벽 아래 전용 해변에 있는 비치클럽. 불이 난 뒤 여섯 달 넘게 다시 지어 새 모습으로 열었고, 2026-11 대나무 구조의 해산물 식당 KOASTAL 을 공개했다",
+    "sources": [
+     "https://indonesiaexpat.id/lifestyle/food-drink/karma-beach-bali-unveils-koastal-a-sanctuary-of-oceanic-flavours-and-mindful-dining/",
+     "https://amp.scmp.com/lifestyle/travel-leisure/article/3191787/inside-3-new-bali-beach-clubs-kuta-canggu-uluwatu-infinity",
+     "https://karmagroup.com/news-events/karma-beach-bali-refurbish/"
+    ]
+   },
+   "source_url": "https://indonesiaexpat.id/lifestyle/food-drink/karma-beach-bali-unveils-koastal-a-sanctuary-of-oceanic-flavours-and-mindful-dining/",
+   "links": [
+    {
+     "id": "9892f5ce-74cc-4a9d-919d-3b0e15aa65e2",
+     "category": "장소",
+     "name": "Kuta Selatan",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "3c6956f4-c1f5-4a56-911b-c09cf96a18e4",
+   "name": "Ken'ichirō Okada",
+   "category": "인물",
+   "alias": "岡田賢一郎, 오카다 겐이치로, Kenichiro Okada",
+   "disambig": "일본 셰프 · 외식 경영자, 아자부주반 「岡田前」 · 아오야마 「Porterhouse Steaks」",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "name_ko": "오카다 겐이치로",
+    "name_en": "Ken'ichirō Okada",
+    "birth_date": "1965-01-02",
+    "birthplace": "Sakai, Osaka, 일본",
+    "nationality": "일본",
+    "gender": "남성",
+    "occupation": "셰프, 기업인",
+    "notable_works": "ちゃんと。(1993), Ken's Dining(1998), 肉割烹 岡田前(아자부주반), Porterhouse Steaks(2026)",
+    "awards": "닛케이 레스토랑 메뉴 그랑프리 대상(「キムチの王様」, 1995)",
+    "summary": "사카이 출신 요리사 · 경영자. 1993년 「ちゃんと。」로 독립해 「Ken's Dining」 등 디자이너스 레스토랑을 펼쳤고(회사는 2011년 민사재생), 지금은 아자부주반 고기 갓포 「岡田前」 오너 셰프, 2026-11 아오야마에 스테이크하우스 「Porterhouse Steaks」",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q48763793",
+     "https://ja.wikipedia.org/wiki/岡田賢一郎",
+     "https://savorjapan.com/0004046544/chef.php",
+     "https://magazine.tabelog.com/articles/510395"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q48763793",
+   "links": [
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "c7d144b1-1d43-4f81-8306-8c02bd6e7405",
+     "category": "장소",
+     "name": "Sakai",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "43aaaf84-1e59-4f90-aff8-7bf832171c2f",
+   "name": "Kōsaku Isahaya",
+   "category": "인물",
+   "alias": "諫早幸作, 이사하야 고사쿠, Kosaku Isahaya",
+   "disambig": "일본의 배우, 극단 도쿄칸덴치 소속 · EOW 보컬 Laco 의 남편",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "name_ko": "이사하야 고사쿠",
+    "name_en": "Kōsaku Isahaya",
+    "birth_date": "1994-11-19",
+    "birthplace": "Nagasaki, 일본",
+    "nationality": "일본",
+    "gender": "남성",
+    "occupation": "배우",
+    "organization": "劇団東京乾電池, ノックアウト",
+    "active_years": "2015~",
+    "notable_works": "怒り(2016), ある船頭の話(2019), エール(NHK 아침 드라마, 2020), ソロ活女子のススメ, そこにきみはいて(2025)",
+    "summary": "나가사키 출신 배우. 2015년 극단 도쿄칸덴치에 들어가 2017년부터 6년간 에모토 아키라 · 에구치 노리코의 매니저(付き人)를 맡았고, 2026년 7월 EOW 보컬 Laco 와 결혼을 발표했다",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q76288708",
+     "https://ja.wikipedia.org/wiki/諫早幸作",
+     "https://news.tv-asahi.co.jp/news_geinou/articles/900204801.html"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q76288708",
+   "links": [
+    {
+     "id": "39c891c6-e3e0-447e-a0ff-1c84e8be4f9c",
+     "category": "장소",
+     "name": "Nagasaki",
+     "rel": "BORN_IN"
+    },
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "43c1b381-3d15-4e35-a5e8-1028586feda4",
+   "name": "Mediawan",
+   "category": "단체",
+   "alias": "미디어완, Mediawan S.A., MEDIAWAN",
+   "disambig": "프랑스 파리의 방송 콘텐츠 제작 · 배급 그룹",
+   "country_tags": [
+    "France"
+   ],
+   "fields": {
+    "name_ko": "미디어완",
+    "name_en": "Mediawan",
+    "org_type": "기업",
+    "formation_date": "2015-12-15",
+    "founder": "Xavier Niel, Matthieu Pigasse, Pierre-Antoine Capton",
+    "industry": "방송과엔터테인먼트",
+    "hq": "프랑스 파리",
+    "website": "https://www.mediawan.com",
+    "sns": "https://x.com/mediawanfr, https://www.instagram.com/mediawan.officiel",
+    "summary": "2015년 그자비에 니엘 · 마티외 피가스 · 피에르앙투안 캅통이 기업인수목적회사로 세운 프랑스 방송 · 영화 제작 배급 그룹, 2016년 상장으로 2억 5천만 유로를 모아 유럽 제작사를 잇달아 샀다. 2026-10 리스 위더스푼과 함께 Hello Sunshine 을 Candle Media 에서 되샀다",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q25389507",
+     "https://en.wikipedia.org/wiki/Mediawan",
+     "https://www.hollywoodreporter.com/business/business-news/lauren-neustadter-leaving-hello-sunshine-1236760220/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q25389507",
+   "links": [
+    {
+     "id": "d4148993-96c8-44d5-bdfe-482a77f7d753",
+     "category": "장소",
+     "name": "Paris",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "b967b585-bf6b-4122-8324-83e01c56f290",
+   "name": "Memorial Sloan Kettering Cancer Center",
+   "category": "단체",
+   "alias": "MSK, MSKCC, Sloan Kettering, 메모리얼 슬론 케터링 암센터, メモリアル・スローン・ケタリング癌センター",
+   "disambig": "미국 뉴욕 맨해튼의 암 치료 · 연구 기관",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "메모리얼 슬론 케터링 암센터",
+    "name_en": "Memorial Sloan Kettering Cancer Center",
+    "org_type": "비영리단체",
+    "formation_date": "1884",
+    "hq": "1275 York Avenue, Manhattan, New York",
+    "website": "https://www.mskcc.org",
+    "sns": "https://x.com/sloan_kettering, https://www.instagram.com/sloankettering",
+    "summary": "1884년 뉴욕 암병원으로 시작한 메모리얼 병원과 1945년 세운 슬론케터링 연구소가 1980년 합쳐진 암 치료 · 연구 기관, 미국 국립암연구소 지정 종합암센터. 본원은 맨해튼 요크 애비뉴",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q1808012",
+     "https://en.wikipedia.org/wiki/Memorial_Sloan_Kettering_Cancer_Center",
+     "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q1808012",
+   "links": [
+    {
+     "id": "c3fba860-6d05-43ea-8902-c042359e2f51",
+     "category": "장소",
+     "name": "New York County",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "f81172bf-085f-469a-81ee-2e453c93160b",
+   "name": "Naoko Watanabe",
+   "category": "인물",
+   "alias": "渡邉直子, 와타나베 나오코",
+   "disambig": "일본의 영화감독, 「月がみている」(2026) · 소설가 와타나베 준이치의 딸",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "name_ko": "와타나베 나오코",
+    "name_en": "Naoko Watanabe",
+    "nationality": "일본",
+    "gender": "여성",
+    "occupation": "영화감독",
+    "notable_works": "月がみている(감독, 2026)",
+    "summary": "아버지 와타나베 준이치의 소설 「シャトウ ルージュ」를 영화 「月がみている」(2026-11-20 개봉)로 직접 감독했다",
+    "sources": [
+     "https://movie.jorudan.co.jp/news/jrd_261017_01/",
+     "https://press.moviewalker.jp/news/article/1400320/p2/"
+    ]
+   },
+   "source_url": "https://movie.jorudan.co.jp/news/jrd_261017_01/",
+   "links": [
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "450a2e93-4862-402f-a921-fe40be7d8b58",
+     "category": "작품",
+     "name": "月がみている",
+     "rel": "APPEARED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "457c873e-76b3-4a19-9577-fc74677f5e01",
+   "name": "Paulo Airaudo",
+   "category": "인물",
+   "alias": "파울로 아이라우도, 파울루 아이라우두",
+   "disambig": "아르헨티나 셰프, 산세바스티안 「Amelia」(미쉐린 2스타) · 치앙마이 「Belén」",
+   "country_tags": [
+    "Argentina"
+   ],
+   "fields": {
+    "name_ko": "파울로 아이라우도",
+    "name_en": "Paulo Airaudo",
+    "birthplace": "Córdoba, 아르헨티나",
+    "nationality": "아르헨티나",
+    "gender": "남성",
+    "occupation": "셰프, 기업인",
+    "notable_works": "Amelia(산세바스티안, 미쉐린 2스타), Belén(치앙마이, 2026 미쉐린 1스타)",
+    "awards": "미쉐린 가이드 2스타(Amelia, 2022 스페인 · 포르투갈판), 미쉐린 가이드 태국 2026 1스타(Belén)",
+    "summary": "아르헨티나 코르도바 출신 셰프 · 레스토랑 경영자. 산세바스티안 「Amelia」로 외국인 셰프 첫 바스크 2스타를 받았고, 치앙마이 「Belén」이 2026년 치앙마이 첫 미쉐린 별을 받았다",
+    "sources": [
+     "https://guide.michelin.com/en/pais-vasco/es-donostia-san-sebastian/restaurant/amelia-1191398",
+     "https://jre.eu/en/amelia-restaurant-by-chef-paulo-airaudo-receives-its-second-michelin-star",
+     "https://e.vnexpress.net/news/travel/food-recipes/chiang-mai-gets-first-michelin-starred-restaurant-phuket-earns-two-stars-5146625.html"
+    ]
+   },
+   "source_url": "https://guide.michelin.com/en/pais-vasco/es-donostia-san-sebastian/restaurant/amelia-1191398",
+   "links": [
+    {
+     "id": "hub_argentina_entertainer_ef6a77",
+     "category": "허브",
+     "name": "Argentina Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "b48e9776-9627-4044-a15f-412b481c092a",
+   "name": "Pizzaface",
+   "category": "단체",
+   "alias": "피자페이스, Pizzaface Brighton",
+   "disambig": "영국 브라이턴 앤드 호브의 피자 가게 체인",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "formation_date": "2009",
+    "industry": "호텔,레스토랑,레저",
+    "hq": "영국 브라이턴(첫 가게 켐프타운)",
+    "summary": "2009년 브라이턴 켐프타운에 첫 가게를 연 지역 피자 체인, 켐프타운 · 브라이턴 중심 · 호브 · 워딩에 가게. 셰프 브리기 스탐버가 10년 일한 곳으로, 웨스트 호브의 옛 매장 자리에 2026-11 「Stretch」가 들어섰다",
+    "sources": [
+     "https://bitesussex.com/post/q-a-with-bertie-from-pizzaface",
+     "https://issuu.com/jandmgroup/docs/pizzapasta_italianfood-issue-200/s/12547946",
+     "https://www.restaurantonline.co.uk/Article/2026/11/20/chef-brigi-stamber-launches-hove-pizza-restaurant-stretch/"
+    ]
+   },
+   "source_url": "https://bitesussex.com/post/q-a-with-bertie-from-pizzaface",
+   "links": [
+    {
+     "id": "c33355a2-fc92-4f42-be4a-8a5a2e93d76a",
+     "category": "장소",
+     "name": "Brighton and Hove",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "c93436cd-8325-476b-acdc-585b41611aee",
+   "name": "The Information",
+   "category": "단체",
+   "alias": "디인포메이션, 디 인포메이션, Lessin Media Company, ジ・インフォメーション",
+   "disambig": "미국 샌프란시스코의 기술 산업 전문 유료 매체",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "real_name": "Lessin Media Company",
+    "name_ko": "디인포메이션",
+    "org_type": "기업",
+    "formation_date": "2013",
+    "founder": "Jessica Lessin",
+    "industry": "출판",
+    "hq": "미국 캘리포니아주 샌프란시스코",
+    "website": "https://www.theinformation.com",
+    "sns": "https://x.com/theinformation, https://www.instagram.com/theinformation",
+    "summary": "월스트리트저널 기자 출신 제시카 레신이 2013년 세운 기술 산업 전문 유료 구독 매체. 2026-11 손정의의 SK하이닉스 인수 자금 조달 검토를 보도",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q30609005",
+     "https://en.wikipedia.org/wiki/The_Information_(website)",
+     "https://www.yna.co.kr/view/AKR20261121033000009"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q30609005",
+   "links": [
+    {
+     "id": "54578aae-1db2-40b8-a187-948037d0b02e",
+     "category": "장소",
+     "name": "San Francisco County",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "f3b85243-fbdc-4e10-beaf-b6c1b816b1e8",
+   "name": "The Washington Post",
+   "category": "단체",
+   "alias": "워싱턴포스트, 워싱턴 포스트, WP, WaPo, ワシントン・ポスト",
+   "disambig": "미국 워싱턴 D.C.의 일간지",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "워싱턴포스트",
+    "name_en": "The Washington Post",
+    "org_type": "기업",
+    "formation_date": "1877",
+    "founder": "Stilson Hutchins",
+    "parent_company": "Nash Holdings(제프 베이조스)",
+    "industry": "출판",
+    "hq": "미국 워싱턴 D.C.",
+    "website": "https://www.washingtonpost.com",
+    "sns": "https://x.com/washingtonpost, https://www.instagram.com/washingtonpost",
+    "summary": "1877년 창간한 워싱턴 D.C.의 일간지. 1971년 펜타곤 문서 보도, 워터게이트 사건 보도로 알려졌다. 2013년 제프 베이조스가 샀다. 2023년 디지털 구독자 250만",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q166032",
+     "https://en.wikipedia.org/wiki/The_Washington_Post",
+     "https://www.yna.co.kr/view/AKR20261121027400009"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q166032",
+   "links": [
+    {
+     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a",
+     "category": "장소",
+     "name": "District of Columbia",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "e850ce72-7f2b-4c39-9468-157bc2214131",
+   "name": "Unapologetic Foods",
+   "category": "단체",
+   "alias": "언어폴로제틱 푸즈",
+   "disambig": "미국 뉴욕의 인도 음식점 그룹",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "org_type": "기업",
+    "founder": "Chintan Pandya, Roni Mazumdar",
+    "industry": "호텔,레스토랑,레저",
+    "hq": "미국 뉴욕",
+    "summary": "셰프 친탄 판디아와 레스토랑 경영자 로니 마줌다르가 함께 세운 뉴욕 인도 음식점 그룹. Adda Indian Canteen · Dhamaka · Semma(미쉐린 1스타) · Masalawala & Sons · Naks 등을 운영. 2026-11-15 건물이 팔려 브루클린 Masalawala & Sons 를 닫았다",
+    "sources": [
+     "https://blog.resy.com/2024/05/unapologetic/",
+     "https://www.finedininglovers.com/explore/articles/unapologetic-foods",
+     "https://ny.eater.com/news/414724/nyc-restaurants-closed-november-2026"
+    ]
+   },
+   "source_url": "https://blog.resy.com/2024/05/unapologetic/",
+   "links": [
+    {
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20",
+     "category": "장소",
+     "name": "New York City",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "4c76ee10-437e-4d8a-8f7e-d7c3e82da3be",
+   "name": "University College Birmingham",
+   "category": "단체",
+   "alias": "UCB, 버밍엄 대학 칼리지, Birmingham College of Food",
+   "disambig": "영국 버밍엄의 대학(호텔 · 조리 특화)",
+   "country_tags": [
+    "United Kingdom"
+   ],
+   "fields": {
+    "name_ko": "유니버시티 칼리지 버밍엄",
+    "org_type": "학교",
+    "formation_date": "1957",
+    "hq": "Summer Row, Birmingham B3 1JB",
+    "website": "https://www.ucb.ac.uk",
+    "sns": "https://x.com/ucbofficial, https://www.instagram.com/ucbofficial",
+    "summary": "1957년 버밍엄 시의 제빵 · 조리 · 가정학 칼리지로 갈라져 나와 2012년 대학 지위를 얻었다. 호텔 · 조리 · 관광 · 미용 · 스포츠 분야 특화. 2026-12 하번 하이 스트리트에 동네 식당 「Brocks」를 연다",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q7894613",
+     "https://en.wikipedia.org/wiki/University_College_Birmingham",
+     "https://www.restaurantonline.co.uk/Article/2026/11/20/university-college-birmingham-to-launch-neighbourhood-restaurant-brocks/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q7894613",
+   "links": [
+    {
+     "id": "2be3ded3-abb0-4b67-985a-be48b15c2262",
+     "category": "장소",
+     "name": "Birmingham",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "d9ff8963-9844-4d4b-9229-625abd4ac552",
+   "name": "Washington Nationals",
+   "category": "단체",
+   "alias": "워싱턴 내셔널스, 내셔널스, Nationals, Nats, Montreal Expos, ワシントン・ナショナルズ",
+   "disambig": "미국 MLB 워싱턴 내셔널스(내셔널리그 동부 지구)",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "name_ko": "워싱턴 내셔널스",
+    "name_en": "Washington Nationals",
+    "org_type": "스포츠팀",
+    "formation_date": "1969",
+    "league": "MLB 내셔널리그 동부 지구",
+    "sport": "야구",
+    "hq": "미국 워싱턴 D.C. Nationals Park",
+    "website": "https://www.mlb.com/nationals",
+    "sns": "https://x.com/Nationals, https://www.instagram.com/nationals",
+    "summary": "1969년 몬트리올 엑스포스로 창단, 2005년 워싱턴 D.C.로 옮겨 내셔널스가 됐다. 홈구장은 애너코스티아강 옆 네이비 야드의 Nationals Park",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q825838",
+     "https://en.wikipedia.org/wiki/Washington_Nationals",
+     "https://www.mlb.com/news/joey-bart-deal-with-cubs"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q825838",
+   "links": [
+    {
+     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a",
+     "category": "장소",
+     "name": "District of Columbia",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "01650c1a-9599-4285-8809-781f686d8d6c",
+   "name": "Yō Yoshida",
+   "category": "인물",
+   "alias": "吉田羊, 吉田羊右子, 요시다 요, Yoh Yoshida",
+   "disambig": "일본의 배우, 「HERO」(2014) · 「月がみている」",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "real_name": "吉田羊右子",
+    "name_ko": "요시다 요",
+    "name_en": "Yō Yoshida",
+    "birth_date": "1974-02-03",
+    "birthplace": "Kurume, Fukuoka, 일본",
+    "nationality": "일본",
+    "gender": "여성",
+    "occupation": "배우",
+    "active_years": "1997~",
+    "debut_date": "1997",
+    "debut_work": "소극장 무대(드라마 데뷔 「愛の迷宮」 2007)",
+    "notable_works": "瞳(NHK 아침 드라마, 2008), 風のガーデン, HERO(2014), 月がみている(エヴァ, 2026)",
+    "awards": "블루리본상 조연 여우상, 호치 영화상, 엘란도르상 신인상",
+    "sns": "X @yoshidayoh, Instagram @yoshidayoh_official",
+    "summary": "후쿠오카 구루메 출신 배우. 소극장 무대로 1997년 데뷔해 2007년부터 드라마 · 영화로 넓혔고, 영화 「月がみている」에서 엘리트 의사 부부가 만나는 고성의 여인 エヴァ 역",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q11414057",
+     "https://ja.wikipedia.org/wiki/吉田羊",
+     "https://movie.jorudan.co.jp/news/jrd_261017_01/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q11414057",
+   "links": [
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    },
+    {
+     "id": "450a2e93-4862-402f-a921-fe40be7d8b58",
+     "category": "작품",
+     "name": "月がみている",
+     "rel": "APPEARED_IN"
+    },
+    {
+     "id": "cbfc417b-539b-4e37-9861-9c0d36cce3f6",
+     "category": "장소",
+     "name": "Kurume",
+     "rel": "BORN_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "7abace0b-9259-447d-9d2e-9afdff32252b",
+   "name": "キノフィルムズ",
+   "category": "단체",
+   "alias": "Kino Films, 키노필름즈, 株式会社キノフィルムズ, キノ・フィルムズ",
+   "disambig": "일본 도쿄의 영화 제작 · 배급사(木下グループ)",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "real_name": "株式会社キノフィルムズ",
+    "name_ko": "키노필름즈",
+    "name_en": "Kino Films",
+    "org_type": "기업",
+    "formation_date": "2011-04-01",
+    "parent_company": "木下グループ",
+    "ceo": "木下直哉",
+    "industry": "방송과엔터테인먼트",
+    "hq": "東京都新宿区西新宿6-5-1 新宿アイランドタワー29階",
+    "website": "https://kinofilms.jp",
+    "sns": "https://x.com/kinofilmsJP, https://www.instagram.com/kinofilms_koushiki",
+    "summary": "2011년 木下グループ의 영화 제작 · 배급 부문이 떨어져 나와 세운 회사. 「木下グループ新人監督賞」을 두고 관련사 kino cinéma 로 미니시어터도 운영. 2026-11-20 개봉 「月がみている」 배급",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q11296896",
+     "https://ja.wikipedia.org/wiki/キノフィルムズ",
+     "https://kinofilms.jp/company/",
+     "https://movie.jorudan.co.jp/news/jrd_261017_01/"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q11296896",
+   "links": [
+    {
+     "id": "ff74d3b5-46f7-4793-9e34-2356b5af665e",
+     "category": "장소",
+     "name": "Shinjuku",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "0d7cc6ee-503e-41f3-9a36-9a9a42ce8148",
+   "name": "川上庵",
+   "category": "단체",
+   "alias": "Kawakami-an, 가와카미안, 軽井沢 川上庵, KAWAKAMI-AN",
+   "disambig": "나가노현 가루이자와에서 시작한 소바 가게 브랜드",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "name_ko": "가와카미안",
+    "name_en": "Kawakami-an",
+    "org_type": "기업",
+    "parent_company": "フォンスグループ",
+    "industry": "호텔,레스토랑,레저",
+    "hq": "長野県北佐久郡軽井沢町軽井沢6-10(軽井沢 川上庵 本店)",
+    "website": "https://kawakamian.com",
+    "summary": "가루이자와에서 시작한 소바 가게 브랜드. 軽井沢 川上庵 本店 · 麻布 · 青山 · せきれい橋 川上庵 · KAWAKAMI-AN TOKYO 를 두고 있다. 자매 브랜드 「善光寺表参道 たき澤」이 2026-10-29 신바시에 도쿄 첫 가게를 냈다",
+    "sources": [
+     "https://kawakamian.com/",
+     "https://rurubu.jp/andmore/spot/80019757",
+     "https://magazine.tabelog.com/articles/510477"
+    ]
+   },
+   "source_url": "https://kawakamian.com/",
+   "links": [
+    {
+     "id": "0a0a8775-882d-4250-96ed-1ebaeee421c0",
+     "category": "장소",
+     "name": "Karuizawa",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "49afa18b-8f69-4f57-9f51-1b694f79013e",
+   "name": "神谷皓",
+   "category": "인물",
+   "alias": "",
+   "disambig": "일본 프렌치 셰프, 미나미아오야마 「La Charrue」",
+   "country_tags": [
+    "Japan"
+   ],
+   "fields": {
+    "nationality": "일본",
+    "occupation": "셰프",
+    "summary": "롯폰기 「コジト」에서 배우고 히로오 「マルシェ・オー・ヴァン」 책임자를 지낸 와인 셰프, 2026-11-02 미나미아오야마에 부르고뉴 중심 와인 약 400병의 클래식 프렌치 「La Charrue」를 열었다",
+    "sources": [
+     "https://magazine.tabelog.com/articles/510395"
+    ],
+    "notable_works": "La Charrue(미나미아오야마, 2026-11~)"
+   },
+   "source_url": "https://magazine.tabelog.com/articles/510395",
+   "links": [
+    {
+     "id": "382fbd45-82db-45a4-8199-e51d8ce6d0f0",
+     "category": "허브",
+     "name": "Japan Entertainer",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "2d00c760-4d73-429f-ad65-588b5ab01b96",
+   "name": "경희대학교",
+   "category": "단체",
+   "alias": "경희대, Kyung Hee University, KHU, 慶熙大學校, 신흥대학교",
+   "disambig": "서울 동대문구의 사립 종합대학",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Kyung Hee University",
+    "org_type": "학교",
+    "formation_date": "1949-05-12",
+    "founder": "조영식",
+    "hq": "서울특별시 동대문구 경희대로 26 (회기동, 서울캠퍼스)",
+    "website": "https://www.khu.ac.kr",
+    "sns": "https://x.com/khuniv, https://www.instagram.com/kyunghee_university",
+    "summary": "1949년 신흥초급대학으로 개교해 1955년 회기동으로 옮기고 1960년 경희대학교로 이름을 바꾼 사립 종합대학. 서울(회기동) · 국제(용인 기흥구) · 광릉(남양주) 캠퍼스를 둔다. 2026-11-21 수능 뒤 첫 주말 논술고사를 치렀다",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q496536",
+     "https://ko.wikipedia.org/wiki/경희대학교",
+     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719187"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q496536",
+   "links": [
+    {
+     "id": "33c085c7-1b17-419a-a611-fa0cb8fab12b",
+     "category": "장소",
+     "name": "회기동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "9c9caacd-2f29-4ee2-92f2-ed863058deb9",
+   "name": "관음봉",
+   "category": "장소",
+   "alias": "계룡산 관음봉, Gwaneumbong",
+   "disambig": "계룡산의 봉우리(공주시 반포면)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "자연지형",
+    "address": "충청남도 공주시 반포면(계룡산국립공원)",
+    "summary": "계룡산의 봉우리, 높이 816m. 주봉 천황봉(845m)이 출입 통제라 등산객이 오르는 정상 구실을 한다. 2026-11-21 관음봉 고개 근처에서 하산하던 60대 등산객이 미끄러져 헬기로 옮겨졌다",
+    "sources": [
+     "https://www.ytn.co.kr/_ln/0115_202611211703262564",
+     "https://www.gongju.go.kr/prog/tursmCn/tour/sub02_06_02/view.do?cntno=12"
+    ]
+   },
+   "source_url": "https://www.ytn.co.kr/_ln/0115_202611211703262564",
+   "links": [
+    {
+     "id": "27dede5b-a306-49b2-b400-8e21202941ce",
+     "category": "장소",
+     "name": "반포면",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "f74aa7cd-b1f5-48a8-b0e6-34eb634991ec",
+   "name": "북항 친수공원",
+   "category": "장소",
+   "alias": "북항친수공원, 부산항 북항 친수공원, Busan North Port Waterfront Park",
+   "disambig": "부산 동구 초량동의 수변 공원(부산항 북항)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "공원·광장",
+    "address": "부산광역시 동구 초량동(부산역 앞 부산항 북항 재개발 구역)",
+    "operator": "부산시설공단",
+    "summary": "부산역 바로 앞 부산항 북항 재개발 1단계 구역의 수변 공원. 2026-09-18 인공 수로에 들어온 상어 「부캉이」가 한 달 넘게 머물며 누적 방문객 170만 명이 찾았다",
+    "sources": [
+     "https://www.busan.go.kr/news/snsbusan04/view?dataNo=66826",
+     "https://www.yna.co.kr/view/AKR20261120114600051",
+     "https://www.fnnews.com/news/202611201653456267"
+    ]
+   },
+   "source_url": "https://www.busan.go.kr/news/snsbusan04/view?dataNo=66826",
+   "links": [
+    {
+     "id": "626495c7-267b-4777-93f4-3c377d6597a1",
+     "category": "장소",
+     "name": "초량동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "8c3b7d43-2a0b-446a-b793-8c968805c700",
+   "name": "서강대학교",
+   "category": "단체",
+   "alias": "서강대, Sogang University, 西江大學校",
+   "disambig": "서울 마포구의 예수회 사립 대학",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Sogang University",
+    "org_type": "학교",
+    "formation_date": "1960-04-18",
+    "founder": "예수회(Society of Jesus)",
+    "hq": "서울특별시 마포구 백범로 35 (신수동)",
+    "website": "https://www.sogang.ac.kr",
+    "summary": "1960년 4월 18일 가톨릭 예수회가 세운 사립 대학. 마포구 신수동 캠퍼스, 교훈은 「진리에 순종하라(Obedire Veritati)」",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q374457",
+     "https://ko.wikipedia.org/wiki/서강대학교",
+     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719187"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q374457",
+   "links": [
+    {
+     "id": "12d550a3-dff6-4c89-8c89-93f0cb496e6d",
+     "category": "장소",
+     "name": "신수동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "82b3b706-3dab-4f2c-9161-e57eb2d348fa",
+   "name": "서격렬비도",
+   "category": "장소",
+   "alias": "서격렬비열도, 西格列飛島, Seogyeongnyeolbido",
+   "disambig": "태안군 근흥면 격렬비열도의 섬",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "자연지형",
+    "address": "충청남도 태안군 근흥면 가의도리",
+    "summary": "격렬비열도(북 · 동 · 서격렬비도) 세 섬 가운데 가장 서쪽 섬으로 태안군에서 서쪽 바깥 끝, 신진도에서 약 55km. 격렬비열도는 충남 최서단이자 영해기점 도서, 사실상 무인도. 2026-11 근처 해상에서 실종 어선 해광호 수색",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/격렬비열도",
+     "https://encykorea.aks.ac.kr/Article/E0002129",
+     "https://www.yna.co.kr/view/AKR20261121030900063"
+    ]
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/격렬비열도",
+   "links": [
+    {
+     "id": "40bcc104-3d66-4d05-a069-fd384029a802",
+     "category": "장소",
+     "name": "근흥면",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "d3d1bb89-34db-47ca-9d75-2c6632720ba7",
+   "name": "성균관대학교",
+   "category": "단체",
+   "alias": "성균관대, 성대, Sungkyunkwan University, SKKU, 成均館大學校",
+   "disambig": "서울 종로구의 사립 종합대학",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "name_en": "Sungkyunkwan University",
+    "org_type": "학교",
+    "formation_date": "1946-09-25",
+    "founder": "김창숙",
+    "hq": "서울특별시 종로구 성균관로 25-2 (명륜3가, 인문사회과학캠퍼스)",
+    "website": "https://www.skku.edu",
+    "sns": "https://www.instagram.com/sungkyunkwan_univ_official",
+    "summary": "조선 성균관(1398)의 전통을 잇는다며, 1946년 김창숙 주도로 재단법인 성균관대학을 세워 9월 25일 인가를 받았다. 1953년 종합대학, 1996년부터 삼성그룹이 재단 운영. 종로구 인문사회과학캠퍼스와 수원 자연과학캠퍼스 두 곳",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q41085",
+     "https://ko.wikipedia.org/wiki/성균관대학교",
+     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719187"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q41085",
+   "links": [
+    {
+     "id": "dd857dbf-bb7b-4914-877b-5af45fd7bcc3",
+     "category": "장소",
+     "name": "명륜3가",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "e5504703-bc30-4877-8fe8-a243492f2333",
+   "name": "세운4구역",
+   "category": "장소",
+   "alias": "세운상가 4구역, 세운재정비촉진지구 4구역, 세운4구역 도시환경정비사업",
+   "disambig": "종로구 예지동의 재개발 구역(종묘 맞은편)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "건물·시설",
+    "address": "서울특별시 종로구 예지동 85 일대",
+    "operator": "서울주택도시개발공사(SH, 사업시행자)",
+    "summary": "유네스코 세계유산 종묘 맞은편, 귀금속 · 시계 상가가 몰린 예지동 일대의 재개발 구역. 140m 넘는 건물 계획으로 경관 논란. 2026-11-18 국가유산위원회 매장유산 분과가 SH 의 유적 보존 방안을 만장일치로 부결해 새 방안 통과 전까지 공사를 할 수 없다",
+    "sources": [
+     "https://mediahub.seoul.go.kr/archives/144669",
+     "https://www.hani.co.kr/arti/culture/culture_general/1288428.html"
+    ]
+   },
+   "source_url": "https://mediahub.seoul.go.kr/archives/144669",
+   "links": [
+    {
+     "id": "fe337056-39c5-497f-bb2b-cb77a48c0962",
+     "category": "장소",
+     "name": "예지동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "0d9f1cdc-3008-4869-830c-27182981ea65",
+   "name": "소정리역",
+   "category": "장소",
+   "alias": "Sojeongni station, Sojeong-ri Station, 小井里驛",
+   "disambig": "세종시 소정면의 경부선 철도역(화물)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "건물·시설",
+    "name_en": "Sojeongni Station",
+    "address": "세종특별자치시 소정면 소정구길 159",
+    "opened_date": "1906-01-20",
+    "operator": "한국철도공사",
+    "summary": "1906년 문 연 경부선 역. 컨테이너 · 유류 화물을 주로 다루고 2017년 6월 30일 여객 취급을 멈췄다. 2026-11-21 진입하던 화물열차 5량이 탈선해 천안~대전 일반열차가 하루 멈췄다",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q188090",
+     "https://ko.wikipedia.org/wiki/소정리역",
+     "https://www.yna.co.kr/view/AKR20261121012752061"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q188090",
+   "links": [
+    {
+     "id": "a7e23999-f433-4bc5-acfe-ff8c25ac6387",
+     "category": "장소",
+     "name": "소정면",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "0e0d3281-5c4c-4396-b764-fb0b98e675f3",
+   "name": "양백리",
+   "category": "장소",
+   "alias": "Yangbaek-ri",
+   "disambig": "충북 진천군 백곡면의 리(마을)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "거리·마을",
+    "name_ko": "양백리",
+    "name_en": "Yangbaek-ri",
+    "address": "충청북도 진천군 백곡면 양백리",
+    "summary": "진천군 백곡면의 9개 법정리 가운데 하나. 서쪽 서운산(547m)에서 백곡천이 시작되고, 노고산 아래 천주교 배티성지(백곡면 배티로 663-13)가 있다",
+    "sources": [
+     "https://encykorea.aks.ac.kr/Article/E0054941",
+     "https://www.ktriptips.com/kor/tourspot/127793"
+    ]
+   },
+   "source_url": "https://encykorea.aks.ac.kr/Article/E0054941",
+   "links": [
+    {
+     "id": "9fa7b0a2-2f7b-415e-aaa7-634da269a622",
+     "category": "장소",
+     "name": "백곡면",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "7fff7e2b-bb31-478e-beda-1de72b8e8c3d",
+   "name": "용산철도고등학교",
+   "category": "단체",
+   "alias": "용산철도고, 용산공업고등학교, Yongsan Railroad High School",
+   "disambig": "서울 용산구의 공립 철도 특성화고",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "학교",
+    "formation_date": "1905-05-28",
+    "hq": "서울특별시 용산구 서빙고로 24 (한강로3가)",
+    "website": "http://yongsan-th.sen.hs.kr",
+    "summary": "1905년 철도 이원(吏員)양성소에서 시작해 교통고 · 용산공업고를 거쳐 2021년 4월 용산철도고로 이름을 바꾼 공립 고등학교. 철도운전기계 · 철도전기신호 · 철도건설 등 학과. 2026-11-21 경비지도사 국가자격시험장",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/용산철도고등학교",
+     "https://www.yna.co.kr/view/AKR20261121051700530"
+    ]
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/용산철도고등학교",
+   "links": [
+    {
+     "id": "5474a610-5d43-4b29-881f-273dea5400b7",
+     "category": "장소",
+     "name": "한강로3가",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "a81e18a8-6338-4c16-911a-ad73489cbb75",
+   "name": "장성대교",
+   "category": "장소",
+   "alias": "",
+   "disambig": "장성군 장성읍의 다리",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "건물·시설",
+    "address": "전남광주통합특별시 장성군 장성읍",
+    "summary": "장성읍의 다리. 2026-11-21 오전 눈이 얼어붙은 다리를 건너던 1t 화물차가 난간을 들이받고 다리 아래로 떨어져 70대 남성이 숨졌다",
+    "sources": [
+     "https://www.yna.co.kr/view/AKR20261121025000054"
+    ]
+   },
+   "source_url": "https://www.yna.co.kr/view/AKR20261121025000054",
+   "links": [
+    {
+     "id": "ba0d88ec-edbb-471d-a54b-763535e25213",
+     "category": "장소",
+     "name": "장성읍",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "f84be01e-a1d4-4e92-821b-fd9ff0c5b516",
+   "name": "중부고속도로",
+   "category": "장소",
+   "alias": "Jungbu Expressway, 中部高速道路",
+   "disambig": "충북 청주 남이분기점 ~ 경기 하남 하남분기점의 고속도로",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "거리·마을",
+    "name_ko": "중부고속도로",
+    "name_en": "Jungbu Expressway",
+    "opened_date": "1987-12-03",
+    "summary": "고속국도 제35호선의 한 구간(통영대전고속도로와 번호는 같지만 별개 노선). 충북 청주시 남이분기점에서 진천군 · 음성군, 경기 안성시 · 이천시 · 광주시를 지나 하남시 하남분기점까지 117.23km. 1987년 12월 개통, 진천나들목(32번)은 국도 21호선과 이어진다",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/중부고속도로",
+     "https://en.wikipedia.org/wiki/Jungbu_Expressway",
+     "https://www.wikidata.org/wiki/Q489715",
+     "https://theme.archives.go.kr/next/gyeongbu/roadChronological03.do"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q489715",
+   "links": [
+    {
+     "id": "3376fec8-ad3e-45f7-906f-d8b16e5c8970",
+     "category": "국가",
+     "name": "Korea",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "50daf1de-8a33-4d1f-b2d3-1516faa28cd9",
+   "name": "합정역",
+   "category": "장소",
+   "alias": "Hapjeong Station, 合井驛, 합정(세아타워)역",
+   "disambig": "서울 마포구의 지하철 2 · 6호선 환승역",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "건물·시설",
+    "name_en": "Hapjeong Station",
+    "address": "서울특별시 마포구 양화로 지하 55 (서교동, 2호선) · 양화로 지하 45 (합정동, 6호선)",
+    "opened_date": "1984-05-22",
+    "summary": "1984년 2호선과 함께 문 열고 2000년 6호선이 들어와 환승역이 됐다. 이름은 옛 조개우물(합정)에서 왔고 부역명은 세아타워",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q498168",
+     "https://ko.wikipedia.org/wiki/합정역",
+     "https://www.yna.co.kr/view/AKR20261121040100001"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q498168",
+   "links": [
+    {
+     "id": "7a976d33-2267-4002-b3b6-37a6d1c922d7",
+     "category": "장소",
+     "name": "서교동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "8cd6a08c-a9ff-4273-bb8f-043ba8edd428",
+   "name": "호도",
+   "category": "장소",
+   "alias": "여우섬, 狐島, Hodo",
+   "disambig": "보령시 오천면의 섬",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "자연지형",
+    "address": "충청남도 보령시 오천면 녹도리(호도)",
+    "summary": "대천항에서 여객선으로 40~50분 거리의 작은 섬. 모양이 여우를 닮아 여우섬이라고도 부르며, 1914년 호도리가 녹도리에 합쳐졌다. 차 없이 자전거 · 오토바이 · 리어카로 다니고 주민 대부분이 어업",
+    "sources": [
+     "https://www.ktriptips.com/kor/tourspot/577571",
+     "https://thewiki.kr/w/녹도",
+     "https://www.yna.co.kr/view/AKR20261121039100063"
+    ]
+   },
+   "source_url": "https://www.ktriptips.com/kor/tourspot/577571",
+   "links": [
+    {
+     "id": "fcfe94c5-befe-4e8f-861d-1ba63759da8c",
+     "category": "장소",
+     "name": "오천면",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
+  },
+  {
+   "id": "6c763284-a861-41aa-8ea5-dc8acadc1e40",
+   "name": "홍대입구역",
+   "category": "장소",
+   "alias": "Hongik University Station, Hongik Univ. Station, 홍대입구, 弘大入口驛, 동교역",
+   "disambig": "서울 마포구의 지하철 2호선 · 경의중앙선 · 공항철도 환승역",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "건물·시설",
+    "name_en": "Hongik University Station",
+    "address": "서울특별시 마포구 양화로 지하160 (2호선) · 양화로 지하188 (공항철도 · 경의중앙선)",
+    "opened_date": "1984-05-22",
+    "operator": "서울교통공사, 공항철도, 한국철도공사",
+    "summary": "1984년 2호선과 함께 문 연 역으로, 개통 전 이름은 동교역. 2010년 공항철도, 2012년 경의선이 들어와 세 노선 환승역이 됐다. 2026-11-21 1번 출구 앞 버스 2대 · 승용차 3중 추돌",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q54267",
+     "https://ko.wikipedia.org/wiki/홍대입구역",
+     "https://www.yna.co.kr/view/AKR20261121049151004"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q54267",
+   "links": [
+    {
+     "id": "d0dea29a-8056-4fe0-8f07-0c3cd56a0ea0",
+     "category": "장소",
+     "name": "동교동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-22T01:25:28.477696+00:00"
   }
  ],
  "bulk_added": []

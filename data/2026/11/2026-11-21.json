@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-22T00:56:12+00:00",
+ "exported_at": "2026-11-22T01:42:33+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 356,
@@ -572,7 +572,8 @@
     },
     {
      "name": "Mabuki Ando",
-     "id": null
+     "id": "5c2e4139-7765-46af-a54b-afc91041b2d3",
+     "auto": true
     }
    ],
    "other_fields": {
@@ -3515,11 +3516,13 @@
      },
      {
       "name": "경희대학교",
-      "id": null
+      "id": "2d00c760-4d73-429f-ad65-588b5ab01b96",
+      "auto": true
      },
      {
       "name": "성균관대학교",
-      "id": null
+      "id": "d3d1bb89-34db-47ca-9d75-2c6632720ba7",
+      "auto": true
      },
      {
       "name": "교육부",
@@ -3619,7 +3622,8 @@
    "places": [
     {
      "name": "세운4구역",
-     "id": null
+     "id": "e5504703-bc30-4877-8fe8-a243492f2333",
+     "auto": true
     },
     {
      "name": "종묘",
@@ -6443,7 +6447,8 @@
     "orgs": [
      {
       "name": "골드메달리스트",
-      "id": null
+      "id": "6157857b-469b-463d-b06b-12f1a81535ba",
+      "auto": true
      },
      {
       "name": "쿠쿠전자",
@@ -7364,7 +7369,8 @@
     "orgs": [
      {
       "name": "슈퍼벨컴퍼니",
-      "id": null
+      "id": "d427e69c-0140-44e9-80bb-3eb399b67018",
+      "auto": true
      }
     ]
    },
@@ -9920,7 +9926,8 @@
     "orgs": [
      {
       "name": "위엔터테인먼트",
-      "id": null
+      "id": "21ca772b-28ad-4cee-a14d-ca0631e15747",
+      "auto": true
      }
     ]
    },
@@ -13737,7 +13744,8 @@
     "orgs": [
      {
       "name": "케이아이엔터테인먼트",
-      "id": null
+      "id": "a708e427-7dae-4d95-9deb-0cd8d03e5d06",
+      "auto": true
      }
     ]
    },
@@ -14023,7 +14031,8 @@
    "places": [
     {
      "name": "서격렬비도",
-     "id": null
+     "id": "82b3b706-3dab-4f2c-9161-e57eb2d348fa",
+     "auto": true
     }
    ],
    "featuring": [],
