@@ -1,10 +1,10 @@
 {
  "date": "2026-11-23",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-22T23:45:18+00:00",
+ "exported_at": "2026-11-23T00:12:37+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
-  "updates": 159,
+  "updates": 158,
   "new_planets": 89,
   "bulk_added": 0
  },
@@ -29,8 +29,7 @@
    "featuring": [
     {
      "name": "김동영",
-     "id": "63dd0ad5-0dfc-4b60-a705-36ca578df3b8",
-     "auto": true
+     "id": "63dd0ad5-0dfc-4b60-a705-36ca578df3b8"
     },
     {
      "name": "김유정",
@@ -263,13 +262,11 @@
    "featuring": [
     {
      "name": "베일리",
-     "id": "960e0bdc-9785-449e-9d93-6acf1b8b916f",
-     "auto": true
+     "id": "960e0bdc-9785-449e-9d93-6acf1b8b916f"
     },
     {
      "name": "영서",
-     "id": "a4b7cbaf-2381-4178-be09-03c57825c36e",
-     "auto": true
+     "id": "a4b7cbaf-2381-4178-be09-03c57825c36e"
     },
     {
      "name": "CL",
@@ -539,18 +536,15 @@
     "orgs": [
      {
       "name": "신한은행",
-      "id": "f7a41a0d-6830-4ec9-880b-6b59e11d542c",
-      "auto": true
+      "id": "f7a41a0d-6830-4ec9-880b-6b59e11d542c"
      },
      {
       "name": "하나은행",
-      "id": "4b433b50-ecbb-4b28-b678-1d652e6a099d",
-      "auto": true
+      "id": "4b433b50-ecbb-4b28-b678-1d652e6a099d"
      },
      {
       "name": "NH농협은행",
-      "id": "e43bdcbd-f9a6-41a4-9f21-fd195328b04e",
-      "auto": true
+      "id": "e43bdcbd-f9a6-41a4-9f21-fd195328b04e"
      },
      {
       "name": "KB국민은행",
@@ -739,8 +733,7 @@
    "places": [
     {
      "name": "부산아시아드보조경기장",
-     "id": "2835bcb8-4283-4246-b620-5390fd4d45c6",
-     "auto": true
+     "id": "2835bcb8-4283-4246-b620-5390fd4d45c6"
     }
    ],
    "featuring": [
@@ -909,8 +902,7 @@
    "places": [
     {
      "name": "Vantelin Dome Nagoya",
-     "id": "f82e2045-f834-4cc9-afe1-7a68b9ca04f0",
-     "auto": true
+     "id": "f82e2045-f834-4cc9-afe1-7a68b9ca04f0"
     }
    ],
    "featuring": [
@@ -960,8 +952,7 @@
     "orgs": [
      {
       "name": "Oracle",
-      "id": "cba8ecb9-442e-4ab1-9b3f-51cd4dc12d74",
-      "auto": true
+      "id": "cba8ecb9-442e-4ab1-9b3f-51cd4dc12d74"
      },
      {
       "name": "The New York Times Company",
@@ -1138,8 +1129,7 @@
     "orgs": [
      {
       "name": "The Wall Street Journal",
-      "id": "657c9640-d713-4458-956b-4415244fed03",
-      "auto": true
+      "id": "657c9640-d713-4458-956b-4415244fed03"
      },
      {
       "name": "Nvidia",
@@ -1180,7 +1170,6 @@
    ],
    "other_fields": {
     "prev_record": "e3ed678d-3549-408a-925b-735072014f82",
-    "prev_auto": "함께 [] · 단어 ['AI', '보도', '앨리스', '중국', '중국에']",
     "sources": [
      "https://www.yna.co.kr/view/AKR20261122025700009",
      "https://www.newsis.com/view/NISX20261122_0003878195",
@@ -1190,8 +1179,7 @@
     "orgs": [
      {
       "name": "The Wall Street Journal",
-      "id": "657c9640-d713-4458-956b-4415244fed03",
-      "auto": true
+      "id": "657c9640-d713-4458-956b-4415244fed03"
      },
      {
       "name": "Megaspeed",
@@ -1240,8 +1228,7 @@
     "orgs": [
      {
       "name": "The Wall Street Journal",
-      "id": "657c9640-d713-4458-956b-4415244fed03",
-      "auto": true
+      "id": "657c9640-d713-4458-956b-4415244fed03"
      }
     ]
    },
@@ -1367,8 +1354,7 @@
    "places": [
     {
      "name": "Showcenter Complex",
-     "id": "c1ee3c84-e3ce-46bf-9e9c-049512271863",
-     "auto": true
+     "id": "c1ee3c84-e3ce-46bf-9e9c-049512271863"
     },
     {
      "name": "Mexico",
@@ -1977,7 +1963,6 @@
    ],
    "other_fields": {
     "prev_record": "a6ecf8b0-b389-4eea-9108-0cfb825dfcd6",
-    "prev_auto": "함께 ['이재명'] · 단어 ['밝힘', '부정행위', '수능']",
     "sources": [
      "https://www.yna.co.kr/view/AKR20261120166900530",
      "https://www.ytn.co.kr/_ln/0134_202611221603576024",
@@ -2031,7 +2016,6 @@
    ],
    "other_fields": {
     "prev_record": "e9f8ef09-d59e-4b31-b965-bad15a3d6303",
-    "prev_auto": "함께 ['장동혁', '조희대'] · 단어 ['내란', '대법원장', '조희대', '탄핵이']",
     "sources": [
      "https://www.yna.co.kr/view/AKR20261122028200001",
      "https://www.joongang.co.kr/article/25480831",
@@ -2140,8 +2124,7 @@
    "places": [
     {
      "name": "김영삼대통령기록전시관",
-     "id": "b07fdc8d-866b-4651-8eb9-1cc19be4b05b",
-     "auto": true
+     "id": "b07fdc8d-866b-4651-8eb9-1cc19be4b05b"
     },
     {
      "name": "장목면",
@@ -2223,8 +2206,7 @@
    "places": [
     {
      "name": "청주교도소",
-     "id": "53e29abc-4b21-4dff-b665-27885b83af11",
-     "auto": true
+     "id": "53e29abc-4b21-4dff-b665-27885b83af11"
     }
    ],
    "featuring": [],
@@ -2345,8 +2327,7 @@
    "places": [
     {
      "name": "Korean Cultural Center New York",
-     "id": "67c8ebca-02dc-4782-a7de-6496a6341842",
-     "auto": true
+     "id": "67c8ebca-02dc-4782-a7de-6496a6341842"
     }
    ],
    "featuring": [
@@ -2614,7 +2595,6 @@
    ],
    "other_fields": {
     "prev_record": "451b9257-695e-469a-bd75-b77eb5156a5c",
-    "prev_auto": "함께 ['이재명'] · 단어 ['AI', '대통령', '부정', '시험', '전면']",
     "sources": [
      "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719346",
      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857882&plink=ORI&cooper=ETC"
@@ -2852,7 +2832,8 @@
    "places": [
     {
      "name": "Palm Springs",
-     "id": null
+     "id": "e5d6d0fb-44f8-42a0-a71a-90941fd91794",
+     "auto": true
     },
     {
      "name": "California",
@@ -2949,8 +2930,7 @@
    "places": [
     {
      "name": "Sha Tin Racecourse",
-     "id": "ff1f03be-3db3-4ad8-9cd6-9568529458ad",
-     "auto": true
+     "id": "ff1f03be-3db3-4ad8-9cd6-9568529458ad"
     },
     {
      "name": "Sha Tin District",
@@ -3219,8 +3199,7 @@
     "orgs": [
      {
       "name": "유니콘트로피엔터테인먼트",
-      "id": "897eccbe-40ab-4705-886f-b80b1aeeee8b",
-      "auto": true
+      "id": "897eccbe-40ab-4705-886f-b80b1aeeee8b"
      }
     ]
    },
@@ -3324,39 +3303,6 @@
    "added_at": "2026-11-22T23:35:48.410143+00:00"
   },
   {
-   "id": "8ad33ed4-3810-472d-9441-421c78356a7b",
-   "title": "불가리 전 회장 파올로 불가리 별세, 향년 89세",
-   "type": "뉴스",
-   "date": "2026-11-22",
-   "parent": [
-    {
-     "id": "4f40206d-76ec-434b-859f-1e9ef8e37ef9",
-     "category": "단체",
-     "name": "Bulgari"
-    }
-   ],
-   "summary": "그리스 출신 은세공인 할아버지가 일군 가문의 보석 사업을 세계적 명품 브랜드로 키운 전 회장이 숨졌다고 유족이 발표",
-   "why": null,
-   "how": "유족은 「우리 시대 최고의 보석상」이라 기림. 1937년 로마 출생, 대담한 디자인과 색채로 할리우드 스타들 사이에서 명성",
-   "content": null,
-   "places": [],
-   "featuring": [
-    {
-     "name": "파올로 불가리",
-     "id": null
-    }
-   ],
-   "other_fields": {
-    "sources": [
-     "https://www.yna.co.kr/view/AKR20261122041200109",
-     "https://www.newsis.com/view/NISX20261122_0003877945"
-    ]
-   },
-   "url": "https://www.yna.co.kr/view/AKR20261122041200109",
-   "source": "뉴스",
-   "added_at": "2026-11-22T23:35:48.410143+00:00"
-  },
-  {
    "id": "bf96f2bb-792d-4fd4-ac31-621e43949b03",
    "title": "블랙풀 특집 생방송에 음란 소리, BBC 사과",
    "type": "논란",
@@ -3375,8 +3321,7 @@
    "places": [
     {
      "name": "Blackpool Tower Ballroom",
-     "id": "91a433af-842f-4cef-9332-61a7c8064d28",
-     "auto": true
+     "id": "91a433af-842f-4cef-9332-61a7c8064d28"
     },
     {
      "name": "Blackpool",
@@ -3435,8 +3380,7 @@
     "orgs": [
      {
       "name": "Bloomberg",
-      "id": "2c7683c6-ee2b-4618-8c27-f79c2edff1f7",
-      "auto": true
+      "id": "2c7683c6-ee2b-4618-8c27-f79c2edff1f7"
      },
      {
       "name": "Alibaba Group",
@@ -3575,8 +3519,7 @@
    "places": [
     {
      "name": "문섬",
-     "id": "57313281-43fd-49a9-baae-64f6aad2a249",
-     "auto": true
+     "id": "57313281-43fd-49a9-baae-64f6aad2a249"
     }
    ],
    "featuring": [],
@@ -4089,8 +4032,7 @@
     },
     {
      "name": "Haneda Airport",
-     "id": "3a647ad9-94d7-4b3f-a645-d77d70fe79b7",
-     "auto": true
+     "id": "3a647ad9-94d7-4b3f-a645-d77d70fe79b7"
     }
    ],
    "featuring": [
@@ -4127,8 +4069,7 @@
    "places": [
     {
      "name": "Bintaro",
-     "id": "48b95923-0228-4f0f-b556-9c16dad25d74",
-     "auto": true
+     "id": "48b95923-0228-4f0f-b556-9c16dad25d74"
     },
     {
      "name": "Kota Administrasi Jakarta Selatan",
@@ -4252,8 +4193,7 @@
     "orgs": [
      {
       "name": "블랙컴뱃",
-      "id": "79aa0cf9-b252-40ad-8686-383da953ca2f",
-      "auto": true
+      "id": "79aa0cf9-b252-40ad-8686-383da953ca2f"
      }
     ]
    },
@@ -4321,8 +4261,7 @@
    "places": [
     {
      "name": "Korean Cultural Center New York",
-     "id": "67c8ebca-02dc-4782-a7de-6496a6341842",
-     "auto": true
+     "id": "67c8ebca-02dc-4782-a7de-6496a6341842"
     }
    ],
    "featuring": [
@@ -4521,8 +4460,7 @@
    "places": [
     {
      "name": "아암대로",
-     "id": "4cc0b513-4801-43ee-bc4c-f86bcc8bfc0c",
-     "auto": true
+     "id": "4cc0b513-4801-43ee-bc4c-f86bcc8bfc0c"
     }
    ],
    "featuring": [],
@@ -4975,8 +4913,7 @@
    "places": [
     {
      "name": "Saigon Riverside Park",
-     "id": "620b1b99-b26c-41b5-9215-8bc9fc49832d",
-     "auto": true
+     "id": "620b1b99-b26c-41b5-9215-8bc9fc49832d"
     }
    ],
    "featuring": [
@@ -5056,8 +4993,7 @@
    "places": [
     {
      "name": "제주국제공항",
-     "id": "666f84b8-3263-49fe-af59-5650c25280b1",
-     "auto": true
+     "id": "666f84b8-3263-49fe-af59-5650c25280b1"
     }
    ],
    "featuring": [],
@@ -5229,8 +5165,7 @@
     "orgs": [
      {
       "name": "글로벌리서치",
-      "id": "24e6656c-2039-4397-a96b-41e9b26ccc21",
-      "auto": true
+      "id": "24e6656c-2039-4397-a96b-41e9b26ccc21"
      }
     ]
    },
@@ -5257,8 +5192,7 @@
    "places": [
     {
      "name": "병풍도",
-     "id": "08ec7a51-4360-43ee-84e1-0362778799e4",
-     "auto": true
+     "id": "08ec7a51-4360-43ee-84e1-0362778799e4"
     },
     {
      "name": "조도면",
@@ -5527,7 +5461,8 @@
    "places": [
     {
      "name": "University of Tokyo",
-     "id": null
+     "id": "d661d3a8-057a-4d4d-b3fe-e804d645d8b9",
+     "auto": true
     }
    ],
    "featuring": [
@@ -5592,8 +5527,7 @@
    "places": [
     {
      "name": "Kawasan Industri Pancatama",
-     "id": "89f08258-a926-4b95-9f99-9a4bbce1ecdb",
-     "auto": true
+     "id": "89f08258-a926-4b95-9f99-9a4bbce1ecdb"
     },
     {
      "name": "Cikande",
@@ -5616,8 +5550,7 @@
     "orgs": [
      {
       "name": "PT Fonusa Agung Mulia",
-      "id": "9289a54f-5f80-4e34-b079-2f253b69c8fc",
-      "auto": true
+      "id": "9289a54f-5f80-4e34-b079-2f253b69c8fc"
      }
     ]
    },
@@ -5728,8 +5661,7 @@
     "orgs": [
      {
       "name": "Major League Baseball",
-      "id": "62fd1785-336a-44f3-8b1c-6664cd776516",
-      "auto": true
+      "id": "62fd1785-336a-44f3-8b1c-6664cd776516"
      }
     ]
    },
@@ -6025,8 +5957,7 @@
    "places": [
     {
      "name": "Pejaten Timur",
-     "id": "dbb6cba5-247e-4140-9c21-2efe9c9decb3",
-     "auto": true
+     "id": "dbb6cba5-247e-4140-9c21-2efe9c9decb3"
     },
     {
      "name": "Pasar Minggu",
@@ -6165,8 +6096,7 @@
    "places": [
     {
      "name": "Hanoi Museum",
-     "id": "4849b8eb-af1b-4d39-b427-da8386be970d",
-     "auto": true
+     "id": "4849b8eb-af1b-4d39-b427-da8386be970d"
     }
    ],
    "featuring": [],
@@ -6266,8 +6196,7 @@
     "orgs": [
      {
       "name": "Tampa Bay Rays",
-      "id": "b76296c7-b02a-4aaf-9f93-87364750ec62",
-      "auto": true
+      "id": "b76296c7-b02a-4aaf-9f93-87364750ec62"
      }
     ]
    },
@@ -7885,6 +7814,12 @@
    },
    "source_url": "https://www.ntv.co.jp/utaoya/",
    "links": [
+    {
+     "id": "0194427e-ab8f-403d-8a60-c29e83c82749",
+     "category": "단체",
+     "name": "Nippon Television",
+     "rel": "RELATED_TO"
+    },
     {
      "id": "8bffbfb1-e40d-4a24-aa8b-8687a513562f",
      "category": "허브",

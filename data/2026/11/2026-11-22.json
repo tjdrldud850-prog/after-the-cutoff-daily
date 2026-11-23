@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-22T23:45:17+00:00",
+ "exported_at": "2026-11-23T00:12:36+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 152,
@@ -535,8 +535,7 @@
    "places": [
     {
      "name": "양백리",
-     "id": "0e0d3281-5c4c-4396-b764-fb0b98e675f3",
-     "auto": true
+     "id": "0e0d3281-5c4c-4396-b764-fb0b98e675f3"
     }
    ],
    "featuring": [],
@@ -737,8 +736,7 @@
    "places": [
     {
      "name": "용산철도고등학교",
-     "id": "7fff7e2b-bb31-478e-beda-1de72b8e8c3d",
-     "auto": true
+     "id": "7fff7e2b-bb31-478e-beda-1de72b8e8c3d"
     }
    ],
    "featuring": [
@@ -797,8 +795,7 @@
     "orgs": [
      {
       "name": "Cienco4",
-      "id": "9e6213a9-2207-495e-847b-64897887798c",
-      "auto": true
+      "id": "9e6213a9-2207-495e-847b-64897887798c"
      }
     ]
    },
@@ -869,13 +866,11 @@
    "featuring": [
     {
      "name": "諫早幸作",
-     "id": "43aaaf84-1e59-4f90-aff8-7bf832171c2f",
-     "auto": true
+     "id": "43aaaf84-1e59-4f90-aff8-7bf832171c2f"
     },
     {
      "name": "EOW",
-     "id": "de3d1021-fbe1-4f03-aff6-ca3527fb8c54",
-     "auto": true
+     "id": "de3d1021-fbe1-4f03-aff6-ca3527fb8c54"
     }
    ],
    "other_fields": {
@@ -917,8 +912,7 @@
     "orgs": [
      {
       "name": "연방수사국",
-      "id": "cc7e98ef-3ecb-482a-9eb2-5feb3cd19fa8",
-      "auto": true
+      "id": "cc7e98ef-3ecb-482a-9eb2-5feb3cd19fa8"
      },
      {
       "name": "CNN",
@@ -968,8 +962,7 @@
     "orgs": [
      {
       "name": "Financial Times",
-      "id": "31ed8f18-ee19-4963-9417-c2a03ba85595",
-      "auto": true
+      "id": "31ed8f18-ee19-4963-9417-c2a03ba85595"
      }
     ]
    },
@@ -1029,8 +1022,7 @@
    "places": [
     {
      "name": "Commerce",
-     "id": "58612142-3d23-4960-b6a9-8255ec605733",
-     "auto": true
+     "id": "58612142-3d23-4960-b6a9-8255ec605733"
     }
    ],
    "featuring": [
@@ -1110,8 +1102,7 @@
    "featuring": [
     {
      "name": "吉田照幸",
-     "id": "50a3b5cc-3db0-4da6-8e0f-bb2a3fb743d0",
-     "auto": true
+     "id": "50a3b5cc-3db0-4da6-8e0f-bb2a3fb743d0"
     },
     {
      "name": "Hidetaka Yoshioka",
@@ -1185,8 +1176,7 @@
     "orgs": [
      {
       "name": "The Washington Post",
-      "id": "f3b85243-fbdc-4e10-beaf-b6c1b816b1e8",
-      "auto": true
+      "id": "f3b85243-fbdc-4e10-beaf-b6c1b816b1e8"
      }
     ]
    },
@@ -1285,20 +1275,17 @@
    "places": [
     {
      "name": "JIExpo Kemayoran",
-     "id": "1b0a341a-4102-4817-a005-229360e46a6b",
-     "auto": true
+     "id": "1b0a341a-4102-4817-a005-229360e46a6b"
     },
     {
      "name": "Indonesia",
-     "id": "79081771-0acd-4f5a-b7d4-82112ed3268e",
-     "auto": true
+     "id": "79081771-0acd-4f5a-b7d4-82112ed3268e"
     }
    ],
    "featuring": [
     {
      "name": "Aming",
-     "id": "df266fda-cace-4365-b8d6-9940cfe212d7",
-     "auto": true
+     "id": "df266fda-cace-4365-b8d6-9940cfe212d7"
     },
     {
      "name": "Ical Tanjung",
@@ -1325,8 +1312,7 @@
     "orgs": [
      {
       "name": "Festival Film Indonesia",
-      "id": "c2b38c2c-1cfa-4021-a478-3e54830fc498",
-      "auto": true
+      "id": "c2b38c2c-1cfa-4021-a478-3e54830fc498"
      }
     ]
    },
@@ -1426,18 +1412,15 @@
    "places": [
     {
      "name": "JIExpo Kemayoran",
-     "id": "1b0a341a-4102-4817-a005-229360e46a6b",
-     "auto": true
+     "id": "1b0a341a-4102-4817-a005-229360e46a6b"
     },
     {
      "name": "Indonesia",
-     "id": "79081771-0acd-4f5a-b7d4-82112ed3268e",
-     "auto": true
+     "id": "79081771-0acd-4f5a-b7d4-82112ed3268e"
     },
     {
      "name": "DKI Jakarta",
-     "id": "f06e738e-58b8-4e47-92fe-153147f8e330",
-     "auto": true
+     "id": "f06e738e-58b8-4e47-92fe-153147f8e330"
     }
    ],
    "featuring": [],
@@ -1449,8 +1432,7 @@
     "orgs": [
      {
       "name": "Festival Film Indonesia",
-      "id": "c2b38c2c-1cfa-4021-a478-3e54830fc498",
-      "auto": true
+      "id": "c2b38c2c-1cfa-4021-a478-3e54830fc498"
      }
     ]
    },
@@ -1488,8 +1470,7 @@
     "orgs": [
      {
       "name": "川上庵",
-      "id": "0d7cc6ee-503e-41f3-9a36-9a9a42ce8148",
-      "auto": true
+      "id": "0d7cc6ee-503e-41f3-9a36-9a9a42ce8148"
      }
     ]
    },
@@ -1860,8 +1841,7 @@
    "places": [
     {
      "name": "소정리역",
-     "id": "0d9f1cdc-3008-4869-830c-27182981ea65",
-     "auto": true
+     "id": "0d9f1cdc-3008-4869-830c-27182981ea65"
     },
     {
      "name": "소정면",
@@ -1921,8 +1901,7 @@
    "places": [
     {
      "name": "관음봉",
-     "id": "9c9caacd-2f29-4ee2-92f2-ed863058deb9",
-     "auto": true
+     "id": "9c9caacd-2f29-4ee2-92f2-ed863058deb9"
     }
    ],
    "featuring": [],
@@ -1964,7 +1943,6 @@
    ],
    "other_fields": {
     "prev_record": "28e4aec6-24ed-4b3f-b655-e5c96a002499",
-    "prev_auto": "함께 ['최교진'] · 단어 ['교육부', '나와', '답함', '사퇴하라면', '임명권자가', '장관', '해야']",
     "sources": [
      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856540"
     ],
@@ -1998,8 +1976,7 @@
    "places": [
     {
      "name": "세운4구역",
-     "id": "e5504703-bc30-4877-8fe8-a243492f2333",
-     "auto": true
+     "id": "e5504703-bc30-4877-8fe8-a243492f2333"
     },
     {
      "name": "서울특별시",
@@ -2097,7 +2074,6 @@
    ],
    "other_fields": {
     "prev_record": "e9f8ef09-d59e-4b31-b965-bad15a3d6303",
-    "prev_auto": "함께 ['장동혁', '정점식', '조희대'] · 단어 ['대법원장', '조희대', '탄핵']",
     "sources": [
      "https://www.khan.co.kr/article/202611211822001/",
      "https://biz.heraldcorp.com/article/10944738",
@@ -2212,8 +2188,7 @@
    "featuring": [
     {
      "name": "Graham Moore",
-     "id": "3447dd90-b34f-4b8f-8f4d-0978a067ae59",
-     "auto": true
+     "id": "3447dd90-b34f-4b8f-8f4d-0978a067ae59"
     },
     {
      "name": "Jacqueline Hoyt",
@@ -2221,8 +2196,7 @@
     },
     {
      "name": "James Ponsoldt",
-     "id": "99403d41-721d-481a-8f42-be23890c04a0",
-     "auto": true
+     "id": "99403d41-721d-481a-8f42-be23890c04a0"
     },
     {
      "name": "Anthony Boyle",
@@ -2305,8 +2279,7 @@
    "featuring": [
     {
      "name": "神谷皓",
-     "id": "49afa18b-8f69-4f57-9f51-1b694f79013e",
-     "auto": true
+     "id": "49afa18b-8f69-4f57-9f51-1b694f79013e"
     }
    ],
    "other_fields": {
@@ -2375,7 +2348,6 @@
    ],
    "other_fields": {
     "prev_record": "90f71ed8-ff5b-404d-ba8d-44543f9dcd28",
-    "prev_auto": "함께 ['이재명'] · 단어 ['대통령', '부정', '수능']",
     "sources": [
      "https://www.yna.co.kr/view/AKR20261121039400001",
      "https://www.newsis.com/view/NISX20261121_0003877727"
@@ -2732,8 +2704,7 @@
    "places": [
     {
      "name": "JIExpo Kemayoran",
-     "id": "1b0a341a-4102-4817-a005-229360e46a6b",
-     "auto": true
+     "id": "1b0a341a-4102-4817-a005-229360e46a6b"
     }
    ],
    "featuring": [],
@@ -2745,8 +2716,7 @@
     "orgs": [
      {
       "name": "Festival Film Indonesia",
-      "id": "c2b38c2c-1cfa-4021-a478-3e54830fc498",
-      "auto": true
+      "id": "c2b38c2c-1cfa-4021-a478-3e54830fc498"
      }
     ]
    },
@@ -2961,7 +2931,6 @@
    ],
    "other_fields": {
     "prev_record": "0a45b53f-149b-417c-8e61-fdf306ad2e88",
-    "prev_auto": "함께 ['민형배'] · 단어 ['민형배', '시장', '요구']",
     "sources": [
      "https://www.yna.co.kr/view/AKR20261121044400054"
     ],
@@ -3078,8 +3047,7 @@
     "orgs": [
      {
       "name": "University College Birmingham",
-      "id": "4c76ee10-437e-4d8a-8f7e-d7c3e82da3be",
-      "auto": true
+      "id": "4c76ee10-437e-4d8a-8f7e-d7c3e82da3be"
      }
     ]
    },
@@ -3216,8 +3184,7 @@
    "places": [
     {
      "name": "호도",
-     "id": "8cd6a08c-a9ff-4273-bb8f-043ba8edd428",
-     "auto": true
+     "id": "8cd6a08c-a9ff-4273-bb8f-043ba8edd428"
     },
     {
      "name": "대천항",
@@ -3343,8 +3310,7 @@
    "places": [
     {
      "name": "북항친수공원",
-     "id": "f74aa7cd-b1f5-48a8-b0e6-34eb634991ec",
-     "auto": true
+     "id": "f74aa7cd-b1f5-48a8-b0e6-34eb634991ec"
     }
    ],
    "featuring": [
@@ -3535,8 +3501,7 @@
    "places": [
     {
      "name": "북항 친수공원",
-     "id": "f74aa7cd-b1f5-48a8-b0e6-34eb634991ec",
-     "auto": true
+     "id": "f74aa7cd-b1f5-48a8-b0e6-34eb634991ec"
     }
    ],
    "featuring": [],
@@ -3674,8 +3639,7 @@
    "featuring": [
     {
      "name": "Charbel Hayek",
-     "id": "0f6c45d1-8fdb-4823-ace7-385f781b7bae",
-     "auto": true
+     "id": "0f6c45d1-8fdb-4823-ace7-385f781b7bae"
     }
    ],
    "other_fields": {
@@ -3717,8 +3681,7 @@
     "orgs": [
      {
       "name": "The Information",
-      "id": "c93436cd-8325-476b-acdc-585b41611aee",
-      "auto": true
+      "id": "c93436cd-8325-476b-acdc-585b41611aee"
      },
      {
       "name": "SK하이닉스",
@@ -3749,13 +3712,11 @@
    "places": [
     {
      "name": "경희대학교",
-     "id": "2d00c760-4d73-429f-ad65-588b5ab01b96",
-     "auto": true
+     "id": "2d00c760-4d73-429f-ad65-588b5ab01b96"
     },
     {
      "name": "성균관대학교",
-     "id": "d3d1bb89-34db-47ca-9d75-2c6632720ba7",
-     "auto": true
+     "id": "d3d1bb89-34db-47ca-9d75-2c6632720ba7"
     }
    ],
    "featuring": [],
@@ -3768,18 +3729,15 @@
     "orgs": [
      {
       "name": "경희대학교",
-      "id": "2d00c760-4d73-429f-ad65-588b5ab01b96",
-      "auto": true
+      "id": "2d00c760-4d73-429f-ad65-588b5ab01b96"
      },
      {
       "name": "성균관대학교",
-      "id": "d3d1bb89-34db-47ca-9d75-2c6632720ba7",
-      "auto": true
+      "id": "d3d1bb89-34db-47ca-9d75-2c6632720ba7"
      },
      {
       "name": "서강대학교",
-      "id": "8c3b7d43-2a0b-446a-b793-8c968805c700",
-      "auto": true
+      "id": "8c3b7d43-2a0b-446a-b793-8c968805c700"
      },
      {
       "name": "교육부",
@@ -3864,7 +3822,6 @@
    "featuring": [],
    "other_fields": {
     "prev_record": "ad33ede4-2d4b-40ce-9245-4dd83102554d",
-    "prev_auto": "함께 [] · 단어 ['AI', '만점자', '부정', '의혹']",
     "sources": [
      "https://www.newsis.com/view/NISX20261121_0003877702",
      "https://www.yna.co.kr/view/AKR20261120173900004"
@@ -4026,8 +3983,7 @@
    "featuring": [
     {
      "name": "岡田賢一郎",
-     "id": "3c6956f4-c1f5-4a56-911b-c09cf96a18e4",
-     "auto": true
+     "id": "3c6956f4-c1f5-4a56-911b-c09cf96a18e4"
     }
    ],
    "other_fields": {
@@ -4110,7 +4066,6 @@
    "featuring": [],
    "other_fields": {
     "prev_record": "77a2c9b4-ca55-412d-b033-23e2e5fcb64b",
-    "prev_auto": "함께 [] · 단어 ['공모가', '마감', '상장', '앤트로픽', '장중']",
     "sources": [
      "https://www.yna.co.kr/view/AKR20261121011100091",
      "https://www.yna.co.kr/view/AKR20261121000600072"
@@ -4146,8 +4101,7 @@
    "featuring": [
     {
      "name": "다리오 아모데이",
-     "id": "aec5cefd-2e83-4486-b9a3-728d269a31d3",
-     "auto": true
+     "id": "aec5cefd-2e83-4486-b9a3-728d269a31d3"
     }
    ],
    "other_fields": {
@@ -4219,13 +4173,11 @@
    "featuring": [
     {
      "name": "渡邉直子",
-     "id": "f81172bf-085f-469a-81ee-2e453c93160b",
-     "auto": true
+     "id": "f81172bf-085f-469a-81ee-2e453c93160b"
     },
     {
      "name": "吉田羊",
-     "id": "01650c1a-9599-4285-8809-781f686d8d6c",
-     "auto": true
+     "id": "01650c1a-9599-4285-8809-781f686d8d6c"
     },
     {
      "name": "Katsuya Maiguma",
@@ -4245,8 +4197,7 @@
     "orgs": [
      {
       "name": "キノフィルムズ",
-      "id": "7abace0b-9259-447d-9d2e-9afdff32252b",
-      "auto": true
+      "id": "7abace0b-9259-447d-9d2e-9afdff32252b"
      }
     ]
    },
@@ -4289,13 +4240,11 @@
     "orgs": [
      {
       "name": "Mediawan",
-      "id": "43c1b381-3d15-4e35-a5e8-1028586feda4",
-      "auto": true
+      "id": "43c1b381-3d15-4e35-a5e8-1028586feda4"
      },
      {
       "name": "Candle Media",
-      "id": "9d85b918-911f-46b8-a0fb-5a0518bcbbab",
-      "auto": true
+      "id": "9d85b918-911f-46b8-a0fb-5a0518bcbbab"
      }
     ]
    },
@@ -4717,8 +4666,7 @@
    "places": [
     {
      "name": "장성대교",
-     "id": "a81e18a8-6338-4c16-911a-ad73489cbb75",
-     "auto": true
+     "id": "a81e18a8-6338-4c16-911a-ad73489cbb75"
     },
     {
      "name": "장성읍",
@@ -5033,8 +4981,7 @@
     },
     {
      "name": "예산군",
-     "id": "08309703-415d-486a-82ac-e43bb15ac878",
-     "auto": true
+     "id": null
     }
    ],
    "featuring": [
@@ -5109,8 +5056,7 @@
    "places": [
     {
      "name": "중부고속도로",
-     "id": "f84be01e-a1d4-4e92-821b-fd9ff0c5b516",
-     "auto": true
+     "id": "f84be01e-a1d4-4e92-821b-fd9ff0c5b516"
     },
     {
      "name": "진천읍",
@@ -5178,8 +5124,7 @@
    "places": [
     {
      "name": "합정역",
-     "id": "50daf1de-8a33-4d1f-b2d3-1516faa28cd9",
-     "auto": true
+     "id": "50daf1de-8a33-4d1f-b2d3-1516faa28cd9"
     },
     {
      "name": "마포구",
@@ -5344,13 +5289,11 @@
     "orgs": [
      {
       "name": "Cancer Research UK",
-      "id": "f19f0f55-6fb5-4dc1-b9d7-45ddf86a2e5f",
-      "auto": true
+      "id": "f19f0f55-6fb5-4dc1-b9d7-45ddf86a2e5f"
      },
      {
       "name": "Memorial Sloan Kettering Cancer Center",
-      "id": "b967b585-bf6b-4122-8324-83e01c56f290",
-      "auto": true
+      "id": "b967b585-bf6b-4122-8324-83e01c56f290"
      }
     ]
    },
@@ -5383,8 +5326,7 @@
    "featuring": [
     {
      "name": "Paulo Airaudo",
-     "id": "457c873e-76b3-4a19-9577-fc74677f5e01",
-     "auto": true
+     "id": "457c873e-76b3-4a19-9577-fc74677f5e01"
     }
    ],
    "other_fields": {
@@ -5474,13 +5416,11 @@
     "orgs": [
      {
       "name": "Chicago White Sox",
-      "id": "676138db-0472-4ac1-82f2-0cb8f5c18abf",
-      "auto": true
+      "id": "676138db-0472-4ac1-82f2-0cb8f5c18abf"
      },
      {
       "name": "Washington Nationals",
-      "id": "d9ff8963-9844-4d4b-9229-625abd4ac552",
-      "auto": true
+      "id": "d9ff8963-9844-4d4b-9229-625abd4ac552"
      }
     ]
    },
@@ -5624,8 +5564,7 @@
    "places": [
     {
      "name": "Huntsville",
-     "id": "b27447c5-87f2-4319-a5ca-bb1afbfe5048",
-     "auto": true
+     "id": "b27447c5-87f2-4319-a5ca-bb1afbfe5048"
     }
    ],
    "featuring": [],
@@ -5671,7 +5610,6 @@
    ],
    "other_fields": {
     "prev_record": "bdf13eb2-7db2-4d3e-86ea-f28fdfe43b79",
-    "prev_auto": "함께 ['도널드 트럼프'] · 단어 ['미중러', '백악관', '성과', '트럼프']",
     "sources": [
      "https://www.yna.co.kr/view/AKR20261121017500071",
      "https://imnews.imbc.com/replay/2026/nwdesk/article/6867509_37004.html"
@@ -5781,8 +5719,7 @@
     },
     {
      "name": "젠슨 황",
-     "id": "8505e922-0921-452c-8ce2-25c88f761d81",
-     "auto": true
+     "id": "8505e922-0921-452c-8ce2-25c88f761d81"
     },
     {
      "name": "시진핑",
@@ -5834,8 +5771,7 @@
     "orgs": [
      {
       "name": "Unapologetic Foods",
-      "id": "e850ce72-7f2b-4c39-9468-157bc2214131",
-      "auto": true
+      "id": "e850ce72-7f2b-4c39-9468-157bc2214131"
      }
     ]
    },
@@ -6053,8 +5989,7 @@
    "featuring": [
     {
      "name": "Jimmy Ophorst",
-     "id": "dbd7947e-9cb8-49b0-bf19-dc7016c1bec3",
-     "auto": true
+     "id": "dbd7947e-9cb8-49b0-bf19-dc7016c1bec3"
     }
    ],
    "other_fields": {
@@ -6097,8 +6032,7 @@
    "featuring": [
     {
      "name": "Brigi Stamber",
-     "id": "7738e183-984e-443e-9a28-85e09f557b83",
-     "auto": true
+     "id": "7738e183-984e-443e-9a28-85e09f557b83"
     }
    ],
    "other_fields": {
@@ -6108,8 +6042,7 @@
     "orgs": [
      {
       "name": "Pizzaface",
-      "id": "b48e9776-9627-4044-a15f-412b481c092a",
-      "auto": true
+      "id": "b48e9776-9627-4044-a15f-412b481c092a"
      }
     ]
    },
@@ -6136,8 +6069,7 @@
    "places": [
     {
      "name": "Hoan Kiem Lake",
-     "id": "4b66d3cd-fd8c-4354-8bdc-193beb3fcd82",
-     "auto": true
+     "id": "4b66d3cd-fd8c-4354-8bdc-193beb3fcd82"
     }
    ],
    "featuring": [
@@ -6243,8 +6175,7 @@
    "places": [
     {
      "name": "서격렬비열도",
-     "id": "82b3b706-3dab-4f2c-9161-e57eb2d348fa",
-     "auto": true
+     "id": "82b3b706-3dab-4f2c-9161-e57eb2d348fa"
     },
     {
      "name": "신진도",
@@ -6259,7 +6190,6 @@
    ],
    "other_fields": {
     "prev_record": "8085edf7-2963-45f9-a07b-ff4606b637f7",
-    "prev_auto": "함께 [] · 단어 ['위치', '추정', '해경', '해광호']",
     "sources": [
      "https://www.yna.co.kr/view/AKR20261121030900063",
      "https://www.yna.co.kr/view/AKR20261121039200030"
@@ -6376,8 +6306,7 @@
    "places": [
     {
      "name": "홍대입구역",
-     "id": "6c763284-a861-41aa-8ea5-dc8acadc1e40",
-     "auto": true
+     "id": "6c763284-a861-41aa-8ea5-dc8acadc1e40"
     }
    ],
    "featuring": [],
