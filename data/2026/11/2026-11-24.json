@@ -1,7 +1,7 @@
 {
  "date": "2026-11-24",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-23T23:22:17+00:00",
+ "exported_at": "2026-11-25T01:31:44+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
   "updates": 392,
@@ -244,7 +244,8 @@
    "places": [
     {
      "name": "킨텍스",
-     "id": null
+     "id": "b36f89dc-adb9-4cfe-809e-818c5b877716",
+     "auto": true
     },
     {
      "name": "고양시",
@@ -554,7 +555,8 @@
    "places": [
     {
      "name": "킨텍스",
-     "id": null
+     "id": "b36f89dc-adb9-4cfe-809e-818c5b877716",
+     "auto": true
     },
     {
      "name": "대전광역시",
@@ -586,7 +588,8 @@
       "name": "국가데이터처",
       "id": "c8d8e685-45e8-45a4-8108-8e922c080445"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-24 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261124094000530\n2026-11-24 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261124082400061\n2026-11-24 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261124060000004\n2026-11-24 · 노컷뉴스 · https://www.nocutnews.co.kr/news/6612004\n2026-11-24 · 노컷뉴스 · https://www.nocutnews.co.kr/news/6612037"
    },
    "url": "https://www.yna.co.kr/view/AKR20261123023800030",
    "source": "뉴스",
@@ -847,7 +850,8 @@
    "other_fields": {
     "sources": [
      "https://www.yna.co.kr/view/AKR20261123062200064"
-    ]
+    ],
+    "related_coverage": "2026-11-24 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720775"
    },
    "url": "https://www.yna.co.kr/view/AKR20261123062200064",
    "source": "뉴스",
@@ -1304,7 +1308,8 @@
       "name": "NHK",
       "id": "0601cc15-f634-4a05-ab30-32f3651987bf"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-24 · リアルサウンド · https://news.yahoo.co.jp/articles/35ccf8a6efe729dc7f465b631c7feb925af9f829"
    },
    "url": "https://news.yahoo.co.jp/articles/46293685ca0284f7d9083bb5f851b3663e9d0245",
    "source": "뉴스",
@@ -2888,7 +2893,8 @@
     "end_date": "2026-12-25",
     "sources": [
      "https://news.yahoo.co.jp/articles/8016e1d9df499fec938a30886c99680ac933741f"
-    ]
+    ],
+    "related_coverage": "2026-11-24 · コミックナタリー · https://news.yahoo.co.jp/articles/a238b0fb002a3e673c27919052f89d1e9c3178bd"
    },
    "url": "https://news.yahoo.co.jp/articles/8016e1d9df499fec938a30886c99680ac933741f",
    "source": "뉴스",
@@ -3593,7 +3599,8 @@
       "name": "Amazon MGM Studios",
       "id": "46fa196f-6b72-4883-a4fa-a64fc3d21681"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-23 · Hollywood Reporter · https://www.hollywoodreporter.com/tv/tv-news/deborah-ann-woll-to-reprise-god-of-war-role-in-prime-video-series-1236761123/"
    },
    "url": "https://variety.com/2026/tv/news/god-of-war-tv-series-amazon-deborah-ann-woll-faye-1236955900/",
    "source": "뉴스",
@@ -5925,7 +5932,8 @@
    "places": [
     {
      "name": "신세계백화점 강남점",
-     "id": null
+     "id": "4feb15a2-ddd0-4124-979a-0ad998c24fc1",
+     "auto": true
     },
     {
      "name": "대전광역시",
@@ -6697,7 +6705,8 @@
       "name": "Marvel Studios",
       "id": "c2f4db11-8258-494d-88a4-53e047b8f8ce"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-24 · 映画ナタリー · https://news.yahoo.co.jp/articles/202a872735586f4fe85b3b04d7acc6119849e02e\n2026-11-23 · Gizmodo · https://gizmodo.com/a-new-avengers-doomsday-trailer-heralds-a-crisis-on-all-earths-2000843702"
    },
    "url": "https://variety.com/2026/film/news/avengers-doomsday-trailer-captain-america-son-cyclops-x-men-1236893948/",
    "source": "뉴스",
@@ -7192,7 +7201,8 @@
     "orgs": [
      {
       "name": "신천지",
-      "id": null
+      "id": "c0676f76-0829-44d8-a612-ac0495bb7936",
+      "auto": true
      }
     ]
    },
@@ -7693,7 +7703,8 @@
       "name": "Vietnam Red Cross Society",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-23 · VTV · https://vtv.vn/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tai-le-ky-niem-80-nam-hoi-chu-thap-do-viet-nam-10026112317360767.htm"
    },
    "url": "https://baochinhphu.vn/tong-bi-thu-chu-tich-nuoc-to-lam-xay-dung-mot-xa-hoi-ma-long-nhan-ai-tro-thanh-nep-song-102261123122818186.htm",
    "source": "뉴스",
@@ -7736,7 +7747,8 @@
       "name": "충북문화재단",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-24 · 연합뉴스 · https://www.yna.co.kr/view/AKR20261124169600064"
    },
    "url": "https://www.joongang.co.kr/article/25481176",
    "source": "뉴스",
@@ -8891,7 +8903,8 @@
       "name": "Sony Pictures Entertainment",
       "id": "f04383fb-c8fa-4be4-8067-7a6091efcf07"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-23 · Deadline · https://deadline.com/2026/11/shawn-levy-sony-21-laps-deal-1237231675/\n2026-11-23 · Hollywood Reporter · https://www.hollywoodreporter.com/movies/movie-news/shawn-levys-21-laps-overall-film-deal-at-sony-1236761214/"
    },
    "url": "https://variety.com/2026/film/news/shawn-levy-21-overall-film-deal-sony-1236956043/",
    "source": "뉴스",
@@ -10045,7 +10058,8 @@
    "places": [
     {
      "name": "영월동굴생태관",
-     "id": null
+     "id": "5afb84d7-7b4d-4706-8e8f-7ea33fac0d25",
+     "auto": true
     }
    ],
    "featuring": [],
@@ -10064,7 +10078,8 @@
       "name": "연세대학교박물관",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-24 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720810"
    },
    "url": "https://www.yna.co.kr/view/AKR20261123108000062",
    "source": "뉴스",
@@ -10500,7 +10515,8 @@
    "places": [
     {
      "name": "킨텍스 제2전시장",
-     "id": null
+     "id": "b36f89dc-adb9-4cfe-809e-818c5b877716",
+     "auto": true
     }
    ],
    "featuring": [
@@ -10896,7 +10912,8 @@
      "https://deadline.com/2026/11/nvidia-reinstates-jensen-huang-ceo-1237231532/",
      "https://variety.com/2026/digital/news/jensen-huang-reinstated-as-nvidia-ceo-1236955837/",
      "https://variety.com/2026/digital/news/trump-ai-meme-jensen-huang-bra-nvidia-reinstates-ceo-1236956004/"
-    ]
+    ],
+    "related_coverage": "2026-11-23 · 日本経済新聞 · https://www.nikkei.com/article/DGXZQOGN232LV0T21C26A1000000/\n2026-11-23 · Liputan6 · https://www.liputan6.com/tekno/read/8341144/jensen-huang-diangkat-kembali-jadi-ceo-nvidia-usai-11-hari-resign-ini-alasannya"
    },
    "url": "https://deadline.com/2026/11/nvidia-reinstates-jensen-huang-ceo-1237231532/",
    "source": "뉴스",
@@ -12166,7 +12183,8 @@
     "sources": [
      "https://www.yna.co.kr/view/AKR20261123121300055",
      "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720396"
-    ]
+    ],
+    "related_coverage": "2026-11-24 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720728"
    },
    "url": "https://www.yna.co.kr/view/AKR20261123121300055",
    "source": "뉴스",
@@ -12380,7 +12398,8 @@
      "https://www.yna.co.kr/view/AKR20261123176000009",
      "https://www.hani.co.kr/arti/international/america/1288751.html",
      "https://www.newsis.com/view/NISX20261123_0003880068"
-    ]
+    ],
+    "related_coverage": "2026-11-23 · Dân trí · https://dantri.com.vn/kinh-doanh/co-phieu-nvidia-tang-vot-30-khi-ty-phu-jensen-huang-tro-lai-vi-tri-ceo-20261123220947406.htm"
    },
    "url": "https://www.yna.co.kr/view/AKR20261123176000009",
    "source": "뉴스",
