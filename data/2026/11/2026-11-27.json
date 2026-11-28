@@ -1,11 +1,11 @@
 {
  "date": "2026-11-27",
  "timezone": "Asia/Seoul",
- "exported_at": "2026-11-27T03:16:29+00:00",
+ "exported_at": "2026-11-28T02:01:23+00:00",
  "license": "CC BY 4.0 · Thea (https://thealibrary.org) — each value keeps its own source (url / source_url)",
  "counts": {
-  "updates": 466,
-  "new_planets": 174,
+  "updates": 480,
+  "new_planets": 180,
   "bulk_added": 0
  },
  "updates": [
@@ -103,8 +103,7 @@
     },
     {
      "name": "하정우",
-     "id": "b4dc7ea2-8d17-41c4-9c87-cf10611a8cc8",
-     "auto": true
+     "id": null
     }
    ],
    "other_fields": {
@@ -237,8 +236,7 @@
    "places": [
     {
      "name": "울산전시컨벤션센터",
-     "id": "edb992fe-9301-4061-b0d7-a229125b799d",
-     "auto": true
+     "id": "edb992fe-9301-4061-b0d7-a229125b799d"
     }
    ],
    "featuring": [],
@@ -439,8 +437,7 @@
     "orgs": [
      {
       "name": "기후에너지환경부",
-      "id": "f8d379b2-0380-4a0c-a376-be4336dca932",
-      "auto": true
+      "id": "f8d379b2-0380-4a0c-a376-be4336dca932"
      },
      {
       "name": "제주에너지공사",
@@ -484,8 +481,7 @@
     "orgs": [
      {
       "name": "국가데이터처",
-      "id": "c8d8e685-45e8-45a4-8108-8e922c080445",
-      "auto": true
+      "id": "c8d8e685-45e8-45a4-8108-8e922c080445"
      }
     ]
    },
@@ -518,8 +514,7 @@
     "orgs": [
      {
       "name": "금융감독원",
-      "id": "13d486c7-e762-44c5-8abe-61fd70fe1320",
-      "auto": true
+      "id": "13d486c7-e762-44c5-8abe-61fd70fe1320"
      }
     ]
    },
@@ -622,8 +617,7 @@
     },
     {
      "name": "Yokohama",
-     "id": "654ffe51-fcd9-4e7c-a9aa-3ddfd20513ef",
-     "auto": true
+     "id": "654ffe51-fcd9-4e7c-a9aa-3ddfd20513ef"
     }
    ],
    "featuring": [],
@@ -655,8 +649,7 @@
    "places": [
     {
      "name": "킨텍스",
-     "id": "b36f89dc-adb9-4cfe-809e-818c5b877716",
-     "auto": true
+     "id": "b36f89dc-adb9-4cfe-809e-818c5b877716"
     }
    ],
    "featuring": [],
@@ -696,8 +689,7 @@
    "places": [
     {
      "name": "킨텍스",
-     "id": "b36f89dc-adb9-4cfe-809e-818c5b877716",
-     "auto": true
+     "id": "b36f89dc-adb9-4cfe-809e-818c5b877716"
     }
    ],
    "featuring": [],
@@ -737,8 +729,7 @@
    "places": [
     {
      "name": "킨텍스",
-     "id": "b36f89dc-adb9-4cfe-809e-818c5b877716",
-     "auto": true
+     "id": "b36f89dc-adb9-4cfe-809e-818c5b877716"
     }
    ],
    "featuring": [],
@@ -789,8 +780,7 @@
     },
     {
      "name": "수원시",
-     "id": "b6c6844b-c377-48bb-9322-a4f29b7bbc80",
-     "auto": true
+     "id": "b6c6844b-c377-48bb-9322-a4f29b7bbc80"
     }
    ],
    "featuring": [],
@@ -970,8 +960,7 @@
    "places": [
     {
      "name": "幕張メッセ",
-     "id": "7c6d6467-f39f-43fa-a633-faec5749738f",
-     "auto": true
+     "id": "7c6d6467-f39f-43fa-a633-faec5749738f"
     }
    ],
    "featuring": [],
@@ -1057,8 +1046,7 @@
     },
     {
      "name": "Fukuoka",
-     "id": "705cdc9c-4eb7-4361-a688-9d0615fcd659",
-     "auto": true
+     "id": "705cdc9c-4eb7-4361-a688-9d0615fcd659"
     }
    ],
    "featuring": [],
@@ -1298,8 +1286,7 @@
     "orgs": [
      {
       "name": "SSG 랜더스",
-      "id": "c8672b42-b442-4130-9af2-e30dd10d56f7",
-      "auto": true
+      "id": "c8672b42-b442-4130-9af2-e30dd10d56f7"
      }
     ]
    },
@@ -1419,8 +1406,7 @@
     },
     {
      "name": "Shibuya",
-     "id": "f806642e-6f83-41f8-9616-76bea624023f",
-     "auto": true
+     "id": "f806642e-6f83-41f8-9616-76bea624023f"
     }
    ],
    "featuring": [
@@ -1892,8 +1878,7 @@
     "orgs": [
      {
       "name": "월스트리트저널",
-      "id": "657c9640-d713-4458-956b-4415244fed03",
-      "auto": true
+      "id": "657c9640-d713-4458-956b-4415244fed03"
      },
      {
       "name": "Tesla",
@@ -2715,7 +2700,8 @@
       "name": "BBC Radio 1",
       "id": "824da589-ba0f-41cb-b7ad-888503dcdc03"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-26 · NME · https://www.nme.com/news/music/bbc-radio-1s-big-weekend-2027-set-to-take-place-in-brighton-3977061"
    },
    "url": "https://www.bbc.co.uk/news/articles/cr1ewjpgd2llo",
    "source": "뉴스",
@@ -3506,7 +3492,8 @@
    "other_fields": {
     "sources": [
      "https://sports.donga.com/ent/article/all/20261126/135093135/1"
-    ]
+    ],
+    "related_coverage": "2026-11-27 · SBS · https://news.sbs.co.kr/news/endPage.do?news_id=N1008865906&plink=ORI&cooper=ETC"
    },
    "url": "https://sports.donga.com/ent/article/all/20261126/135093135/1",
    "source": "뉴스",
@@ -4451,8 +4438,7 @@
     },
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [],
@@ -4584,8 +4570,7 @@
     "orgs": [
      {
       "name": "국민의힘",
-      "id": "73223290-920b-403e-be26-e5107d0b30b4",
-      "auto": true
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      },
      {
       "name": "더불어민주당",
@@ -4696,8 +4681,7 @@
     },
     {
      "name": "홍대입구역",
-     "id": "6c763284-a861-41aa-8ea5-dc8acadc1e40",
-     "auto": true
+     "id": "6c763284-a861-41aa-8ea5-dc8acadc1e40"
     }
    ],
    "featuring": [
@@ -4815,15 +4799,13 @@
    "places": [
     {
      "name": "용산구",
-     "id": "a4707cca-1300-4554-b621-58140e635c51",
-     "auto": true
+     "id": "a4707cca-1300-4554-b621-58140e635c51"
     }
    ],
    "featuring": [
     {
      "name": "강신철",
-     "id": "84950c25-3231-43fd-aa36-3c04e11da475",
-     "auto": true
+     "id": null
     }
    ],
    "other_fields": {
@@ -4976,8 +4958,7 @@
      },
      {
       "name": "전국학교비정규직연대회의",
-      "id": "02bda8d4-df07-4ffd-aba3-b7d398ad501e",
-      "auto": true
+      "id": "02bda8d4-df07-4ffd-aba3-b7d398ad501e"
      }
     ]
    },
@@ -5016,8 +4997,7 @@
     "orgs": [
      {
       "name": "교육부",
-      "id": "3856f802-843e-4b5a-8959-49739f0c2be0",
-      "auto": true
+      "id": "3856f802-843e-4b5a-8959-49739f0c2be0"
      }
     ]
    },
@@ -5329,8 +5309,7 @@
    "featuring": [
     {
      "name": "김성주",
-     "id": "21c4c158-f4e4-43e5-b199-26687349313f",
-     "auto": true
+     "id": null
     },
     {
      "name": "빈대인",
@@ -5486,13 +5465,11 @@
     "orgs": [
      {
       "name": "더불어민주당",
-      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2",
-      "auto": true
+      "id": "ad10c0cf-7884-490a-82b1-feb9d72682c2"
      },
      {
       "name": "국민의힘",
-      "id": "73223290-920b-403e-be26-e5107d0b30b4",
-      "auto": true
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      }
     ]
    },
@@ -5550,8 +5527,7 @@
     },
     {
      "name": "신림동",
-     "id": "df922c60-1ec5-4255-9ddd-e673c28d9d7d",
-     "auto": true
+     "id": "df922c60-1ec5-4255-9ddd-e673c28d9d7d"
     }
    ],
    "featuring": [],
@@ -5612,8 +5588,7 @@
     },
     {
      "name": "김종민",
-     "id": "e2bcea72-ecec-4dfc-920c-6749803cdbd0",
-     "auto": true
+     "id": null
     },
     {
      "name": "박준성",
@@ -5659,8 +5634,7 @@
     "orgs": [
      {
       "name": "교육부",
-      "id": "3856f802-843e-4b5a-8959-49739f0c2be0",
-      "auto": true
+      "id": "3856f802-843e-4b5a-8959-49739f0c2be0"
      }
     ]
    },
@@ -5774,8 +5748,7 @@
     "orgs": [
      {
       "name": "공정거래위원회",
-      "id": "d167f235-4b5e-4948-8434-dbdc25f353a9",
-      "auto": true
+      "id": "d167f235-4b5e-4948-8434-dbdc25f353a9"
      },
      {
       "name": "애플코리아",
@@ -5806,8 +5779,7 @@
    "places": [
     {
      "name": "하안동",
-     "id": "628093bc-ce87-43cc-a20e-f33afd99e790",
-     "auto": true
+     "id": "628093bc-ce87-43cc-a20e-f33afd99e790"
     }
    ],
    "featuring": [],
@@ -5910,8 +5882,7 @@
    "places": [
     {
      "name": "구월동",
-     "id": "0d188568-0e98-4a9e-a7f1-ec4d97e5550a",
-     "auto": true
+     "id": "0d188568-0e98-4a9e-a7f1-ec4d97e5550a"
     }
    ],
    "featuring": [],
@@ -5962,8 +5933,7 @@
     "orgs": [
      {
       "name": "KBO",
-      "id": "0b37e75a-34df-481c-b8ff-fb388cf95abe",
-      "auto": true
+      "id": "0b37e75a-34df-481c-b8ff-fb388cf95abe"
      }
     ]
    },
@@ -6212,8 +6182,7 @@
     },
     {
      "name": "신동욱",
-     "id": "6f5b39c6-76fa-4b37-aa0c-a3b472b39976",
-     "auto": true
+     "id": null
     },
     {
      "name": "조광한",
@@ -6265,8 +6234,7 @@
    "places": [
     {
      "name": "서울특별시",
-     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
-     "auto": true
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     }
    ],
    "featuring": [
@@ -6428,8 +6396,7 @@
      },
      {
       "name": "개인정보보호위원회",
-      "id": "1571bb4f-7c39-4332-b2d9-cb410ea8c485",
-      "auto": true
+      "id": "1571bb4f-7c39-4332-b2d9-cb410ea8c485"
      }
     ]
    },
@@ -6463,8 +6430,7 @@
     "orgs": [
      {
       "name": "국토교통부",
-      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5",
-      "auto": true
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
      }
     ]
    },
@@ -6503,8 +6469,7 @@
     "orgs": [
      {
       "name": "국토교통부",
-      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5",
-      "auto": true
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
      }
     ]
    },
@@ -6576,8 +6541,7 @@
     "orgs": [
      {
       "name": "국가인권위원회",
-      "id": "ecdebb11-0e3f-4d42-bd83-322f84804b72",
-      "auto": true
+      "id": "ecdebb11-0e3f-4d42-bd83-322f84804b72"
      }
     ]
    },
@@ -6647,8 +6611,7 @@
     "orgs": [
      {
       "name": "고용노동부",
-      "id": "5da9afa2-5ac4-478d-b9af-97e1f04a4604",
-      "auto": true
+      "id": "5da9afa2-5ac4-478d-b9af-97e1f04a4604"
      },
      {
       "name": "HD현대삼호",
@@ -6686,8 +6649,7 @@
     "orgs": [
      {
       "name": "금융위원회",
-      "id": "25b4b535-b461-49ec-a97a-86a911508b6c",
-      "auto": true
+      "id": "25b4b535-b461-49ec-a97a-86a911508b6c"
      },
      {
       "name": "우리금융저축은행",
@@ -6695,8 +6657,7 @@
      },
      {
       "name": "우리은행",
-      "id": "d536d1e7-6fba-472f-858b-44d399892517",
-      "auto": true
+      "id": "d536d1e7-6fba-472f-858b-44d399892517"
      }
     ]
    },
@@ -6730,13 +6691,11 @@
     "orgs": [
      {
       "name": "금융위원회",
-      "id": "25b4b535-b461-49ec-a97a-86a911508b6c",
-      "auto": true
+      "id": "25b4b535-b461-49ec-a97a-86a911508b6c"
      },
      {
       "name": "한국산업은행",
-      "id": "58d58eab-e581-4078-a98e-aa60f98586c1",
-      "auto": true
+      "id": "58d58eab-e581-4078-a98e-aa60f98586c1"
      }
     ]
    },
@@ -6769,8 +6728,7 @@
     "orgs": [
      {
       "name": "기상청",
-      "id": "2ef2fec2-f294-4d28-9930-424f0fab9a09",
-      "auto": true
+      "id": "2ef2fec2-f294-4d28-9930-424f0fab9a09"
      }
     ]
    },
@@ -6839,8 +6797,7 @@
     },
     {
      "name": "송파구",
-     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7",
-     "auto": true
+     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7"
     }
    ],
    "featuring": [
@@ -6861,8 +6818,7 @@
     "orgs": [
      {
       "name": "두산 베어스",
-      "id": "5ff6b5f0-0c80-4866-b476-5dc2fb024e1a",
-      "auto": true
+      "id": "5ff6b5f0-0c80-4866-b476-5dc2fb024e1a"
      }
     ]
    },
@@ -7092,8 +7048,7 @@
     "orgs": [
      {
       "name": "대법원",
-      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "auto": true
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      },
      {
       "name": "부산광역시교육청",
@@ -7101,8 +7056,7 @@
      },
      {
       "name": "전국교직원노동조합",
-      "id": "ddc7a4b6-76a9-4d89-b4a7-7949d4863bca",
-      "auto": true
+      "id": "ddc7a4b6-76a9-4d89-b4a7-7949d4863bca"
      }
     ]
    },
@@ -7136,7 +7090,8 @@
    "other_fields": {
     "sources": [
      "https://www.joongang.co.kr/article/25482323"
-    ]
+    ],
+    "related_coverage": "2026-11-27 · 노컷뉴스 · https://www.nocutnews.co.kr/news/6613579"
    },
    "url": "https://www.joongang.co.kr/article/25482323",
    "source": "뉴스",
@@ -7464,8 +7419,7 @@
     "orgs": [
      {
       "name": "국토교통부",
-      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5",
-      "auto": true
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
      }
     ]
    },
@@ -7631,13 +7585,11 @@
     "orgs": [
      {
       "name": "고용노동부",
-      "id": "5da9afa2-5ac4-478d-b9af-97e1f04a4604",
-      "auto": true
+      "id": "5da9afa2-5ac4-478d-b9af-97e1f04a4604"
      },
      {
       "name": "삼성물산",
-      "id": "d9a105f0-42f2-4370-9e41-82c908bf6ad7",
-      "auto": true
+      "id": "d9a105f0-42f2-4370-9e41-82c908bf6ad7"
      },
      {
       "name": "SK에코플랜트",
@@ -7794,8 +7746,7 @@
     },
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [],
@@ -7827,8 +7778,7 @@
    "places": [
     {
      "name": "신진항",
-     "id": "f59a5bef-15f0-4d2f-b396-3e0412626cbe",
-     "auto": true
+     "id": "f59a5bef-15f0-4d2f-b396-3e0412626cbe"
     }
    ],
    "featuring": [],
@@ -7904,8 +7854,7 @@
     "orgs": [
      {
       "name": "기후에너지환경부",
-      "id": "f8d379b2-0380-4a0c-a376-be4336dca932",
-      "auto": true
+      "id": "f8d379b2-0380-4a0c-a376-be4336dca932"
      }
     ]
    },
@@ -7938,8 +7887,7 @@
     "orgs": [
      {
       "name": "한국부동산원",
-      "id": "0ed743b0-7cc9-49c7-842e-9da3ab9b216d",
-      "auto": true
+      "id": "0ed743b0-7cc9-49c7-842e-9da3ab9b216d"
      }
     ]
    },
@@ -8145,8 +8093,7 @@
     "orgs": [
      {
       "name": "대법원",
-      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "auto": true
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      }
     ]
    },
@@ -8177,8 +8124,7 @@
     },
     {
      "name": "대전광역시",
-     "id": "128cb9fc-75dd-4f2f-941b-f0357e5c88d6",
-     "auto": true
+     "id": "128cb9fc-75dd-4f2f-941b-f0357e5c88d6"
     }
    ],
    "featuring": [],
@@ -8193,7 +8139,8 @@
       "name": "롯데쇼핑",
       "id": "23d6ecb8-f626-4dd0-89b5-c20ed5601224"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-27 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724197"
    },
    "url": "https://www.yna.co.kr/view/AKR20261126172151063",
    "source": "뉴스",
@@ -8353,8 +8300,7 @@
     },
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [
@@ -8830,28 +8776,23 @@
    "featuring": [
     {
      "name": "빅뱅",
-     "id": "960784fe-1a1d-4a78-95e2-8fca2689b4b7",
-     "auto": true
+     "id": "960784fe-1a1d-4a78-95e2-8fca2689b4b7"
     },
     {
      "name": "LE SSERAFIM",
-     "id": "8a9fbca5-86cc-4c69-87fb-ef9fa0dd0b33",
-     "auto": true
+     "id": "8a9fbca5-86cc-4c69-87fb-ef9fa0dd0b33"
     },
     {
      "name": "RIIZE",
-     "id": "58109d90-407d-4ed4-818e-a39a08047cea",
-     "auto": true
+     "id": "58109d90-407d-4ed4-818e-a39a08047cea"
     },
     {
      "name": "Stray Kids",
-     "id": "828c9e14-c56e-4e35-97d0-63b0c51f77b3",
-     "auto": true
+     "id": "828c9e14-c56e-4e35-97d0-63b0c51f77b3"
     },
     {
      "name": "ITZY",
-     "id": "9ce3e091-8357-4900-92e2-2f2ab03933c5",
-     "auto": true
+     "id": "9ce3e091-8357-4900-92e2-2f2ab03933c5"
     },
     {
      "name": "리센느 RESCENE",
@@ -9564,8 +9505,7 @@
     },
     {
      "name": "정성호",
-     "id": "f7aa8592-7fb9-43b9-9e83-9af9f99ace08",
-     "auto": true
+     "id": null
     },
     {
      "name": "김민석",
@@ -9787,8 +9727,7 @@
     },
     {
      "name": "Milano",
-     "id": "f9ba7f2b-1d63-4e1f-8486-0a8662bbe1b9",
-     "auto": true
+     "id": "f9ba7f2b-1d63-4e1f-8486-0a8662bbe1b9"
     }
    ],
    "featuring": [
@@ -10033,8 +9972,7 @@
    "places": [
     {
      "name": "프라카농",
-     "id": "e3427092-fd03-4685-bd40-356b7c4ab66c",
-     "auto": true
+     "id": "e3427092-fd03-4685-bd40-356b7c4ab66c"
     }
    ],
    "featuring": [],
@@ -10048,7 +9986,8 @@
       "name": "Bangchak Corporation",
       "id": "84b37db2-930d-4ba3-9a6b-d097ad9d2ade"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-27 · 씬짜오베트남 · https://chaovietnam.co.kr/195693/\n2026-11-27 · 재경일보 · https://news.jkn.co.kr/post/1125808\n2026-11-27 · 뉴스21 · https://www.news21tongsin.co.kr/news/311354"
    },
    "url": "https://www.yna.co.kr/view/AKR20261126187400084",
    "source": "뉴스",
@@ -10094,13 +10033,11 @@
      },
      {
       "name": "공정거래위원회",
-      "id": "d167f235-4b5e-4948-8434-dbdc25f353a9",
-      "auto": true
+      "id": "d167f235-4b5e-4948-8434-dbdc25f353a9"
      },
      {
       "name": "개인정보보호위원회",
-      "id": "1571bb4f-7c39-4332-b2d9-cb410ea8c485",
-      "auto": true
+      "id": "1571bb4f-7c39-4332-b2d9-cb410ea8c485"
      }
     ]
    },
@@ -10184,8 +10121,7 @@
    "featuring": [
     {
      "name": "이정현",
-     "id": "db3f1c75-4211-446e-bb65-4a2f70ab43c7",
-     "auto": true
+     "id": null
     },
     {
      "name": "박철우",
@@ -10323,8 +10259,7 @@
     "orgs": [
      {
       "name": "국가데이터처",
-      "id": "c8d8e685-45e8-45a4-8108-8e922c080445",
-      "auto": true
+      "id": "c8d8e685-45e8-45a4-8108-8e922c080445"
      }
     ]
    },
@@ -10893,8 +10828,7 @@
     },
     {
      "name": "Japan",
-     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
-     "auto": true
+     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e"
     }
    ],
    "featuring": [
@@ -10986,8 +10920,7 @@
     "orgs": [
      {
       "name": "산업통상부",
-      "id": "8370c3d8-9066-414e-a263-77190e0ffe09",
-      "auto": true
+      "id": "8370c3d8-9066-414e-a263-77190e0ffe09"
      }
     ]
    },
@@ -11255,13 +11188,11 @@
    "places": [
     {
      "name": "광진구",
-     "id": "f22c280f-8e1b-4fc0-b277-e4b1b023f7f3",
-     "auto": true
+     "id": "f22c280f-8e1b-4fc0-b277-e4b1b023f7f3"
     },
     {
      "name": "영등포구",
-     "id": "d8253a12-cdca-4362-9ffb-d7e5fed374da",
-     "auto": true
+     "id": "d8253a12-cdca-4362-9ffb-d7e5fed374da"
     }
    ],
    "featuring": [
@@ -11280,8 +11211,7 @@
     "orgs": [
      {
       "name": "한국부동산원",
-      "id": "0ed743b0-7cc9-49c7-842e-9da3ab9b216d",
-      "auto": true
+      "id": "0ed743b0-7cc9-49c7-842e-9da3ab9b216d"
      }
     ]
    },
@@ -11403,8 +11333,7 @@
     "orgs": [
      {
       "name": "한국토지주택공사",
-      "id": "15b536d2-98f7-4e23-a951-d9f3582c5d7b",
-      "auto": true
+      "id": "15b536d2-98f7-4e23-a951-d9f3582c5d7b"
      }
     ]
    },
@@ -11431,13 +11360,11 @@
    "places": [
     {
      "name": "마포구",
-     "id": "e5305c1e-512c-4cd6-92c2-91d41f063f69",
-     "auto": true
+     "id": "e5305c1e-512c-4cd6-92c2-91d41f063f69"
     },
     {
      "name": "영등포구",
-     "id": "d8253a12-cdca-4362-9ffb-d7e5fed374da",
-     "auto": true
+     "id": "d8253a12-cdca-4362-9ffb-d7e5fed374da"
     },
     {
      "name": "성동구",
@@ -11670,8 +11597,7 @@
     },
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     }
    ],
    "featuring": [],
@@ -11925,8 +11851,7 @@
    "places": [
     {
      "name": "지도읍",
-     "id": "97825ccf-9a1b-433f-88d3-c5c0a560f966",
-     "auto": true
+     "id": "97825ccf-9a1b-433f-88d3-c5c0a560f966"
     },
     {
      "name": "전남광주통합특별시",
@@ -12359,8 +12284,7 @@
    "places": [
     {
      "name": "광사동",
-     "id": "3d6d4909-caa7-4cc7-bd58-d2c9b23204a1",
-     "auto": true
+     "id": "3d6d4909-caa7-4cc7-bd58-d2c9b23204a1"
     }
    ],
    "featuring": [
@@ -12419,8 +12343,7 @@
     "orgs": [
      {
       "name": "해양수산부",
-      "id": "5ed4d347-4872-4220-863e-1a9adfd65d1e",
-      "auto": true
+      "id": "5ed4d347-4872-4220-863e-1a9adfd65d1e"
      },
      {
       "name": "서해어업관리단",
@@ -12703,8 +12626,7 @@
    "places": [
     {
      "name": "전북특별자치도",
-     "id": "e74a1b2d-575f-4ae0-9b4e-f65deabc7cb2",
-     "auto": true
+     "id": "e74a1b2d-575f-4ae0-9b4e-f65deabc7cb2"
     }
    ],
    "featuring": [
@@ -12748,8 +12670,7 @@
    "places": [
     {
      "name": "영국",
-     "id": "860abe36-6554-419a-9021-7be14c191ffa",
-     "auto": true
+     "id": "860abe36-6554-419a-9021-7be14c191ffa"
     }
    ],
    "featuring": [
@@ -12936,8 +12857,7 @@
     "orgs": [
      {
       "name": "재정경제부",
-      "id": "df685817-a564-47ef-a755-2a10bcce9833",
-      "auto": true
+      "id": "df685817-a564-47ef-a755-2a10bcce9833"
      },
      {
       "name": "국세청",
@@ -12968,8 +12888,7 @@
    "places": [
     {
      "name": "소양면",
-     "id": "d7b36fa0-b20b-4a28-9cbe-4e8b66210ad6",
-     "auto": true
+     "id": "d7b36fa0-b20b-4a28-9cbe-4e8b66210ad6"
     },
     {
      "name": "완주군",
@@ -13123,8 +13042,7 @@
      },
      {
       "name": "전국학교비정규직연대회의",
-      "id": "02bda8d4-df07-4ffd-aba3-b7d398ad501e",
-      "auto": true
+      "id": "02bda8d4-df07-4ffd-aba3-b7d398ad501e"
      }
     ]
    },
@@ -13535,8 +13453,7 @@
     "orgs": [
      {
       "name": "대법원",
-      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "auto": true
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      }
     ]
    },
@@ -13569,8 +13486,7 @@
     "orgs": [
      {
       "name": "행정안전부",
-      "id": "b5a53446-9a45-4206-9482-17699beca2f9",
-      "auto": true
+      "id": "b5a53446-9a45-4206-9482-17699beca2f9"
      }
     ]
    },
@@ -13668,8 +13584,7 @@
    "places": [
     {
      "name": "진동면",
-     "id": "6e37b6ce-a874-4fca-8682-0ec98abf2596",
-     "auto": true
+     "id": "6e37b6ce-a874-4fca-8682-0ec98abf2596"
     },
     {
      "name": "광암항",
@@ -13728,8 +13643,7 @@
     "orgs": [
      {
       "name": "보건복지부",
-      "id": "6014a6ab-1921-4649-a803-9a2f76477322",
-      "auto": true
+      "id": "6014a6ab-1921-4649-a803-9a2f76477322"
      },
      {
       "name": "한국보건의료인국가시험원",
@@ -13737,8 +13651,7 @@
      },
      {
       "name": "국민의힘",
-      "id": "73223290-920b-403e-be26-e5107d0b30b4",
-      "auto": true
+      "id": "73223290-920b-403e-be26-e5107d0b30b4"
      }
     ]
    },
@@ -13954,8 +13867,7 @@
    "places": [
     {
      "name": "은평구",
-     "id": "6cad348d-07a7-4947-ba2d-b16c993ec29d",
-     "auto": true
+     "id": "6cad348d-07a7-4947-ba2d-b16c993ec29d"
     }
    ],
    "featuring": [
@@ -13971,13 +13883,11 @@
     "orgs": [
      {
       "name": "한국토지주택공사",
-      "id": "15b536d2-98f7-4e23-a951-d9f3582c5d7b",
-      "auto": true
+      "id": "15b536d2-98f7-4e23-a951-d9f3582c5d7b"
      },
      {
       "name": "국토교통부",
-      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5",
-      "auto": true
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
      }
     ]
    },
@@ -14114,8 +14024,7 @@
    "places": [
     {
      "name": "서울특별시",
-     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2",
-     "auto": true
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
     }
    ],
    "featuring": [
@@ -14180,8 +14089,7 @@
     },
     {
      "name": "Rome",
-     "id": "3f217f90-04f9-413f-9428-c0dd158fdab1",
-     "auto": true
+     "id": "3f217f90-04f9-413f-9428-c0dd158fdab1"
     }
    ],
    "featuring": [
@@ -14225,8 +14133,7 @@
    "places": [
     {
      "name": "대한상공회의소",
-     "id": "7ffb8fdf-6174-4afc-81db-7c902bad0ccb",
-     "auto": true
+     "id": "7ffb8fdf-6174-4afc-81db-7c902bad0ccb"
     }
    ],
    "featuring": [],
@@ -14238,8 +14145,7 @@
     "orgs": [
      {
       "name": "과학기술정보통신부",
-      "id": "ea7b40a9-cc36-4df1-9b63-b84ef28f956b",
-      "auto": true
+      "id": "ea7b40a9-cc36-4df1-9b63-b84ef28f956b"
      },
      {
       "name": "SK텔레콤",
@@ -14315,8 +14221,7 @@
     },
     {
      "name": "고잔동",
-     "id": "ef60eb65-64ad-407b-bb94-30e8ade578e6",
-     "auto": true
+     "id": "ef60eb65-64ad-407b-bb94-30e8ade578e6"
     }
    ],
    "featuring": [],
@@ -14390,8 +14295,7 @@
    "places": [
     {
      "name": "검단구",
-     "id": "6820ce94-dca3-4d99-9da0-e5a30c2578c4",
-     "auto": true
+     "id": "6820ce94-dca3-4d99-9da0-e5a30c2578c4"
     },
     {
      "name": "서해구",
@@ -14558,8 +14462,7 @@
    "places": [
     {
      "name": "세종로",
-     "id": "eaf46a17-96a2-4ab6-9146-7d5c9e70866b",
-     "auto": true
+     "id": "eaf46a17-96a2-4ab6-9146-7d5c9e70866b"
     }
    ],
    "featuring": [
@@ -14625,8 +14528,7 @@
     "orgs": [
      {
       "name": "금융위원회",
-      "id": "25b4b535-b461-49ec-a97a-86a911508b6c",
-      "auto": true
+      "id": "25b4b535-b461-49ec-a97a-86a911508b6c"
      },
      {
       "name": "메리츠금융지주",
@@ -14895,8 +14797,7 @@
     "orgs": [
      {
       "name": "전국학교비정규직연대회의",
-      "id": "02bda8d4-df07-4ffd-aba3-b7d398ad501e",
-      "auto": true
+      "id": "02bda8d4-df07-4ffd-aba3-b7d398ad501e"
      },
      {
       "name": "전북특별자치도교육청",
@@ -15089,7 +14990,8 @@
       "name": "두오버엔터테인먼트",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-27 · SBS · https://news.sbs.co.kr/news/endPage.do?news_id=N1008865907"
    },
    "url": "https://sports.donga.com/ent/article/all/20261126/135096282/1",
    "source": "뉴스",
@@ -15301,8 +15203,7 @@
     },
     {
      "name": "군외면",
-     "id": "4f9a09f3-4b3e-4a83-9e73-e3b4a5d22264",
-     "auto": true
+     "id": "4f9a09f3-4b3e-4a83-9e73-e3b4a5d22264"
     }
    ],
    "featuring": [],
@@ -15509,8 +15410,7 @@
    "places": [
     {
      "name": "산후안",
-     "id": "6b16789a-287c-4063-87a9-ccf48bdc5e70",
-     "auto": true
+     "id": null
     },
     {
      "name": "호세 미겔 아그렐로트 콜리세움",
@@ -15851,7 +15751,8 @@
       "name": "청해부대",
       "id": "2be1b38e-5dff-43df-89ae-a2a7a4f5ad29"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-26 · 미디어펜 · https://www.mediapen.com/news/view/1140470"
    },
    "url": "https://www.yna.co.kr/view/AKR20261126151900504",
    "source": "뉴스",
@@ -15995,7 +15896,8 @@
       "name": "AP",
       "id": null
      }
-    ]
+    ],
+    "related_coverage": "2026-11-27 · YTN · https://www.ytn.co.kr/_ln/0104_202611271101484544"
    },
    "url": "https://www.yna.co.kr/view/AKR20261126147000009",
    "source": "뉴스",
@@ -16044,8 +15946,7 @@
      },
      {
       "name": "삼성전자",
-      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6",
-      "auto": true
+      "id": "e0d7c013-beb1-427d-9073-1cb7535b24f6"
      }
     ]
    },
@@ -16146,8 +16047,7 @@
    "places": [
     {
      "name": "북면",
-     "id": "79e0d570-1c5f-4e97-8346-080574620a42",
-     "auto": true
+     "id": "79e0d570-1c5f-4e97-8346-080574620a42"
     }
    ],
    "featuring": [],
@@ -16246,8 +16146,7 @@
    "places": [
     {
      "name": "Shanghai",
-     "id": "86593309-64b6-4880-92d7-d5eeb20c0c5f",
-     "auto": true
+     "id": "86593309-64b6-4880-92d7-d5eeb20c0c5f"
     }
    ],
    "featuring": [
@@ -16356,7 +16255,8 @@
       "name": "한국철도공사",
       "id": "29bd0946-e4f3-4bdc-9a67-55f202a8bb3f"
      }
-    ]
+    ],
+    "related_coverage": "2026-11-27 · YTN · https://www.ytn.co.kr/_ln/0134_202611271106200379\n2026-11-27 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724235\n2026-11-26 · KBS · https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724192"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723502",
    "source": "뉴스",
@@ -16385,8 +16285,7 @@
     },
     {
      "name": "Japan",
-     "id": "fc380ab7-ad0d-445d-9d1c-84cc2634ad9e",
-     "auto": true
+     "id": null
     }
    ],
    "featuring": [],
@@ -16491,8 +16390,7 @@
    "places": [
     {
      "name": "Makuhari Messe",
-     "id": "7c6d6467-f39f-43fa-a633-faec5749738f",
-     "auto": true
+     "id": "7c6d6467-f39f-43fa-a633-faec5749738f"
     }
    ],
    "featuring": [],
@@ -16576,8 +16474,7 @@
    "places": [
     {
      "name": "제주대학교병원",
-     "id": "e0387a6f-3f2e-4459-92b0-6c1383c062f9",
-     "auto": true
+     "id": "e0387a6f-3f2e-4459-92b0-6c1383c062f9"
     }
    ],
    "featuring": [],
@@ -16670,8 +16567,7 @@
    "featuring": [
     {
      "name": "강신철",
-     "id": "84950c25-3231-43fd-aa36-3c04e11da475",
-     "auto": true
+     "id": null
     },
     {
      "name": "진성준",
@@ -16787,8 +16683,7 @@
     },
     {
      "name": "대전광역시",
-     "id": "128cb9fc-75dd-4f2f-941b-f0357e5c88d6",
-     "auto": true
+     "id": "128cb9fc-75dd-4f2f-941b-f0357e5c88d6"
     }
    ],
    "featuring": [
@@ -16910,8 +16805,7 @@
     "orgs": [
      {
       "name": "대법원",
-      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a",
-      "auto": true
+      "id": "fcfe443f-432b-4468-8d04-ef7b05764f8a"
      }
     ]
    },
@@ -16965,8 +16859,7 @@
    "places": [
     {
      "name": "오송읍",
-     "id": "aedd176e-8cba-402c-b939-b4de4a5faca9",
-     "auto": true
+     "id": "aedd176e-8cba-402c-b939-b4de4a5faca9"
     }
    ],
    "featuring": [],
@@ -17097,8 +16990,7 @@
    "places": [
     {
      "name": "Canarias",
-     "id": "dcea6e45-a5f0-4286-9bb7-2c0de57f6c78",
-     "auto": true
+     "id": "dcea6e45-a5f0-4286-9bb7-2c0de57f6c78"
     },
     {
      "name": "엘이에로",
@@ -17141,8 +17033,7 @@
    "places": [
     {
      "name": "Cairo",
-     "id": "4a4975a3-f4af-4113-8814-a7e8ba1efce1",
-     "auto": true
+     "id": "4a4975a3-f4af-4113-8814-a7e8ba1efce1"
     },
     {
      "name": "Giza",
@@ -17281,8 +17172,7 @@
    "places": [
     {
      "name": "코엑스",
-     "id": "717449f8-cd33-4560-be13-20821178bb8d",
-     "auto": true
+     "id": "717449f8-cd33-4560-be13-20821178bb8d"
     }
    ],
    "featuring": [],
@@ -17319,8 +17209,7 @@
     },
     {
      "name": "용산구",
-     "id": "a4707cca-1300-4554-b621-58140e635c51",
-     "auto": true
+     "id": "a4707cca-1300-4554-b621-58140e635c51"
     }
    ],
    "featuring": [],
@@ -17414,8 +17303,7 @@
     "orgs": [
      {
       "name": "한국거래소",
-      "id": "6580fc70-ffcf-4a90-900a-fe09ccf32080",
-      "auto": true
+      "id": "6580fc70-ffcf-4a90-900a-fe09ccf32080"
      },
      {
       "name": "삼성전자",
@@ -17456,8 +17344,7 @@
     "orgs": [
      {
       "name": "과학기술정보통신부",
-      "id": "ea7b40a9-cc36-4df1-9b63-b84ef28f956b",
-      "auto": true
+      "id": "ea7b40a9-cc36-4df1-9b63-b84ef28f956b"
      }
     ]
    },
@@ -17653,7 +17540,8 @@
      "https://sports.donga.com/ent/article/all/20261126/135093246/1",
      "https://www.yna.co.kr/view/AKR20261126121900005",
      "https://www.newsis.com/view/NISX20261126_0003884921"
-    ]
+    ],
+    "related_coverage": "2026-11-27 · 노컷뉴스 · https://www.nocutnews.co.kr/news/6613669"
    },
    "url": "https://sports.donga.com/ent/article/all/20261126/135093246/1",
    "source": "뉴스",
@@ -17784,8 +17672,7 @@
    "places": [
     {
      "name": "봉평면",
-     "id": "07062c49-3f9c-4aca-80a2-c0fae232fd2b",
-     "auto": true
+     "id": "07062c49-3f9c-4aca-80a2-c0fae232fd2b"
     },
     {
      "name": "평창군",
@@ -18137,7 +18024,8 @@
      "https://www.yna.co.kr/view/AKR20261126070600002",
      "https://www.newsis.com/view/NISX20261126_0003884156",
      "https://news.kbs.co.kr/news/view.do?ncd=8723782&ref=DA"
-    ]
+    ],
+    "related_coverage": "2026-11-27 · KBS · https://news.kbs.co.kr/news/view.do?ncd=8724048&ref=DA\n2026-11-27 · YTN · https://www.ytn.co.kr/_ln/0102_202611270646462205"
    },
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723067",
    "source": "뉴스",
@@ -18208,8 +18096,7 @@
    "places": [
     {
      "name": "Tokyo",
-     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca",
-     "auto": true
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
     },
     {
      "name": "KKR호텔",
@@ -18360,8 +18247,7 @@
    "places": [
     {
      "name": "서격렬비도",
-     "id": "82b3b706-3dab-4f2c-9161-e57eb2d348fa",
-     "auto": true
+     "id": "82b3b706-3dab-4f2c-9161-e57eb2d348fa"
     }
    ],
    "featuring": [],
@@ -18406,8 +18292,7 @@
     },
     {
      "name": "진해구",
-     "id": "11094c27-6626-44b6-9ff1-6ec381263355",
-     "auto": true
+     "id": "11094c27-6626-44b6-9ff1-6ec381263355"
     }
    ],
    "featuring": [],
@@ -18486,13 +18371,11 @@
     "orgs": [
      {
       "name": "행정안전부",
-      "id": "b5a53446-9a45-4206-9482-17699beca2f9",
-      "auto": true
+      "id": "b5a53446-9a45-4206-9482-17699beca2f9"
      },
      {
       "name": "기후에너지환경부",
-      "id": "f8d379b2-0380-4a0c-a376-be4336dca932",
-      "auto": true
+      "id": "f8d379b2-0380-4a0c-a376-be4336dca932"
      }
     ]
    },
@@ -18523,8 +18406,7 @@
     },
     {
      "name": "송파구",
-     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7",
-     "auto": true
+     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7"
     }
    ],
    "featuring": [
@@ -18546,8 +18428,7 @@
     "orgs": [
      {
       "name": "SSG 랜더스",
-      "id": "c8672b42-b442-4130-9af2-e30dd10d56f7",
-      "auto": true
+      "id": "c8672b42-b442-4130-9af2-e30dd10d56f7"
      }
     ]
    },
@@ -18793,8 +18674,7 @@
     },
     {
      "name": "Thanh pho Ho Chi Minh",
-     "id": "ae2da21a-9535-4fc6-8a7d-27eb53557d8e",
-     "auto": true
+     "id": "ae2da21a-9535-4fc6-8a7d-27eb53557d8e"
     }
    ],
    "featuring": [],
@@ -18833,23 +18713,19 @@
    "places": [
     {
      "name": "춘천시",
-     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589",
-     "auto": true
+     "id": "4ea645ed-5bae-44d9-8aeb-468b9f0a4589"
     },
     {
      "name": "원주시",
-     "id": "6807b4a6-bdfa-4e1c-b795-106489d96195",
-     "auto": true
+     "id": "6807b4a6-bdfa-4e1c-b795-106489d96195"
     },
     {
      "name": "강릉시",
-     "id": "64985b93-1f47-4d72-9361-ca37a2264f57",
-     "auto": true
+     "id": "64985b93-1f47-4d72-9361-ca37a2264f57"
     },
     {
      "name": "삼척시",
-     "id": "1090b9f5-e66f-4964-b7db-9150fc7e9f20",
-     "auto": true
+     "id": "1090b9f5-e66f-4964-b7db-9150fc7e9f20"
     },
     {
      "name": "서귀포시",
@@ -18984,13 +18860,11 @@
     "orgs": [
      {
       "name": "국토교통부",
-      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5",
-      "auto": true
+      "id": "3ef6d4da-f065-4708-ae43-b87e02bff4f5"
      },
      {
       "name": "한국토지주택공사",
-      "id": "15b536d2-98f7-4e23-a951-d9f3582c5d7b",
-      "auto": true
+      "id": "15b536d2-98f7-4e23-a951-d9f3582c5d7b"
      },
      {
       "name": "삼성전자",
@@ -19113,6 +18987,1181 @@
    "url": "https://www.yna.co.kr/view/AKR20261126086100001",
    "source": "뉴스",
    "added_at": "2026-11-27T03:01:35.019036+00:00"
+  },
+  {
+   "id": "c0d5a337-5795-40c8-8f8b-fdb7daec9fc9",
+   "title": "2024 VIVIZ WORLD TOUR 「V.hind : Love and Tears」",
+   "type": "투어",
+   "date": "2024-06-01",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "데뷔 첫 단독 콘서트이자 첫 월드투어. 서울에서 시작해 4개월간 6개국 27개 도시를 돌고 오사카에서 마침",
+   "why": "2023년 11월 미니 4집 「VERSUS」 타이틀곡 「MANIAC」이 역주행으로 인기를 끈 뒤 연 데뷔 첫 단독 공연",
+   "how": "서울 KBS아레나 2회 → 타이베이 · 방콕 · 홍콩 → 미국 21개 도시 → 요코하마 · 오사카, 모두 28회. 처음 25개 도시 계획에 일본 두 곳을 더함. 미공개 팬송 「Wildflower」를 투어에서 처음 부름",
+   "content": "정식 이름은 「2024 VIVIZ WORLD TOUR [V.hind : Love and Tears]」(2024 비비지 월드투어 [비하인드 : 러브 앤 티어스]). 2022년 2월 재데뷔한 VIVIZ 의 첫 단독 콘서트이자 첫 해외 투어다. 2024년 5월 초 서울 공연을 먼저 알렸고, 방콕은 5월 6일, 일본은 8월 14일에 더해졌다.\n일정(현지 날짜): 6월 1 · 2일 서울 KBS아레나 / 6월 9일 타이베이 TICC / 6월 15일 방콕 MCC Hall 더몰 방캐 / 7월 5일 홍콩 아시아월드엑스포 Runway 11 / 7월 13일 애틀랜타 Alliance Theatre · 14일 샬럿 Dale F. Halton Theater · 16일 워싱턴 D.C. Atlas Performing Arts Center · 17일 필라델피아 Temple Performing Arts Center · 19일 보스턴 Huntington Theatre · 20일 뉴욕 Queens Theatre in the Park · 22일 피츠버그 Kelly Strayhorn Theater · 23일 콜럼버스 The King of Clubs · 25일 디트로이트(폰티액) The Crofoot Ballroom · 27일 루이빌 Art Sanctuary · 28일 내슈빌 Riverside Revival · 30일 인디애나폴리스 Basile Theatre · 31일 시카고 Athenaeum Theatre · 8월 2일 미니애폴리스 Granada Theater · 4일 캔자스시티 Gem Theater · 6일 오클라호마시티 Hudson Performance Hall · 7일 댈러스(코펠) Coppell Arts Center · 8일 샌안토니오 Vibes Event Center · 10일 피닉스 Stage West at Herberger Theater Center · 12일 로스앤젤레스 Downtown Palace Theater · 14일 새너제이 Montgomery Theater / 9월 26일 요코하마 KT Zepp Yokohama · 28일 오사카 Zepp Osaka Bayside.\n서울 · 아시아 공연은 「Untie」 · 「Blue Clue」 · 「Rum Pum Pum」으로 열고 「PULL UP」 · 「환상」 · 「LOVEADE」 · 「MANIAC」 · 「BOP BOP!」과 수록곡, 앵콜 「Up 2 Me」 · 「Fiesta」 · 「Overdrive」로 이어졌다. 미공개 팬송 「Wildflower」(뒤에 정규 1집 수록)를 이 투어에서 처음 불렀고 「MANIAC」 댄스 챌린지 · 사인볼 · 떼창 이벤트가 있었다. 홍콩 공연에선 단체 사진 때 팬들이 깜짝 영상을 틀었다. 미국 · 일본 공연은 곡 수를 줄인 약 1시간 30분 구성이었다(나무위키).\n9월 28일 오사카 공연으로 투어를 마친 뒤 멤버들은 도시를 돌며 관객과 더 가깝게 소통하게 됐다며 연내 새 앨범을 예고했고, 11월 7일 미니 5집 「VOYAGE」를 냈다. 투어 굿즈에서 멤버 캐릭터(은깽 · 신냐앙 · 끄랫서)가 처음 나왔다(나무위키).",
+   "places": [
+    {
+     "name": "KBS아레나",
+     "id": null
+    },
+    {
+     "name": "AsiaWorld-Expo",
+     "id": null
+    },
+    {
+     "name": "강서구",
+     "id": "03a97a88-3ad8-4e73-bbbe-eabe44bd94c0"
+    },
+    {
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
+    },
+    {
+     "name": "Taipei City",
+     "id": "c90a4654-9e44-4805-b0fd-f0d8aad572d0"
+    },
+    {
+     "name": "Bangkok",
+     "id": "2c41ebea-785f-4175-ac3b-d5e8f52b3a2a"
+    },
+    {
+     "name": "Hong Kong",
+     "id": "c7a0c821-1b4a-47ce-bc47-a059ada14ada"
+    },
+    {
+     "name": "United States",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
+    },
+    {
+     "name": "Yokohama",
+     "id": "654ffe51-fcd9-4e7c-a9aa-3ddfd20513ef"
+    },
+    {
+     "name": "Osaka",
+     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "end_date": "2024-09-28",
+    "sources": [
+     "https://www.newsis.com/view/NISX20240601_0002757308",
+     "https://www.newsis.com/view/NISX20240929_0002903438",
+     "https://www.spotvnews.co.kr/news/articleView.html?idxno=690413",
+     "https://www.spotvnews.co.kr/news/articleView.html?idxno=697908",
+     "https://www.asiaworld-expo.com/whats-on/upcoming-events/events/VIVIZ_HK2024",
+     "https://namu.wiki/w/V.hind%20:%20Love%20and%20Tears",
+     "https://namu.wiki/w/VIVIZ",
+     "https://en.wikipedia.org/wiki/List_of_Viviz_live_performances"
+    ],
+    "orgs": [
+     {
+      "name": "빅플래닛메이드엔터",
+      "id": "904df976-8485-49a7-b8d1-2af7399d47be"
+     }
+    ]
+   },
+   "url": "https://www.newsis.com/view/NISX20240929_0002903438",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "040564d9-7a7e-47c2-8e07-1180462e0b37",
+   "title": "2025 VIVIZ WORLD TOUR 「NEW LEGACY」",
+   "type": "투어",
+   "date": "2025-07-05",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "두 번째 월드투어. 서울 올림픽홀에서 시작해 5개월간 8개국 25개 도시를 돌고 시드니에서 마침, 캐나다 · 호주 · 말레이시아는 처음",
+   "why": "첫 월드투어 1년 만에 여는 두 번째 투어. 정규 1집 「A Montage of ( )」 발매(7월 8일)에 앞서 시작",
+   "how": "서울 2회 → 북미 17개 도시(미국 15 · 캐나다 2) → 도쿄 · 오사카 · 홍콩 2회 · 쿠알라룸푸르(페탈링자야) · 타이베이 → 멜버른 · 시드니, 모두 27회. 홍콩은 하루 늘림",
+   "content": "정식 이름은 「2025 VIVIZ WORLD TOUR [NEW LEGACY]」(뉴 레거시). 소속사 빅플래닛메이드엔터가 2025년 5월 28일 서울 · 도쿄 · 오사카 · 홍콩 · 타이베이 · 멜버른 · 시드니 일정을 먼저 알렸고, 7월 29일 북미 17개 도시와 말레이시아를, 8월 13일 홍콩 하루를 더했다. 서울 공연 예매는 6월 11일 선예매 · 13일 일반 예매.\n일정(현지 날짜): 7월 5 · 6일 서울 올림픽홀 / 9월 3일 애틀랜타 Ray Charles Performing Arts Center · 4일 샬럿 Dale F. Halton Theater · 6일 필라델피아 Temple Performing Arts Center · 7일 뉴욕 LaGuardia Performing Arts Center · 9일 보스턴 Cutler Majestic Theatre · 11일 몬트리올 Rialto Theatre · 14일 토론토 Chrysalis Theatre · 16일 콜럼버스 McCoy Center for the Arts · 17일 디트로이트 Michael A. Guido Theater · 18일 시카고 Athenaeum Theatre · 20일 미니애폴리스 Ted Mann Concert Hall · 22일 캔자스시티 Gem Theater · 25일 댈러스(어빙) Irving Arts Center · 26일 휴스턴 Bayou Theater · 28일 샌안토니오 Palo Alto College Performing Arts Center · 30일 피닉스 The Madison Center for the Arts · 10월 2일 로스앤젤레스 Los Angeles Theatre / 10월 9일 도쿄 Zepp Haneda · 11일 오사카 Zepp Namba · 18 · 19일 홍콩 AXA Dreamland(Go Park) · 25일 쿠알라룸푸르권 페탈링자야 Idea Live Arena / 11월 2일 타이베이 TICC · 6일 멜버른 Festival Hall · 9일 시드니 Sydney Town Hall (공연장은 위키백과 · 나무위키 일정표).\n서울 공연에서 7월 8일 나올 정규 1집 타이틀곡 「La La Love Me」와 멤버 솔로곡을 처음 선보였고, 해외 공연은 「Shhh!」로 열어 「BOP BOP!」 · 「#FLASHBACK」 · 「MANIAC」 · 「LOVEADE」 · 「La La Love Me」를 부르며 관객이 이모지를 골라 댄스 챌린지 · 균형 게임을 시키는 「빙고 미션 토크」 코너를 했다. 나무위키에 따르면 캐나다 · 호주 공연은 여자친구 시절을 통틀어 처음이고, 라디오에서 유럽 투어를 내비쳤으나 열리지 않았다.",
+   "places": [
+    {
+     "name": "올림픽홀",
+     "id": "8f906a0c-8202-4258-827c-746506c112a8"
+    },
+    {
+     "name": "송파구",
+     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7"
+    },
+    {
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
+    },
+    {
+     "name": "United States",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
+    },
+    {
+     "name": "Canada",
+     "id": "e3935af8-59b6-4bb1-aaeb-d5189e33db32"
+    },
+    {
+     "name": "Tokyo",
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
+    },
+    {
+     "name": "Osaka",
+     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6"
+    },
+    {
+     "name": "Hong Kong",
+     "id": "c7a0c821-1b4a-47ce-bc47-a059ada14ada"
+    },
+    {
+     "name": "Petaling",
+     "id": "66fcb249-b385-4e84-92bf-c8d58d1b1654"
+    },
+    {
+     "name": "Taipei City",
+     "id": "c90a4654-9e44-4805-b0fd-f0d8aad572d0"
+    },
+    {
+     "name": "Melbourne",
+     "id": "b0758f44-569c-4db0-8f7b-0ff209def967"
+    },
+    {
+     "name": "Sydney",
+     "id": "4877199e-b904-4b71-8c9d-d52e473e2c68"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "end_date": "2025-11-09",
+    "sources": [
+     "https://www.slist.kr/news/articleView.html?idxno=647121",
+     "https://www.sportsworldi.com/newsView/20250707516118",
+     "https://sports.khan.co.kr/article/202510051027003",
+     "http://www.breaknews.com/1152468",
+     "https://www.thestar.com.my/lifestyle/entertainment/2025/09/03/k-pop-girl-group-viviz-to-hold-first-malaysian-concert-in-petaling-jaya-on-oct-25",
+     "https://www.sbs.com.au/language/korean/ko/podcast-episode/k-pop-girl-group-viviz-performs-in-melbourne-and-sydney-in-november/164q52ybb",
+     "https://v.daum.net/v/20251110093413317",
+     "https://namu.wiki/w/NEW%20LEGACY",
+     "https://en.wikipedia.org/wiki/List_of_Viviz_live_performances"
+    ],
+    "orgs": [
+     {
+      "name": "빅플래닛메이드엔터",
+      "id": "904df976-8485-49a7-b8d1-2af7399d47be"
+     }
+    ]
+   },
+   "url": "https://www.slist.kr/news/articleView.html?idxno=647121",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "46c275b9-b54f-4a9e-9ce1-b63cdbbf5494",
+   "title": "2026 15사단 승리 페스티벌 「승리의 밤 콘서트」 출연",
+   "type": "페스티벌 출연",
+   "date": "2026-11-13",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "화천군과 육군 제15보병사단이 사창리에서 연 장병 축제의 둘째 날 저녁 콘서트에 노라조 · 싸이버거와 함께 출연",
+   "why": "화천군 · 15사단이 장병을 위해 마련한 축제. 2022년 27사단 해체로 15사단 본부가 사내면 옛 27사단 자리로 옮겨 오며 올해 행사장이 다목리에서 사창리로 바뀜",
+   "how": "13일 오후 6시 30분 본공연, 오후 6시 양태환밴드 사전 공연. 낮엔 장병 체력 경연 「철인 FIT 챔피언십」, 공연 뒤 「별빛 뮤직 스크린」 · 야시장",
+   "content": "「2026 15사단 승리 페스티벌」은 화천군과 육군 제15보병사단이 강원 화천군 사내면 사창리 사내종합문화센터 주차장 일대에서 11월 12 · 13일 연 장병 축제다. 지난해 다목리에서 열렸던 것을 올해 사창리로 옮겼다.\n둘째 날인 13일은 낮 12시에 시작해 오후 2시 장병 체력 경연 「철인 핏(FIT) 챔피언십」, 오후 6시 양태환밴드 사전 공연, 6시 30분 「승리의 밤 콘서트」 본공연, 8~9시 「별빛 뮤직 스크린」 순이었다. 본공연 출연진은 싸이버거 · 노라조 · 비비지(VIVIZ)였다. 행사장엔 VR 양궁 · 로봇 오목 체험이 있었고 도장 3개를 모으면 5천 원 쿠폰을 줬다.\n아주경제 기사는 출연 팀을 「비비지(VIVIZ)」로 적었다(멤버 이름은 기사에 없음). 같은 날 화천군의회 의원들이 행사에 참석해 유공자 표창을 했다(로컬세계).",
+   "places": [
+    {
+     "name": "사내종합문화센터",
+     "id": null
+    },
+    {
+     "name": "사내면",
+     "id": "1b710daa-9c69-4abe-9c69-4ac94361a031"
+    },
+    {
+     "name": "화천군",
+     "id": "5b4fa651-fdbb-4158-aba6-7a3cfa45a4ce"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "노라조",
+     "id": "25d87fed-4063-4b23-a7a9-954f7989eddf"
+    },
+    {
+     "name": "싸이버거",
+     "id": null
+    },
+    {
+     "name": "양태환밴드",
+     "id": null
+    },
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "sources": [
+     "https://www.ajunews.com/view/20261113094319172",
+     "https://localsegye.co.kr/news/view/1065573554307430"
+    ],
+    "orgs": [
+     {
+      "name": "제15보병사단",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.ajunews.com/view/20261113094319172",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "7a2a6894-44f5-4bd4-980b-17329c7e62e1",
+   "title": "2026 VIVIZ HANGZHOU FANMEETING 「Spring Whisper · 春日寄语」",
+   "type": "팬미팅",
+   "date": "2026-03-28",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "중국 항저우에서 연 팬미팅. 전속계약을 해지한 뒤에도 3월 말까지 잡힌 일정은 다 마치겠다며 선 무대",
+   "why": "빅플래닛메이드와의 전속계약은 3월 4일 해지됐지만 멤버들은 팬에 대한 책임감으로 3월 말까지 예정된 일정을 끝까지 했다고 밝힘",
+   "how": "공식 X 가 3월 28일 「완료」를 알림. 같은 상반기 국내외 다른 팬미팅은 소속사 쪽에서 취소된 것으로 멤버 측이 밝힘. 공연장 · 관객 수는 확인 못 함",
+   "content": "정식 이름은 「2026 VIVIZ HANGZHOU FANMEETING <Spring Whisper · 春日寄语>」. 3월 18일 VIVIZ 유튜브에 포스터 · MD 촬영 영상이 올라왔고, 3월 28일 공식 X 계정이 팬미팅을 마쳤다는 글과 사진을 올렸다.\n4월 8일 멤버 측은 빅플래닛메이드와의 전속계약이 정산금 미지급 등으로 3월 4일 이미 해지됐다고 밝히며, 1월께 새 앨범(EP06)이 일방적으로 취소되고 2026년 상반기 국내 · 해외 팬미팅도 무산됐지만 3월 말까지 예정된 일정은 팬에 대한 책임감으로 모두 마쳤다고 설명했다. 이 항저우 팬미팅이 그 일정 가운데 하나다(나무위키 일정표 · 공식 X).\n공연장 이름 · 회차 · 관객 수는 열어 본 자료에 없어 적지 않았다.",
+   "places": [
+    {
+     "name": "Hangzhou",
+     "id": "3f25821f-6d5f-493b-b951-56d1930da2d3"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "sources": [
+     "https://x.com/VIVIZ_official/status/2037926834688725276",
+     "https://www.osen.co.kr/article/G1112777176",
+     "https://www.youtube.com/watch?v=Bb6ijiQ1v18",
+     "https://namu.wiki/w/VIVIZ/%EA%B3%B5%EC%97%B0%20%EB%B0%8F%20%ED%96%89%EC%82%AC"
+    ]
+   },
+   "url": "https://x.com/VIVIZ_official/status/2037926834688725276",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "dd276c6f-c8fb-4c45-ba94-4ebd7c5c2026",
+   "title": "VIVIZ 첫 팬미팅 「THE 1ST VIVID DAYZ」",
+   "type": "팬미팅",
+   "date": "2022-08-13",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "데뷔 반년 만의 첫 단독 팬미팅을 예스24 라이브홀에서 하루 두 차례 열고 1 · 2집 수록곡 대부분을 무대로 선보임",
+   "why": "2022년 2월 재데뷔 뒤 「퀸덤 2」와 여름 앨범 「Summer Vibe」 활동을 마치고 팬덤 나비(Na.V)와 처음 따로 만나는 자리",
+   "how": "오후 2시 · 7시 2회, 7시 회차는 LG유플러스 아이돌라이브로 생중계. 첫 공식 응원봉 응원. 앵콜은 「퀸덤 2」 파이널 곡 「환상」. 멤버들은 다음엔 콘서트로 만나고 싶다고 함",
+   "content": "정식 이름은 「2022 VIVIZ FANMEETING [THE 1ST VIVID DAYZ]」(2022 비비지 팬미팅 [더 퍼스트 비비드 데이즈])로, 은하 · 신비 · 엄지가 VIVIZ 로 연 첫 팬미팅이다. 2022년 7월 12일 공식 SNS 로 처음 알렸고, 7월 15일 선예매 · 18일 일반 예매를 거쳐 8월 13일 서울 광진구 예스24 라이브홀에서 오후 2시와 7시 두 번 열렸다. 7시 회차는 LG유플러스 아이돌라이브로 생중계되어 해외 팬도 볼 수 있었다.\n무대는 그해 여름 활동곡 「LOVEADE」로 시작해 「Lemonade」 · 「Party Pop」 · 「춤」 · 「거울아」 · 「Love Love Love」 · 「BOP BOP!」 · 「Love You Like」로 이어졌고, 마지막은 Mnet 「퀸덤 2」 파이널에서 부른 「환상」이었다. 사이사이 팬덤 「나비단」 선서식, 큰 젠가 게임, 금칙어 토크, 애장품 선물 코너가 있었고 팬들은 처음 나온 공식 응원봉을 들었다. 나무위키는 공연이 2시간 30분 넘게 이어져 콘서트에 가까웠다고 적었다.\n끝난 뒤 멤버들은 소속사 빅플래닛메이드를 통해 행복한 시간이었다며, 앨범을 더 내서 다음에는 콘서트로 만나고 싶다고 전했다. 이 팬미팅은 이듬해 2~4월 홍콩 · 타이베이 · 마카오 해외 팬미팅으로 이어졌다.",
+   "places": [
+    {
+     "name": "예스24 라이브홀",
+     "id": null
+    },
+    {
+     "name": "광진구",
+     "id": "f22c280f-8e1b-4fc0-b277-e4b1b023f7f3"
+    },
+    {
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "sources": [
+     "https://www.mksports.co.kr/news/entertain/10422353",
+     "https://www.xportsnews.com/article/1603154",
+     "https://edaily.co.kr/News/Read?mediaCodeNo=258&newsId=01164406632394192",
+     "https://namu.wiki/w/THE%201ST%20VIVID%20DAYZ"
+    ],
+    "orgs": [
+     {
+      "name": "빅플래닛메이드엔터",
+      "id": "904df976-8485-49a7-b8d1-2af7399d47be"
+     },
+     {
+      "name": "LG유플러스",
+      "id": "ec555fc5-7ddf-4f41-91b4-28d5dda8b1c7"
+     }
+    ]
+   },
+   "url": "https://www.mksports.co.kr/news/entertain/10422353",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "ed57be99-1aa7-481f-b8d1-09adf6adb91a",
+   "title": "「2026 의정부 푸른별콘서트」 출연",
+   "type": "페스티벌 출연",
+   "date": "2026-11-26",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "의정부시가 수능 끝난 청소년을 위해 연 25회 푸른별콘서트에 은하·신비·엄지 이름으로 올라 2천여 관객 앞에서 공연",
+   "why": "입시 · 학업에 지친 고3 수험생 등 청소년이 부담을 내려놓고 또래와 쉬도록 의정부시가 해마다 여는 청소년 공연. 올해 주제는 'FILL THE BEAT'",
+   "how": "신한대 K.I.C · 팝페라 한가영 · 청소년 댄스팀 로우즈 · 페이드 크루에 이어 무대에 서자 객석이 크게 환호. 래퍼 블랙나인 · 마린도 출연, 사회 손헌수",
+   "content": "■ 행사\n· 이름: 2026 푸른별콘서트(경인일보 1면 사진 기사는 「2026 의정부 푸른별콘서트」). 주제 'FILL THE BEAT', 올해 25회째(경인일보 · 아시아경제 · 뉴스핌 · 국제뉴스). 의정부도시교육재단 예고 보도자료(11-20 기사)는 「2026년 제5회 청소년 푸른별 콘서트」라고 적어 회차 표기가 다르다.\n· 때: 2026년 11월 26일(목) 오후. 시작 시각은 읽은 기사에 없다.\n· 곳: 경기도 의정부시 호원동 신한대학교 의정부캠퍼스 체육관.\n· 주최 의정부시, 공동 주관 의정부도시교육재단 · 경인일보.\n· 관객: 고3 수험생 등 청소년과 학부모 2천여 명이 객석을 채움.\n· 사회: 방송인 손헌수. 김원기 의정부시장, 홍정표 경인일보 대표이사, 조세일 의정부시의회 의장, 강성종 신한대 총장이 참석.\n\n■ 무대 순서(경인일보 본문 기준)\n1. 신한대 K-POP학과 그룹 K.I.C(첫 무대)\n2. 팝페라 가수 한가영\n3. 경기북부 청소년 댄스동아리 로우즈(창작 무대와 K팝 곡 무대)\n4. 힙합댄스 동아리 페이드 크루(이날 처음 출연, 해외 힙합곡 리믹스)\n5. 은하·신비·엄지 — 2015년 여자친구로 데뷔한 뒤 셋이 다시 뭉친 팀으로 소개됨. 무대에 오르자 관객이 크게 환호\n· 래퍼 블랙나인 · 마린도 이날 출연(순서는 기사에 없음)\n\n■ 은하·신비·엄지 무대 곡(현장 직캠 영상의 타임라인 기준 — 기사에는 곡명이 없다)\n1. Shhh! (쉿)\n— 멘트\n2. La La Love Me (라라럽미)\n3. 환상 (Red Sun!)\n4. BOP BOP! (밥밥)\n5. MANIAC (매니악)\n멤버들이 무대에서 한 말은 읽은 기사에 실려 있지 않다.\n\n■ 이름 · 소속\n· 기사 본문은 이들을 「비비지」가 아니라 「은하·신비·엄지」로 적었다. 팬 직캠 제목도 「구 비비지」라고 붙였다.\n· 세 사람은 10월 5일 언코어와 전속계약을 맺었다. 전 소속사 빅플래닛메이드엔터와 '비비지' 팀명 사용 합의가 안 돼 새 팀명도 검토 중이라고 언코어가 밝혔다(10월 기사). 10월 26일 연 새 공식 계정은 세 사람 이름을 합친 'EUNHA SINB UMJI'(ehsbuj_official)다.\n\n■ 시장 · 주관사 말(요지)\n· 김원기 시장: 수능을 마친 고3을 격려하며, 결과와 상관없이 그동안의 노력은 그 자체로 값지고 오늘만큼은 걱정을 내려놓고 즐기며 추억으로 남기길 바란다는 뜻을 전함. 청소년을 미래 문화의 주역이라 부르며 시가 든든한 동반자가 되겠다고 함.\n· 홍정표 경인일보 대표이사: 청소년의 가능성을 말하며 이 자리에서 에너지를 다시 채우길 바란다고 함.",
+   "places": [
+    {
+     "name": "신한대학교 의정부캠퍼스",
+     "id": null
+    },
+    {
+     "name": "의정부시",
+     "id": "a84dad5f-96d8-4ee7-b176-aa4dc218a511"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "블랙나인",
+     "id": null
+    },
+    {
+     "name": "마린",
+     "id": null
+    },
+    {
+     "name": "한가영",
+     "id": null
+    },
+    {
+     "name": "손헌수",
+     "id": null
+    },
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "sources": [
+     "https://www.kyeongin.com/article/1775519",
+     "https://www.kyeongin.com/article/1775496",
+     "https://view.asiae.co.kr/article/2026112710522499982",
+     "https://www.newspim.com/news/view/20261127000283",
+     "https://www.gukjenews.com/news/articleView.html?idxno=3765042",
+     "https://www.kdsnnews.kr/59891",
+     "https://www.gukjenews.com/news/articleView.html?idxno=3758189",
+     "http://www.nbnnews.co.kr/news/articleView.html?idxno=1071843",
+     "https://www.youtube.com/watch?v=9j1P8Ck2thY",
+     "https://www.sportsworldi.com/newsView/20261005505105",
+     "https://isplus.com/article/view/isp202610260198",
+     "https://www.instagram.com/ehsbuj_official/"
+    ],
+    "orgs": [
+     {
+      "name": "의정부도시교육재단",
+      "id": null
+     },
+     {
+      "name": "경인일보",
+      "id": null
+     }
+    ]
+   },
+   "url": "https://www.kyeongin.com/article/1775519",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "21667f94-2378-4bab-99d5-dec9c97c3d56",
+   "title": "「NEW LEGACY」 북미 투어 — 미국 15개 · 캐나다 2개 도시",
+   "type": "경과",
+   "date": "2025-09-03",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "첫 미주 투어 1년 만에 다시 북미로 가 애틀랜타부터 로스앤젤레스까지 한 달간 17개 도시 공연, 캐나다는 처음",
+   "why": "7월 29일 북미 일정을 투어에 추가",
+   "how": "9월 3일 애틀랜타 시작, 몬트리올 · 토론토 포함, 10월 2일 Los Angeles Theatre 에서 마침. 신곡 「La La Love Me」를 넣었고 관객이 직접 참여하는 「빙고 미션 토크」 코너를 함",
+   "content": "2025년 9월 3일(현지) 애틀랜타 공연으로 「NEW LEGACY」 북미 일정이 시작됐다. 2024년 첫 미주 투어 뒤 약 1년 만의 미국 무대다.\n도시 순서: 애틀랜타 → 샬럿 → 필라델피아 → 뉴욕 → 보스턴 → 몬트리올 → 토론토 → 콜럼버스 → 디트로이트 → 시카고 → 미니애폴리스 → 캔자스시티 → 댈러스 → 휴스턴 → 샌안토니오 → 피닉스 → 로스앤젤레스(10월 2일, Los Angeles Theatre). 나무위키에 따르면 토론토는 9월 11일 공지로 공연장이 바뀌었다.\n「Shhh!」로 열어 「BOP BOP!」 · 「#FLASHBACK」 · 「MANIAC」 · 「LOVEADE」와 7월에 낸 「La La Love Me」를 불렀고, 「빙고 미션 토크」 코너로 현지 팬과 놀았다. 소속사는 10월 4일 북미 투어를 마쳤다고 알리며 10월 9일 도쿄부터 아시아 · 호주 일정을 이어 간다고 했다.",
+   "places": [
+    {
+     "name": "Irving",
+     "id": null
+    },
+    {
+     "name": "Los Angeles Theatre",
+     "id": null
+    },
+    {
+     "name": "Atlanta",
+     "id": "914b2c58-a610-4913-9c65-35240eec01da"
+    },
+    {
+     "name": "Charlotte",
+     "id": "9b6b810b-7db1-44b7-9d68-51c8dc0eb8af"
+    },
+    {
+     "name": "Philadelphia County",
+     "id": "1a217382-df38-40f5-b895-d1ee3a0e683c"
+    },
+    {
+     "name": "New York City",
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20"
+    },
+    {
+     "name": "Boston",
+     "id": "bd644b1a-1328-40b4-b393-1c81822db8ba"
+    },
+    {
+     "name": "Montreal",
+     "id": "c13b16b1-69b6-4afa-ace9-dc74a1fab7d9"
+    },
+    {
+     "name": "Toronto",
+     "id": "63f4b8ec-e043-4090-853d-ad75f520b07a"
+    },
+    {
+     "name": "Columbus",
+     "id": "55c790fd-a9b9-4853-a882-710e8609f976"
+    },
+    {
+     "name": "Detroit",
+     "id": "120798b6-aac5-44dd-a48a-c9bc99d1396e"
+    },
+    {
+     "name": "Chicago",
+     "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7"
+    },
+    {
+     "name": "Minneapolis",
+     "id": "0daa1665-1a61-4bcf-9fb9-18ee29addddd"
+    },
+    {
+     "name": "Kansas City",
+     "id": "059be83f-b972-40e4-a58a-9515b7f13a50"
+    },
+    {
+     "name": "Houston",
+     "id": "69df350d-a9f6-462d-9875-2873922c90ee"
+    },
+    {
+     "name": "San Antonio",
+     "id": "64215b64-f646-4295-9c04-b4d6b42013a6"
+    },
+    {
+     "name": "Phoenix",
+     "id": "2ab063ce-a911-444d-acce-f376057e5a82"
+    },
+    {
+     "name": "Los Angeles",
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
+    },
+    {
+     "name": "United States",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
+    },
+    {
+     "name": "Canada",
+     "id": "e3935af8-59b6-4bb1-aaeb-d5189e33db32"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "prev_record": "7e0f7514-8e27-4daf-9d22-35567e9f7070",
+    "sources": [
+     "https://sports.khan.co.kr/article/202510051027003",
+     "http://www.breaknews.com/1152468",
+     "https://namu.wiki/w/NEW%20LEGACY",
+     "https://en.wikipedia.org/wiki/List_of_Viviz_live_performances"
+    ],
+    "orgs": [
+     {
+      "name": "빅플래닛메이드엔터",
+      "id": "904df976-8485-49a7-b8d1-2af7399d47be"
+     }
+    ]
+   },
+   "url": "https://sports.khan.co.kr/article/202510051027003",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "7e0f7514-8e27-4daf-9d22-35567e9f7070",
+   "title": "「NEW LEGACY」 서울 공연 — 정규 1집 신곡 첫 무대",
+   "type": "경과",
+   "date": "2025-07-05",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "올림픽홀 이틀 공연으로 두 번째 월드투어를 열고, 사흘 뒤 낼 정규 1집 타이틀곡 「La La Love Me」 무대를 처음 공개",
+   "why": "정규 1집 「A Montage of ( )」 발매(7월 8일)가 늦어져 콘서트를 먼저 열게 됨(나무위키, 엠카운트다운 발언)",
+   "how": "7월 5 · 6일 2회. 신비 「Hipnotic」 · 엄지 「Love Language」 · 은하 「Milky Way」 솔로 무대와 록 편곡 「MANIAC」. 나무위키 기준 러닝타임 약 2시간 30분",
+   "content": "2025년 7월 5일과 6일 서울 송파구 올림픽공원 올림픽홀에서 「2025 VIVIZ WORLD TOUR [NEW LEGACY]」 서울 공연을 열었다. 두 번째 월드투어의 시작이다.\n7월 8일 나올 첫 정규 앨범 「A Montage of ( )」 타이틀곡 「La La Love Me」 무대를 이 공연에서 처음 보였고, 신비 「Hipnotic」 · 엄지 「Love Language」 · 은하 「Milky Way」 솔로 무대를 선보였다. 「MANIAC」은 록 버전으로 바꿔 불렀다. 멤버들은 VIVIZ 의 정체성을 새길 공연을 준비했다고 했고, 앵콜에서 팬들에게 받은 힘으로 열심히 활동하겠다고 했다.\n나무위키에 따르면 첫 곡은 「Shhh!」 편곡 버전, 마지막은 「한 걸음」이었고 「Cliché」도 처음 공개됐다. 팬 드레스코드는 첫날 회색 · 둘째 날 분홍. 첫날 신비의 근육 경련으로 순서가 바뀌고 조금 늦어졌으며, 이틀 동안 세븐틴 승관 · 여자친구 예린 · 퍼포먼스 디렉터 카니 등이 관람했다.",
+   "places": [
+    {
+     "name": "올림픽홀",
+     "id": "8f906a0c-8202-4258-827c-746506c112a8"
+    },
+    {
+     "name": "송파구",
+     "id": "88a3f6f3-65d4-4ca4-8264-385bca0031d7"
+    },
+    {
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "prev_record": "040564d9-7a7e-47c2-8e07-1180462e0b37",
+    "sources": [
+     "https://www.sportsworldi.com/newsView/20250707516118",
+     "https://www.slist.kr/news/articleView.html?idxno=647121",
+     "https://namu.wiki/w/NEW%20LEGACY"
+    ],
+    "orgs": [
+     {
+      "name": "빅플래닛메이드엔터",
+      "id": "904df976-8485-49a7-b8d1-2af7399d47be"
+     }
+    ]
+   },
+   "url": "https://www.sportsworldi.com/newsView/20250707516118",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "c2d49841-38d1-4766-bdd3-28f66c10423d",
+   "title": "「NEW LEGACY」 아시아 공연 — 도쿄 · 오사카 · 홍콩 · 말레이시아 · 타이베이",
+   "type": "경과",
+   "date": "2025-10-09",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "북미에 이어 도쿄 · 오사카 · 홍콩 2회 · 말레이시아 첫 공연 · 타이베이로 아시아를 돈 뒤 호주로 넘어감",
+   "why": null,
+   "how": "10월 9일 Zepp Haneda, 11일 Zepp Namba, 18 · 19일 홍콩 AXA Dreamland, 25일 페탈링자야 Idea Live Arena(말레이시아 첫 공연, 표 RM338~738), 11월 2일 타이베이 TICC",
+   "content": "북미 일정을 마친 「NEW LEGACY」는 2025년 10월 9일 도쿄 Zepp Haneda, 11일 오사카 Zepp Namba로 아시아 일정을 시작했다. 홍콩은 처음 10월 18일 하루였으나 8월 13일 공지로 19일 공연을 더해 AXA Dreamland(Go Park)에서 이틀 열었다(나무위키 · 위키백과).\n10월 25일에는 셀랑고르주 페탈링자야 Idea Live Arena에서 VIVIZ 의 첫 말레이시아 공연을 열었다. 말레이시아 더스타에 따르면 표는 RM338~738로 팬 특전이 붙었고 9월 4일 낮 12시 BookMyShow 등에서 팔기 시작했다. 11월 2일 타이베이 TICC(타이베이 국제 컨벤션 센터)가 아시아 마지막 무대였고, 투어는 호주로 이어졌다.",
+   "places": [
+    {
+     "name": "Zepp Haneda",
+     "id": null
+    },
+    {
+     "name": "Zepp Namba",
+     "id": null
+    },
+    {
+     "name": "AXA Dreamland",
+     "id": null
+    },
+    {
+     "name": "Idea Live Arena",
+     "id": null
+    },
+    {
+     "name": "Tokyo",
+     "id": "e7efda87-9377-4f0e-983f-aa4a5d42b2ca"
+    },
+    {
+     "name": "Osaka",
+     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6"
+    },
+    {
+     "name": "Hong Kong",
+     "id": "c7a0c821-1b4a-47ce-bc47-a059ada14ada"
+    },
+    {
+     "name": "Petaling",
+     "id": "66fcb249-b385-4e84-92bf-c8d58d1b1654"
+    },
+    {
+     "name": "Taipei City",
+     "id": "c90a4654-9e44-4805-b0fd-f0d8aad572d0"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "prev_record": "21667f94-2378-4bab-99d5-dec9c97c3d56",
+    "sources": [
+     "https://www.thestar.com.my/lifestyle/entertainment/2025/09/03/k-pop-girl-group-viviz-to-hold-first-malaysian-concert-in-petaling-jaya-on-oct-25",
+     "https://sports.khan.co.kr/article/202510051027003",
+     "https://www.slist.kr/news/articleView.html?idxno=647121",
+     "https://namu.wiki/w/NEW%20LEGACY",
+     "https://en.wikipedia.org/wiki/List_of_Viviz_live_performances"
+    ],
+    "orgs": [
+     {
+      "name": "빅플래닛메이드엔터",
+      "id": "904df976-8485-49a7-b8d1-2af7399d47be"
+     }
+    ]
+   },
+   "url": "https://www.thestar.com.my/lifestyle/entertainment/2025/09/03/k-pop-girl-group-viviz-to-hold-first-malaysian-concert-in-petaling-jaya-on-oct-25",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "37895cd0-34f5-42ce-8860-a2e5d4591e20",
+   "title": "「NEW LEGACY」 호주 공연 — 멜버른 · 시드니로 두 번째 월드투어 마무리",
+   "type": "경과",
+   "date": "2025-11-06",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "호주 첫 단독 공연인 멜버른 · 시드니 무대로 5개월 8개국 25개 도시의 두 번째 월드투어를 마침",
+   "why": "첫 월드투어 때 가지 않았던 호주를 이번 투어에 처음 넣음",
+   "how": "11월 6일 멜버른 Festival Hall, 9일 시드니 Sydney Town Hall. 멜버른 선예매 때 접속이 몰려 예매 사이트가 멈췄다는 후문. 멤버들은 여러 나라에서 받은 사랑으로 컸다고 함",
+   "content": "2025년 11월 6일 멜버른 Festival Hall, 9일 시드니 Sydney Town Hall 공연으로 「NEW LEGACY」가 끝났다. SBS 한국어 방송은 VIVIZ 의 호주 첫 단독 콘서트라고 소개했고, 멜버른 사전 판매 때 접속이 몰려 예매 사이트가 먹통이 됐다는 말이 돌았다고 전했다.\n소속사 빅플래닛메이드엔터는 7월 서울 올림픽홀을 시작으로 아시아 · 북미 · 오세아니아 8개국 25개 도시를 5개월 동안 돌았다고 정리했다. 투어 공연은 「Shhh!」로 열고 「La La Love Me」 등을 불렀으며, 팬이 이모지를 골라 댄스 챌린지 · 균형 게임을 시키는 빙고 코너가 있었다. 신비는 다섯 달 동안 나라마다 나비를 만나 행복했다고, 엄지는 여러 나라에서 받은 사랑과 힘으로 성장했다고, 은하는 정말 즐겁고 행복했다며 곧 다시 보자고 했다.",
+   "places": [
+    {
+     "name": "Festival Hall",
+     "id": null
+    },
+    {
+     "name": "Sydney Town Hall",
+     "id": null
+    },
+    {
+     "name": "Melbourne",
+     "id": "b0758f44-569c-4db0-8f7b-0ff209def967"
+    },
+    {
+     "name": "Sydney",
+     "id": "4877199e-b904-4b71-8c9d-d52e473e2c68"
+    },
+    {
+     "name": "Australia",
+     "id": "c4bff90c-cf18-4fcc-bf8f-2a4b9ef5fa2c"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "prev_record": "c2d49841-38d1-4766-bdd3-28f66c10423d",
+    "sources": [
+     "https://v.daum.net/v/20251110093413317",
+     "https://www.sbs.com.au/language/korean/ko/podcast-episode/k-pop-girl-group-viviz-performs-in-melbourne-and-sydney-in-november/164q52ybb",
+     "https://namu.wiki/w/NEW%20LEGACY",
+     "https://en.wikipedia.org/wiki/List_of_Viviz_live_performances"
+    ],
+    "orgs": [
+     {
+      "name": "빅플래닛메이드엔터",
+      "id": "904df976-8485-49a7-b8d1-2af7399d47be"
+     }
+    ]
+   },
+   "url": "https://v.daum.net/v/20251110093413317",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "56d2f264-ffe8-4328-8417-887b36c21e99",
+   "title": "「THE 1ST VIVID DAYZ」 아시아 팬미팅 투어 — 홍콩 · 타이베이 · 마카오",
+   "type": "경과",
+   "date": "2023-02-25",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "서울 첫 팬미팅을 해외로 넓혀 홍콩 KITEC 에서 첫 해외 단독 팬미팅을 열고 타이베이 · 마카오로 이어감, 자카르타는 취소",
+   "why": "2022년 8월 서울 팬미팅에 이은 첫 해외 단독 팬미팅 투어",
+   "how": "홍콩(2월 25일, KITEC Rotunda 3) · 타이베이(3월 19일, 국립대만대 체육관) · 마카오(4월 15일, The Parisian Theatre). 3월 4일 자카르타는 현지 사정으로 취소. 홍콩에선 미니 3집 「PULL UP」 등을 부름",
+   "content": "2022년 서울에서 연 「THE 1ST VIVID DAYZ」를 아시아로 넓힌 팬미팅 투어로, 공연 이름은 도시마다 「2023 THE 1ST VIVID DAYZ in HONG KONG」처럼 붙었다. VIVIZ 의 첫 단독 해외 팬미팅이다.\n첫 도시 홍콩은 2023년 2월 25일(현지) KITEC 로툰다 3(Rotunda 3)에서 열렸다. 오프닝 「LOVEADE」에 이어 「BOP BOP!」 · 「Party Pop」 · 「거울아」 · 「Love Love Love」 · 「Love You Like」, 1월에 낸 미니 3집 타이틀곡 「PULL UP」과 수록곡 「Vanilla Sugar Killer」를 불렀고 마지막은 「환상」이었다. 나비 「월드와이드 워크숍」 선서식, 2022년 활동 낱말을 몸으로 설명하는 게임, 「VIVIZ 의 2023년 그려보기」 코너가 있었다. 홍콩 매체 HK01 은 객석이 가득 찼고, 신비가 다음엔 콘서트로 홍콩에 오겠다고 약속했다고 전했다. 홍콩 콘서트는 이듬해 2024년 7월 5일 첫 월드투어에서 열렸다.\n나무위키 일정표에 따르면 3월 4일 자카르타(Sutera Hall)는 현지 사정으로 취소되었고, 3월 19일 타이베이 국립대만대학교 체육관(NTU Sports Center) 1층, 4월 15일 마카오 The Parisian Theatre 공연으로 투어를 마쳤다.",
+   "places": [
+    {
+     "name": "KITEC Rotunda 3",
+     "id": null
+    },
+    {
+     "name": "NTU Sports Center",
+     "id": null
+    },
+    {
+     "name": "The Parisian Theatre",
+     "id": null
+    },
+    {
+     "name": "Hong Kong",
+     "id": "c7a0c821-1b4a-47ce-bc47-a059ada14ada"
+    },
+    {
+     "name": "Taipei City",
+     "id": "c90a4654-9e44-4805-b0fd-f0d8aad572d0"
+    },
+    {
+     "name": "Macao",
+     "id": "1faa0ce2-7786-499d-a513-858d073c23bb"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "prev_record": "dd276c6f-c8fb-4c45-ba94-4ebd7c5c2026",
+    "sources": [
+     "https://sports.khan.co.kr/article/202302271927003",
+     "https://www.hk01.com/article/871379",
+     "https://namu.wiki/w/THE%201ST%20VIVID%20DAYZ",
+     "https://namu.wiki/w/VIVIZ/%EA%B3%B5%EC%97%B0%20%EB%B0%8F%20%ED%96%89%EC%82%AC"
+    ],
+    "orgs": [
+     {
+      "name": "빅플래닛메이드엔터",
+      "id": "904df976-8485-49a7-b8d1-2af7399d47be"
+     }
+    ]
+   },
+   "url": "https://sports.khan.co.kr/article/202302271927003",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "9a6cc85c-e7b9-4a24-b66d-2bd7556dd97f",
+   "title": "「V.hind : Love and Tears」 미주 투어 21개 도시",
+   "type": "경과",
+   "date": "2024-07-13",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "애틀랜타를 시작으로 한 달여간 미국 21개 도시를 도는 데뷔 첫 미주 투어를 열고 새너제이에서 마침",
+   "why": "첫 월드투어의 미주 일정. 아시아 투어를 7월 5일 홍콩에서 마친 뒤 이어감",
+   "how": "7월 11일 출국, 13일 애틀랜타 Alliance Theatre에서 시작해 8월 14일 새너제이 Montgomery Theater까지 21회. 뽑기 미션 「갓챠 미션」 코너, 팬들이 무대 의상을 따라 입고 옴",
+   "content": "2024년 7월 13일(현지) 애틀랜타 Alliance Theatre 공연으로 VIVIZ 의 데뷔 첫 미주 투어가 시작됐다. 7월 11일 인천공항으로 출국했고, 14일 샬럿 Dale F. Halton Theater로 이어졌다.\n도시 순서: 애틀랜타 → 샬럿 → 워싱턴 D.C. → 필라델피아 → 보스턴 → 뉴욕 → 피츠버그 → 콜럼버스 → 디트로이트 → 루이빌 → 내슈빌 → 인디애나폴리스 → 시카고 → 미니애폴리스 → 캔자스시티 → 오클라호마시티 → 댈러스 → 샌안토니오 → 피닉스 → 로스앤젤레스 → 새너제이(8월 14일, Montgomery Theater). 한 달 남짓에 21회다.\n「Untie」 · 「Blue Clue」로 열어 「PULL UP」 · 「#FLASHBACK」 · 「환상」 · 「Love Love Love」 · 「Overflow」 · 「Love or Die」 · 「MANIAC」 · 「BOP BOP!」과 팬송 「Wildflower」를 불렀고, 뽑은 미션을 하는 「갓챠 미션」으로 팬과 놀았다. 나무위키는 미국 공연이 약 1시간 30분으로 줄었고, 영어가 능숙한 엄지가 말을 많이 맡았으며, 보스턴 공연부터 도시마다 관객과 정한 해시태그를 사진에 붙였다고 적었다.\n엄지는 첫 공연 뒤 팬들 덕분에 성장했고 이번 공연은 그 모습을 보여 주는 자리라고 했다. 끝난 뒤 멤버들은 팬들이 무대 의상을 똑같이 입고 와 놀랐고, 오래 기다린 미국 나비를 만나 소중했다고 전했다. 이 일정 중 일본 공연이 더해져 투어가 27개 도시로 늘었다.",
+   "places": [
+    {
+     "name": "Alliance Theatre",
+     "id": null
+    },
+    {
+     "name": "Coppell",
+     "id": null
+    },
+    {
+     "name": "Montgomery Theater",
+     "id": null
+    },
+    {
+     "name": "Atlanta",
+     "id": "914b2c58-a610-4913-9c65-35240eec01da"
+    },
+    {
+     "name": "Charlotte",
+     "id": "9b6b810b-7db1-44b7-9d68-51c8dc0eb8af"
+    },
+    {
+     "name": "District of Columbia",
+     "id": "41345941-4a4c-4df0-b74a-fb2ddb82706a"
+    },
+    {
+     "name": "Philadelphia County",
+     "id": "1a217382-df38-40f5-b895-d1ee3a0e683c"
+    },
+    {
+     "name": "Boston",
+     "id": "bd644b1a-1328-40b4-b393-1c81822db8ba"
+    },
+    {
+     "name": "New York City",
+     "id": "f02579db-1fc5-4376-995f-1ecc94a86a20"
+    },
+    {
+     "name": "Pittsburgh",
+     "id": "fe371b53-aa8d-4dbd-9621-ac36c39b38b3"
+    },
+    {
+     "name": "Columbus",
+     "id": "55c790fd-a9b9-4853-a882-710e8609f976"
+    },
+    {
+     "name": "Oakland County",
+     "id": "6f25e74c-6c01-4e07-995e-02ffc516f5c8"
+    },
+    {
+     "name": "Jefferson County",
+     "id": "4fff39d1-fe6f-488a-936d-a73475326d05"
+    },
+    {
+     "name": "Davidson County",
+     "id": "616be355-292c-44a5-a81e-87f7dd693ff6"
+    },
+    {
+     "name": "Marion County",
+     "id": "8e2ac1dd-a954-4d68-8335-d699de42a7de"
+    },
+    {
+     "name": "Chicago",
+     "id": "10ed5ae5-ecf4-43cb-9da3-3f4870ff52e7"
+    },
+    {
+     "name": "Minneapolis",
+     "id": "0daa1665-1a61-4bcf-9fb9-18ee29addddd"
+    },
+    {
+     "name": "Kansas City",
+     "id": "059be83f-b972-40e4-a58a-9515b7f13a50"
+    },
+    {
+     "name": "Oklahoma City",
+     "id": "02e15feb-39c8-4b02-9f14-eb563247606d"
+    },
+    {
+     "name": "San Antonio",
+     "id": "64215b64-f646-4295-9c04-b4d6b42013a6"
+    },
+    {
+     "name": "Phoenix",
+     "id": "2ab063ce-a911-444d-acce-f376057e5a82"
+    },
+    {
+     "name": "Los Angeles",
+     "id": "42cb7203-8358-4fd0-b9ad-4f8f2a2360d6"
+    },
+    {
+     "name": "San Jose",
+     "id": "1a500b41-ff22-4167-bcff-399fc7384ef5"
+    },
+    {
+     "name": "United States",
+     "id": "701995af-5ddd-4c45-ace1-65f35d106d58"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "prev_record": "3b2dd0a7-0de0-4734-a693-d204c68c4ad6",
+    "sources": [
+     "https://www.spotvnews.co.kr/news/articleView.html?idxno=691899",
+     "https://www.spotvnews.co.kr/news/articleView.html?idxno=698455",
+     "https://www.spotvnews.co.kr/news/articleView.html?idxno=690413",
+     "https://namu.wiki/w/V.hind%20:%20Love%20and%20Tears",
+     "https://en.wikipedia.org/wiki/List_of_Viviz_live_performances"
+    ],
+    "orgs": [
+     {
+      "name": "빅플래닛메이드엔터",
+      "id": "904df976-8485-49a7-b8d1-2af7399d47be"
+     }
+    ]
+   },
+   "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=691899",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "3b2dd0a7-0de0-4734-a693-d204c68c4ad6",
+   "title": "「V.hind : Love and Tears」 서울 공연 — 데뷔 첫 단독 콘서트",
+   "type": "경과",
+   "date": "2024-06-01",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "월드투어 첫 무대로 서울 KBS아레나에서 이틀 공연. 미공개 팬송 「Wildflower」를 처음 부르고 눈물로 마침",
+   "why": "재데뷔 2년 4개월 만에 처음 여는 단독 콘서트",
+   "how": "6월 1일 오후 6시 · 2일 오후 4시 2회. 나무위키 기준 이틀 다 매진, 두 회 합쳐 약 5천 명. 멤버들은 힘든 날도 팬 사랑으로 버텼다고 말함",
+   "content": "2024년 6월 1일 오후 6시와 2일 오후 4시, 서울 강서구 KBS아레나에서 「2024 VIVIZ WORLD TOUR [V.hind : Love and Tears]」 서울 공연을 열었다. 데뷔 뒤 첫 단독 콘서트로 월드투어의 출발점이다.\n「Untie」 · 「Blue Clue」 · 「Rum Pum Pum」으로 문을 열었고 타이틀곡 「PULL UP」 · 「환상」 · 「LOVEADE」 · 「MANIAC」 · 「BOP BOP!」, 수록곡 「Party Pop」 · 「Love Love Love」 · 「Overflow」, 앵콜 「Up 2 Me」 · 「Fiesta」 · 「Overdrive」를 불렀다. 미공개 팬송 「Wildflower」를 이 자리에서 처음 공개했고, 「MANIAC」 댄스 챌린지 · 사인볼 · 떼창 이벤트를 했다(떼창은 첫날 「환상」, 둘째 날 「늘 지금처럼」 — 나무위키).\n멤버들은 힘든 날도 있었지만 팬들 사랑으로 버티고 자랐다고 했고, 엄지는 세트리스트와 연출을 멤버 · 스태프와 여러 번 회의해 짰다고 밝혔다. 신비는 공연은 끝나도 시간은 이어지니 다시 만나자고 했다.\n나무위키에 따르면 2,200석 공연장(시야 제한석 100여 석 미판매)이 이틀 모두 매진되어 약 5천 명이 봤고, 첫날 여자친구 소원 · 예린 · 유주와 세븐틴 승관이 객석에서 함께 「MANIAC」 챌린지를 췄다. 공연장에서 굿즈 일부를 제때 팔지 못해 인형류는 예약 뒤 배송으로 돌렸다.",
+   "places": [
+    {
+     "name": "KBS아레나",
+     "id": null
+    },
+    {
+     "name": "강서구",
+     "id": "03a97a88-3ad8-4e73-bbbe-eabe44bd94c0"
+    },
+    {
+     "name": "서울특별시",
+     "id": "aa2194a0-e5ff-4435-9fcb-b3413d2b49a2"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "prev_record": "c0d5a337-5795-40c8-8f8b-fdb7daec9fc9",
+    "sources": [
+     "https://sports.khan.co.kr/article/202406040545003",
+     "https://www.newsis.com/view/NISX20240601_0002757308",
+     "https://namu.wiki/w/V.hind%20:%20Love%20and%20Tears"
+    ],
+    "orgs": [
+     {
+      "name": "빅플래닛메이드엔터",
+      "id": "904df976-8485-49a7-b8d1-2af7399d47be"
+     }
+    ]
+   },
+   "url": "https://sports.khan.co.kr/article/202406040545003",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "2e890c83-1117-4423-9655-4c377fffff94",
+   "title": "「V.hind : Love and Tears」 일본 공연 — 요코하마 · 오사카로 첫 월드투어 마무리",
+   "type": "경과",
+   "date": "2024-09-26",
+   "parent": [
+    {
+     "id": "aa17d948-8929-4e7e-8eed-15c31de292a2",
+     "category": "단체",
+     "name": "비비지"
+    }
+   ],
+   "summary": "뒤늦게 더한 일본 두 도시 공연으로 4개월 6개국 27개 도시의 첫 월드투어를 마치고 연내 컴백을 예고",
+   "why": "처음 25개 도시 계획에 8월 14일 일본 요코하마 · 오사카를 추가",
+   "how": "9월 26일 KT Zepp Yokohama, 28일 Zepp Osaka Bayside. 멤버들은 도시를 거듭하며 관객과 더 가깝게 소통하게 됐다며 올해 안에 새 앨범을 내겠다고 함",
+   "content": "소속사 빅플래닛메이드엔터는 2024년 8월 14일 공식 SNS로 일본 공연을 더한다고 알렸다. 9월 26일 요코하마 KT Zepp Yokohama, 28일 오사카 Zepp Osaka Bayside에서 열렸고 이로써 첫 월드투어는 25개 도시에서 27개 도시로 늘었다.\n오사카 공연이 투어 마지막 무대였다. 소속사는 29일 6월 서울을 시작으로 대만 · 태국 · 홍콩 · 미국 · 일본 6개국 27개 도시를 4개월 동안 돌았다고 정리했다. 멤버들은 투어를 준비하던 때의 긴장과 설렘이 아직 생생하다며 도시를 거듭할수록 무대에서 관객과 더 유연하게 소통하게 됐다고 했고, 올해 가기 전 새 앨범으로 인사하겠다고 밝혔다. 실제 미니 5집 「VOYAGE」는 11월 7일 나왔다.\n위키백과 공연 목록은 일본 공연을 VIVIZ 의 일본 첫 단독 공연으로 소개한 음악나탈리 기사를 출처로 단다(그 기사는 열리지 않아 확인 못 함).",
+   "places": [
+    {
+     "name": "KT Zepp Yokohama",
+     "id": null
+    },
+    {
+     "name": "Zepp Osaka Bayside",
+     "id": null
+    },
+    {
+     "name": "Yokohama",
+     "id": "654ffe51-fcd9-4e7c-a9aa-3ddfd20513ef"
+    },
+    {
+     "name": "Osaka",
+     "id": "c8d2cb1c-5e86-424a-96e7-24f59e87e5c6"
+    }
+   ],
+   "featuring": [
+    {
+     "name": "은하",
+     "id": "f3974285-9b25-4aa8-aab4-6c72e354a350"
+    },
+    {
+     "name": "신비",
+     "id": "d2153933-8be3-490a-bc0c-a2cc3b2f3a99"
+    },
+    {
+     "name": "엄지",
+     "id": "9a2b3793-b9da-4b2d-bf93-276293e77ce9"
+    }
+   ],
+   "other_fields": {
+    "prev_record": "9a6cc85c-e7b9-4a24-b66d-2bd7556dd97f",
+    "sources": [
+     "https://www.newsis.com/view/NISX20240929_0002903438",
+     "https://www.spotvnews.co.kr/news/articleView.html?idxno=697908",
+     "https://namu.wiki/w/V.hind%20:%20Love%20and%20Tears",
+     "https://en.wikipedia.org/wiki/List_of_Viviz_live_performances"
+    ],
+    "orgs": [
+     {
+      "name": "빅플래닛메이드엔터",
+      "id": "904df976-8485-49a7-b8d1-2af7399d47be"
+     }
+    ]
+   },
+   "url": "https://www.newsis.com/view/NISX20240929_0002903438",
+   "source": "뉴스",
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
   }
  ],
  "new_planets": [
@@ -22858,6 +23907,12 @@
    "source_url": "https://www.wikidata.org/wiki/Q6912627",
    "links": [
     {
+     "id": "428ac166-c5cf-4d36-80b7-a0b5ff25e076",
+     "category": "작품",
+     "name": "Darwin's Game",
+     "rel": "APPEARED_IN"
+    },
+    {
      "id": "7f7ddefe-0729-4479-a436-0224077e4738",
      "category": "작품",
      "name": "沖縄コンフィデンシャル",
@@ -26324,6 +27379,216 @@
     }
    ],
    "added_at": "2026-11-27T03:01:35.019036+00:00"
+  },
+  {
+   "id": "48fa9dd0-d222-4159-9e48-58af0a11e879",
+   "name": "KBS아레나",
+   "category": "장소",
+   "alias": "KBS 아레나, KBS Arena, KBS아레나홀, 88체육관, KBS 88체육관, KBS스포츠월드 제1체육관",
+   "disambig": "서울 강서구 등촌동의 공연장(KBS스포츠월드 제1체육관, 옛 88체육관)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "문화시설",
+    "name_ko": "KBS아레나",
+    "name_en": "KBS Arena",
+    "address": "서울특별시 강서구 공항대로 376 (등촌동, KBS스포츠월드)",
+    "phone": "02-2600-8808",
+    "capacity": "약 3,000석(고정석 2,200 · 플로어 800)",
+    "opened_date": "2015-11-27",
+    "operator": "주식회사 KBS비즈니스",
+    "restday": "설 · 추석",
+    "website": "https://kbssw.co.kr/",
+    "summary": "1986년 새마을운동중앙협의회 연수원의 「88체육관」으로 지어져 1989년 KBS로 넘어갔고(KBS 88체육관 · 2011년 KBS스포츠월드), 제1체육관을 약 7개월 고쳐 2015-11-27 「뮤직뱅크」 생방송으로 공연장 KBS아레나를 열었다",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/KBS%EC%95%84%EB%A0%88%EB%82%98",
+     "https://www.newdaily.co.kr/site/data/html/2015/11/27/2015112700117.amp.html",
+     "https://www.ktriptips.com/kor/leisure/131326",
+     "https://www.wikidata.org/wiki/Q7398294"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q7398294",
+   "links": [
+    {
+     "id": "de864b98-89fd-4ae9-919e-62bfe134d490",
+     "category": "장소",
+     "name": "등촌동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "25d87fed-4063-4b23-a7a9-954f7989eddf",
+   "name": "노라조",
+   "category": "단체",
+   "alias": "Norazo, NORAZO, 努喇鳥",
+   "disambig": "대한민국의 2인조 남성 음악그룹(조빈 · 원흠)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "org_type": "음악그룹",
+    "group_type": "보이그룹",
+    "name_ko": "노라조",
+    "name_en": "Norazo",
+    "formation_date": "2005-08-02",
+    "members": "조빈(본명 조현준, 리더 · 보컬), 원흠(본명 조원흠, 보컬 · 2018-08-21 합류)",
+    "leader": "조빈",
+    "former_members": "이혁(본명 이재용, 2005-08-02~2017-02-09)",
+    "active_years": "2005–",
+    "sns": "https://x.com/officialNORAZO_, https://www.instagram.com/official.norazo.ig/, https://www.facebook.com/NorazoOfficial, https://www.youtube.com/channel/UC0limtsihPBO4NZf8cylI1Q",
+    "awards": "2009 대한민국문화연예대상 가요부문 10대 가수상, 2010 서울 석세스 어워드 가수부문, 2020 MBC 방송연예대상 베스트 드레서상",
+    "summary": "2005-08-02 1집 「첫 출연」으로 데뷔한 코믹 콘셉트의 2인조. 대표곡은 「빨간날」 · 「고등어」 · 「멍멍이」 · 「사이다」 · 「샤워」 · 「자블라니 잡아라」(2010 월드컵 송)",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EB%85%B8%EB%9D%BC%EC%A1%B0",
+     "https://www.wikidata.org/wiki/Q9050614",
+     "https://en.wikipedia.org/wiki/Norazo",
+     "https://news.tf.co.kr/read/ogmeta/1738960.htm"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q9050614",
+   "links": [
+    {
+     "id": "5d8aaefd-488c-4b6f-8380-0f9724169f55",
+     "category": "허브",
+     "name": "한국 가수",
+     "rel": "IS_A"
+    }
+   ],
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "154cf522-5542-495f-8039-32db0d1efec3",
+   "name": "사내종합문화센터",
+   "category": "장소",
+   "alias": "사내면 종합문화센터, 화천 사내종합문화센터",
+   "disambig": "강원 화천군 사내면 사창리의 문화시설",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "문화시설",
+    "name_ko": "사내종합문화센터",
+    "address": "강원특별자치도 화천군 사내면 수피령로 71 (사창리 431)",
+    "summary": "화천군 사내면 사창리의 종합문화센터. 2026-07 화천토마토축제 기본계획 보고회, 2026-11-12~13 화천군 · 육군 제15보병사단의 「2026 15사단 승리 페스티벌」(주차장 무대)이 열렸다",
+    "sources": [
+     "https://www.ajunews.com/view/20261113094319172",
+     "https://www.ajunews.com/view/20260716102241498",
+     "https://tools.devcomma.com/tools/public-toilet-finder/%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84/%ED%99%94%EC%B2%9C%EA%B5%B0"
+    ]
+   },
+   "source_url": "https://www.ajunews.com/view/20261113094319172",
+   "links": [
+    {
+     "id": "1b710daa-9c69-4abe-9c69-4ac94361a031",
+     "category": "장소",
+     "name": "사내면",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "d386381c-b70b-45d0-8950-9bd30e60bdf5",
+   "name": "신한대학교 의정부캠퍼스",
+   "category": "장소",
+   "alias": "신한대 의정부캠퍼스, 신한대학교 제1캠퍼스, 신한대학교 체육관, Shinhan University Uijeongbu Campus, 옛 신흥대학교",
+   "disambig": "경기 의정부시 호원동의 신한대학교 제1캠퍼스",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "건물·시설",
+    "address": "경기도 의정부시 호암로 95 (호원동)",
+    "opened_date": "1972-03",
+    "operator": "학교법인 신흥학원",
+    "website": "https://www.shinhan.ac.kr/",
+    "summary": "신한대학교 제1캠퍼스(법적 본교는 동두천캠퍼스). 1972-03 신흥보건전문학교로 개교한 옛 신흥대학교 자리로, 2013년 한북대학교와 통합해 2014-01 신한대학교가 됐다. 캠퍼스 체육관에서 의정부시 「푸른별콘서트」가 열린다",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%8B%A0%ED%95%9C%EB%8C%80%ED%95%99%EA%B5%90",
+     "https://www.wikidata.org/wiki/Q16097602",
+     "https://www.kyeongin.com/article/1755637"
+    ]
+   },
+   "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%ED%95%9C%EB%8C%80%ED%95%99%EA%B5%90",
+   "links": [
+    {
+     "id": "968fa806-a4b5-4c9d-b470-56c2d2dcfb21",
+     "category": "장소",
+     "name": "호원동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "5c1cfdc4-47b0-470a-9048-867da14e11a7",
+   "name": "예스24 라이브홀",
+   "category": "장소",
+   "alias": "YES24 라이브홀, 예스24라이브홀, YES24 LIVE HALL, Yes24 Live Hall, 악스홀, 악스코리아, AX-KOREA, 서울악스, SEOUL-AX, 멜론악스, MELON-AX, 유니클로악스, UNIQLO-AX",
+   "disambig": "서울 광진구 광장동의 공연장(옛 악스코리아)",
+   "country_tags": [
+    "Korea"
+   ],
+   "fields": {
+    "place_type": "문화시설",
+    "name_ko": "예스24 라이브홀",
+    "name_en": "YES24 LIVE HALL",
+    "address": "서울특별시 광진구 구천면로 20 (광장동)",
+    "address_en": "20 Gucheonmyeon-ro, Gwangjin-gu, Seoul",
+    "phone": "070-5001-4532",
+    "capacity": "스탠딩 2,500명 · 좌석 1,090석",
+    "opened_date": "2006-06-02",
+    "operator": "예스24",
+    "website": "http://yes24livehall.co.kr/",
+    "summary": "2006-06-02 「서울악스」로 문을 연 공연장. 멜론악스 · 악스코리아(2010-01) · 유니클로악스(2012-12) · 악스코리아(2014-02)를 거쳐 2015-06 예스24가 맡으며 지금 이름이 됐다. 지번 광장동 319-33",
+    "sources": [
+     "https://ko.wikipedia.org/wiki/%EC%98%88%EC%8A%A424_%EB%9D%BC%EC%9D%B4%EB%B8%8C%ED%99%80",
+     "https://www.wikidata.org/wiki/Q12605513",
+     "https://world.nol.com/pois/08b06edc-92ab-41df-8a1c-61893f3866c4",
+     "https://www.koreatriptips.com/ja/cultural-facilities/3491154.html"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q12605513",
+   "links": [
+    {
+     "id": "27281750-9449-46aa-8874-323b79f7d163",
+     "category": "장소",
+     "name": "광장동",
+     "rel": "LOCATED_IN"
+    }
+   ],
+   "added_at": "2026-11-27T04:06:21.100965+00:00"
+  },
+  {
+   "id": "b8acdd84-6827-433a-abe7-e6d4d31892db",
+   "name": "Apple 제품",
+   "category": "허브",
+   "alias": "Apple Products, 애플 제품",
+   "disambig": "Apple의 제품",
+   "country_tags": [
+    "United States"
+   ],
+   "fields": {
+    "hub_type": "제품",
+    "hub_parent": "Apple",
+    "hub_parent_id": "a99fdc75-b250-4d63-b983-9d593b990b0d",
+    "sources": [
+     "https://www.wikidata.org/wiki/Q312"
+    ]
+   },
+   "source_url": "https://www.wikidata.org/wiki/Q312",
+   "links": [
+    {
+     "id": "a99fdc75-b250-4d63-b983-9d593b990b0d",
+     "category": "단체",
+     "name": "Apple",
+     "rel": "PART_OF"
+    }
+   ],
+   "added_at": "2026-11-27T06:45:46.187460+00:00"
   }
  ],
  "bulk_added": []
